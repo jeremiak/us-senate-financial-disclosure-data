@@ -1,0 +1,1255 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: 
+	Annual Report for 2015 -
+	
+		Klobuchar,
+	
+	
+		Amy 
+	
+
+	
+		J
+	
+</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+	<style type="text/css">
+		.txtLogo {
+			display: none;
+		}
+	</style>
+
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+	<style type="text/css">
+		.navbar-nav {
+			display: none;
+		}
+	</style>
+	<strong class="d-print-none return-search">
+		Return to the search tab to select another report.
+	</strong>
+	<div class="justify-content-between">
+		<div>
+			<h1 class="mb-2">
+				
+					Annual
+				
+					Report for
+				
+				Calendar 2015 
+				
+				
+			</h1>
+			<h2 class="filedReport">
+				
+					The Honorable
+				
+
+				
+					Amy 
+				
+
+				
+					J
+				
+
+				
+					Klobuchar
+				
+
+				
+
+				
+					
+						(Klobuchar, Amy)
+					
+				
+			</h2>
+			
+			<p class="muted font-weight-bold">
+				<i class="fa fa-folder-open"></i>
+				Filed 05/15/2016 @ 10:37 AM
+			</p>
+		</div>
+		<div>
+            <span class="d-print-none">
+                <a href="javascript:window.print()" class="btn btn-primary"><i class="fa fa-print mr-1" aria-hidden="true"></i> Print Report</a>
+            </span>
+		</div>
+	</div>
+
+	<hr>
+
+	<p>The following statements were checked before filing:</p>
+
+	<div class="mb-4">
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+			I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+		</label>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+			I understand that reports cannot be edited once filed. To make corrections, I will submit an
+			<em>electronic</em> amendment to this report.
+		</label>
+		<hr>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_omitted_assets" disabled="disabled" class="form-check-input">
+			I
+			<em>omitted</em> assets because they meet the three-part test for exemption.
+		</label>
+	</div>
+
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+				
+			</h3>
+			<p>
+				Did any individual or organization pay you or your spouse more than $200 or donate any amount to a charity on your behalf, for an article, speech, or appearance?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of honoraria added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Activity</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Who Paid?</th>
+						<th scope="col">Who received payment?</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								06/02/2015
+							</td>
+							<td>Article</td>
+							<td>$350.00</td>
+							<td>
+								Italian America Magazine (check issued by publisher, The Order Sons of Italy in America)
+								<div class="muted">Washington, DC</div>
+							</td>
+							<td>Spouse</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 2. Earned and Non-Investment Income
+				
+			</h3>
+			<p>
+				Did you or your spouse have reportable earned income or non-investment income?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of payments added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Who Was Paid</th>
+						<th scope="col">Type</th>
+						<th scope="col">Who Paid</th>
+						<th scope="col">Amount Paid</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Salary
+								
+								
+							</td>
+							<td>
+								State of Maryland (University of Baltimore)<br>
+								<div class="muted">Annapolis, MD</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Salary
+								
+								
+							</td>
+							<td>
+								Georgetown University<br>
+								<div class="muted">Washington, DC</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Salary
+								
+								
+							</td>
+							<td>
+								Rutgers University (The State University of New Jersey)<br>
+								<div class="muted">Piscataway, NJ</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>
+								Self
+
+							</td>
+							<td>
+								Royalties
+								
+								
+							</td>
+							<td>
+								Macmillan Holdings, LLC (d/b/a Macmillan)<br>
+								<div class="muted">New York, NY</div>
+							</td>
+							
+								<td>$75,000.00</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Royalties
+								
+								
+							</td>
+							<td>
+								Carolina Academic Press<br>
+								<div class="muted">Durham, NC</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 3. Assets
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child own any asset worth more than $1000, have a deposit account with a balance over $5,000, or receive income of more than $200 from an asset?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table id="grid_items" class="table dataTable">
+					<caption class="sr-only">List of assets added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">Asset</th>
+						<th scope="col">Asset Type</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Value</th>
+						<th scope="col">Income Type</th>
+						<th scope="col">Income</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>1</td>
+							<td class="span4"><strong class="marginit-right">QCBMIX - CREF Bond Market Account - R3</strong><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">Deferred Compensation</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2</td>
+							<td class="span4"><strong class="marginit-right">TCLFX - TIAA-CREF Lifecycle 2025 Retirement</strong><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">Deferred Compensation</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3</td>
+							<td class="span4"><strong>United States Senate Federal Credit Union</strong><div class="muted noWrap">(Washington, DC)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, IRA Cash Accounts, Savings, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>4</td>
+							<td class="span4"><strong class="marginit-right">UNASX - Waddell &amp; Reed Asset Strategy A</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, Excepted Investment Fund, </td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5</td>
+							<td class="span4"><strong>Wells Fargo</strong><div class="muted noWrap">(Minneapolis, MN)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6</td>
+							<td class="span4"><strong>TruStone Financial</strong><div class="muted noWrap">(Minneapolis, MN)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, IRA Cash Accounts, Money Market Account, Savings, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7</td>
+							<td class="span4"><strong class="marginit-right">Select Bond (MSA/Wells Capital Management Inc.)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8</td>
+							<td class="span4"><strong class="marginit-right">International Equity (MSA/Franklin Tmpl)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9</td>
+							<td class="span4"><strong class="marginit-right">Index 500 Stock (MSA)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10</td>
+							<td class="span4"><strong class="marginit-right">Mid Cap Growth Stock (MSA/William Blair and Co.)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11</td>
+							<td class="span4"><strong class="marginit-right">High Yield Bond (MSA/Federated Invest. Mgmt. Co.)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12</td>
+							<td class="span4"><strong class="marginit-right">Small Cap Growth Stock (MSA/Wellington Management)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13</td>
+							<td class="span4"><strong class="marginit-right">Russell Multi-Style Equity</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14</td>
+							<td class="span4"><strong class="marginit-right">Russell Non-US</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15</td>
+							<td class="span4"><strong class="marginit-right">Small Cap Value (MSA/T Rowe Price)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16</td>
+							<td class="span4"><strong class="marginit-right">Mid Cap Value (MSA/American Century)</strong><div class="muted"></div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>17</td>
+							<td class="span4"><strong>Bank of America</strong><div class="muted noWrap">(Arlington, VA)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Investments IRA</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18.1</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Adv Balanced</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18.2</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Adv Growth Opportunity</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18.3</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Adv Overseas</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18.4</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Adv Equity Income</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18.5</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Adv Equity Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18.6</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Adv Limited Term Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>19</td>
+							<td class="span4"><strong class="marginit-right">Vanguard(R) Small-Cap Index Fund-Institutional (457(b) Plan)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20</td>
+							<td class="span4"><strong class="marginit-right">Vanguard(R) Small-Cap Index Fund-Institutional (401(k) Plan)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21</td>
+							<td class="span4"><strong class="marginit-right">Guggenheim Investments - Investment Grade Bond-C</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.1</td>
+							<td class="span4"><strong class="marginit-right">Minnesota College Savings Plan</strong><div class="muted"><em>Filer comment:  </em>The assets of the 529 College Savings Plan, the mutual funds of which were reported on the 2014 Annual Report, were liquidated in 2015, leaving a zero balance. </div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Child</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4a. Periodic Transaction Report Summary
+				
+			</h3>
+			<p>
+				In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.  Have you filed any paper-based PTRs in this period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4b. Transactions
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child buy, sell, or exchange an asset that exceeded $1,000?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Transaction Type</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>Child</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    MN College Savings Plan - Managed Allocation Option Ages 18+ (Investment Option 2294)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>07/06/2015</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Liquidation of assets in MN College Savings Plan (funds previously reported on 2014 Annual Report)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=QCBMRX" target="_blank">QCBMRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    CREF Bond Market Account - R1
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/24/2015</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Transfer of funds from CREF Bond Market R1 to CREF Bond Market R3</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=QCBMIX" target="_blank">QCBMIX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    CREF Bond Market Account - R3
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/24/2015</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Transfer of funds from CREF Bond Market R1 to CREF Bond Market R3</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard(R) Small Cap Growth Index Inst. (Spouse - 457(b) Plan)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/18/2015</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								Shares replaced with ones from Vanguard(R) Small-Cap Index Fund-Institutional</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard(R) Small-Cap Index Fund-Institutional shares (Spouse - 457(b) Plan)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/18/2015</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								Substitution for Vanguard(R) Small Cap Growth Index Inst. shares</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard(R) Small Cap Growth Index Inst. (Spouse - 401(k) Plan)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/19/2015</td>
+							<td>$100,001 - $250,000</td>
+							<td>
+								Shares replaced with ones from Vanguard(R) Small-Cap Index Fund-Institutional</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard (R) Small-Cap Index Fund-Institutional Shares (Spouse - 401(k) Plan)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/19/2015</td>
+							<td>$100,001 - $250,000</td>
+							<td>
+								Substitution for Vanguard(R) Small Cap Growth Index Inst. shares</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 5. Gifts
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 6. Travel
+				
+			</h3>
+			<p class="popover0">
+				Did you, your spouse, or dependent child receive any <button data-toggle="popover" type="button" aria-haspopup="true" data-html="true" data-title="When is travel reportable? <button type='button' tabindex='0' id='jsPopoverClose' aria-label='close' class='close'><i class='fa fa-times' aria-hidden='true'><span class='sr-only'>Close</span></i></button>" data-template="<div class=&quot;popover popover__fixMedium&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header&quot;></h3><div class=&quot;popover-body&quot;></div></div>" class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="<p>If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $350, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $350.</p>" data-original-title="" title="">reportable travel</button>?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 7. Liabilities
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child have a reportable liability worth more than $10,000 at any time?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 8. Positions
+				
+			</h3>
+			<p>
+				Did you hold any outside positions during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 9. Agreements
+				
+			</h3>
+			<p>
+				Did you have any reportable agreement or arrangement with an outside entity?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of agreements or arrangements added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Parties Involved</th>
+						<th scope="col">Type</th>
+						<th scope="col">Status and Terms</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Apr 1986
+							</td>
+							<td>
+								Waveland Press, Inc.
+								<div class="muted">Long Grove, IL</div>
+							</td>
+							<td>Royalty Agreement
+								
+							</td>
+							<td>Publishing agreement with Waveland Press, Inc. to receive book royalties consistent with usual and customary publishing terms.  Waveland Press, Inc. continues to publish, and to periodically distribute royalties for, the book "Uncovering the Dome," written by Amy Klobuchar.  The royalty rate is 15% per copy for college and Amazon sales.</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								Feb 2015
+							</td>
+							<td>
+								Henry Holt and Company, LLC (Publisher) and N. S. Bienstock, Inc. (Author's Agent)
+								<div class="muted">New York, NY</div>
+							</td>
+							<td>Royalty Agreement
+								
+							</td>
+							<td>Publishing agreement with Henry Holt and Company, LLC (Henry Holt) to receive book royalties consistent with usual and customary publishing terms. In August 2015 Henry Holt published “The Senator Next Door: A Memoir from the Heartland” by Amy Klobuchar. The payment/book royalties are reported elsewhere on this report.</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 10. Compensation
+				
+			</h3>
+			<p>
+				<strong>If this is your first report, or you are a candidate</strong> did you receive compensation of more than $5,000 from a single source in the <strong>two</strong> prior years? 
+				<strong>
+					
+						This is not my first report.
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Attachments &amp; Comments
+				
+			</h3>
+
+			
+				<h4 class="h5">Attachments</h4>
+				<div class="table-responsive">
+					<table class="table table-striped">
+						<caption class="sr-only">List of supporting documents for this report.</caption>
+						<thead>
+						<tr class="header">
+							<th scope="col">Document Title</th>
+							<th scope="col">Date/Time Added</th>
+						</tr>
+						</thead>
+						<tbody>
+						
+							<tr class="nowrap">
+								<td>
+									<a href="https://electronic-financial-disclosure.s3.amazonaws.com/production/Klobuchar-Amy%20-901/2015/19291362-2fad-4dde-94de-96399cd5029b/9208ee5b-4bb5-4ac9-b9ce-4075cc729be0.pdf?AWSAccessKeyId=AKIAIL7OIS64Y5R67EXA&amp;Signature=taxV4pwf%2FFEgeYgQ2BJMRuMWRDA%3D&amp;Expires=1585527558" target="_blank">2015 Report_Amy Klobuchar Supplement to Report (Spouse 401(k) Plan Contributions).pdf</a>
+								</td>
+								<td>05/11/2016 @ 12:41 AM</td>
+							</tr>
+						
+							<tr class="nowrap">
+								<td>
+									<a href="https://electronic-financial-disclosure.s3.amazonaws.com/production/Klobuchar-Amy%20-901/2015/19291362-2fad-4dde-94de-96399cd5029b/1b3ae565-9110-428a-a073-1769d614bda5.pdf?AWSAccessKeyId=AKIAIL7OIS64Y5R67EXA&amp;Signature=yS9jcNkRQe2Bgmht6dJe7%2B0KMXU%3D&amp;Expires=1585527558" target="_blank">2015 Report_Amy Klobuchar Supplement to Report (Spouse 457(B)) Plan Contributions).pdf</a>
+								</td>
+								<td>05/11/2016 @ 12:16 AM</td>
+							</tr>
+						
+							<tr class="nowrap">
+								<td>
+									<a href="https://electronic-financial-disclosure.s3.amazonaws.com/production/Klobuchar-Amy%20-901/2015/19291362-2fad-4dde-94de-96399cd5029b/fcd87d1a-5b39-46c9-b032-80af6461ddb4.pdf?AWSAccessKeyId=AKIAIL7OIS64Y5R67EXA&amp;Signature=t74FgIUEazVc1mioaKJMopLEeA0%3D&amp;Expires=1585527558" target="_blank">2015 Report_Amy Klobuchar Supplement to Report (Northwestern Mutual Variable Life Insurance Contributions).pdf</a>
+								</td>
+								<td>05/11/2016 @ 12:01 AM</td>
+							</tr>
+						
+							<tr class="nowrap">
+								<td>
+									<a href="https://electronic-financial-disclosure.s3.amazonaws.com/production/Klobuchar-Amy%20-901/2015/19291362-2fad-4dde-94de-96399cd5029b/57500e90-b06c-44fa-b255-cec67be0fd9b.pdf?AWSAccessKeyId=AKIAIL7OIS64Y5R67EXA&amp;Signature=I1DH6QXJlBq8bV4Cze7pXjFj6K4%3D&amp;Expires=1585527558" target="_blank">2015 Report_Amy Klobuchar Supplement to Report (MD Optional Retirement Plan Contributions).pdf</a>
+								</td>
+								<td>05/10/2016 @ 11:59 PM</td>
+							</tr>
+						
+						</tbody>
+					</table>
+				</div>
+			
+
+			
+				<br>
+				<em class="text-muted">No comments added.</em>
+			
+		</div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

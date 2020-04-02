@@ -1,0 +1,1745 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: 
+	Annual Report for 2014 -
+	
+		Casey,
+	
+	
+		Robert
+	
+
+	
+		P
+	
+</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+	<style type="text/css">
+		.txtLogo {
+			display: none;
+		}
+	</style>
+
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+	<style type="text/css">
+		.navbar-nav {
+			display: none;
+		}
+	</style>
+	<strong class="d-print-none return-search">
+		Return to the search tab to select another report.
+	</strong>
+	<div class="justify-content-between">
+		<div>
+			<h1 class="mb-2">
+				
+					Annual
+				
+					Report for
+				
+				Calendar 2014 
+				
+				
+			</h1>
+			<h2 class="filedReport">
+				
+					The Honorable
+				
+
+				
+					Robert
+				
+
+				
+					P
+				
+
+				
+					Casey
+				
+
+				
+					Jr.
+				
+
+				
+					
+						(Casey, Robert P. Jr.)
+					
+				
+			</h2>
+			
+			<p class="muted font-weight-bold">
+				<i class="fa fa-folder-open"></i>
+				Filed 05/15/2015 @ 11:18 AM
+			</p>
+		</div>
+		<div>
+            <span class="d-print-none">
+                <a href="javascript:window.print()" class="btn btn-primary"><i class="fa fa-print mr-1" aria-hidden="true"></i> Print Report</a>
+            </span>
+		</div>
+	</div>
+
+	<hr>
+
+	<p>The following statements were checked before filing:</p>
+
+	<div class="mb-4">
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+			I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+		</label>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+			I understand that reports cannot be edited once filed. To make corrections, I will submit an
+			<em>electronic</em> amendment to this report.
+		</label>
+		<hr>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_omitted_assets" disabled="disabled" class="form-check-input">
+			I
+			<em>omitted</em> assets because they meet the three-part test for exemption.
+		</label>
+	</div>
+
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+				
+			</h3>
+			<p>
+				Did any individual or organization pay you or your spouse more than $200 or donate any amount to a charity on your behalf, for an article, speech, or appearance?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of honoraria added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Activity</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Who Paid?</th>
+						<th scope="col">Who received payment?</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								02/08/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,050.00</td>
+							<td>
+								Jean Taddeo to Mother Teresa Catholic School
+								<div class="muted">Wayne, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								02/20/2014
+							</td>
+							<td>Appearance</td>
+							<td>$200.00</td>
+							<td>
+								Kathy Mayher to Kennett Area Community Service (Empty Bowls)
+								<div class="muted">Pittsburgh, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								02/23/2014
+							</td>
+							<td>Appearance</td>
+							<td>$650.00</td>
+							<td>
+								Scott Sterling to Camp Ramah
+								<div class="muted">Lafayette Hill, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>
+								03/01/2014
+							</td>
+							<td>Appearance</td>
+							<td>$450.00</td>
+							<td>
+								Osvaldo Correa to William M. Meredith Home &amp; School Association
+								<div class="muted">Philadelphia , Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>
+								03/01/2014
+							</td>
+							<td>Appearance</td>
+							<td>$340.00</td>
+							<td>
+								Eric Haron to The Children's Hospital of Philadelphia (Cheers for CHOP)
+								<div class="muted">Ferndale, Michigan</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>
+								03/07/2014
+							</td>
+							<td>Appearance</td>
+							<td>$100.00</td>
+							<td>
+								Karina Hirschfield to Science Leadership Academy
+								<div class="muted">Malvern, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>
+								03/08/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Matt Elsasser to Devon Elementary School
+								<div class="muted">Wayne, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>
+								03/15/2014
+							</td>
+							<td>Appearance</td>
+							<td>$150.00</td>
+							<td>
+								Peninah Berdugo to Congreso (Congreso Gala Latina)
+								<div class="muted">Wyncote, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$450.00</td>
+							<td>
+								Stephen McLinn to Harrisburg Christian School
+								<div class="muted">Harrisburg, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$2,000.00</td>
+							<td>
+								Tina Fox to Benchmark School
+								<div class="muted">Pennvalley, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								11</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$425.00</td>
+							<td>
+								Chris Urban to Julia R. Masterman School
+								<div class="muted">Elkins Park, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								12</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$400.00</td>
+							<td>
+								Barbara Rompala to West Chester Dance Works
+								<div class="muted">Elkins Park, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								13</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$350.00</td>
+							<td>
+								Gerald Mello to Legacy Youth Tennis &amp; Education
+								<div class="muted">Downington, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								14</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$60.00</td>
+							<td>
+								Tom Donovan to Boy Scout Troop 338
+								<div class="muted">Allison Park, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								15</td>
+							<td>
+								04/02/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Maury Bobst to Dining with Diakon for Youth Services
+								<div class="muted">York, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								16</td>
+							<td>
+								04/02/2014
+							</td>
+							<td>Appearance</td>
+							<td>$450.00</td>
+							<td>
+								Deborah Holt to Central PA Symphony
+								<div class="muted">Wexford, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								17</td>
+							<td>
+								04/02/2014
+							</td>
+							<td>Appearance</td>
+							<td>$480.00</td>
+							<td>
+								Mary Rose O'Connell to Magee Rehabilitation
+								<div class="muted">Delray Beach, Florida</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								18</td>
+							<td>
+								04/06/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,500.00</td>
+							<td>
+								Chad Barthol to Camphill Special School (Camphill Pro Am Gala)
+								<div class="muted">Exton, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								19</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$85.00</td>
+							<td>
+								Kate Smith to Brad Schoener Memorial Fund (Brad Schoener 5K Walk &amp; Run)
+								<div class="muted">Drexel Hill, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								20</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$754.00</td>
+							<td>
+								Jewelle Sutherland to Urban League of Philadelphia
+								<div class="muted">Mt. Laurel, New Jersey</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								21</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$275.00</td>
+							<td>
+								Ted Farmer to Drexel Middle School PTO
+								<div class="muted">Philadelphia , Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								22</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$250.00</td>
+							<td>
+								Nicole Warner to York Area Sportsmen for Youth
+								<div class="muted">New Freedom, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								23</td>
+							<td>
+								05/02/2014
+							</td>
+							<td>Appearance</td>
+							<td>$325.00</td>
+							<td>
+								Marc Duber to Terri Lynne Lokoff Child Care Fund
+								<div class="muted">Plymouth Meeting, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								24</td>
+							<td>
+								05/03/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,500.00</td>
+							<td>
+								Lisa Dempsey to United Cerebral Palsy of Philadelphia &amp; Vicinity
+								<div class="muted">Philadelphia, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								25</td>
+							<td>
+								05/17/2014
+							</td>
+							<td>Appearance</td>
+							<td>$700.00</td>
+							<td>
+								Fernando Torres to American Helicopter Museum &amp; Education Center
+								<div class="muted">Philadelphia, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								26</td>
+							<td>
+								05/17/2014
+							</td>
+							<td>Appearance</td>
+							<td>$525.00</td>
+							<td>
+								Elizabeth Wolf to York Rotary Club
+								<div class="muted">York, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								27</td>
+							<td>
+								05/20/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,452.00</td>
+							<td>
+								Laura Axt to Township of Spring Police Department 
+								<div class="muted">Reading, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								28</td>
+							<td>
+								05/31/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,750.00</td>
+							<td>
+								Zach Simpson to Lisa's Army 
+								<div class="muted">Paoli, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								29</td>
+							<td>
+								05/31/2014
+							</td>
+							<td>Appearance</td>
+							<td>$550.00</td>
+							<td>
+								Christy DiGilio to JDRF Eastern PA Chapter
+								<div class="muted">Mechanicsburg, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								30</td>
+							<td>
+								06/14/2014
+							</td>
+							<td>Appearance</td>
+							<td>$250.00</td>
+							<td>
+								Sharon Mills Higgins to March of Dimes Pennsylvania Chapter
+								<div class="muted">King of Prussia, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								31</td>
+							<td>
+								06/20/2014
+							</td>
+							<td>Appearance</td>
+							<td>$75.00</td>
+							<td>
+								Ronni Levine to Henrietta Szold Group of Hadassah
+								<div class="muted">Elkins Park, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								32</td>
+							<td>
+								06/21/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Deb Jessup to Jenkintown Day Nursery (Harvest Bowl Auction)
+								<div class="muted">Mountain Joy, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								33</td>
+							<td>
+								06/27/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,700.00</td>
+							<td>
+								Joe Tomko to Northeast Regional Cancer Institute (Spirit of Hope Celebration)
+								<div class="muted">Scranton, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								34</td>
+							<td>
+								08/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Randi L. Rubin to Legal Clinic for the Disabled (Fall Auction)
+								<div class="muted">Philadelphia, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								35</td>
+							<td>
+								08/27/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,125.00</td>
+							<td>
+								Kathi Mihok to Commonwealth Medical College (Annual Gala)
+								<div class="muted">Exeter, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								36</td>
+							<td>
+								09/06/2014
+							</td>
+							<td>Appearance</td>
+							<td>$650.00</td>
+							<td>
+								Chris Belleman to American Heart Association (2014 NEPA Heart Ball)
+								<div class="muted">Wilkes-Barre, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								37</td>
+							<td>
+								09/20/2014
+							</td>
+							<td>Appearance</td>
+							<td>$450.00</td>
+							<td>
+								Roy Schwartz to Garces Foundation
+								<div class="muted">Philadelphia , Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								38</td>
+							<td>
+								09/24/2014
+							</td>
+							<td>Appearance</td>
+							<td>$600.00</td>
+							<td>
+								Richard Salazar to Villanova University Greater Philadelphia Alumni Chapter
+								<div class="muted">Philadelphia, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								39</td>
+							<td>
+								09/24/2014
+							</td>
+							<td>Appearance</td>
+							<td>$450.00</td>
+							<td>
+								Clayton DeHaan to City of Philadelphia Mural Arts Program
+								<div class="muted">Philadelphia, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								40</td>
+							<td>
+								10/18/2014
+							</td>
+							<td>Appearance</td>
+							<td>$900.00</td>
+							<td>
+								Greg Cream to Philadelphia Bar Foundation
+								<div class="muted">Havertown, Pennsylvania</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 2. Earned and Non-Investment Income
+				
+			</h3>
+			<p>
+				Did you or your spouse have reportable earned income or non-investment income?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 3. Assets
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child own any asset worth more than $1000, have a deposit account with a balance over $5,000, or receive income of more than $200 from an asset?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table id="grid_items" class="table dataTable">
+					<caption class="sr-only">List of assets added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">Asset</th>
+						<th scope="col">Asset Type</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Value</th>
+						<th scope="col">Income Type</th>
+						<th scope="col">Income</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=FBGRX" target="_blank">FBGRX</a> - Fidelity Blue Chip Growth (NASDAQ)</strong><div class="muted"><em>Filer comment:  </em>Mutual fund.</div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=FBGRX" target="_blank">FBGRX</a> - Fidelity Blue Chip Growth (NASDAQ)</strong><div class="muted"><em>Filer comment:  </em>Mutual Fund</div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=FBGRX" target="_blank">FBGRX</a> - Fidelity Blue Chip Growth (NASDAQ)</strong><div class="muted"><em>Filer comment:  </em>Mutual Fund</div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>4</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Investments 529 Account</strong><div class="muted"><em>Institution:</em> Fidelity Investments</div><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Child</td>
+							<td></td>
+							<td>Excepted Investment Fund, </td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>4.1</td>
+							<td class="span4"><strong class="marginit-right">MA Moderate Growth Portfolio</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Child</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$15,001 - $50,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Investments 529 Account</strong><div class="muted"><em>Institution:</em> Fidelity Investments</div><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Filer comment:  </em>Value:  $2,501 and $5,000; Income $200(?)</div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Child</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.1</td>
+							<td class="span4"><strong class="marginit-right">MA Aggressive Growth Portfolio</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Child</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6</td>
+							<td class="span4"><strong class="marginit-right">Fidelity Investments 529 Account</strong><div class="muted"><em>Institution:</em> Fidelity Investments</div><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Child</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6.1</td>
+							<td class="span4"><strong class="marginit-right">MA Portfolio 2015</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Child</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=FE" target="_blank">FE</a> - FirstEnergy Corp. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=FE" target="_blank">FE</a> - FirstEnergy Corp. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9</td>
+							<td class="span4"><strong>First National Community Bank</strong><div class="muted noWrap">(Dunmore , Pennsylvania)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10</td>
+							<td class="span4"><strong>PA State Employees Credit Union</strong><div class="muted noWrap">(Harrisburg, Pennsylvania)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>None (or less than $1,001)</td>
+							<td>Dividends, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11</td>
+							<td class="span4"><strong>United States Senate Federal Credit Union</strong><div class="muted noWrap">(Washington, DC)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12</td>
+							<td class="span4"><strong class="marginit-right">Pennsylvania State Employees Retirement System</strong><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">Defined Benefit Pension Plan</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=JAFIX" target="_blank">JAFIX</a> - Janus Flexible Bond T (NASDAQ)</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Brokerage/Managed Account</td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14</td>
+							<td class="span4"><strong class="marginit-right">Now U</strong><div class="muted"><em>Institution:</em> Pennsylvania </div><div class="muted"><em>Filer comment:  </em>Guaranteed savings plan for pre-paid college credits.</div></td>
+							<td>Education Savings Plans<div class="muted">529 Prepaid Tuition</div></td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>None, Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15</td>
+							<td class="span4"><strong class="marginit-right">Now U</strong><div class="muted"><em>Institution:</em> Pennsylvania</div><div class="muted"><em>Filer comment:  </em>Guaranteed savings plan for pre-paid college credits.</div></td>
+							<td>Education Savings Plans<div class="muted">529 Prepaid Tuition</div></td>
+							<td>Child</td>
+							<td>$15,001 - $50,000</td>
+							<td>None, Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16</td>
+							<td class="span4"><strong>Ameriprise Insured</strong><div class="muted noWrap">(Minneapolis, MN)</div><div class="muted"><div class="muted"><em>Type: </em>Money Market Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$50,001 - $100,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>17</td>
+							<td class="span4"><strong>First National Community Bank</strong><div class="muted noWrap">(Dunmore, PA)</div><div class="muted"><div class="muted"><em>Type: </em>Savings, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Child</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18</td>
+							<td class="span4"><strong>First National Community Bank</strong><div class="muted noWrap">(Dunmore, PA)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Child</td>
+							<td>$1,001 - $15,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>19</td>
+							<td class="span4"><strong>First Community National Bank</strong><div class="muted noWrap">(Dunmore, PA)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4a. Periodic Transaction Report Summary
+				
+			</h3>
+			<p>
+				In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.  Have you filed any paper-based PTRs in this period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4b. Transactions
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child buy, sell, or exchange an asset that exceeded $1,000?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Transaction Type</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>Child</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    MA Moderate Growth
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/29/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								Insitution:  Fidelity Investments</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>Child</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    MA Moderate Growth
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/29/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								Institution: Fidelity Investments</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>Child</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    MA Moderate Growth
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>08/04/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Institution: Fidelity Investments</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>Child</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    MA Moderate Growth
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>12/19/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Institution: Fidelity Investments</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 5. Gifts
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 6. Travel
+				
+			</h3>
+			<p class="popover0">
+				Did you, your spouse, or dependent child receive any <button data-toggle="popover" type="button" aria-haspopup="true" data-html="true" data-title="When is travel reportable? <button type='button' tabindex='0' id='jsPopoverClose' aria-label='close' class='close'><i class='fa fa-times' aria-hidden='true'><span class='sr-only'>Close</span></i></button>" data-template="<div class=&quot;popover popover__fixMedium&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header&quot;></h3><div class=&quot;popover-body&quot;></div></div>" class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="<p>If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $350, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $350.</p>" data-original-title="" title="">reportable travel</button>?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 7. Liabilities
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child have a reportable liability worth more than $10,000 at any time?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of liabilities added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Incurred</th>
+						<th scope="col">Debtor</th>
+						<th scope="col">Type</th>
+						<th scope="col">Points</th>
+						<th scope="col">Rate<br>(Term)</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Creditor</th>
+						<th scope="col">Comments</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								2008
+							</td>
+							<td>Joint</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.250%<br>
+								
+														(30 years)
+								
+							</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								First National Community Bank
+								<div class="muted">Dumore, Pennsylvania</div>
+							</td>
+							<td>
+								Adjustable rate mortgage.</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								2008
+							</td>
+							<td>Joint</td>
+							<td>Home Equity Line of Credit
+								</td>
+							<td>
+								-</td>
+							<td>
+								5%<br>
+								
+														(20 years)
+								
+							</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								First National Community Bank
+								<div class="muted">Dumore, Pennsylvania</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								2014
+							</td>
+							<td>Joint</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.5%<br>
+								
+														(comes due 11/17/2026)
+								
+							</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Wayne Bank
+								<div class="muted">Honesdale, Pennsylvania</div>
+							</td>
+							<td>
+								Previously-reported Luzerne Bank loan re-financed.</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 8. Positions
+				
+			</h3>
+			<p>
+				Did you hold any outside positions during the reporting period?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of outside employment added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Position Dates</th>
+						<th scope="col">Position Held</th>
+						<th scope="col">Entity</th>
+						<th scope="col">Entity Type</th>
+						<th scope="col">Comments</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Nov 1988 to
+								present
+							</td>
+							<td>
+								Other
+								(Member)
+							</td>
+							<td>
+								Lackawanna County Bar Association
+								<div class="muted">
+									Scranton, Pennsylvania
+								</div>
+							</td>
+							<td>
+								Other
+								(Professional Association)
+							</td>
+							<td></td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 9. Agreements
+				
+			</h3>
+			<p>
+				Did you have any reportable agreement or arrangement with an outside entity?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of agreements or arrangements added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Parties Involved</th>
+						<th scope="col">Type</th>
+						<th scope="col">Status and Terms</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Jan 2002
+							</td>
+							<td>
+								Pennsylvania State Retirement System
+								<div class="muted">Harrisburg, Pennsylvania</div>
+							</td>
+							<td>Other
+								
+									<div class="muted">(pension plan)</div>
+							</td>
+							<td>I am a vested member of the state employee defined pension plan.</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 10. Compensation
+				
+			</h3>
+			<p>
+				<strong>If this is your first report, or you are a candidate</strong> did you receive compensation of more than $5,000 from a single source in the <strong>two</strong> prior years? 
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Attachments &amp; Comments
+				
+			</h3>
+
+			
+				<em class="muted">No attachments added.</em>
+			
+
+			
+				<h4 class="h5">Comments</h4>
+				The “appearances” listed in Part I, the section covering honoraria, reflect the donation of auction packets to charitable organizations.  The United States Senate Select Committee on Ethics now requires that these donations be reported as “appearances.”  
+			
+		</div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

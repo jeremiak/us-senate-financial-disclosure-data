@@ -1,0 +1,1991 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: 
+	Annual Report for 2016 -
+	
+		Shaheen,
+	
+	
+		Jeanne
+	
+
+	
+</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+	<style type="text/css">
+		.txtLogo {
+			display: none;
+		}
+	</style>
+
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+	<style type="text/css">
+		.navbar-nav {
+			display: none;
+		}
+	</style>
+	<strong class="d-print-none return-search">
+		Return to the search tab to select another report.
+	</strong>
+	<div class="justify-content-between">
+		<div>
+			<h1 class="mb-2">
+				
+					Annual
+				
+					Report for
+				
+				Calendar 2016 
+				
+				
+			</h1>
+			<h2 class="filedReport">
+				
+					The Honorable
+				
+
+				
+					Jeanne
+				
+
+				
+
+				
+					Shaheen
+				
+
+				
+
+				
+					
+						(Shaheen, Jeanne)
+					
+				
+			</h2>
+			
+			<p class="muted font-weight-bold">
+				<i class="fa fa-folder-open"></i>
+				Filed 05/18/2017 @ 5:25 PM
+			</p>
+		</div>
+		<div>
+            <span class="d-print-none">
+                <a href="javascript:window.print()" class="btn btn-primary"><i class="fa fa-print mr-1" aria-hidden="true"></i> Print Report</a>
+            </span>
+		</div>
+	</div>
+
+	<hr>
+
+	<p>The following statements were checked before filing:</p>
+
+	<div class="mb-4">
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+			I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+		</label>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+			I understand that reports cannot be edited once filed. To make corrections, I will submit an
+			<em>electronic</em> amendment to this report.
+		</label>
+		<hr>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_omitted_assets" disabled="disabled" class="form-check-input">
+			I
+			<em>omitted</em> assets because they meet the three-part test for exemption.
+		</label>
+	</div>
+
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+				
+			</h3>
+			<p>
+				Did any individual or organization pay you or your spouse more than $200 or donate any amount to a charity on your behalf, for an article, speech, or appearance?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 2. Earned and Non-Investment Income
+				
+			</h3>
+			<p>
+				Did you or your spouse have reportable earned income or non-investment income?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of payments added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Who Was Paid</th>
+						<th scope="col">Type</th>
+						<th scope="col">Who Paid</th>
+						<th scope="col">Amount Paid</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Salary
+								
+								
+							</td>
+							<td>
+								Shaheen &amp; Gordon<br>
+								<div class="muted">Dover, NH</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Pension
+								
+								
+							</td>
+							<td>
+								NH Retirement System<br>
+								<div class="muted">Concord, NH</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Retirement
+								
+								
+							</td>
+							<td>
+								Shaheen &amp; Gordon 401(K) plan<br>
+								<div class="muted">Concord, NH</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 3. Assets
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child own any asset worth more than $1000, have a deposit account with a balance over $5,000, or receive income of more than $200 from an asset?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table id="grid_items" class="table dataTable">
+					<caption class="sr-only">List of assets added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">Asset</th>
+						<th scope="col">Asset Type</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Value</th>
+						<th scope="col">Income Type</th>
+						<th scope="col">Income</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>1</td>
+							<td class="span4"><strong>Peoples United Bank Checking</strong><div class="muted noWrap">(Durham, NH)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2</td>
+							<td class="span4"><strong>Centennial Bank</strong><div class="muted noWrap">(Centennial, CO)</div><div class="muted"><div class="muted"><em>Type: </em>Money Market Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3</td>
+							<td class="span4"><strong>Citizens Bank</strong><div class="muted noWrap">(Dover, NH)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>4</td>
+							<td class="span4"><strong>Citizens Bank</strong><div class="muted noWrap">(Dover, NH)</div><div class="muted"><div class="muted"><em>Type: </em>Money Market Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5</td>
+							<td class="span4"><strong class="marginit-right">Shaheen &amp; Gordon, P.A, 401K Profit Sharing Plan</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=RLBGX" target="_blank">RLBGX</a> - American Funds American Balanced R6 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=GWETX" target="_blank">GWETX</a> - AMG GW&amp;K Small Cap Core Inv (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CSRIX" target="_blank">CSRIX</a> - Cohen &amp; Steers Instl Realty Shares (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=TVRRX" target="_blank">TVRRX</a> - Thornburg Value R5 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PCRIX" target="_blank">PCRIX</a> - PIMCO Commodity Real Ret Strat Instl (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PTTRX" target="_blank">PTTRX</a> - PIMCO Total Return Instl (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VIPSX" target="_blank">VIPSX</a> - Vanguard Inflation-Protected Secs Inv (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6</td>
+							<td class="span4"><strong class="marginit-right">Real property at 107 Storrs Street, Concord, NH</strong><div class="muted"><em>Company:</em> 107 Storrs Street, LLC (Concord, NH)&nbsp;<em>Description:</em>&nbsp;Owns commercial rental real property&nbsp;<em>Filer comment:  </em>Mr. Shaheen has a 1/10 interest</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$15,001 - $50,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7</td>
+							<td class="span4"><strong class="marginit-right">Real property in Manchester, NH</strong><div class="muted"><em>Company:</em> Diogenes Realty, LLC (Manchester, NH)&nbsp;<em>Description:</em>&nbsp;Owns commercial rental real property (80 Merrimack Street)&nbsp;<em>Filer comment:  </em>Mr. Shaheen has a 1/13 interest</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8</td>
+							<td class="span4"><strong class="marginit-right">Shaheen &amp; Gordon, PA</strong><div class="muted"><em>Filer comment:  </em>This is Mr. Shaheen's law firm. He owns 13 shares. It is organized as a C corp</div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$250,001 - $500,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9</td>
+							<td class="span4"><strong class="marginit-right">Promissory Note</strong><div class="muted"><em>Company:</em> Shaheen &amp; Gordon, P.A. (Dover, NH)&nbsp;</div></td>
+							<td>Accounts Receivable<div class="muted">From a Business</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Interest, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10</td>
+							<td class="span4"><strong class="marginit-right">Promissory note</strong><div class="muted"><em>Debtor:</em> John Rowland&nbsp;</div></td>
+							<td>Accounts Receivable<div class="muted">From an Individual</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11</td>
+							<td class="span4"><strong class="marginit-right">Shaheen Enterprises, LLC</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Company:</em> Shaheen Enterprises, LLC (Dover, NH)&nbsp;<em>Description:</em>&nbsp;Holding company&nbsp;</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.1</td>
+							<td class="span4"><strong class="marginit-right">Route 125 Associates, LLC</strong><div class="muted"><em>Company:</em> Route 125 Associates, LLC (Dover , NH)&nbsp;<em>Description:</em>&nbsp;Commercial rental real property&nbsp;<em>Filer comment:  </em>Shaheen Enterprises, LLC has a 1/2 interest</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$500,001 - $1,000,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.2</td>
+							<td class="span4"><strong>Citizens Bank</strong><div class="muted noWrap">(Dover, NH)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.3</td>
+							<td class="span4"><strong class="marginit-right">903 Central Ave, Dover NH</strong><div class="muted"><em>Company:</em> 903 Central Ave. Associates, LLC (Dover, NH)&nbsp;<em>Description:</em>&nbsp;Owns commercial rental real property&nbsp;<em>Filer comment:  </em>Shaheen Enterprises, LLC has a 1/2 interest</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.4</td>
+							<td class="span4"><strong class="marginit-right">Atlas-Heritage Title Company</strong><div class="muted"><em>Company:</em> Atlas-Heritage Title Co., LLC (Dover, NH)&nbsp;<em>Description:</em>&nbsp;Title services&nbsp;<em>Filer comment:  </em>Shaheen Enterprises LLC has had a ½ interest in this asset.</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Other, (Distribution)</td>
+							<td>$100,001 - $1,000,000<br>Other $200,000.00</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.5</td>
+							<td class="span4"><strong class="marginit-right">Property at 115 W. Main St, Conway NH</strong><div class="muted"><em>Description:</em> Residential real property (Conway, NH)&nbsp;</div></td>
+							<td>Real Estate<div class="muted">Residential</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.6</td>
+							<td class="span4"><strong class="marginit-right">The Salon, LLC</strong><div class="muted"><em>Company:</em> The Salon, LLC (Dover, NH)&nbsp;<em>Description:</em>&nbsp;Beauty salon&nbsp;<em>Filer comment:  </em>Shaheen Enterprises, LLC has a 1/2 interest in The Salon</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.7</td>
+							<td class="span4"><strong class="marginit-right">228 Route 108</strong><div class="muted"><em>Description:</em> Commercial real estate (Somersworth, NH)&nbsp;</div></td>
+							<td>Real Estate<div class="muted">Commercial</div></td>
+							<td>Spouse</td>
+							<td>$500,001 - $1,000,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$15,001 - $50,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.8</td>
+							<td class="span4"><strong class="marginit-right">Eco-Burner, LLC</strong><div class="muted"><em>Company:</em> Eco-Burner, LLC (Barrington, NH)&nbsp;<em>Description:</em>&nbsp;Developing an environmental oil burner&nbsp;</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$250,001 - $500,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.9</td>
+							<td class="span4"><strong class="marginit-right">174 Farmington Rd. LLC</strong><div class="muted"><em>Description:</em> Commercial Real Estate Property (Farmington , NH)&nbsp;<em>Filer comment:  </em>Spouse owns 17%</div></td>
+							<td>Real Estate<div class="muted">Commercial</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.10</td>
+							<td class="span4"><strong class="marginit-right">76 Perkins Road</strong><div class="muted"><em>Description:</em> 76 Perkins Road (Madbury, NH)&nbsp;</div></td>
+							<td>Real Estate<div class="muted">Residential</div></td>
+							<td>Spouse</td>
+							<td>$250,001 - $500,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12</td>
+							<td class="span4"><strong class="marginit-right">10 Railroad Avenue </strong><div class="muted"><em>Description:</em> Commercial real estate (York, ME)&nbsp;<em>Filer comment:  </em>Appeared in 2014 report as Land and Building, York, ME</div></td>
+							<td>Real Estate<div class="muted">Commercial</div></td>
+							<td>Spouse</td>
+							<td>$500,001 - $1,000,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13</td>
+							<td class="span4"><strong class="marginit-right">Promissory Note</strong><div class="muted"><em>Debtor:</em> Ansel Grandmaison&nbsp;</div></td>
+							<td>Accounts Receivable<div class="muted">From an Individual</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14</td>
+							<td class="span4"><strong class="marginit-right">Promissory Note</strong><div class="muted"><em>Debtor:</em> Kevin Slattery&nbsp;</div></td>
+							<td>Accounts Receivable<div class="muted">From an Individual</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15</td>
+							<td class="span4"><strong class="marginit-right">Trela Associates, LLC</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Company:</em> Trela Associates, LLC (Dover, NH)&nbsp;<em>Description:</em>&nbsp;Owns commerical real estate &nbsp;</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15.1</td>
+							<td class="span4"><strong class="marginit-right">140 Washington Street</strong><div class="muted"><em>Description:</em> Commercial real estate (Dover, NH)&nbsp;</div></td>
+							<td>Real Estate<div class="muted">Commercial</div></td>
+							<td>Spouse</td>
+							<td>Over $1,000,000 and held independently by spouse or dependent child</td>
+							<td>Rent/Royalties, </td>
+							<td>$50,001 - $100,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15.2</td>
+							<td class="span4"><strong class="marginit-right">6-8 Atkinson Street</strong><div class="muted"><em>Description:</em> Commercial rental property (Dover, NH)&nbsp;</div></td>
+							<td>Real Estate<div class="muted">Commercial</div></td>
+							<td>Spouse</td>
+							<td>$100,001 - $250,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$15,001 - $50,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16</td>
+							<td class="span4"><strong class="marginit-right">4 Railroad Ave. </strong><div class="muted"><em>Description:</em> 4 Railroad Ave (York Beach , ME)&nbsp;</div></td>
+							<td>Real Estate<div class="muted">Commercial</div></td>
+							<td>Spouse</td>
+							<td>$250,001 - $500,000</td>
+							<td>Rent/Royalties, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>17</td>
+							<td class="span4"><strong class="marginit-right">Kearsarge Project </strong><div class="muted"><em>Description:</em> Condo, Residential, Commercial (York Beach, ME)&nbsp;<em>Filer comment:  </em>Spouse has 10% ownership </div></td>
+							<td>Real Estate<div class="muted">Residential</div></td>
+							<td>Spouse</td>
+							<td>$250,001 - $500,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4a. Periodic Transaction Report Summary
+				
+			</h3>
+			<p>
+				In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.  Have you filed any paper-based PTRs in this period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4b. Transactions
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child buy, sell, or exchange an asset that exceeded $1,000?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Transaction Type</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    76 Perkins Road, Madbury, NH
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/22/2016</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RLBGX" target="_blank">RLBGX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds American Balanced R6
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RLBGX" target="_blank">RLBGX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds American Balanced R6
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=GWETX" target="_blank">GWETX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    AMG GW&amp;K Small Cap Core N
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=GWETX" target="_blank">GWETX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    AMG GW&amp;K Small Cap Core N
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=TVRRX" target="_blank">TVRRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Thornburg Value R5
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=TVRRX" target="_blank">TVRRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Thornburg Value R5
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PTTRX" target="_blank">PTTRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PIMCO Total Return Instl
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PTTRX" target="_blank">PTTRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PIMCO Total Return Instl
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VIPSX" target="_blank">VIPSX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Inflation-Protected Secs Inv
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								11</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VIPSX" target="_blank">VIPSX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Inflation-Protected Secs Inv
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>03/31/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								12</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RLBGX" target="_blank">RLBGX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds American Balanced R6
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								13</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=GWETX" target="_blank">GWETX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    AMG GW&amp;K Small Cap Core N
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								14</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=TVRRX" target="_blank">TVRRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Thornburg Value R5
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								15</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PTTRX" target="_blank">PTTRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PIMCO Total Return Instl
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								16</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VIPSX" target="_blank">VIPSX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Inflation-Protected Secs Inv
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								17</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RLBGX" target="_blank">RLBGX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds American Balanced R6
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								18</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RLBGX" target="_blank">RLBGX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds American Balanced R6
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								19</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=GWETX" target="_blank">GWETX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    AMG GW&amp;K Small Cap Core N
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								20</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CSRIX" target="_blank">CSRIX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Cohen &amp; Steers Instl Realty Shares
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								21</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=TVRRX" target="_blank">TVRRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Thornburg Value R5
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								22</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PCRIX" target="_blank">PCRIX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PIMCO Commodity Real Ret Strat Instl
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								23</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PTTRX" target="_blank">PTTRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PIMCO Total Return Instl
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								24</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VIPSX" target="_blank">VIPSX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Inflation-Protected Secs Inv
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/30/2016</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 5. Gifts
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 6. Travel
+				
+			</h3>
+			<p class="popover0">
+				Did you, your spouse, or dependent child receive any <button data-toggle="popover" type="button" aria-haspopup="true" data-html="true" data-title="When is travel reportable? <button type='button' tabindex='0' id='jsPopoverClose' aria-label='close' class='close'><i class='fa fa-times' aria-hidden='true'><span class='sr-only'>Close</span></i></button>" data-template="<div class=&quot;popover popover__fixMedium&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header&quot;></h3><div class=&quot;popover-body&quot;></div></div>" class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="<p>If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $350, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $350.</p>" data-original-title="" title="">reportable travel</button>?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 7. Liabilities
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child have a reportable liability worth more than $10,000 at any time?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of liabilities added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Incurred</th>
+						<th scope="col">Debtor</th>
+						<th scope="col">Type</th>
+						<th scope="col">Points</th>
+						<th scope="col">Rate<br>(Term)</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Creditor</th>
+						<th scope="col">Comments</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								2012
+							</td>
+							<td>Joint</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.19%<br>
+								
+														(20 years)
+								
+							</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								National Capital Bank
+								<div class="muted">Washington, DC</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								2012
+							</td>
+							<td>Spouse</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.5%<br>
+								
+														(10 years)
+								
+							</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Lucy J. Karl Trust of 1994
+								<div class="muted">Concord, NH</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								2010
+							</td>
+							<td>Spouse</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.5%<br>
+								
+														(10 years)
+								
+							</td>
+							<td>$500,001 - $1,000,000</td>
+							<td>
+								Citizens Bank
+								<div class="muted">Manchester, NH</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>
+								2010
+							</td>
+							<td>Spouse</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								5.64%<br>
+								
+														(10 years)
+								
+							</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								TD Bank
+								<div class="muted">Concord, NH</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>
+								2012
+							</td>
+							<td>Self</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								2.99%<br>
+								
+														(15 years)
+								
+							</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								Sun Trust Bank
+								<div class="muted">Ravenna, OH</div>
+							</td>
+							<td>
+								Bank previously called First Place Bank. </td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>
+								2015
+							</td>
+							<td>Spouse</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								3.99%<br>
+								
+														(30 years)
+								
+							</td>
+							<td>$500,001 - $1,000,000</td>
+							<td>
+								People's United Bank
+								<div class="muted">Brattleboro, VT</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>
+								2012
+							</td>
+							<td>Spouse</td>
+							<td>Promissory Note
+								</td>
+							<td>
+								-</td>
+							<td>
+								4.5%<br>
+								
+														(5 years)
+								
+							</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								People's United Bank
+								<div class="muted">Brattleboro, VT</div>
+							</td>
+							<td>
+								Paid off in CY2016</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>
+								2013
+							</td>
+							<td>Spouse</td>
+							<td>Promissory Note
+								</td>
+							<td>
+								-</td>
+							<td>
+								5%<br>
+								
+														(20 years, 5 yr. ARM)
+								
+							</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Marcia Kimball
+								<div class="muted">Moultonborough, NH</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>
+								2014
+							</td>
+							<td>Spouse</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.4%<br>
+								
+														(20 yrs, 5-yr ARM)
+								
+							</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								Salem Five Bank
+								<div class="muted">Salem, MA</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>
+								2014
+							</td>
+							<td>Spouse</td>
+							<td>Promissory Note
+								</td>
+							<td>
+								-</td>
+							<td>
+								5%<br>
+								
+														(on demand)
+								
+							</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								Marcia Kimball
+								<div class="muted">Moultonborough, NH</div>
+							</td>
+							<td>
+								Terms of the note were renegotiated.</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								11</td>
+							<td>
+								2015
+							</td>
+							<td>Spouse</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.29%<br>
+								
+														(20 years, 5 year ARM)
+								
+							</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								Salem Five Bank
+								<div class="muted">Salem, NH</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								12</td>
+							<td>
+								2015
+							</td>
+							<td>Spouse</td>
+							<td>Other
+								 (Promissory Demand Note)</td>
+							<td>
+								-</td>
+							<td>
+								5%<br>
+								
+														(On demand )
+								
+							</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								Marcia Kimball
+								<div class="muted">Moultonborough, NH</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								13</td>
+							<td>
+								2016
+							</td>
+							<td>Spouse</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								4.5%<br>
+								
+														(20 year, 5 year ARM)
+								
+							</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								People's United Bank
+								<div class="muted">Brattleboro, VT</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								14</td>
+							<td>
+								2015
+							</td>
+							<td>Spouse</td>
+							<td>Promissory Note
+								</td>
+							<td>
+								-</td>
+							<td>
+								5%<br>
+								
+														(on demand)
+								
+							</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								Marcia Kimball
+								<div class="muted">Moultonborough, NH</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 8. Positions
+				
+			</h3>
+			<p>
+				Did you hold any outside positions during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 9. Agreements
+				
+			</h3>
+			<p>
+				Did you have any reportable agreement or arrangement with an outside entity?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 10. Compensation
+				
+			</h3>
+			<p>
+				<strong>If this is your first report, or you are a candidate</strong> did you receive compensation of more than $5,000 from a single source in the <strong>two</strong> prior years? 
+				<strong>
+					
+						This is not my first report.
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Attachments &amp; Comments
+				
+			</h3>
+
+			
+				<em class="muted">No attachments added.</em>
+			
+
+			
+				<br>
+				<em class="text-muted">No comments added.</em>
+			
+		</div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

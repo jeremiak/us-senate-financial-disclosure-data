@@ -1,0 +1,4485 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: 
+	Annual Report for 2018 -
+	
+		Peters,
+	
+	
+		Gary
+	
+
+	
+		C
+	
+</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+	<style type="text/css">
+		.txtLogo {
+			display: none;
+		}
+	</style>
+
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+	<style type="text/css">
+		.navbar-nav {
+			display: none;
+		}
+	</style>
+	<strong class="d-print-none return-search">
+		Return to the search tab to select another report.
+	</strong>
+	<div class="justify-content-between">
+		<div>
+			<h1 class="mb-2">
+				
+					Annual
+				
+					Report for
+				
+				Calendar 2018 
+				
+				
+			</h1>
+			<h2 class="filedReport">
+				
+					The Honorable
+				
+
+				
+					Gary
+				
+
+				
+					C
+				
+
+				
+					Peters
+				
+
+				
+
+				
+					
+						(Peters, Gary)
+					
+				
+			</h2>
+			
+			<p class="muted font-weight-bold">
+				<i class="fa fa-folder-open"></i>
+				Filed 05/15/2019 @ 7:52 PM
+			</p>
+		</div>
+		<div>
+            <span class="d-print-none">
+                <a href="javascript:window.print()" class="btn btn-primary"><i class="fa fa-print mr-1" aria-hidden="true"></i> Print Report</a>
+            </span>
+		</div>
+	</div>
+
+	<hr>
+
+	<p>The following statements were checked before filing:</p>
+
+	<div class="mb-4">
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+			I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+		</label>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+			I understand that reports cannot be edited once filed. To make corrections, I will submit an
+			<em>electronic</em> amendment to this report.
+		</label>
+		<hr>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_omitted_assets" disabled="disabled" class="form-check-input">
+			I
+			<em>omitted</em> assets because they meet the three-part test for exemption.
+		</label>
+	</div>
+
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+				
+			</h3>
+			<p>
+				Did any individual or organization pay you or your spouse more than $200 or donate any amount to a charity on your behalf, for an article, speech, or appearance?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 2. Earned and Non-Investment Income
+				
+			</h3>
+			<p>
+				Did you or your spouse have reportable earned income or non-investment income?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of payments added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Who Was Paid</th>
+						<th scope="col">Type</th>
+						<th scope="col">Who Paid</th>
+						<th scope="col">Amount Paid</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Self
+
+							</td>
+							<td>
+								Pension
+								
+								
+							</td>
+							<td>
+								Michigan Legislative Retirement System<br>
+								<div class="muted">Lansing, MI</div>
+							</td>
+							
+								<td>$50,207.00</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Member Draw
+								
+								
+							</td>
+							<td>
+								Meaningful Impact Consulting LLC<br>
+								<div class="muted">Bloomfield Twp, MI</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 3. Assets
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child own any asset worth more than $1000, have a deposit account with a balance over $5,000, or receive income of more than $200 from an asset?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table id="grid_items" class="table dataTable">
+					<caption class="sr-only">List of assets added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">Asset</th>
+						<th scope="col">Asset Type</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Value</th>
+						<th scope="col">Income Type</th>
+						<th scope="col">Income</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>1</td>
+							<td class="span4"><strong class="marginit-right">Northwestern Mutual Life Insurance</strong><div class="muted"><em>Provider:</em> Northwestern Mutual&nbsp;</div></td>
+							<td>Life Insurance<div class="muted">Whole</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2</td>
+							<td class="span4"><strong class="marginit-right">Transamerica Advisors Life Insurance</strong><div class="muted"><em>Provider:</em> Transamerica Capital&nbsp;</div></td>
+							<td>Life Insurance<div class="muted">Whole</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3</td>
+							<td class="span4"><strong>Congressional Federal</strong><div class="muted noWrap">(Washington, DC)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, Checking, Savings, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>4</td>
+							<td class="span4"><strong class="marginit-right">Metlife </strong><div class="muted"><em>Provider:</em> MetLife&nbsp;<em>Filer comment:  </em>Single Premium Fixed Annuity</div></td>
+							<td>Annuity<div class="muted">Fixed</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5</td>
+							<td class="span4"><strong class="marginit-right">Michigan Education Savings Program/ MAP</strong><div class="muted"><em>Institution:</em> TIAA-CREF</div><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5.1</td>
+							<td class="span4"><strong class="marginit-right">Principal Plus Interest Option</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6</td>
+							<td class="span4"><strong class="marginit-right">Michigan Education Savings Program/ AGP</strong><div class="muted"><em>Institution:</em> TIAA-CREF</div><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6.1</td>
+							<td class="span4"><strong class="marginit-right">Global Equity Index Option</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6.2</td>
+							<td class="span4"><strong class="marginit-right">Principal Plus Interest Option</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7</td>
+							<td class="span4"><strong class="marginit-right">Community Foundation for SE Michigan MPP</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">Deferred Compensation</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7.1</td>
+							<td class="span4"><strong class="marginit-right">Goldman Sachs Fs Government Fst</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7.2</td>
+							<td class="span4"><strong class="marginit-right">T Rowe Price Retirement 2030 Adv</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8</td>
+							<td class="span4"><strong class="marginit-right">Community Foundation for SE MI 403(B) Plan</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Company:</em> Wells Fargo (New York, NY)&nbsp;<em>Description:</em>&nbsp;Community Foundation for SE Michigan&nbsp;</div></td>
+							<td>Deferred Compensation</td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8.1</td>
+							<td class="span4"><strong class="marginit-right">RERCX-American Funds Europacific Growth R3 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PESPX" target="_blank">PESPX</a> - Dreyfus MidCap Index (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8.3</td>
+							<td class="span4"><strong class="marginit-right">T Rowe Price Retirement 2020 Adv</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8.4</td>
+							<td class="span4"><strong class="marginit-right">T Rowe Price Retirement 2030 Adv</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8.5</td>
+							<td class="span4"><strong class="marginit-right">Goldman Sachs Fs Government Fst</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8.6</td>
+							<td class="span4"><strong class="marginit-right">Vanguard S&amp;P 500 Index</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9</td>
+							<td class="span4"><strong class="marginit-right">State of Michigan 401(k) Plan</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Company:</em> Voya (New York, NY)&nbsp;<em>Description:</em>&nbsp;State of Michigan&nbsp;</div></td>
+							<td>Deferred Compensation</td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9.1</td>
+							<td class="span4"><strong class="marginit-right">SSgA Target Retirement 2025</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9.2</td>
+							<td class="span4"><strong class="marginit-right">Stable Value Fund</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9.3</td>
+							<td class="span4"><strong class="marginit-right">Dodge &amp; Cox Stock</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9.4</td>
+							<td class="span4"><strong class="marginit-right">T Rowe Price Mid Cap Value</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9.5</td>
+							<td class="span4"><strong class="marginit-right">American Fund Europacific Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10</td>
+							<td class="span4"><strong class="marginit-right">State of Michigan 457 Plan</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Company:</em> Voya (New York, NY)&nbsp;<em>Description:</em>&nbsp;State of Michigan&nbsp;</div></td>
+							<td>Deferred Compensation</td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10.1</td>
+							<td class="span4"><strong class="marginit-right">Stable Value Fund</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10.2</td>
+							<td class="span4"><strong class="marginit-right">SSgA S&amp;P 500 Index</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10.3</td>
+							<td class="span4"><strong class="marginit-right">Jennison Large Cap Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10.4</td>
+							<td class="span4"><strong class="marginit-right">SSgA S&amp;P MidCap Index</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10.5</td>
+							<td class="span4"><strong class="marginit-right">Virtus Ceredex Small-Cap Value</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10.6</td>
+							<td class="span4"><strong class="marginit-right">American Fund Europacific Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11</td>
+							<td class="span4"><strong class="marginit-right">UBS Resource Management Account</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Brokerage/Managed Account</td>
+							<td>Joint</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.1</td>
+							<td class="span4"><strong class="marginit-right">UBS-UBS Group AG (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11.2</td>
+							<td class="span4"><strong>UBS Bank USA</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div><em>Filer comment:  </em>UBS Bank USA Dep Acct</div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12</td>
+							<td class="span4"><strong class="marginit-right">UBS Retirement Account- Colleen's IRA</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=F" target="_blank">F</a> - Ford Motor Co. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a> - Intel Corporation (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a> - Johnson &amp; Johnson (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=JWN" target="_blank">JWN</a> - Nordstrom Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=UPS" target="_blank">UPS</a> - United Parcel Service, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.6</td>
+							<td class="span4"><strong class="marginit-right">AIVSX-American Funds Invmt Co of Amer A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VAFAX" target="_blank">VAFAX</a> - Invesco American Franchise A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.8</td>
+							<td class="span4"><strong>UBS Bank USA</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div><em>Filer comment:  </em>UBS Bank USA Dep Acct</div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.9</td>
+							<td class="span4"><strong>American Exp Cent UT US</strong><div class="muted noWrap">(Salt Lake City, UT)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, </div><em>Filer comment:  </em>1.6500%, Mat 04/05/2019</div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.10</td>
+							<td class="span4"><strong>American Exp Cent UT US</strong><div class="muted noWrap">(Salt Lake City, UT)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, </div><em>Filer comment:  </em>1.9000%, Mat 04/06/2020</div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.11</td>
+							<td class="span4"><strong>Capital One Bk VA US</strong><div class="muted noWrap">(McLean, VA)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, </div><em>Filer comment:  </em>2.2500%, Mat 04/05/2021</div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.12</td>
+							<td class="span4"><strong>American Exp Cent UT US</strong><div class="muted noWrap">(Salt Lake City, UT)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, </div><em>Filer comment:  </em>2.4500%, Mat 04/05/2022</div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.13</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=OFC" target="_blank">OFC</a> - Corporate Office Properties Trust</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12.14</td>
+							<td class="span4"><strong>Sallie Mae Bank UT US</strong><div class="muted noWrap">(Salt Lake City, Utah)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, </div><em>Filer comment:  </em>3.00 % Mat 04/18/23</div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13</td>
+							<td class="span4"><strong class="marginit-right">UBS Retirement Accounts- Gary's Simplified Employee Pension Plan</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=BXMT" target="_blank">BXMT</a> - Blackstone Mortgage Trust, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a> - Cisco Systems, Inc. (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CLX" target="_blank">CLX</a> - The Clorox Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=EMR" target="_blank">EMR</a> - Emerson Electric Co. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.5</td>
+							<td class="span4"><strong class="marginit-right">OCSI-Oaktree Strategic Income Corpor</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=GM" target="_blank">GM</a> - General Motors Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MPW" target="_blank">MPW</a> - Medical Properties Trust Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.8</td>
+							<td class="span4"><strong class="marginit-right">NEE-NextEra Energy, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.9</td>
+							<td class="span4"><strong class="marginit-right">NUE-Nucor Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.10</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a> - Schlumberger Limited (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.11</td>
+							<td class="span4"><strong class="marginit-right">SWK-Stanley Black &amp; Decker, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.12</td>
+							<td class="span4"><strong class="marginit-right">UNP-Union Pacific Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.13</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=WPC" target="_blank">WPC</a> - W. P. Carey Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.14</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IGR" target="_blank">IGR</a> - CBRE Clarion Global Real Estate (NYSE)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.15</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SDY" target="_blank">SDY</a> - SPDR S&amp;P Dividend ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.16</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MDY" target="_blank">MDY</a> - SPDR S&amp;P MidCap 400 ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.17</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a> - SPDR S&amp;P 500 ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.18</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a> - QUALCOMM Incorporated (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.19</td>
+							<td class="span4"><strong class="marginit-right">Morgan Stanley NTS B/E </strong><div class="muted"><em>Rate/Coupon:</em> 3.100% <br> <em>Matures:</em> 11/09/2018</div><div class="muted"><em>Filer comment:  </em>Bond matured, however income received</div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.20</td>
+							<td class="span4"><strong class="marginit-right">John Hancock Signature Notes Callable</strong><div class="muted"><em>Rate/Coupon:</em> 5.750% <br> <em>Matures:</em> 11/15/2018</div><div class="muted"><em>Filer comment:  </em>Bond matured, however income received</div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.21</td>
+							<td class="span4"><strong class="marginit-right">Alabama Power Co MW +20BP</strong><div class="muted"><em>Rate/Coupon:</em> 5.125% <br> <em>Matures:</em> 02/15/2019</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.22</td>
+							<td class="span4"><strong class="marginit-right">Anheuser Busch Cos NTS Call MW + 25BP</strong><div class="muted"><em>Rate/Coupon:</em> 5.000% <br> <em>Matures:</em> 03/01/2019</div><div class="muted"><em>Filer comment:  </em>Called 4/23/2018, however income received</div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.23</td>
+							<td class="span4"><strong class="marginit-right">BB&amp;T Corp </strong><div class="muted"><em>Rate/Coupon:</em> 5.250% <br> <em>Matures:</em> 11/01/2019</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.24</td>
+							<td class="span4"><strong class="marginit-right">Bank of Amer Internotes NTS B/E</strong><div class="muted"><em>Rate/Coupon:</em> 4.300% <br> <em>Matures:</em> 11/15/2019</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.25</td>
+							<td class="span4"><strong class="marginit-right">Morgan Stanley Dean Adj Rate</strong><div class="muted"><em>Rate/Coupon:</em> 4.232% <br> <em>Matures:</em> 12/15/2019</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.26</td>
+							<td class="span4"><strong class="marginit-right">Teva Pharma Fin IV LLC B/E</strong><div class="muted"><em>Rate/Coupon:</em> 2.250% <br> <em>Matures:</em> 03/18/2020</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.27</td>
+							<td class="span4"><strong class="marginit-right">Cliffs Nat Resources Inc +25BP NTS B/E</strong><div class="muted"><em>Rate/Coupon:</em> 4.875% <br> <em>Matures:</em> 04/01/2021</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.28</td>
+							<td class="span4"><strong class="marginit-right">Prospect CPTL Corp Med Term NTS</strong><div class="muted"><em>Rate/Coupon:</em> 5.250% <br> <em>Matures:</em> 04/15/2021</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.29</td>
+							<td class="span4"><strong class="marginit-right">Ford Motor Crdt Co LLC NTS B/E</strong><div class="muted"><em>Rate/Coupon:</em> 3.050% <br> <em>Matures:</em> 07/20/2021</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.30</td>
+							<td class="span4"><strong class="marginit-right">Newmont Mining Corp B /E</strong><div class="muted"><em>Rate/Coupon:</em> 3.500% <br> <em>Matures:</em> 03/15/2022</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.31</td>
+							<td class="span4"><strong class="marginit-right">US Bancorp Med Term NTS B/E</strong><div class="muted"><em>Rate/Coupon:</em> 2.950% <br> <em>Matures:</em> 07/15/2022</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.32</td>
+							<td class="span4"><strong class="marginit-right">Transocean Inc B/E Call @ MW + 35 BP</strong><div class="muted"><em>Rate/Coupon:</em> 3.800% <br> <em>Matures:</em> 10/15/2022</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.33</td>
+							<td class="span4"><strong class="marginit-right">Aetna Inc NTS B/E</strong><div class="muted"><em>Rate/Coupon:</em> 2.750% <br> <em>Matures:</em> 11/15/2022</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.34</td>
+							<td class="span4"><strong class="marginit-right">AT&amp;T Inc B/E Call @ MW + 15 BP</strong><div class="muted"><em>Rate/Coupon:</em> 2.625% <br> <em>Matures:</em> 12/01/2022</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.35</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PPR" target="_blank">PPR</a> - Voya Prime Rate Trust Shares of (NYSE)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.36</td>
+							<td class="span4"><strong class="marginit-right">CSQ-Calamos Strategic Total Return  (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.37</td>
+							<td class="span4"><strong>GE Capital</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, </div><em>Filer comment:  </em>Rate:  1.6000%
+Matures:  12/23/2019</div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.38</td>
+							<td class="span4"><strong>UBS Bank USA</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div><em>Filer comment:  </em>UBS Bank USA Dep Acct</div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.39</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=STAG" target="_blank">STAG</a> - STAG Industrial, Inc.</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.40</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=UTX" target="_blank">UTX</a> - United Technologies Corporation</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.41</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SLY" target="_blank">SLY</a> - SPDR S&amp;P 600 Small Cap ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.42</td>
+							<td class="span4"><strong class="marginit-right">Texas Instruments Inc   1.75%   050120</strong><div class="muted"><em>Rate/Coupon:</em> 1.75% <br> <em>Matures:</em> 05/01/2020</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.43</td>
+							<td class="span4"><strong class="marginit-right">Boeing Co B/E   1.65%   103020</strong><div class="muted"><em>Rate/Coupon:</em> 1.65% <br> <em>Matures:</em> 10/30/2020</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.44</td>
+							<td class="span4"><strong class="marginit-right">E I Du Pont de Nemours   2.80%   021523</strong><div class="muted"><em>Rate/Coupon:</em> 2.8% <br> <em>Matures:</em> 02/15/2023</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.45</td>
+							<td class="span4"><strong class="marginit-right">CVS-CVS Health Corporation</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.46</td>
+							<td class="span4"><strong class="marginit-right">Abbvie Inc NTS B/E 2.90% 11/06/22</strong><div class="muted"><em>Rate/Coupon:</em> 2.90% <br> <em>Matures:</em> 11/06/2022</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.47</td>
+							<td class="span4"><strong class="marginit-right">Sunoco Logistics NTS B/E 3.45% 01/15/23</strong><div class="muted"><em>Rate/Coupon:</em> 3.45% <br> <em>Matures:</em> 01/15/23</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.48</td>
+							<td class="span4"><strong class="marginit-right">Monsanto CO B/E 3.375% 07/15/2024</strong><div class="muted"><em>Rate/Coupon:</em> 3.375% <br> <em>Matures:</em> 07/15/2024</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.49</td>
+							<td class="span4"><strong class="marginit-right">Lloyds TSB BK PLC 2.80% 11/29/24</strong><div class="muted"><em>Rate/Coupon:</em> 2.80% <br> <em>Matures:</em> 11/29/2024</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.50</td>
+							<td class="span4"><strong class="marginit-right">Lincoln Natl Corp B/E 3.35% 03/09/25</strong><div class="muted"><em>Rate/Coupon:</em> 3.35% <br> <em>Matures:</em> 03/09/25</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.51</td>
+							<td class="span4"><strong class="marginit-right">Cigna Corp B/E 3.25% 04/15/25</strong><div class="muted"><em>Rate/Coupon:</em> 3.25% <br> <em>Matures:</em> 04/15/2025</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.52</td>
+							<td class="span4"><strong class="marginit-right">Verizon Communications 2.625% 08/15/26</strong><div class="muted"><em>Rate/Coupon:</em> 2.625% <br> <em>Matures:</em> 08/15/2026</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.53</td>
+							<td class="span4"><strong class="marginit-right">Ford Motor Credit Co LLC 3.30% 09/20/26</strong><div class="muted"><em>Rate/Coupon:</em> 3.30% <br> <em>Matures:</em> 09/20/2026</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.54</td>
+							<td class="span4"><strong class="marginit-right">SPG-Simon Property Group, Inc.</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.55</td>
+							<td class="span4"><strong class="marginit-right">Discover Finl Svcs NTS</strong><div class="muted"><em>Rate/Coupon:</em> 3.050% <br> <em>Matures:</em> 09/15/2023</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.56</td>
+							<td class="span4"><strong class="marginit-right">Pacific Gas &amp; Elec B/E Call@MW+20BP</strong><div class="muted"><em>Rate/Coupon:</em> 2.950% <br> <em>Matures:</em> 03/01/2026</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.57</td>
+							<td class="span4"><strong class="marginit-right">Genl Motors Finl Co Inc</strong><div class="muted"><em>Rate/Coupon:</em> 3.50% <br> <em>Matures:</em> 11/07/2024</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.58</td>
+							<td class="span4"><strong class="marginit-right">Genl Mills Inc NTS B/E</strong><div class="muted"><em>Rate/Coupon:</em> 4.00% <br> <em>Matures:</em> 04/17/2025</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.59</td>
+							<td class="span4"><strong class="marginit-right">Healthcare Realy Tr Inc</strong><div class="muted"><em>Rate/Coupon:</em> 3.875% <br> <em>Matures:</em> 05/01/2025</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.60</td>
+							<td class="span4"><strong class="marginit-right">Capital One Financial Co</strong><div class="muted"><em>Rate/Coupon:</em> 4.20% <br> <em>Matures:</em> 10/29/2025</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.61</td>
+							<td class="span4"><strong class="marginit-right">WP Carey Inc B/E</strong><div class="muted"><em>Rate/Coupon:</em> 4.25% <br> <em>Matures:</em> 10/01/2026</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.62</td>
+							<td class="span4"><strong class="marginit-right">General Elec Cap Corp</strong><div class="muted"><em>Rate/Coupon:</em> 4.05% <br> <em>Matures:</em> 02/15/2027</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.63</td>
+							<td class="span4"><strong class="marginit-right">Humana Inc NTS B/E</strong><div class="muted"><em>Rate/Coupon:</em> 3.95% <br> <em>Matures:</em> 03/15/2027</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.64</td>
+							<td class="span4"><strong class="marginit-right">Nordstrom Inc B/E</strong><div class="muted"><em>Rate/Coupon:</em> 4.00% <br> <em>Matures:</em> 03/15/2027</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.65</td>
+							<td class="span4"><strong class="marginit-right">Nextera Energy Capital</strong><div class="muted"><em>Rate/Coupon:</em> 3.55% <br> <em>Matures:</em> 05/01/2027</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.66</td>
+							<td class="span4"><strong class="marginit-right">Bank of Amer Corp</strong><div class="muted"><em>Rate/Coupon:</em> 3.248% <br> <em>Matures:</em> 10/21/2027</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.67</td>
+							<td class="span4"><strong class="marginit-right">GATX Corp B/E</strong><div class="muted"><em>Rate/Coupon:</em> 3.50% <br> <em>Matures:</em> 03/15/2028</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.68</td>
+							<td class="span4"><strong>GE Capital</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Certificate of Deposit, </div><em>Filer comment:  </em>CD matured, however income received</div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.69</td>
+							<td class="span4"><strong class="marginit-right">EDR - EdR (NYSE)</strong><div class="muted"><em>Filer comment:  </em>During CY2018, EDR was acquired. On 9/14/18, shares of EDR common stock were converted automatically into a cash payment of $41.50 per share. No longer an asset</div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14</td>
+							<td class="span4"><strong class="marginit-right">UBS Resource Management Account</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Filer comment:  </em>Gary's Trust Account</div></td>
+							<td>Brokerage/Managed Account</td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ABT" target="_blank">ABT</a> - Abbott Laboratories (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a> - AbbVie Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=APD" target="_blank">APD</a> - Air Products &amp; Chemicals Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ALL" target="_blank">ALL</a> - The Allstate Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=T" target="_blank">T</a> - AT&amp;T, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=BK" target="_blank">BK</a> - The Bank of New York Mellon Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a> - Bank of America Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=BBT" target="_blank">BBT</a> - BB&amp;T Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.9</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a> - Bristol-Myers Squibb Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.10</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CCL" target="_blank">CCL</a> - Carnival Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.11</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CMS" target="_blank">CMS</a> - CMS Energy Corp. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.12</td>
+							<td class="span4"><strong class="marginit-right">KO-The Coca-Cola Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.13</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CL" target="_blank">CL</a> - Colgate-Palmolive Co. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.14</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CAG" target="_blank">CAG</a> - ConAgra Foods, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.15</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=DWDP" target="_blank">DWDP</a> - DowDuPont Inc.</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.16</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=EGP" target="_blank">EGP</a> - EastGroup Properties Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.17</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ECL" target="_blank">ECL</a> - Ecolab Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.18</td>
+							<td class="span4"><strong class="marginit-right">GE-General Electric Company (NYSE)</strong><div class="muted"><em>Filer comment:  </em>Sold, however income received</div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.19</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=GIS" target="_blank">GIS</a> - General Mills, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.20</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=HR" target="_blank">HR</a> - Healthcare Realty Trust Incorporated (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.21</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a> - JPMorgan Chase &amp; Co. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.22</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=KMB" target="_blank">KMB</a> - Kimberly-Clark Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.23</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=LEG" target="_blank">LEG</a> - Leggett &amp; Platt, Incorporated (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.24</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a> - Lowe's Companies Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.25</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MCD" target="_blank">MCD</a> - McDonald's Corp. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.26</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MDT" target="_blank">MDT</a> - Medtronic plc (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.27</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a> - Merck &amp; Co. Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.28</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MET" target="_blank">MET</a> - MetLife, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.29</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a> - Microsoft Corporation (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.30</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a> - Mondelez International, Inc. (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.31</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=NI" target="_blank">NI</a> - NiSource Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.32</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a> - Pepsico, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.33</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a> - Pfizer Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.34</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PPG" target="_blank">PPG</a> - PPG Industries Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.35</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PG" target="_blank">PG</a> - The Procter &amp; Gamble Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.36</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SHW" target="_blank">SHW</a> - The Sherwin-Williams Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.37</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SJM" target="_blank">SJM</a> - The J. M. Smucker Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.38</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=TOT" target="_blank">TOT</a> - TOTAL S.A. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.39</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a> - Verizon Communications Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.40</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a> - Wal-Mart Stores Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.41</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MMM" target="_blank">MMM</a> - 3M Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.42</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=EFA" target="_blank">EFA</a> - iShares MSCI EAFE (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.43</td>
+							<td class="span4"><strong class="marginit-right">Rochester Mich Cmnty Sch NPFG B/E</strong><div class="muted"><em>Rate/Coupon:</em> 5.000% <br> <em>Matures:</em> 05/01/2019</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.44</td>
+							<td class="span4"><strong class="marginit-right">North Gratiot Interceptr Drain </strong><div class="muted"><em>Rate/Coupon:</em> 4.125% <br> <em>Matures:</em> 05/01/2024</div><div class="muted"><em>Filer comment:  </em>Called 11/1/18, however income received</div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.45</td>
+							<td class="span4"><strong class="marginit-right">Brandon Mi Sch Dist Ult FSA</strong><div class="muted"><em>Rate/Coupon:</em> 4.250% <br> <em>Matures:</em> 05/01/2025</div><div class="muted"><em>Filer comment:  </em>Called 5/1/18, however income received</div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.46</td>
+							<td class="span4"><strong class="marginit-right">Michigan Fin Auth SR A RV</strong><div class="muted"><em>Rate/Coupon:</em> 4.000% <br> <em>Matures:</em> 12/01/2025</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.47</td>
+							<td class="span4"><strong class="marginit-right">Genesee Cnty Mi Swg Sys</strong><div class="muted"><em>Rate/Coupon:</em> 4.500% <br> <em>Matures:</em> 05/01/2027</div><div class="muted"><em>Filer comment:  </em>Called 1/8/2018, however income received</div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.48</td>
+							<td class="span4"><strong class="marginit-right">Michigan St Univ SR C RV</strong><div class="muted"><em>Rate/Coupon:</em> 4.000% <br> <em>Matures:</em> 08/15/2027</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.49</td>
+							<td class="span4"><strong class="marginit-right">Detroit Mich Wtr Supply </strong><div class="muted"><em>Rate/Coupon:</em> 4.500% <br> <em>Matures:</em> 07/01/2029</div><div class="muted"><em>Filer comment:  </em>Called 10/9/18, however income received</div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.50</td>
+							<td class="span4"><strong class="marginit-right">Byron Cntr Mi Pub Schs Assur</strong><div class="muted"><em>Rate/Coupon:</em> 4.000% <br> <em>Matures:</em> 05/01/2030</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.51</td>
+							<td class="span4"><strong class="marginit-right">Kalamazoo Mi Pub Schs</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 05/01/2030</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.52</td>
+							<td class="span4"><strong class="marginit-right">Oakland Cnty Mi </strong><div class="muted"><em>Rate/Coupon:</em> 3.000% <br> <em>Matures:</em> 10/01/2021</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.53</td>
+							<td class="span4"><strong class="marginit-right">Michigan Mun Bd Auth Rev Rev B/E</strong><div class="muted"><em>Rate/Coupon:</em> 5.000% <br> <em>Matures:</em> 11/01/2032</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.54</td>
+							<td class="span4"><strong class="marginit-right">Chippewa Mic Vly Sch Co</strong><div class="muted"><em>Rate/Coupon:</em> 3.500% <br> <em>Matures:</em> 05/01/2033</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.55</td>
+							<td class="span4"><strong class="marginit-right">Birmingham MI Pub Schs </strong><div class="muted"><em>Rate/Coupon:</em> 3.000% <br> <em>Matures:</em> 05/01/2034</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.56</td>
+							<td class="span4"><strong class="marginit-right">Columbia Mi Sch</strong><div class="muted"><em>Rate/Coupon:</em> 4.125% <br> <em>Matures:</em> 05/01/2034</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.57</td>
+							<td class="span4"><strong class="marginit-right">Holland Mi Elec SR A Rv</strong><div class="muted"><em>Rate/Coupon:</em> 4.000% <br> <em>Matures:</em> 07/01/2034</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.58</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=HTD" target="_blank">HTD</a> - John Hancock Tax Advantaged Div (NYSE)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.59</td>
+							<td class="span4"><strong>UBS Bank USA</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div><em>Filer comment:  </em>UBS FDIC-Insured Deposit Program</div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.60</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=DTE" target="_blank">DTE</a> - DTE Energy Company</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.61</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IVZ" target="_blank">IVZ</a> - Invesco Ltd.</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.62</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MMC" target="_blank">MMC</a> - Marsh &amp; McLennan Companies, Inc.</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.63</td>
+							<td class="span4"><strong class="marginit-right">Berkeley Cnty SC SD SR A RV 3.00%   120128</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 12/01/2028</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.64</td>
+							<td class="span4"><strong class="marginit-right">Plymouth Canton MI CSD Assur   3.25%   050130</strong><div class="muted"><em>Rate/Coupon:</em> 3.25% <br> <em>Matures:</em> 05/01/2030</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.65</td>
+							<td class="span4"><strong class="marginit-right">Sault Ste Marie MI Build   3.00%   040131</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 04/01/2031</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.66</td>
+							<td class="span4"><strong class="marginit-right">Sonoma Valley Ca Uni 2015   3.125%   080133</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 08/01/2033</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.67</td>
+							<td class="span4"><strong class="marginit-right">St Charles MI Cmnty Sch Assur   3.75%   050135</strong><div class="muted"><em>Rate/Coupon:</em> 3.75% <br> <em>Matures:</em> 05/01/2035</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.68</td>
+							<td class="span4"><strong class="marginit-right">Carman-Ainsworth Cmnty OID 3.00% 05/01/27</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 05/01/2027</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.69</td>
+							<td class="span4"><strong class="marginit-right">Grand Valley Mi St Univ 3.00% 12/01/31</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 12/01/2031</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.70</td>
+							<td class="span4"><strong class="marginit-right">Oakland Mi Schls Inter SC 3.125% 05/01/34</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 05/01/2034</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.71</td>
+							<td class="span4"><strong class="marginit-right">Parchment Mi Sch SR A 3.25% 05/01/34</strong><div class="muted"><em>Rate/Coupon:</em> 3.25% <br> <em>Matures:</em> 05/01/2034</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.72</td>
+							<td class="span4"><strong class="marginit-right">West Mifflin PA Build OID 98.18 Be/R 2.875% 10/01/35</strong><div class="muted"><em>Rate/Coupon:</em> 2.875% <br> <em>Matures:</em> 10/01/2035</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.73</td>
+							<td class="span4"><strong class="marginit-right">Philadelphia PA Stewtr RV OID 3.125% 10/01/35</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 10/01/2035</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.74</td>
+							<td class="span4"><strong class="marginit-right">Washoe Cnty Nev Sch Dst  3.125% 06/01/36</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 06/01/2036</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.75</td>
+							<td class="span4"><strong class="marginit-right">Connecticut St for Issue SR E 3.375% 10/15/36</strong><div class="muted"><em>Rate/Coupon:</em> 3.375%R <br> <em>Matures:</em> 10/15/2036</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.76</td>
+							<td class="span4"><strong class="marginit-right">Maricopa Cnty AZ Indl SR A RV 3.25% 01/01/37</strong><div class="muted"><em>Rate/Coupon:</em> 3.25% <br> <em>Matures:</em> 01/01/2037</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.77</td>
+							<td class="span4"><strong class="marginit-right">Celina Tx Indpt Sch Perma OID   3.00% 08/15/37</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 08/15/2037</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.78</td>
+							<td class="span4"><strong class="marginit-right">Victoria TX ISD 2016 Perma OID 3.125% 02/15/38</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 02/15/2038</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.79</td>
+							<td class="span4"><strong class="marginit-right">Chippewa Ohio Loc Sch Ohio SR1 3.00% 11/01/42</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 11/01/2042</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.80</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=LW" target="_blank">LW</a> - Lamb Weston Holdings, Inc.</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.81</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ARCC" target="_blank">ARCC</a> - Ares Capital Corporation</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.82</td>
+							<td class="span4"><strong class="marginit-right">Spokane WA   </strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 12/01/2032</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.83</td>
+							<td class="span4"><strong class="marginit-right">Miami-Dade Cnty BE/R</strong><div class="muted"><em>Rate/Coupon:</em> 3.250% <br> <em>Matures:</em> 03/15/2033</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.84</td>
+							<td class="span4"><strong class="marginit-right">Guilford Cnty NC SR B</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 05/01/2035</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.85</td>
+							<td class="span4"><strong class="marginit-right">Anderson Cnty SC South OID 97.116 SR B/R</strong><div class="muted"><em>Rate/Coupon:</em> 3.000% <br> <em>Matures:</em> 03/01/2027</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.86</td>
+							<td class="span4"><strong class="marginit-right">Multnomah Cnty OR Orego OID 96.932 SR/R</strong><div class="muted"><em>Rate/Coupon:</em> 3.000% <br> <em>Matures:</em> 06/15/2037</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.87</td>
+							<td class="span4"><strong class="marginit-right">Massachusetts St for Iss SR E OID 96.863 BE/ R</strong><div class="muted"><em>Rate/Coupon:</em> 3.250% <br> <em>Matures:</em> 09/01/2038</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.88</td>
+							<td class="span4"><strong class="marginit-right">Turlock CA Uni Sch 2017 OID 98.475 BE/ R</strong><div class="muted"><em>Rate/Coupon:</em> 3.500% <br> <em>Matures:</em> 08/01/2039</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.89</td>
+							<td class="span4"><strong class="marginit-right">Marsh &amp; McLennan Cos Inc</strong><div class="muted"><em>Rate/Coupon:</em> 3.50% <br> <em>Matures:</em> 06/03/2024</div><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Corporate Bond</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.90</td>
+							<td class="span4"><strong class="marginit-right">Milltown NJ Gen Impt</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 05/01/2028</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.91</td>
+							<td class="span4"><strong class="marginit-right">Warrington Twp PA</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 12/01/29</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.92</td>
+							<td class="span4"><strong class="marginit-right">Lenawee Cnty Mich Go Ltd</strong><div class="muted"><em>Rate/Coupon:</em> 3.25% <br> <em>Matures:</em> 05/01/32</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.93</td>
+							<td class="span4"><strong class="marginit-right">Maryland St for Issues Dated Prior to 08/05/11</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 03/15/33</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.94</td>
+							<td class="span4"><strong class="marginit-right">Madison Ala Go Sch WTS</strong><div class="muted"><em>Rate/Coupon:</em> 3.625% <br> <em>Matures:</em> 02/01/34</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.95</td>
+							<td class="span4"><strong class="marginit-right">Michigan Fin Auth</strong><div class="muted"><em>Rate/Coupon:</em> 3.125% <br> <em>Matures:</em> 12/01/35</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.96</td>
+							<td class="span4"><strong class="marginit-right">Dearborn MI</strong><div class="muted"><em>Rate/Coupon:</em> 3.00% <br> <em>Matures:</em> 04/01/36</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.97</td>
+							<td class="span4"><strong class="marginit-right">Lexington-Fayette Urban SR A</strong><div class="muted"><em>Rate/Coupon:</em> 3.50% <br> <em>Matures:</em> 10/01/36</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.98</td>
+							<td class="span4"><strong class="marginit-right">Memphis Tenn Gen</strong><div class="muted"><em>Rate/Coupon:</em> 3.50% <br> <em>Matures:</em> 06/01/37</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.99</td>
+							<td class="span4"><strong class="marginit-right">Mason Mich Pub Schs Dist Sch Bldg and Site BDS 2018-I</strong><div class="muted"><em>Rate/Coupon:</em> 3.375% <br> <em>Matures:</em> 05/01/38</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.100</td>
+							<td class="span4"><strong class="marginit-right">Amarillo Tex Go</strong><div class="muted"><em>Rate/Coupon:</em> 3.50% <br> <em>Matures:</em> 02/15/39</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15</td>
+							<td class="span4"><strong class="marginit-right">UBS Resource Management Account</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Brokerage/Managed Account</td>
+							<td>Joint</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15.1</td>
+							<td class="span4"><strong>UBS Bank USA</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div><em>Filer comment:  </em>UBS Bank USA Dep Acct</div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AIVSX" target="_blank">AIVSX</a> - American Funds Invmt Co of Amer A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VAFAX" target="_blank">VAFAX</a> - Invesco American Franchise A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15.4</td>
+							<td class="span4"><strong class="marginit-right">Pace Large Co Growth Equity Investments</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16</td>
+							<td class="span4"><strong class="marginit-right">UBS Resource Management Account</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Brokerage/Managed Account</td>
+							<td>Joint</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AIVSX" target="_blank">AIVSX</a> - American Funds Invmt Co of Amer A</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VAFAX" target="_blank">VAFAX</a> - Invesco American Franchise A</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PCLCX" target="_blank">PCLCX</a> - PACE Large Co Growth Equity P</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16.4</td>
+							<td class="span4"><strong>UBS</strong><div class="muted noWrap">(New York, NY)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div><em>Filer comment:  </em>UBS Bank USA Dep Acct</div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, Capital Gains, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>17</td>
+							<td class="span4"><strong class="marginit-right">Vanguard Individual 401(K)</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Deferred Compensation<div class="muted">Deferred Compensation - Other</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>17.1</td>
+							<td class="span4"><strong class="marginit-right">Vanguard Wellington Fund (VWELX)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, Interest, Capital Gains, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>17.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VMFXX" target="_blank">VMFXX</a> - Vanguard Money Market Reserves - Vanguard Federal</strong><div class="muted"><em>Filer comment:  </em>This is the same asset that was previously listed as a federal money market account on last years calendar report as asset 19.2</div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18</td>
+							<td class="span4"><strong class="marginit-right">Meaningful Impact Consulting LLC</strong><div class="muted"><em>Company:</em> Meaningful Impact Consulting LLC (Bloomfield Twp, MI)&nbsp;<em>Description:</em>&nbsp;Consulting&nbsp;</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Other, (Gross Reciepts)</td>
+							<td>$100,001 - $1,000,000<br>Other $117,600.00</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4a. Periodic Transaction Report Summary
+				
+			</h3>
+			<p>
+				In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.  Have you filed any paper-based PTRs in this period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Type</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>1</td>
+							<td>
+								01/05/2018
+							</td>
+							<td>Spouse</td>
+							<td>
+							    
+                                    OFC
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Corporate Office Properties Trust
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>2</td>
+							<td>
+								01/05/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    MICHIGAN FIN AUTH REV FOR ISSUES DTD PRIOR TO 03/31/15 SEE 59447P HOSP REF BDS TRINITY HLTH CREDIT GROUP 2017 A-MI
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.125%<br>
+										<em>Matures:</em> 12/01/2035
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>3</td>
+							<td>
+								01/09/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    DEARBORN MICH 
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.00%<br>
+										<em>Matures:</em> 04/01/2036
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>4</td>
+							<td>
+								01/17/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    BANK OF AMER CORP 03.248% 102127 DTD102116
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 03.248%<br>
+										<em>Matures:</em> 10/21/2027
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>5</td>
+							<td>
+								01/17/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    GATX CORP B/E 03.500% 031528 DTD110217
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 03.500%<br>
+										<em>Matures:</em> 03/15/2028
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>6</td>
+							<td>
+								03/21/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    MARYLAND ST FOR ISSUES DATED PRIOR TO 08/05/11 SEE 574192 GO ST LOCAL FACS LN BDS 2018 A
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.125%<br>
+										<em>Matures:</em> 03/15/2033
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>7</td>
+							<td>
+								04/20/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    GENL MOTORS FINL CO INC 03.500% 110724 DTD110717
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.5%<br>
+										<em>Matures:</em> 11/07/24
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>8</td>
+							<td>
+								04/26/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    CVS
+                                
+                                
+                            </td>
+							<td>
+								
+                                    CVS Health Corporation
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>9</td>
+							<td>
+								04/26/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    GENL MILLS INC NTS B/E 04.000% 041725 DTD041718
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 4.000%<br>
+										<em>Matures:</em> 04/17/2025
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>10</td>
+							<td>
+								04/26/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    WP CAREY INC B/E 04.250% 100126 DTD091216
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 4.250%<br>
+										<em>Matures:</em> 10/01/2026
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>11</td>
+							<td>
+								04/30/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    MILLTOWN NJ GO BDS 2018 A B C
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.00%<br>
+										<em>Matures:</em> 05/01/2028
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>12</td>
+							<td>
+								04/30/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    MEMPHIS TENN GEN IMPT BDS 2018 
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.50%<br>
+										<em>Matures:</em> 06/01/2037
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>13</td>
+							<td>
+								05/21/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    SHW
+                                
+                                
+                            </td>
+							<td>
+								
+                                    The Sherwin-Williams Company
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>14</td>
+							<td>
+								05/23/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    MASON MICH PUB SCHS DIST SCH BLDG AND SITE BDS 2018-1 MICHIGAN SCHOOL BOND LOAN FUND (Q-SBLF) DUE 05/01/2038
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.375%<br>
+										<em>Matures:</em> 05/01/2038
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>15</td>
+							<td>
+								05/23/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    GENERAL ELEC CAP CORP 04.050% 021527 DTD022412
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 04.050%<br>
+										<em>Matures:</em> 02/15/27
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>16</td>
+							<td>
+								06/05/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    NORDSTROM INC B/E 04.000% 031527 DTD030917
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 04.000%<br>
+										<em>Matures:</em> 03/15/27
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>17</td>
+							<td>
+								06/05/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    HUMANA INC NTS B/E 03.950% 031527 DTD031617
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 03.950%<br>
+										<em>Matures:</em> 03/15/2027
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>18</td>
+							<td>
+								06/27/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    AMARILLO TEX GO BDS2018
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.50%<br>
+										<em>Matures:</em> 02/15/2039
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>19</td>
+							<td>
+								08/22/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    HEALTHCARE REALY TR INC 03.875% 050125 DTD042415
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 03.875%<br>
+										<em>Matures:</em> 05/01/2025
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>20</td>
+							<td>
+								09/24/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    LENAWEE CNTY MICH GO LTD TAX BDS 2018 DUE 05/01/2032
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.25%<br>
+										<em>Matures:</em> 05/01/2032
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>21</td>
+							<td>
+								09/27/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    CAPITAL ONE FINANCIAL CO 04.200% 102925 DTD102915
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 04.200%<br>
+										<em>Matures:</em> 10/29/25
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>22</td>
+							<td>
+								10/24/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    MADISON ALA GO SCH WTS 2018 D DUE 02/01/2034
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.625%<br>
+										<em>Matures:</em> 02/01/2034
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>23</td>
+							<td>
+								10/24/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    LEXINGTON-FAYETTE URBAN CNTY GOVT KY GO VAR PURP GO BDS 2018A DUE 10/01/2036
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.50%<br>
+										<em>Matures:</em> 10/01/2036
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>24</td>
+							<td>
+								10/30/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    T
+                                
+                                
+                            </td>
+							<td>
+								
+                                    AT&amp;T Inc.
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>25</td>
+							<td>
+								10/30/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    GE
+                                
+                                
+                            </td>
+							<td>
+								
+                                    General Electric Company
+                                
+								
+							</td>
+							<td>Sale (Full)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>26</td>
+							<td>
+								11/09/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    MARSH &amp; MCLENNAN COS INC 03.500% 060324 DTD053014
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 03.500%<br>
+										<em>Matures:</em> 06/03/2024
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>27</td>
+							<td>
+								11/09/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    GIS
+                                
+                                
+                            </td>
+							<td>
+								
+                                    General Mills, Inc.
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>28</td>
+							<td>
+								11/09/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    WARRINGTON TWP PA GO BDS 2014 DUE 12/01/2029
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 3.125%<br>
+										<em>Matures:</em> 12/01/2029
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>29</td>
+							<td>
+								11/16/2018
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    NEXTERA ENERGY CAPITAL 03.550% 050127 DTD042817
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 03.550%<br>
+										<em>Matures:</em> 05/01/27
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4b. Transactions
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child buy, sell, or exchange an asset that exceeded $1,000?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Transaction Type</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Federal Money Market Fund
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/02/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>01/16/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/01/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>03/12/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>03/26/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/02/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>05/18/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>05/29/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/14/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/28/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								11</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/13/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								12</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/30/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								13</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>08/14/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								14</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>08/29/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								15</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/08/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								16</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/12/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								17</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/23/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								18</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/06/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								19</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWELX" target="_blank">VWELX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Wellington Fund Investor Shares
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/19/2018</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								20</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=FFFEX" target="_blank">FFFEX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Fidelity Freedom 2030 Fund
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>05/09/2018</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 5. Gifts
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 6. Travel
+				
+			</h3>
+			<p class="popover0">
+				Did you, your spouse, or dependent child receive any <button data-toggle="popover" type="button" aria-haspopup="true" data-html="true" data-title="When is travel reportable? <button type='button' tabindex='0' id='jsPopoverClose' aria-label='close' class='close'><i class='fa fa-times' aria-hidden='true'><span class='sr-only'>Close</span></i></button>" data-template="<div class=&quot;popover popover__fixMedium&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header&quot;></h3><div class=&quot;popover-body&quot;></div></div>" class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="<p>If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $350, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $350.</p>" data-original-title="" title="">reportable travel</button>?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 7. Liabilities
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child have a reportable liability worth more than $10,000 at any time?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of liabilities added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Incurred</th>
+						<th scope="col">Debtor</th>
+						<th scope="col">Type</th>
+						<th scope="col">Points</th>
+						<th scope="col">Rate<br>(Term)</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Creditor</th>
+						<th scope="col">Comments</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								2013
+							</td>
+							<td>Joint</td>
+							<td>Mortgage
+								</td>
+							<td>
+								1</td>
+							<td>
+								3.7%<br>
+								
+														(30 years)
+								
+							</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								BB&amp;T
+								<div class="muted">Charlotte, NC</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 8. Positions
+				
+			</h3>
+			<p>
+				Did you hold any outside positions during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 9. Agreements
+				
+			</h3>
+			<p>
+				Did you have any reportable agreement or arrangement with an outside entity?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of agreements or arrangements added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Parties Involved</th>
+						<th scope="col">Type</th>
+						<th scope="col">Status and Terms</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Jan 2003
+							</td>
+							<td>
+								Myself and the Michigan Legislative Retirement System
+								<div class="muted">Lansing, MI</div>
+							</td>
+							<td>Continuing participation in an employee benefit plan
+								
+							</td>
+							<td>Participation in the Michigan Legislative Retirement Health Program</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								Dec 2013
+							</td>
+							<td>
+								Myself and the Michigan Legislative Retirement System
+								<div class="muted">Lansing, MI</div>
+							</td>
+							<td>Continuation of payments by former employer
+								
+							</td>
+							<td>Currently Receiving Benefits- See Income in Part 2</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								Jan 2000
+							</td>
+							<td>
+								State of Michigan
+								<div class="muted">Lansing, MI</div>
+							</td>
+							<td>Continuing participation in an employee benefit plan
+								
+							</td>
+							<td>State of Michigan 401(k) Plan/
+Account Balance Remaining at Former Employer Plan/
+Former Employer Not Making Any Additional Contributions</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>
+								Jan 2000
+							</td>
+							<td>
+								State of Michigan
+								<div class="muted">Lansing, MI</div>
+							</td>
+							<td>Continuing participation in an employee benefit plan
+								
+							</td>
+							<td>State of Michigan 457 Plan/
+Account Balance Remaining at Former Employer Plan/
+Former Employer Not Making Any Additional Contributions</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 10. Compensation
+				
+			</h3>
+			<p>
+				<strong>If this is your first report, or you are a candidate</strong> did you receive compensation of more than $5,000 from a single source in the <strong>two</strong> prior years? 
+				<strong>
+					
+						This is not my first report.
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Attachments &amp; Comments
+				
+			</h3>
+
+			
+				<em class="muted">No attachments added.</em>
+			
+
+			
+				<br>
+				<em class="text-muted">No comments added.</em>
+			
+		</div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

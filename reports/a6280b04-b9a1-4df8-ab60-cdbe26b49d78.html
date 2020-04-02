@@ -1,0 +1,1938 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: Print Periodic Transaction Report</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+    <style type="text/css">
+		.txtLogo {display: none;}
+	</style>
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+    <style type="text/css">
+        .navbar-nav  { display:none;}
+    </style>
+    <strong class="d-print-none return-search">
+        Return to the search tab to select another report.
+    </strong>
+    <div class="justify-content-between">
+        <div>
+            <h1 class="mb-2">
+                Periodic Transaction Report
+                
+                    for 05/16/2014
+                
+            </h1>
+
+            <h2 class="filedReport">
+                The Honorable Susan
+                M Collins
+                
+                (Collins, Susan M.)
+            </h2>
+
+            <p class="muted">
+                <strong class="noWrap"><i class="fa fa-folder" aria-hidden="true" title="folder icon"></i> Filed  05/16/2014 @ 8:46 AM</strong>
+            </p>
+        </div>
+        <div>
+            <span class="d-print-none">
+                <a class="btn btn-primary" href="javascript:window.print()"><i class="fa fa-print mr-1"></i>Print Report</a>
+            </span>
+        </div>
+    </div>
+
+    <hr>
+
+    <p>The following statements were checked before filing:</p>
+
+    <div class="mb-4">
+        <label class="form-check-label">
+            <input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+            I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+        </label>
+        <label class="form-check-label">
+            <input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+            I understand that reports cannot be edited once filed. To make corrections, I will submit an <em>electronic</em> amendment to this report.
+        </label>
+    </div>
+
+
+	<section class="card">
+        <div class="card-body">
+            <h3 class="d-inline-block">
+                 <i class="fa fa-list mr-1" aria-hidden="true" title="List icon"></i>Transactions
+            </h3>
+            <ul class="unstyled list-inline d-inline-block ml-2">
+                <li class="list-inline-item">(64 transactions total)</li>
+                <li class="list-inline-item">0 Self</li>
+                <li class="list-inline-item">0 Joint</li>
+                <li class="list-inline-item">64 Spouse</li>
+                <li class="list-inline-item">0 Dependent Child</li>
+            </ul>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <caption class="sr-only">List of transactions added to this report</caption>
+                    <thead>
+                        <tr class="header">
+                            <th scope="col">#</th>
+                            <th scope="col">Transaction Date</th>
+                            <th scope="col">Owner</th>
+                            <th scope="col">Ticker</th>
+                            <th scope="col">Asset Name</th>
+                            <th scope="col">Asset Type</th>
+                            <th scope="col">Type</th>
+                            <th scope="col">Amount</th>
+                            <th scope="col">Comment</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                            
+                                <tr>
+                                    <td>64</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=YHOO" target="_blank">YHOO</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Yahoo! Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>63</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Wells Fargo &amp; Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>62</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WM" target="_blank">WM</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Waste Management, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>61</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=VVC" target="_blank">VVC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Vectren Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>60</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=VR" target="_blank">VR</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Validus Holdings, Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>59</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=VRX" target="_blank">VRX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Valeant Pharmaceuticals International, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>58</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            V.F. Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>57</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=UTX" target="_blank">UTX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            United Technologies Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>56</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=UNP" target="_blank">UNP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Union Pacific Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>55</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=UL" target="_blank">UL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Unilever plc (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>54</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=UMPQ" target="_blank">UMPQ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Umpqua Holdings Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>53</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TUP" target="_blank">TUP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Tupperware Brands Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>52</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TEL" target="_blank">TEL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            TE Connectivity Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>51</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TGT" target="_blank">TGT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Target Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>50</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAL" target="_blank">TAL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            TAL International Group, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>49</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=HOT" target="_blank">HOT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Starwood Hotels &amp; Resorts Worldwide Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>48</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Starbucks Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>47</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=SE" target="_blank">SE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Spectra Energy Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>46</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=RPM" target="_blank">RPM</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            RPM International Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>45</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=RHHBY" target="_blank">RHHBY</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Roche Holding AG (OTC Markets)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>44</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            QUALCOMM Incorporated (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>43</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Pepsico, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>42</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PWE" target="_blank">PWE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Penn West Petroleum Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>41</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PACW" target="_blank">PACW</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            PacWest Bancorp (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>40</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Oracle Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>39</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=OHI" target="_blank">OHI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Omega Healthcare Investors Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>38</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=NEE" target="_blank">NEE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            NextEra Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>37</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=NWL" target="_blank">NWL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Newell Rubbermaid Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>36</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=MGRC" target="_blank">MGRC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            McGrath Rentcorp (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>35</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=MXIM" target="_blank">MXIM</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Maxim Integrated Products, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>34</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Macy's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>33</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=MTSC" target="_blank">MTSC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            MTS Systems Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>32</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=LDR" target="_blank">LDR</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Landauer Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>31</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=JCOM" target="_blank">JCOM</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            j2 Global, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>30</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=IP" target="_blank">IP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            International Paper Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>29</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=IEX" target="_blank">IEX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            IDEX Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>28</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=HMC" target="_blank">HMC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Honda Motor Co., Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>27</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=HTS" target="_blank">HTS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Hatteras Financial Corp (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>26</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=HAS" target="_blank">HAS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Hasbro Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>25</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=HNI" target="_blank">HNI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            HNI Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>24</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            General Motors Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>23</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FLY" target="_blank">FLY</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            FLY Leasing Limited (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>22</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FMER" target="_blank">FMER</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            FirstMerit Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>21</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FFBC" target="_blank">FFBC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            First Financial Bancorp. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>20</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Facebook, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>19</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Express Scripts Holding Company (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>18</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Walt Disney Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>17</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DLR" target="_blank">DLR</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Digital Realty Trust Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>16</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CYS" target="_blank">CYS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CYS Investments, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>15</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CY" target="_blank">CY</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Cypress Semiconductor Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>14</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CNSL" target="_blank">CNSL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Consolidated Communications Holdings Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>13</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CPSI" target="_blank">CPSI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Computer Programs &amp; Systems Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>12</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CTBI" target="_blank">CTBI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Community Trust Bancorp Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>11</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CLNY" target="_blank">CLNY</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Colony Financial, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>10</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CHCO" target="_blank">CHCO</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            City Holding Co. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>9</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Celgene Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>8</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBT" target="_blank">CBT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Cabot Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>7</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Bank of America Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>6</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BGS" target="_blank">BGS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            B&amp;G Foods Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>5</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ALV" target="_blank">ALV</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Autoliv, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>4</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ARCC" target="_blank">ARCC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Ares Capital Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>3</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            American Tower Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>2</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Amazon.com Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>1</td>
+                                    <td>
+                                        05/07/2014
+                                    </td>
+                                    <td>Spouse</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ADC" target="_blank">ADC</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Agree Realty Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td></td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

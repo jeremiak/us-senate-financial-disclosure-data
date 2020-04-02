@@ -1,0 +1,3580 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: Print Periodic Transaction Report</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+    <style type="text/css">
+		.txtLogo {display: none;}
+	</style>
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+    <style type="text/css">
+        .navbar-nav  { display:none;}
+    </style>
+    <strong class="d-print-none return-search">
+        Return to the search tab to select another report.
+    </strong>
+    <div class="justify-content-between">
+        <div>
+            <h1 class="mb-2">
+                Periodic Transaction Report
+                
+                    for 06/04/2015
+                
+            </h1>
+
+            <h2 class="filedReport">
+                Mr. David
+                A Perdue 
+                 Jr
+                (Perdue, David)
+            </h2>
+
+            <p class="muted">
+                <strong class="noWrap"><i class="fa fa-folder" aria-hidden="true" title="folder icon"></i> Filed  06/04/2015 @ 3:38 PM</strong>
+            </p>
+        </div>
+        <div>
+            <span class="d-print-none">
+                <a class="btn btn-primary" href="javascript:window.print()"><i class="fa fa-print mr-1"></i>Print Report</a>
+            </span>
+        </div>
+    </div>
+
+    <hr>
+
+    <p>The following statements were checked before filing:</p>
+
+    <div class="mb-4">
+        <label class="form-check-label">
+            <input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+            I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+        </label>
+        <label class="form-check-label">
+            <input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+            I understand that reports cannot be edited once filed. To make corrections, I will submit an <em>electronic</em> amendment to this report.
+        </label>
+    </div>
+
+
+	<section class="card">
+        <div class="card-body">
+            <h3 class="d-inline-block">
+                 <i class="fa fa-list mr-1" aria-hidden="true" title="List icon"></i>Transactions
+            </h3>
+            <ul class="unstyled list-inline d-inline-block ml-2">
+                <li class="list-inline-item">(127 transactions total)</li>
+                <li class="list-inline-item">0 Self</li>
+                <li class="list-inline-item">127 Joint</li>
+                <li class="list-inline-item">0 Spouse</li>
+                <li class="list-inline-item">0 Dependent Child</li>
+            </ul>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <caption class="sr-only">List of transactions added to this report</caption>
+                    <thead>
+                        <tr class="header">
+                            <th scope="col">#</th>
+                            <th scope="col">Transaction Date</th>
+                            <th scope="col">Owner</th>
+                            <th scope="col">Ticker</th>
+                            <th scope="col">Asset Name</th>
+                            <th scope="col">Asset Type</th>
+                            <th scope="col">Type</th>
+                            <th scope="col">Amount</th>
+                            <th scope="col">Comment</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                            
+                                <tr>
+                                    <td>127</td>
+                                    <td>
+                                        02/23/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Boeing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>126</td>
+                                    <td>
+                                        02/24/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=SMEZ" target="_blank">SMEZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            SPDR EURO STOXX Small Cap ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>125</td>
+                                    <td>
+                                        03/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Caterpillar Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>124</td>
+                                    <td>
+                                        03/25/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            SPDR S&amp;P 500 ETF Trust (NYSEArca)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>123</td>
+                                    <td>
+                                        05/20/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Regions Financial Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>122</td>
+                                    <td>
+                                        05/20/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CL" target="_blank">CL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Colgate-Palmolive Co. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>121</td>
+                                    <td>
+                                        01/15/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CLX" target="_blank">CLX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Clorox Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>120</td>
+                                    <td>
+                                        01/22/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BCR" target="_blank">BCR</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CR Bard Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>119</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Sysco Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>118</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Procter &amp; Gamble Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>117</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FOX" target="_blank">FOX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Twenty-First Century Fox, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>116</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AVP" target="_blank">AVP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Avon Products Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>115</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Twenty-First Century Fox, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>114</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Johnson &amp; Johnson (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>113</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Coca-Cola Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>112</td>
+                                    <td>
+                                        04/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Microsoft Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>111</td>
+                                    <td>
+                                        05/06/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Sysco Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>110</td>
+                                    <td>
+                                        05/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CMCSK" target="_blank">CMCSK</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Comcast Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>109</td>
+                                    <td>
+                                        05/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FOX" target="_blank">FOX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Twenty-First Century Fox, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>108</td>
+                                    <td>
+                                        05/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CMCSK" target="_blank">CMCSK</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Comcast Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>107</td>
+                                    <td>
+                                        05/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=FOX" target="_blank">FOX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Twenty-First Century Fox, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>106</td>
+                                    <td>
+                                        01/07/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AM" target="_blank">AM</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Antero Midstream Partners LP (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>105</td>
+                                    <td>
+                                        01/14/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AR" target="_blank">AR</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Antero Resources Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>104</td>
+                                    <td>
+                                        01/15/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Buckeye Partners, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>103</td>
+                                    <td>
+                                        02/10/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>102</td>
+                                    <td>
+                                        02/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>101</td>
+                                    <td>
+                                        02/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>100</td>
+                                    <td>
+                                        02/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>99</td>
+                                    <td>
+                                        02/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>98</td>
+                                    <td>
+                                        02/17/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>97</td>
+                                    <td>
+                                        02/18/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>96</td>
+                                    <td>
+                                        02/19/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>95</td>
+                                    <td>
+                                        02/26/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Plains All American Pipeline, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>94</td>
+                                    <td>
+                                        03/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=NGLS" target="_blank">NGLS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Targa Resources Partners LP (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>93</td>
+                                    <td>
+                                        03/03/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=NGLS" target="_blank">NGLS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Targa Resources Partners LP (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>92</td>
+                                    <td>
+                                        03/04/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=NGLS" target="_blank">NGLS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Targa Resources Partners LP (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>91</td>
+                                    <td>
+                                        03/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ETE" target="_blank">ETE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Energy Transfer Equity, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>90</td>
+                                    <td>
+                                        03/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ETE" target="_blank">ETE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Energy Transfer Equity, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>89</td>
+                                    <td>
+                                        03/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ETE" target="_blank">ETE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Energy Transfer Equity, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>88</td>
+                                    <td>
+                                        05/21/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Plains All American Pipeline, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>87</td>
+                                    <td>
+                                        05/21/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Plains All American Pipeline, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>86</td>
+                                    <td>
+                                        05/22/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Plains All American Pipeline, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>85</td>
+                                    <td>
+                                        05/22/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Plains All American Pipeline, L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>84</td>
+                                    <td>
+                                        01/08/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>83</td>
+                                    <td>
+                                        01/08/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>82</td>
+                                    <td>
+                                        01/08/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>81</td>
+                                    <td>
+                                        01/09/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>80</td>
+                                    <td>
+                                        01/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>79</td>
+                                    <td>
+                                        01/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BK" target="_blank">BK</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Bank of New York Mellon Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>78</td>
+                                    <td>
+                                        01/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>77</td>
+                                    <td>
+                                        01/14/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>76</td>
+                                    <td>
+                                        01/14/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>75</td>
+                                    <td>
+                                        01/14/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ZTS" target="_blank">ZTS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Zoetis Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>74</td>
+                                    <td>
+                                        01/21/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>73</td>
+                                    <td>
+                                        01/23/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>72</td>
+                                    <td>
+                                        01/26/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BK" target="_blank">BK</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Bank of New York Mellon Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>71</td>
+                                    <td>
+                                        01/27/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>70</td>
+                                    <td>
+                                        01/27/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAP" target="_blank">TAP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Molson Coors Brewing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>69</td>
+                                    <td>
+                                        01/29/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAP" target="_blank">TAP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Molson Coors Brewing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>68</td>
+                                    <td>
+                                        01/29/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ZTS" target="_blank">ZTS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Zoetis Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>67</td>
+                                    <td>
+                                        01/30/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=ZTS" target="_blank">ZTS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Zoetis Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>66</td>
+                                    <td>
+                                        02/03/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAP" target="_blank">TAP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Molson Coors Brewing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>65</td>
+                                    <td>
+                                        02/04/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAP" target="_blank">TAP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Molson Coors Brewing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>64</td>
+                                    <td>
+                                        02/04/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>63</td>
+                                    <td>
+                                        02/04/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>62</td>
+                                    <td>
+                                        02/05/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>61</td>
+                                    <td>
+                                        02/05/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>60</td>
+                                    <td>
+                                        02/05/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>59</td>
+                                    <td>
+                                        02/05/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CIT" target="_blank">CIT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CIT Group Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>58</td>
+                                    <td>
+                                        02/06/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Aaron's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>57</td>
+                                    <td>
+                                        02/09/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>56</td>
+                                    <td>
+                                        02/10/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WOOF" target="_blank">WOOF</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            VCA Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>55</td>
+                                    <td>
+                                        02/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAP" target="_blank">TAP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Molson Coors Brewing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>54</td>
+                                    <td>
+                                        02/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=XLS-WI" target="_blank">XLS-WI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Exelis Inc. Common Stock Ex-Dis (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>53</td>
+                                    <td>
+                                        02/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CIT" target="_blank">CIT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CIT Group Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>52</td>
+                                    <td>
+                                        02/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>51</td>
+                                    <td>
+                                        02/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>50</td>
+                                    <td>
+                                        02/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>49</td>
+                                    <td>
+                                        02/17/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CIT" target="_blank">CIT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CIT Group Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>48</td>
+                                    <td>
+                                        02/17/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>47</td>
+                                    <td>
+                                        02/20/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CBS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>46</td>
+                                    <td>
+                                        02/26/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>45</td>
+                                    <td>
+                                        03/02/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CIT" target="_blank">CIT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CIT Group Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>44</td>
+                                    <td>
+                                        03/03/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>43</td>
+                                    <td>
+                                        03/03/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=XLS-WI" target="_blank">XLS-WI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Exelis Inc. Common Stock Ex-Dis (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>42</td>
+                                    <td>
+                                        03/05/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=XLS-WI" target="_blank">XLS-WI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Exelis Inc. Common Stock Ex-Dis (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>41</td>
+                                    <td>
+                                        03/06/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>40</td>
+                                    <td>
+                                        03/09/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>39</td>
+                                    <td>
+                                        03/09/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=XLS-WI" target="_blank">XLS-WI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Exelis Inc. Common Stock Ex-Dis (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>38</td>
+                                    <td>
+                                        03/10/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>37</td>
+                                    <td>
+                                        03/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>36</td>
+                                    <td>
+                                        03/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=XLS-WI" target="_blank">XLS-WI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Exelis Inc. Common Stock Ex-Dis (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>35</td>
+                                    <td>
+                                        03/11/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>34</td>
+                                    <td>
+                                        03/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>33</td>
+                                    <td>
+                                        03/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>32</td>
+                                    <td>
+                                        03/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=CIT" target="_blank">CIT</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            CIT Group Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>31</td>
+                                    <td>
+                                        03/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>30</td>
+                                    <td>
+                                        03/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>29</td>
+                                    <td>
+                                        03/16/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>28</td>
+                                    <td>
+                                        03/16/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>27</td>
+                                    <td>
+                                        03/16/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=XLS-WI" target="_blank">XLS-WI</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Exelis Inc. Common Stock Ex-Dis (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>26</td>
+                                    <td>
+                                        03/16/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$15,001 - $50,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>25</td>
+                                    <td>
+                                        03/18/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>24</td>
+                                    <td>
+                                        03/18/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>23</td>
+                                    <td>
+                                        03/19/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=BK" target="_blank">BK</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Bank of New York Mellon Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>22</td>
+                                    <td>
+                                        03/20/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>21</td>
+                                    <td>
+                                        03/27/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>20</td>
+                                    <td>
+                                        03/27/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>19</td>
+                                    <td>
+                                        04/17/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>18</td>
+                                    <td>
+                                        04/23/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>17</td>
+                                    <td>
+                                        04/24/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>16</td>
+                                    <td>
+                                        04/24/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Knowles Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>15</td>
+                                    <td>
+                                        04/29/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Pfizer Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>14</td>
+                                    <td>
+                                        04/15/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            The Mosaic Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>13</td>
+                                    <td>
+                                        05/06/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Pfizer Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>12</td>
+                                    <td>
+                                        05/06/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Pfizer Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>11</td>
+                                    <td>
+                                        05/07/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Pfizer Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>10</td>
+                                    <td>
+                                        05/07/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAP" target="_blank">TAP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Molson Coors Brewing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>9</td>
+                                    <td>
+                                        05/14/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Pfizer Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Partial)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>8</td>
+                                    <td>
+                                        05/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>7</td>
+                                    <td>
+                                        05/13/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>6</td>
+                                    <td>
+                                        05/14/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>5</td>
+                                    <td>
+                                        05/14/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=TAP" target="_blank">TAP</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Molson Coors Brewing Company (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Sale (Full)</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>4</td>
+                                    <td>
+                                        05/15/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Axiall Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>3</td>
+                                    <td>
+                                        05/29/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Discovery Communications, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    </td>
+                                    <td>Stock</td>
+                                    <td>Purchase</td>
+
+                                    <td>$1,001 - $15,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>2</td>
+                                    <td>
+                                        01/06/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            --
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Gainesville GA WTR &amp; SWR REV
+                                        
+                                        
+                                        
+                                            <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 11/15/21</div>
+                                        
+                                    </td>
+                                    <td>Municipal Security</td>
+                                    <td>Purchase</td>
+
+                                    <td>$500,001 - $1,000,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                                <tr>
+                                    <td>1</td>
+                                    <td>
+                                        01/12/2015
+                                    </td>
+                                    <td>Joint</td>
+                                    <td>
+                                        
+                                            --
+                                        
+                                        
+                                    </td>
+                                    <td>
+                                        
+                                            Atlanta GA GO
+                                        
+                                        
+                                        
+                                            <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 12/01/21</div>
+                                        
+                                    </td>
+                                    <td>Municipal Security</td>
+                                    <td>Purchase</td>
+
+                                    <td>$500,001 - $1,000,000</td>
+                                    <td>--</td>
+                                </tr>
+                            
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

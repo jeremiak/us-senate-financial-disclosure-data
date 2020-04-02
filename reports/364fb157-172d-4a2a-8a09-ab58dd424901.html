@@ -1,0 +1,5384 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: 
+	Annual Report for 2014 -
+	
+		Toomey,
+	
+	
+		Patrick
+	
+
+	
+		J
+	
+</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+	<style type="text/css">
+		.txtLogo {
+			display: none;
+		}
+	</style>
+
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+	<style type="text/css">
+		.navbar-nav {
+			display: none;
+		}
+	</style>
+	<strong class="d-print-none return-search">
+		Return to the search tab to select another report.
+	</strong>
+	<div class="justify-content-between">
+		<div>
+			<h1 class="mb-2">
+				
+					Annual
+				
+					Report for
+				
+				Calendar 2014 
+				
+				
+					(Amendment 1)
+				
+			</h1>
+			<h2 class="filedReport">
+				
+					The Honorable
+				
+
+				
+					Patrick
+				
+
+				
+					J
+				
+
+				
+					Toomey
+				
+
+				
+
+				
+					
+						(Toomey, Pat)
+					
+				
+			</h2>
+			
+			<p class="muted font-weight-bold">
+				<i class="fa fa-folder-open"></i>
+				Filed 08/17/2015 @ 2:56 PM
+			</p>
+		</div>
+		<div>
+            <span class="d-print-none">
+                <a href="javascript:window.print()" class="btn btn-primary"><i class="fa fa-print mr-1" aria-hidden="true"></i> Print Report</a>
+            </span>
+		</div>
+	</div>
+
+	<hr>
+
+	<p>The following statements were checked before filing:</p>
+
+	<div class="mb-4">
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+			I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+		</label>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+			I understand that reports cannot be edited once filed. To make corrections, I will submit an
+			<em>electronic</em> amendment to this report.
+		</label>
+		<hr>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_omitted_assets" disabled="disabled" class="form-check-input">
+			I
+			<em>omitted</em> assets because they meet the three-part test for exemption.
+		</label>
+	</div>
+
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+				
+			</h3>
+			<p>
+				Did any individual or organization pay you or your spouse more than $200 or donate any amount to a charity on your behalf, for an article, speech, or appearance?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of honoraria added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Activity</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Who Paid?</th>
+						<th scope="col">Who received payment?</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								02/07/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,200.00</td>
+							<td>
+								McCullough Family
+								<div class="muted">Newtown Square, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								03/08/2014
+							</td>
+							<td>Appearance</td>
+							<td>$440.00</td>
+							<td>
+								Drew Grivna
+								<div class="muted">Beaver, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$2,000.00</td>
+							<td>
+								Charles Ryan
+								<div class="muted">West Chester, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>
+								04/12/2014
+							</td>
+							<td>Appearance</td>
+							<td>$510.00</td>
+							<td>
+								Janet Libert
+								<div class="muted">Eagleville, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>
+								03/01/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,040.00</td>
+							<td>
+								Ted George
+								<div class="muted">New Brighton, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>
+								05/09/2014
+							</td>
+							<td>Appearance</td>
+							<td>$600.00</td>
+							<td>
+								Kim Matus
+								<div class="muted">Chester Springs, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>
+								02/08/2014
+							</td>
+							<td>Appearance</td>
+							<td>$2,000.00</td>
+							<td>
+								Hans Zandhuis
+								<div class="muted">Lafayette Hill, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>
+								04/11/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Sean T. O’Hara
+								<div class="muted">Media, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>
+								04/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$700.00</td>
+							<td>
+								Julie Simmons
+								<div class="muted">West Chester, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>
+								01/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$40.00</td>
+							<td>
+								Carly Bossert
+								<div class="muted">Philadelphia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								11</td>
+							<td>
+								03/29/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Mark Duca
+								<div class="muted">Pittsburgh, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								12</td>
+							<td>
+								04/12/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,000.00</td>
+							<td>
+								Jude Sweeney and Michele McNally
+								<div class="muted">Souderton, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								13</td>
+							<td>
+								04/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$562.00</td>
+							<td>
+								Dr. and Mrs. Daniel Lozano
+								<div class="muted">Bethlehem, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								14</td>
+							<td>
+								04/10/2014
+							</td>
+							<td>Appearance</td>
+							<td>$320.00</td>
+							<td>
+								Ester Silk
+								<div class="muted">Wyndmoor, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								15</td>
+							<td>
+								05/03/2014
+							</td>
+							<td>Appearance</td>
+							<td>$450.00</td>
+							<td>
+								Jennifer and Patrick Hewitt
+								<div class="muted">RTP, NC</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								16</td>
+							<td>
+								03/14/2014
+							</td>
+							<td>Appearance</td>
+							<td>$184.00</td>
+							<td>
+								Jack and Judy Maher
+								<div class="muted">Greensburg, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								17</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$160.00</td>
+							<td>
+								Mary England
+								<div class="muted">Chester, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								18</td>
+							<td>
+								04/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								James and Jacqueline Delaney
+								<div class="muted">Aston, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								19</td>
+							<td>
+								04/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$300.00</td>
+							<td>
+								Andrew and Angel Smith
+								<div class="muted">DuBois, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								20</td>
+							<td>
+								04/30/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Allison Biloon
+								<div class="muted">Kennett Square, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								21</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$400.00</td>
+							<td>
+								Stephanie Kosta
+								<div class="muted">Drexel Hill, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								22</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$400.00</td>
+							<td>
+								Stephanie Kosta
+								<div class="muted">Drexel Hill, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								23</td>
+							<td>
+								05/15/2014
+							</td>
+							<td>Appearance</td>
+							<td>$160.00</td>
+							<td>
+								Hy DePamphilis
+								<div class="muted">State College, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								24</td>
+							<td>
+								05/30/2014
+							</td>
+							<td>Appearance</td>
+							<td>$90.00</td>
+							<td>
+								Mark Kosci
+								<div class="muted">Downingtown, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								25</td>
+							<td>
+								06/20/2015
+							</td>
+							<td>Appearance</td>
+							<td>$1,150.00</td>
+							<td>
+								John Cahalane
+								<div class="muted">King of Prussia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								26</td>
+							<td>
+								05/17/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Stephanie Nichols
+								<div class="muted">Berwyn, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								27</td>
+							<td>
+								09/15/2014
+							</td>
+							<td>Appearance</td>
+							<td>$100.00</td>
+							<td>
+								Debbie Mundy
+								<div class="muted">Wyndmoor, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								28</td>
+							<td>
+								06/21/2014
+							</td>
+							<td>Appearance</td>
+							<td>$900.00</td>
+							<td>
+								Andrew Winn
+								<div class="muted">Brandywine, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								29</td>
+							<td>
+								06/09/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Paul Gartland
+								<div class="muted">York, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								30</td>
+							<td>
+								06/14/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,500.00</td>
+							<td>
+								Michel and Linda Burg
+								<div class="muted">Exton, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								31</td>
+							<td>
+								06/14/2014
+							</td>
+							<td>Appearance</td>
+							<td>$950.00</td>
+							<td>
+								Matt Ebert
+								<div class="muted">Macungie, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								32</td>
+							<td>
+								05/07/2014
+							</td>
+							<td>Appearance</td>
+							<td>$650.00</td>
+							<td>
+								Jen Strobel
+								<div class="muted">Philadelphia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								33</td>
+							<td>
+								09/13/2014
+							</td>
+							<td>Appearance</td>
+							<td>$645.00</td>
+							<td>
+								Bill Holler
+								<div class="muted">Walnutport, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								34</td>
+							<td>
+								10/06/2014
+							</td>
+							<td>Appearance</td>
+							<td>$200.00</td>
+							<td>
+								Michael Stroock
+								<div class="muted">Bethlehem, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								35</td>
+							<td>
+								10/23/2014
+							</td>
+							<td>Appearance</td>
+							<td>$275.00</td>
+							<td>
+								Cheryl Simon
+								<div class="muted">Wales, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								36</td>
+							<td>
+								09/27/2014
+							</td>
+							<td>Appearance</td>
+							<td>$675.00</td>
+							<td>
+								Elaine Golden
+								<div class="muted">Walnutport, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								37</td>
+							<td>
+								10/09/2014
+							</td>
+							<td>Appearance</td>
+							<td>$190.00</td>
+							<td>
+								David Lance
+								<div class="muted">Washington, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								38</td>
+							<td>
+								10/18/2014
+							</td>
+							<td>Appearance</td>
+							<td>$525.00</td>
+							<td>
+								Art and Dawn Anderson
+								<div class="muted">Bethlehem, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								39</td>
+							<td>
+								10/09/2014
+							</td>
+							<td>Appearance</td>
+							<td>$220.00</td>
+							<td>
+								Kenn Starr
+								<div class="muted">Clearfield, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								40</td>
+							<td>
+								11/14/2014
+							</td>
+							<td>Appearance</td>
+							<td>$2,000.00</td>
+							<td>
+								Lori Russell
+								<div class="muted">Pittsburgh, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								41</td>
+							<td>
+								05/15/2014
+							</td>
+							<td>Appearance</td>
+							<td>$350.00</td>
+							<td>
+								Justin Comiskey
+								<div class="muted">Philadelphia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								42</td>
+							<td>
+								09/19/2014
+							</td>
+							<td>Appearance</td>
+							<td>$700.00</td>
+							<td>
+								Eric Laboz
+								<div class="muted">Blue Bell, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								43</td>
+							<td>
+								11/14/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,500.00</td>
+							<td>
+								Daniel Pinchot 
+								<div class="muted">New Brighton, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								44</td>
+							<td>
+								09/27/2014
+							</td>
+							<td>Appearance</td>
+							<td>$210.00</td>
+							<td>
+								Kim and Steve Niggeman
+								<div class="muted">Chester Springs, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								45</td>
+							<td>
+								09/18/2014
+							</td>
+							<td>Appearance</td>
+							<td>$200.00</td>
+							<td>
+								Nicole Warnecke
+								<div class="muted">Philadelphia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								46</td>
+							<td>
+								09/29/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,900.00</td>
+							<td>
+								Amy Clipston
+								<div class="muted">West Chester, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								47</td>
+							<td>
+								04/04/2014
+							</td>
+							<td>Appearance</td>
+							<td>$225.00</td>
+							<td>
+								Stacey and Craig Carter
+								<div class="muted">Allentown, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								48</td>
+							<td>
+								02/23/2014
+							</td>
+							<td>Appearance</td>
+							<td>$650.00</td>
+							<td>
+								Robert Robinowitz
+								<div class="muted">Philadelphia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								49</td>
+							<td>
+								12/06/2014
+							</td>
+							<td>Appearance</td>
+							<td>$420.00</td>
+							<td>
+								Carol Cottone
+								<div class="muted">Media, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								50</td>
+							<td>
+								05/12/2014
+							</td>
+							<td>Appearance</td>
+							<td>$700.00</td>
+							<td>
+								Albert Barton
+								<div class="muted">Philadelphia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								51</td>
+							<td>
+								10/16/2014
+							</td>
+							<td>Appearance</td>
+							<td>$350.00</td>
+							<td>
+								Laura Conzaman
+								<div class="muted">Harrisburg, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								52</td>
+							<td>
+								01/10/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,300.00</td>
+							<td>
+								Tom Fanning
+								<div class="muted">New Holland, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								53</td>
+							<td>
+								09/27/2014
+							</td>
+							<td>Appearance</td>
+							<td>$675.00</td>
+							<td>
+								Elaine Golden
+								<div class="muted">Walnutport, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								54</td>
+							<td>
+								04/10/2014
+							</td>
+							<td>Appearance</td>
+							<td>$321.00</td>
+							<td>
+								Estee Silk
+								<div class="muted">Wyndmoor, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								55</td>
+							<td>
+								10/15/2014
+							</td>
+							<td>Appearance</td>
+							<td>$250.00</td>
+							<td>
+								Louis Perrotto
+								<div class="muted">Pottstown, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								56</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,300.00</td>
+							<td>
+								Nancy Fromhold
+								<div class="muted">Bala Cynwyd, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								57</td>
+							<td>
+								02/20/2014
+							</td>
+							<td>Appearance</td>
+							<td>$200.00</td>
+							<td>
+								Shawna Thornton
+								<div class="muted">Kennett Square, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								58</td>
+							<td>
+								10/06/2014
+							</td>
+							<td>Appearance</td>
+							<td>$300.00</td>
+							<td>
+								Randy and Susan Meyers
+								<div class="muted">Lancaster, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								59</td>
+							<td>
+								05/18/2014
+							</td>
+							<td>Appearance</td>
+							<td>$750.00</td>
+							<td>
+								Gary Cross
+								<div class="muted">Lancaster, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								60</td>
+							<td>
+								03/22/2014
+							</td>
+							<td>Appearance</td>
+							<td>$800.00</td>
+							<td>
+								Oscar Budejen and Clara Jerez
+								<div class="muted">Philadelphia, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								61</td>
+							<td>
+								11/01/2014
+							</td>
+							<td>Appearance</td>
+							<td>$2,000.00</td>
+							<td>
+								Tim and Mary Van Syckle and Beth and Brad Mitchell 
+								<div class="muted">Allentown, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								62</td>
+							<td>
+								04/25/2014
+							</td>
+							<td>Appearance</td>
+							<td>$400.00</td>
+							<td>
+								Tom Neider
+								<div class="muted">Collegeville, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								63</td>
+							<td>
+								04/20/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,000.00</td>
+							<td>
+								Cathy Graham
+								<div class="muted">Media, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								64</td>
+							<td>
+								12/06/2014
+							</td>
+							<td>Appearance</td>
+							<td>$2,000.00</td>
+							<td>
+								Lauren Pugh
+								<div class="muted">Blue Bell, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								65</td>
+							<td>
+								11/02/2014
+							</td>
+							<td>Appearance</td>
+							<td>$485.00</td>
+							<td>
+								William &amp; Kerry Pepper
+								<div class="muted">Ephrata, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								66</td>
+							<td>
+								11/01/2014
+							</td>
+							<td>Appearance</td>
+							<td>$400.00</td>
+							<td>
+								Dan Becker
+								<div class="muted">Ephrata, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								67</td>
+							<td>
+								10/10/2014
+							</td>
+							<td>Appearance</td>
+							<td>$275.00</td>
+							<td>
+								Mike &amp; Allison Kruczak 
+								<div class="muted">Baden, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								68</td>
+							<td>
+								10/19/2014
+							</td>
+							<td>Appearance</td>
+							<td>$300.00</td>
+							<td>
+								Elaine Beeks
+								<div class="muted">Langhorne, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								69</td>
+							<td>
+								06/20/2014
+							</td>
+							<td>Appearance</td>
+							<td>$800.00</td>
+							<td>
+								Mb Goldberg
+								<div class="muted">Philadelphia , PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								70</td>
+							<td>
+								03/01/2014
+							</td>
+							<td>Appearance</td>
+							<td>$260.00</td>
+							<td>
+								Marie Hartlein
+								<div class="muted">Maple Glen, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								71</td>
+							<td>
+								04/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$540.00</td>
+							<td>
+								Michael McGrath
+								<div class="muted">Merion Station, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								72</td>
+							<td>
+								05/18/2014
+							</td>
+							<td>Appearance</td>
+							<td>$825.00</td>
+							<td>
+								Craig Costello 
+								<div class="muted">Latrobe, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								73</td>
+							<td>
+								09/29/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,900.00</td>
+							<td>
+								Amy Clipston
+								<div class="muted">West Chester, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								74</td>
+							<td>
+								06/21/2014
+							</td>
+							<td>Appearance</td>
+							<td>$300.00</td>
+							<td>
+								Anthony &amp; Gabriella Peracchia
+								<div class="muted">Exton, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								75</td>
+							<td>
+								10/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$600.00</td>
+							<td>
+								Candi Kruse
+								<div class="muted">Bethlehem, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								76</td>
+							<td>
+								04/27/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Stacey Dobkin
+								<div class="muted">Bethlehem, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								77</td>
+							<td>
+								04/05/2014
+							</td>
+							<td>Appearance</td>
+							<td>$140.00</td>
+							<td>
+								Ken and Ginny Patterson
+								<div class="muted">Morrisville, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								78</td>
+							<td>
+								09/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,250.00</td>
+							<td>
+								Terra Guido
+								<div class="muted">Phoenixville, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								79</td>
+							<td>
+								10/06/2014
+							</td>
+							<td>Appearance</td>
+							<td>$200.00</td>
+							<td>
+								Michael Stroock
+								<div class="muted">Bethlehem, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								80</td>
+							<td>
+								11/01/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,000.00</td>
+							<td>
+								Beth and Brad Mitchell 
+								<div class="muted">Allentown, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								81</td>
+							<td>
+								06/23/2014
+							</td>
+							<td>Appearance</td>
+							<td>$260.00</td>
+							<td>
+								Ed Stumm
+								<div class="muted">Cranberry Township, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								82</td>
+							<td>
+								04/12/2014
+							</td>
+							<td>Appearance</td>
+							<td>$950.00</td>
+							<td>
+								Scott and Laura Dillman
+								<div class="muted">Malvern, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								83</td>
+							<td>
+								03/15/2014
+							</td>
+							<td>Appearance</td>
+							<td>$900.00</td>
+							<td>
+								Steve and Susan Lazun
+								<div class="muted">Lancaster, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								84</td>
+							<td>
+								04/10/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,000.00</td>
+							<td>
+								Frederic Sargent 
+								<div class="muted">Crafton, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								85</td>
+							<td>
+								04/26/2014
+							</td>
+							<td>Appearance</td>
+							<td>$1,171.00</td>
+							<td>
+								Andrea Lycette and Dr. Chris Lycette
+								<div class="muted">Allentown, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								86</td>
+							<td>
+								10/16/2014
+							</td>
+							<td>Appearance</td>
+							<td>$800.00</td>
+							<td>
+								William and Nancy McGivney
+								<div class="muted">Jenkintown, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								87</td>
+							<td>
+								04/11/2014
+							</td>
+							<td>Appearance</td>
+							<td>$500.00</td>
+							<td>
+								Lorena Ramirez 
+								<div class="muted">Lehighton, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								88</td>
+							<td>
+								02/07/2015
+							</td>
+							<td>Appearance</td>
+							<td>$1,650.00</td>
+							<td>
+								John and Karen Sion
+								<div class="muted">Lafayette Hill, PA</div>
+							</td>
+							<td>A Charity</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 2. Earned and Non-Investment Income
+				
+			</h3>
+			<p>
+				Did you or your spouse have reportable earned income or non-investment income?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 3. Assets
+				
+					<small>
+						<i class="fa fa-asterisk" title="Amended section"></i> Amended
+					</small>
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child own any asset worth more than $1000, have a deposit account with a balance over $5,000, or receive income of more than $200 from an asset?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table id="grid_items" class="table dataTable">
+					<caption class="sr-only">List of assets added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">Asset</th>
+						<th scope="col">Asset Type</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Value</th>
+						<th scope="col">Income Type</th>
+						<th scope="col">Income</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>1</td>
+							<td class="span4"><strong class="marginit-right">Morgan Stanley Traditional IRA 1</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=RSP" target="_blank">RSP</a> - Guggenheim S&amp;P 500 Equal Weight</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IWF" target="_blank">IWF</a> - iShares Russell 1000 Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJK" target="_blank">IJK</a> - iShares S&amp;P MidCap 400 Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJJ" target="_blank">IJJ</a> - iShares S&amp;P Mid-Cap 400 Value</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJT" target="_blank">IJT</a> - iShares S&amp;P Small-Cap 600 Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJR" target="_blank">IJR</a> - iShares Core S&amp;P Small-Cap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=QQQ" target="_blank">QQQ</a> - PowerShares QQQ Trust, Series 1 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a> - SPDR S&amp;P 500</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>1.9</td>
+							<td class="span4"><strong>Morgan Stanley</strong><div class="muted noWrap">(Dallas, TX)</div><div class="muted"><div class="muted"><em>Type: </em>Money Market Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2</td>
+							<td class="span4"><strong class="marginit-right">Morgan Stanley Traditional IRA 2</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AIV" target="_blank">AIV</a> - Apartment Investment and Management Company (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MWE" target="_blank">MWE</a> - MarkWest Energy Partners, L.P. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=RGP" target="_blank">RGP</a> - Regency Energy Partners LP (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a> - ALPS Alerian MLP ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLV" target="_blank">XLV</a> - Health Care Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AIA" target="_blank">AIA</a> - iShares Asia 50</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ILF" target="_blank">ILF</a> - iShares Latin America 40</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IBB" target="_blank">IBB</a> - iShares Nasdaq Biotechnology</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.9</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=DBP" target="_blank">DBP</a> - PowerShares DB Precious Metals</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.10</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PSP" target="_blank">PSP</a> - PowerShares Global Listed Private Eq</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.11</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=GLD" target="_blank">GLD</a> - SPDR Gold Shares</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.12</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XES" target="_blank">XES</a> - SPDR S&amp;P Oil &amp; Gas Equipment &amp; Svcs ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.13</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a> - SPDR S&amp;P 500</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.14</td>
+							<td class="span4"><strong>Citibank (Morgan Stanley)</strong><div class="muted noWrap">(Dallas, TX)</div><div class="muted"><div class="muted"><em>Type: </em>Money Market Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2.15</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a> - CrossAmerica Partners LP (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3</td>
+							<td class="span4"><strong class="marginit-right">Morgan Stanley Traditional IRA K Toomey</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=RSP" target="_blank">RSP</a> - Guggenheim S&amp;P 500 Equal Weight</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJH" target="_blank">IJH</a> - iShares Core S&amp;P Mid-Cap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJR" target="_blank">IJR</a> - iShares Core S&amp;P Small-Cap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.4</td>
+							<td class="span4"><strong>Morgan Stanley</strong><div class="muted noWrap">(Dallas, TX)</div><div class="muted"><div class="muted"><em>Type: </em>Money Market Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IWF" target="_blank">IWF</a> - iShares Russell 1000 Growth (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJK" target="_blank">IJK</a> - iShares S&amp;P Mid-Cap 400 Growth (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=QQQ" target="_blank">QQQ</a> - PowerShares QQQ Trust, Ser 1 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a> - SPDR S&amp;P 500 ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3.9</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ILF" target="_blank">ILF</a> - iShares Latin America 40 (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Dividends, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>4</td>
+							<td class="span4"><strong class="marginit-right">529 AGEBSD 12-14 Bright Start College Savings Plan 1</strong><div class="muted"><em>Institution:</em> Illinois</div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 Prepaid Tuition</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5</td>
+							<td class="span4"><strong class="marginit-right">529 AGEBSD 12-14 Bright Start College Savings Plan 2</strong><div class="muted"><em>Institution:</em> Illinois</div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6</td>
+							<td class="span4"><strong class="marginit-right">N-35727, Inc. </strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7</td>
+							<td class="span4"><strong class="marginit-right">Old Mill Partners</strong><div class="muted"><em>Description:</em> Undeveloped land (Block Island, RI)&nbsp;</div></td>
+							<td>Real Estate<div class="muted">Unimproved Land</div></td>
+							<td>Self</td>
+							<td>$500,001 - $1,000,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8</td>
+							<td class="span4"><strong class="marginit-right">Old Florida Bankshares</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9</td>
+							<td class="span4"><strong class="marginit-right">Revere Bank</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10</td>
+							<td class="span4"><strong class="marginit-right">Personal Loan to S. Toomey</strong><div class="muted"><em>Description</em>: Steve Toomey&nbsp;(Allentown, PA)&nbsp;</div></td>
+							<td>Other Securities</td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Interest, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11</td>
+							<td class="span4"><strong class="marginit-right">BPG Fund IV</strong><div class="muted"><em>Description</em>: Closed end private equity real estate fund&nbsp;(Philadelphia, PA)&nbsp;</div></td>
+							<td>Investment Fund<div class="muted">Private Equity Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Interest, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12</td>
+							<td class="span4"><strong class="marginit-right">BPG Properties, LTD (multi-family private security investment fund)</strong><div class="muted"><em>Description</em>: Closed end private equity real estate fund&nbsp;(Philadelphia, PA)&nbsp;</div></td>
+							<td>Investment Fund<div class="muted">Private Equity Fund</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Interest, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13</td>
+							<td class="span4"><strong class="marginit-right">Portfolio Management Active Assets Account 389</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Brokerage/Managed Account</td>
+							<td>Joint</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ICF" target="_blank">ICF</a> - iShares Cohen &amp; Steers REIT (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PFF" target="_blank">PFF</a> - iShares US Preferred Stock (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=DVY" target="_blank">DVY</a> - iShares Select Dividend (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PEY" target="_blank">PEY</a> - PowerShares High Yld Eq Div Achiev ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PCY" target="_blank">PCY</a> - PowerShares Emerging Markets Sov Dbt ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=SDY" target="_blank">SDY</a> - SPDR S&amp;P Dividend ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLU" target="_blank">XLU</a> - Utilities Select Sector SPDR ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13.8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VYM" target="_blank">VYM</a> - Vanguard High Dividend Yield ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Exchange Traded Fund/Note</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14</td>
+							<td class="span4"><strong class="marginit-right">Scottrade Joint Account 965</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Brokerage/Managed Account</td>
+							<td>Joint</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=ESV" target="_blank">ESV</a> - Ensco plc (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a> - Alerian MLP ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=T" target="_blank">T</a> - AT&amp;T, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a> - Chevron Corporation (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a> - CrossAmerica Partners LP (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$50,001 - $100,000</td>
+							<td>Dividends, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=DBP" target="_blank">DBP</a> - PowerShares DB Precious Metals ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Dividends, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a> - Provident Financial Services, Inc. (NYSE)</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Joint</td>
+							<td>$250,001 - $500,000</td>
+							<td>Dividends, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14.8</td>
+							<td class="span4"><strong>Scottrade, INC</strong><div class="muted noWrap">(Allentown, PA)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15</td>
+							<td class="span4"><strong class="marginit-right">Yorktown University</strong><div class="muted"></div></td>
+							<td>Corporate Securities<div class="muted">Stock</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4a. Periodic Transaction Report Summary
+				
+					<small>
+						<i class="fa fa-asterisk" title="Amended section"></i> Amended
+					</small>
+				
+			</h3>
+			<p>
+				In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.  Have you filed any paper-based PTRs in this period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Type</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>1</td>
+							<td>
+								04/29/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    LINE
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Linn Energy, LLC (NASDAQ)
+                                
+								
+							</td>
+							<td>Sale (Full)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>2</td>
+							<td>
+								06/05/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    GLD
+                                
+                                
+                            </td>
+							<td>
+								
+                                    SPDR Gold Shares
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>3</td>
+							<td>
+								06/05/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    PPL
+                                
+                                
+                            </td>
+							<td>
+								
+                                    PPL Corporation (NYSE)
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>4</td>
+							<td>
+								06/10/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Team Capitol Bank
+                                
+								
+							</td>
+							<td>Exchange</td>
+							<td>$500,001 - $1,000,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>5</td>
+							<td>
+								06/11/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    LGP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Lehigh Gas Partners LP (NYSE)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>6</td>
+							<td>
+								06/12/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    DBP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    PowerShares DB Precious Metals
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>7</td>
+							<td>
+								06/12/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    VIXY
+                                
+                                
+                            </td>
+							<td>
+								
+                                    ProShares VIX Short-Term Futures ETF
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>8</td>
+							<td>
+								06/12/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    PFS
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+								
+							</td>
+							<td>Exchange</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								Purchased Team Capitol Bank</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>9</td>
+							<td>
+								06/24/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    AMLP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    ALPS Alerian MLP ETF
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>10</td>
+							<td>
+								08/07/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    LGP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Lehigh Gas Partners LP (NYSE)
+                                
+								
+							</td>
+							<td>Sale (Full)</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>11</td>
+							<td>
+								09/02/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    DWX
+                                
+                                
+                            </td>
+							<td>
+								
+                                    SPDR S&amp;P International Dividend ETF (NYSEArca)
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>12</td>
+							<td>
+								09/02/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    IDV
+                                
+                                
+                            </td>
+							<td>
+								
+                                    iShares International Select Dividend (NYSEArca)
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>13</td>
+							<td>
+								09/02/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    IXP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    iShares Global Telecom (NYSEArca)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>14</td>
+							<td>
+								09/02/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    SDY
+                                
+                                
+                            </td>
+							<td>
+								
+                                    SPDR S&amp;P Dividend ETF (NYSEArca)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>15</td>
+							<td>
+								09/02/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    AMLP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Alerian MLP ETF (NYSEArca)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>16</td>
+							<td>
+								09/02/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    ILF
+                                
+                                
+                            </td>
+							<td>
+								
+                                    iShares Latin America 40 (NYSEArca)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>17</td>
+							<td>
+								09/02/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    EPP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    iShares MSCI Pacific ex Japan (NYSEArca)
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>18</td>
+							<td>
+								09/04/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    RSP
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Guggenheim S&amp;P 500 Equal Weight ETF (NYSEArca)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>19</td>
+							<td>
+								09/04/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    IJH
+                                
+                                
+                            </td>
+							<td>
+								
+                                    iShares Core S&amp;P Mid-Cap (NYSEArca)
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>20</td>
+							<td>
+								10/01/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    VIXY
+                                
+                                
+                            </td>
+							<td>
+								
+                                    ProShares VIX Short-Term Futures (NYSEArca)
+                                
+								
+							</td>
+							<td>Sale (Full)</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>21</td>
+							<td>
+								10/30/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    PFS
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+								
+							</td>
+							<td>Sale (Full)</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>22</td>
+							<td>
+								12/17/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    PFS
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+								
+							</td>
+							<td>Sale (Full)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>23</td>
+							<td>
+								12/18/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    PFS
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+								
+							</td>
+							<td>Sale (Partial)</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>24</td>
+							<td>
+								12/18/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    ESV
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Ensco plc (NYSE)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>25</td>
+							<td>
+								12/18/2014
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    T
+                                
+                                
+                            </td>
+							<td>
+								
+                                    AT&amp;T, Inc. (NYSE)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>26</td>
+							<td>
+								12/31/2014
+							</td>
+							<td>Joint</td>
+							<td>
+							    
+                                    CVX
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Chevron Corporation (NYSE)
+                                
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4b. Transactions
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child buy, sell, or exchange an asset that exceeded $1,000?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Transaction Type</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Alerian MLP ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>12/04/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ICF" target="_blank">ICF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Cohen &amp; Steers REIT (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/04/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PCY" target="_blank">PCY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PowerShares Emerging Markets Sov Dbt ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/03/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AMJ" target="_blank">AMJ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    JPMorgan Alerian MLP ETN (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>11/03/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IXP" target="_blank">IXP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Global Telecom (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>11/06/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PFF" target="_blank">PFF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares US Preferred Stock (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/06/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AMJ" target="_blank">AMJ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    JPMorgan Alerian MLP ETN (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/06/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ICF" target="_blank">ICF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Cohen &amp; Steers REIT (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>10/06/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=DWX" target="_blank">DWX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR S&amp;P International Dividend ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>09/02/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Alerian MLP ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/02/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								11</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=SDY" target="_blank">SDY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR S&amp;P Dividend ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/02/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								12</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IXP" target="_blank">IXP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Global Telecom (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/02/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								13</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IDV" target="_blank">IDV</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares International Select Dividend (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>09/02/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								14</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VYM" target="_blank">VYM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard High Dividend Yield ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>08/05/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								15</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VGK" target="_blank">VGK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Europe ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>08/05/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								16</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Alerian MLP ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/07/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								17</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VGK" target="_blank">VGK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Europe ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/07/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								18</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IDV" target="_blank">IDV</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares International Select Dividend (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/07/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								19</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=DWX" target="_blank">DWX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR S&amp;P International Dividend ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/01/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								20</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=DVY" target="_blank">DVY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Select Dividend (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/01/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								21</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PEY" target="_blank">PEY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PowerShares High Yld Eq Div Achiev ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/01/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								22</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ICF" target="_blank">ICF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Cohen &amp; Steers REIT (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/01/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								23</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLU" target="_blank">XLU</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Utilities Select Sector SPDR ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/01/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								24</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>10/30/2014</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								Sold (rebook)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								25</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VIXY" target="_blank">VIXY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    ProShares VIX Short-Term Futures (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>10/06/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								26</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Lehigh gass Partners LP UT
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>08/07/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								27</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Alerian MLP ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/24/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								28</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=DBP" target="_blank">DBP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PowerShares DB Precious Metals ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/12/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								29</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VIXY" target="_blank">VIXY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    ProShares VIX Short-Term Futures (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/12/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								30</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Lehigh Gas Partners LP UT
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/11/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								31</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=GLD" target="_blank">GLD</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR Gold Shares (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>06/05/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								32</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PPL" target="_blank">PPL</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PPL Corporation (NYSE)
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>06/05/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								33</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=LINE" target="_blank">LINE</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Linn Energy, LLC (NASDAQ)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/29/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								34</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJR" target="_blank">IJR</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P Small-Cap (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								35</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR S&amp;P 500 ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>11/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								36</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ILF" target="_blank">ILF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Latin America 40 (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>10/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								37</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RSP" target="_blank">RSP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Guggenheim S&amp;P 500 Equal Weight ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								38</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares MSCI Emerging Markets (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>10/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								39</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=QQQ" target="_blank">QQQ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PowerShares QQQ Trust, Ser 1 (NASDAQ)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								40</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EPP" target="_blank">EPP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares MSCI Pacific ex Japan (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>09/02/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								41</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ILF" target="_blank">ILF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Latin America 40 (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/02/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								42</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VGK" target="_blank">VGK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Europe ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>08/05/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								43</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EPP" target="_blank">EPP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares MSCI Pacific ex Japan (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>08/05/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								44</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RSP" target="_blank">RSP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Guggenheim S&amp;P 500 Equal Weight ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>08/05/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								45</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJR" target="_blank">IJR</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P Small-Cap (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>06/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								46</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR S&amp;P 500 ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/06/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								47</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJS" target="_blank">IJS</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Small-Cap 600 Value (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>06/06/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								48</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VGK" target="_blank">VGK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Europe ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>05/09/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								49</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares MSCI Emerging Markets (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>05/09/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								50</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJJ" target="_blank">IJJ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Mid-Cap 400 Value (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>05/09/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								51</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJT" target="_blank">IJT</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Small-Cap 600 Growth (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>05/09/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								52</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR S&amp;P 500 ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/04/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								53</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJJ" target="_blank">IJJ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Mid-Cap 400 Value (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/04/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								54</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EEB" target="_blank">EEB</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Guggenheim BRIC ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								55</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VGK" target="_blank">VGK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Europe ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/10/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								56</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EPP" target="_blank">EPP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares MSCI Pacific ex Japan (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								57</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ILF" target="_blank">ILF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Latin America 40 (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								58</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RSP" target="_blank">RSP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Guggenheim S&amp;P 500 Equal Weight ETF (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								59</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares MSCI Emerging Markets (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								60</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IWF" target="_blank">IWF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Russell 1000 Growth (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								61</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJH" target="_blank">IJH</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P Mid-Cap (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								62</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR S&amp;P 500 ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								63</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=QQQ" target="_blank">QQQ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PowerShares QQQ Trust, Ser 1 (NASDAQ)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								64</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJK" target="_blank">IJK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Mid-Cap 400 Growth (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								65</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJT" target="_blank">IJT</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Small-Cap 600 Growth (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								66</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJS" target="_blank">IJS</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Small-Cap 600 Value (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/10/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								67</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RSP" target="_blank">RSP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Guggenheim S&amp;P 500 Equal Weight ETF (NYSEArca)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>09/04/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								68</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJH" target="_blank">IJH</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P Mid-Cap (NYSEArca)
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>09/04/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								69</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ESV" target="_blank">ESV</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Ensco plc (NYSE)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/18/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								70</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>12/18/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								71</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    AT&amp;T, Inc. (NYSE)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/18/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								72</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>12/17/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								73</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=ESV" target="_blank">ESV</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Ensco plc (NYSE)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/23/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								74</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    AT&amp;T, Inc. (NYSE)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/23/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								75</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Provident Financial Services, Inc. (NYSE)
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>12/23/2014</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								76</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Chevron Corporation (NYSE)
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/31/2014</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 5. Gifts
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 6. Travel
+				
+			</h3>
+			<p class="popover0">
+				Did you, your spouse, or dependent child receive any <button data-toggle="popover" type="button" aria-haspopup="true" data-html="true" data-title="When is travel reportable? <button type='button' tabindex='0' id='jsPopoverClose' aria-label='close' class='close'><i class='fa fa-times' aria-hidden='true'><span class='sr-only'>Close</span></i></button>" data-template="<div class=&quot;popover popover__fixMedium&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header&quot;></h3><div class=&quot;popover-body&quot;></div></div>" class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="<p>If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $350, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $350.</p>" data-original-title="" title="">reportable travel</button>?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 7. Liabilities
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child have a reportable liability worth more than $10,000 at any time?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of liabilities added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Incurred</th>
+						<th scope="col">Debtor</th>
+						<th scope="col">Type</th>
+						<th scope="col">Points</th>
+						<th scope="col">Rate<br>(Term)</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Creditor</th>
+						<th scope="col">Comments</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								2011
+							</td>
+							<td>Joint</td>
+							<td>Mortgage
+								</td>
+							<td>
+								0</td>
+							<td>
+								3.375%<br>
+								
+														(30 years)
+								
+							</td>
+							<td>$250,001 - $500,000</td>
+							<td>
+								Cole Taylor Bank
+								<div class="muted">Ann Arbor, MI</div>
+							</td>
+							<td>
+								-</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 8. Positions
+				
+			</h3>
+			<p>
+				Did you hold any outside positions during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 9. Agreements
+				
+			</h3>
+			<p>
+				Did you have any reportable agreement or arrangement with an outside entity?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of agreements or arrangements added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Parties Involved</th>
+						<th scope="col">Type</th>
+						<th scope="col">Status and Terms</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Jul 2009
+							</td>
+							<td>
+								John Wiley &amp; Sons, Inc., 
+								<div class="muted">Hoboken, NJ</div>
+							</td>
+							<td>Royalty Agreement
+								
+							</td>
+							<td>Contract with Book Publisher (Royalties to Be Paid Contingent Upon Book Sales)</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 10. Compensation
+				
+			</h3>
+			<p>
+				<strong>If this is your first report, or you are a candidate</strong> did you receive compensation of more than $5,000 from a single source in the <strong>two</strong> prior years? 
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Attachments &amp; Comments
+				
+			</h3>
+
+			
+				<em class="muted">No attachments added.</em>
+			
+
+			
+				<br>
+				<em class="text-muted">No comments added.</em>
+			
+		</div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

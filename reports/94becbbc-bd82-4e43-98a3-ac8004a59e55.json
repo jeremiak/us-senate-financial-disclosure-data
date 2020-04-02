@@ -1,0 +1,45 @@
+{
+  "title": "Periodic Transaction Report for 08/12/2015",
+  "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
+  "filedDate": "Filed 08/12/2015 @ 1:56 PM",
+  "data": [
+    {
+      "heading": "Transactions",
+      "rows": [
+        {
+          "#": "3",
+          "Transaction Date": "03/13/2015",
+          "Owner": "Joint",
+          "Ticker": "--",
+          "Asset Name": "JP Morgan Chase & Co 6.75% FXD to 2/1/24\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.75 Matures: 01/01/2024",
+          "Asset Type": "Corporate Bond",
+          "Type": "Purchase",
+          "Amount": "$15,001 - $50,000",
+          "Comment": "In 4a #115 incorrectly listed as JPJQL"
+        },
+        {
+          "#": "2",
+          "Transaction Date": "06/18/2014",
+          "Owner": "Self",
+          "Ticker": "KLXI",
+          "Asset Name": "KLX Inc. (NASDAQ)",
+          "Asset Type": "Stock",
+          "Type": "Purchase",
+          "Amount": "$1,001 - $15,000",
+          "Comment": "Overlooked in PTR report"
+        },
+        {
+          "#": "1",
+          "Transaction Date": "03/13/2014",
+          "Owner": "Self",
+          "Ticker": "KLXI",
+          "Asset Name": "KLX Inc. (NASDAQ)",
+          "Asset Type": "Stock",
+          "Type": "Purchase",
+          "Amount": "$1,001 - $15,000",
+          "Comment": "Overlooked in PTR report"
+        }
+      ]
+    }
+  ]
+}
