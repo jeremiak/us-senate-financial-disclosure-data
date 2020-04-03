@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/12/2019",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 08/12/2019 @ 5:24 PM",
+  "filed-date": "08/12/2019",
+  "filed-time": "5:24 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/03/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Hawthorne EB North Rivers, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Hawthorne EB North Rivers, LLC/The Promenade Northwoods\n                                                    \n                                                         (North Charleston, SC)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "Underlying asset of Echo Bridge Realty Fund I, L.P."
+          "transaction-date": "07/03/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Hawthorne EB North Rivers, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Hawthorne EB North Rivers, LLC/The Promenade Northwoods\n                                                    \n                                                         (North Charleston, SC)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "Underlying asset of Echo Bridge Realty Fund I, L.P."
         }
       ]
     }

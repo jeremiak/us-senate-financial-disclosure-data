@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 03/03/2017 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 08/13/2018 @ 8:34 AM",
+  "filed-date": "08/13/2018",
+  "filed-time": "8:34 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "02/13/2017",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/13/2017",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Public Service Company of Colorado\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.8% Matures: 08/01/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Public Service Co. of CO is XEL subsidiary. Originally, inadvertently listed as XEL stock purchase."
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Public Service Company of Colorado\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.8% Matures: 08/01/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Public Service Co. of CO is XEL subsidiary. Originally, inadvertently listed as XEL stock purchase."
         },
         {
-          "#": "2",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "TRV",
-          "Asset Name": "The Travelers Companies, Inc.\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.8% Matures: 05/15/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of TRV stock."
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "TRV",
+          "asset-name": "The Travelers Companies, Inc.\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.8% Matures: 05/15/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of TRV stock."
         },
         {
-          "#": "1",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "DD",
-          "Asset Name": "E. I. du Pont de Nemours and Company\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6% Matures: 07/15/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of DD stock."
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "DD",
+          "asset-name": "E. I. du Pont de Nemours and Company\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6% Matures: 07/15/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of DD stock."
         }
       ]
     }

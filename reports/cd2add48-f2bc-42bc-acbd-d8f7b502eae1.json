@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/21/2017",
   "filer": "The Honorable Michael F Bennet (Bennet, Michael)",
-  "filedDate": "Filed 12/21/2017 @ 11:09 AM",
+  "filed-date": "12/21/2017",
+  "filed-time": "11:09 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "12/08/2017",
-          "Owner": "Self",
-          "Ticker": "RGC",
-          "Asset Name": "Regal Entertainment Group",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "transaction-date": "12/08/2017",
+          "owner": "Self",
+          "ticker": "RGC",
+          "asset-name": "Regal Entertainment Group",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/01/2017",
-          "Owner": "Self",
-          "Ticker": "LVLT\n                                        \n                                        \n                                            \n                                            CTL",
-          "Asset Name": "Level 3 Communications, Inc. (Exchanged)\n                                            \n                                            CenturyLink, Inc. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Shares of CTL received as a result of merger."
+          "transaction-date": "11/01/2017",
+          "owner": "Self",
+          "ticker": "LVLT\n                                        \n                                        \n                                            \n                                            CTL",
+          "asset-name": "Level 3 Communications, Inc. (Exchanged)\n                                            \n                                            CenturyLink, Inc. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$50,001 - $100,000",
+          "comment": "Shares of CTL received as a result of merger."
         }
       ]
     }

@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/29/2014",
   "filer": "The Honorable Benjamin L Cardin (Cardin, Benjamin L.)",
-  "filedDate": "Filed 11/29/2014 @ 4:05 PM",
+  "filed-date": "11/29/2014",
+  "filed-time": "4:05 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "11/17/2014",
-          "Owner": "Self",
-          "Ticker": "NGG",
-          "Asset Name": "National Grid plc (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/17/2014",
+          "owner": "Self",
+          "ticker": "NGG",
+          "asset-name": "National Grid plc (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/17/2014",
-          "Owner": "Joint",
-          "Ticker": "OLN",
-          "Asset Name": "Olin Corp. (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/17/2014",
+          "owner": "Joint",
+          "ticker": "OLN",
+          "asset-name": "Olin Corp. (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/17/2014",
-          "Owner": "Self",
-          "Ticker": "MET",
-          "Asset Name": "MetLife, Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/17/2014",
+          "owner": "Self",
+          "ticker": "MET",
+          "asset-name": "MetLife, Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

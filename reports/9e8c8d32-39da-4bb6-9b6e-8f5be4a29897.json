@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/14/2018",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 05/14/2018 @ 5:58 PM",
+  "filed-date": "05/14/2018",
+  "filed-time": "5:58 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "02/27/2017",
-          "Owner": "Spouse",
-          "Ticker": "--\n                                        \n                                        \n                                            \n                                            ENB",
-          "Asset Name": "Spectra Energy Corporation  (Exchanged)\n                                            \n                                            Enbridge Inc. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Spectra Energy Corp merged into Enbridge, Inc. on February 27, 2017"
+          "transaction-date": "02/27/2017",
+          "owner": "Spouse",
+          "ticker": "--\n                                        \n                                        \n                                            \n                                            ENB",
+          "asset-name": "Spectra Energy Corporation  (Exchanged)\n                                            \n                                            Enbridge Inc. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Spectra Energy Corp merged into Enbridge, Inc. on February 27, 2017"
         }
       ]
     }

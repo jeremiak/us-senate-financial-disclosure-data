@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/06/2015",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 08/06/2015 @ 3:33 PM",
+  "filed-date": "08/06/2015",
+  "filed-time": "3:33 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/29/2015",
-          "Owner": "Joint",
-          "Ticker": "FEYE",
-          "Asset Name": "FireEye, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/29/2015",
+          "owner": "Joint",
+          "ticker": "FEYE",
+          "asset-name": "FireEye, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

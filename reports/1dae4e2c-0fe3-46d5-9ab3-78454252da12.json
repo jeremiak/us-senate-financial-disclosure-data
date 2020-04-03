@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/15/2018",
   "filer": "The Honorable Robert P Casey Jr. (Casey, Robert P. Jr.)",
-  "filedDate": "Filed 05/15/2018 @ 9:06 AM",
+  "filed-date": "05/15/2018",
+  "filed-time": "9:06 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "08/31/2017",
-          "Owner": "Child",
-          "Ticker": "FE",
-          "Asset Name": "FirstEnergy Corp.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/31/2017",
+          "owner": "Child",
+          "ticker": "FE",
+          "asset-name": "FirstEnergy Corp.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

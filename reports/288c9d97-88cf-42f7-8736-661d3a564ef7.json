@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/02/2018",
   "filer": "The Honorable Lamar Alexander (Alexander, Lamar)",
-  "filedDate": "Filed 10/02/2018 @ 9:50 PM",
+  "filed-date": "10/02/2018",
+  "filed-time": "9:50 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "08/31/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Maury County TN GO BDS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5% Matures: 04/01/2023",
-          "Asset Type": "Municipal Security",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/31/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maury County TN GO BDS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5% Matures: 04/01/2023",
+          "asset-type": "Municipal Security",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

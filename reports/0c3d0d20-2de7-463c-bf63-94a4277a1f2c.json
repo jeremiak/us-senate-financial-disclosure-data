@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/17/2017",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 04/17/2017 @ 2:06 PM",
+  "filed-date": "04/17/2017",
+  "filed-time": "2:06 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "03/15/2017",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Raymond James Financial\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.9 Matures: 03/15/2042",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Redemption"
+          "transaction-date": "03/15/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Raymond James Financial\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.9 Matures: 03/15/2042",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Redemption"
         },
         {
-          "#": "5",
-          "Transaction Date": "03/14/2017",
-          "Owner": "Child",
-          "Ticker": "LLTC",
-          "Asset Name": "Linear Technology Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/14/2017",
+          "owner": "Child",
+          "ticker": "LLTC",
+          "asset-name": "Linear Technology Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "03/14/2017",
-          "Owner": "Child",
-          "Ticker": "ADI",
-          "Asset Name": "Analog Devices, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Shares received in exchange for Linear Technology shares as a result of merger"
+          "transaction-date": "03/14/2017",
+          "owner": "Child",
+          "ticker": "ADI",
+          "asset-name": "Analog Devices, Inc.",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Shares received in exchange for Linear Technology shares as a result of merger"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "MCHP",
-          "Asset Name": "Microchip Technology Incorporated",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "MCHP",
+          "asset-name": "Microchip Technology Incorporated",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "CAG",
-          "Asset Name": "Conagra Brands, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "CAG",
+          "asset-name": "Conagra Brands, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

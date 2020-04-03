@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 02/11/2016 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 12/21/2017 @ 5:09 PM",
+  "filed-date": "12/21/2017",
+  "filed-time": "5:09 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "02/11/2016",
-          "Owner": "Joint",
-          "Ticker": "SPY",
-          "Asset Name": "SPDR S&amp;P 500 ETF",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/11/2016",
+          "owner": "Joint",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&amp;P 500 ETF",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "01/19/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "SPY160219P00180000-SPY Feb 29th 2016 put 180.000",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/19/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "SPY160219P00180000-SPY Feb 29th 2016 put 180.000",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "01/19/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "SPY160219P00180000-SPY Feb 29th 2016 put 180.000",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/19/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "SPY160219P00180000-SPY Feb 29th 2016 put 180.000",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/19/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "SPY160219P00180000-SPY Feb 29th 2016 put 180.000",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/19/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "SPY160219P00180000-SPY Feb 29th 2016 put 180.000",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/31/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Nordea Bank AB",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/31/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Nordea Bank AB",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/31/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "United States Treasury Note\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: United States Treasury Note",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Symbol: 912828XA3"
+          "transaction-date": "12/31/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "United States Treasury Note\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: United States Treasury Note",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Symbol: 912828XA3"
         }
       ]
     }

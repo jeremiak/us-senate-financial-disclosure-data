@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/17/2018",
   "filer": "The Honorable A. Mitchell McConnell Jr. (McConnell, A. Mitchell Jr.)",
-  "filedDate": "Filed 12/17/2018 @ 1:30 PM",
+  "filed-date": "12/17/2018",
+  "filed-time": "1:30 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/05/2018",
-          "Owner": "Spouse",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Dividend Reinvestment"
+          "transaction-date": "12/05/2018",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Dividend Reinvestment"
         }
       ]
     }

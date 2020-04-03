@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/13/2017",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 03/13/2017 @ 5:26 PM",
+  "filed-date": "03/13/2017",
+  "filed-time": "5:26 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "02/07/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Muni Bond Biddeford ME\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00 % Matures: 10/01/2028",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/07/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Muni Bond Biddeford ME\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00 % Matures: 10/01/2028",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

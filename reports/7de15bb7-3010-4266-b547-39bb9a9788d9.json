@@ -1,139 +1,149 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2018 (Amendment 1)",
   "filer": "The Honorable Todd Young (Young, Todd)",
-  "filedDate": "Filed 09/25/2019 @ 3:01 AM",
+  "filed-date": "09/25/2019",
+  "filed-time": "3:01 AM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Tucker & Tucker, PC\n\t\t\t\t\t\t\t\tBloomingtin, IN",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Tucker & Tucker, PC\n\t\t\t\t\t\t\t\tBloomingtin, IN",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Bloomington Shuttle Service\n\t\t\t\t\t\t\t\tBloomington, IN",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Bloomington Shuttle Service\n\t\t\t\t\t\t\t\tBloomington, IN",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Old National Bank(Bloomington, IN)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Old National Bank(Bloomington, IN)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Midsouthern Savings Bank(Bloomington, IN)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Midsouthern Savings Bank(Bloomington, IN)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Indiana Prosecuting Attorney's Retirement Fund, Consolidated Retirement Investment Fund",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Indiana Prosecuting Attorney's Retirement Fund, Consolidated Retirement Investment Fund",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date(s)": "03/08/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t03/09/2018",
-          "Traveler(s)": "Self",
-          "Travel Type": "Privately-Sponsored",
-          "Itinerary": "DC to Sea Island, Georgia and return",
-          "Reimbursed For": "Airfare, lodging and meals",
-          "Who Paid": "The American Enterprise Institute\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Comment": "None"
+          "date-s": "03/08/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t03/09/2018",
+          "traveler-s": "Self",
+          "travel-type": "Privately-Sponsored",
+          "itinerary": "DC to Sea Island, Georgia and return",
+          "reimbursed-for": "Airfare, lodging and meals",
+          "who-paid": "The American Enterprise Institute\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comment": "None"
         }
       ]
     },
     {
-      "heading": "Part 7. Liabilities\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 7. Liabilities",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2016",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Springs Valley Bank and Trust\n\t\t\t\t\t\t\t\tJasper, IN",
-          "Comments": "This mortgage was extinguished in June 2018 with the sale of the property."
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Springs Valley Bank and Trust\n\t\t\t\t\t\t\t\tJasper, IN",
+          "comments": "This mortgage was extinguished in June 2018 with the sale of the property."
         },
         {
-          "#": "2",
-          "Incurred": "2018",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "5.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Quicken Loans, Inc.\n\t\t\t\t\t\t\t\tDetroit, MI",
-          "Comments": "-"
+          "incurred": "2018",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "5.125%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Quicken Loans, Inc.\n\t\t\t\t\t\t\t\tDetroit, MI",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2016",
-          "Debtor": "Joint",
-          "Type": "Home Equity Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(7 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Springs Valley Bank and Trust\n\t\t\t\t\t\t\t\tJasper, Indiana",
-          "Comments": "-"
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(7 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Springs Valley Bank and Trust\n\t\t\t\t\t\t\t\tJasper, Indiana",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

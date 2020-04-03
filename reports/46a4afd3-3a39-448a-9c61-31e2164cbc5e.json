@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/07/2016",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 01/07/2016 @ 3:40 PM",
+  "filed-date": "01/07/2016",
+  "filed-time": "3:40 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "GUGGENHEIM S&P RYT",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "GUGGENHEIM S&P RYT",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "FACTORSHARES TR PUREFUNDS ISE CYBER SEC  HACK",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "FACTORSHARES TR PUREFUNDS ISE CYBER SEC  HACK",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "ISHARES IAI",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "ISHARES IAI",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

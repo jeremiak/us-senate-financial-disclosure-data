@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/13/2017",
   "filer": "Mr. Mike Rounds (Rounds, Mike)",
-  "filedDate": "Filed 08/13/2017 @ 11:44 AM",
+  "filed-date": "08/13/2017",
+  "filed-time": "11:44 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/18/2017",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Bird Dog Hospitality IV, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hospitality IV, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality Property",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "This is an udnerlying asset to Bird Dog Hospitality, LLC (Purchased 9/26/16)"
+          "transaction-date": "07/18/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Bird Dog Hospitality IV, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog Hospitality IV, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hospitality Property",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "This is an udnerlying asset to Bird Dog Hospitality, LLC (Purchased 9/26/16)"
         }
       ]
     }

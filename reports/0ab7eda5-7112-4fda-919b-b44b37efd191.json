@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/07/2018",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 04/07/2018 @ 8:41 AM",
+  "filed-date": "04/07/2018",
+  "filed-time": "8:41 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "03/28/2018",
-          "Owner": "Spouse",
-          "Ticker": "FANUY",
-          "Asset Name": "Fanuc Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/28/2018",
+          "owner": "Spouse",
+          "ticker": "FANUY",
+          "asset-name": "Fanuc Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/28/2018",
-          "Owner": "Spouse",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/28/2018",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

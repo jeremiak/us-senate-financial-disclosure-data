@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/26/2017",
   "filer": "The Honorable William Cassidy (Cassidy, Bill)",
-  "filedDate": "Filed 04/26/2017 @ 11:07 AM",
+  "filed-date": "04/26/2017",
+  "filed-time": "11:07 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "03/29/2017",
-          "Owner": "Spouse",
-          "Ticker": "FRT",
-          "Asset Name": "Federal Realty Investment Trust",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2017",
+          "owner": "Spouse",
+          "ticker": "FRT",
+          "asset-name": "Federal Realty Investment Trust",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "03/29/2017",
-          "Owner": "Spouse",
-          "Ticker": "TGT",
-          "Asset Name": "Target Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2017",
+          "owner": "Spouse",
+          "ticker": "TGT",
+          "asset-name": "Target Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/29/2017",
-          "Owner": "Spouse",
-          "Ticker": "SO",
-          "Asset Name": "The Southern Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2017",
+          "owner": "Spouse",
+          "ticker": "SO",
+          "asset-name": "The Southern Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/29/2017",
-          "Owner": "Spouse",
-          "Ticker": "LOW",
-          "Asset Name": "Lowe's Companies, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2017",
+          "owner": "Spouse",
+          "ticker": "LOW",
+          "asset-name": "Lowe's Companies, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/29/2017",
-          "Owner": "Spouse",
-          "Ticker": "AMT",
-          "Asset Name": "American Tower Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2017",
+          "owner": "Spouse",
+          "ticker": "AMT",
+          "asset-name": "American Tower Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

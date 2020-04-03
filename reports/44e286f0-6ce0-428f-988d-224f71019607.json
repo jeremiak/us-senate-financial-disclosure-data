@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/20/2018",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 08/20/2018 @ 2:33 PM",
+  "filed-date": "08/20/2018",
+  "filed-time": "2:33 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "08/16/2018",
-          "Owner": "Self",
-          "Ticker": "INTU",
-          "Asset Name": "Intuit Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/16/2018",
+          "owner": "Self",
+          "ticker": "INTU",
+          "asset-name": "Intuit Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "08/16/2018",
-          "Owner": "Self",
-          "Ticker": "BKNG",
-          "Asset Name": "Booking Holdings Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/16/2018",
+          "owner": "Self",
+          "ticker": "BKNG",
+          "asset-name": "Booking Holdings Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "07/26/2018",
-          "Owner": "Self",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "07/26/2018",
+          "owner": "Self",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "08/14/2018",
-          "Owner": "Self",
-          "Ticker": "BAM",
-          "Asset Name": "Brookfield Asset Management Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "08/14/2018",
+          "owner": "Self",
+          "ticker": "BAM",
+          "asset-name": "Brookfield Asset Management Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/26/2018",
-          "Owner": "Self",
-          "Ticker": "BFAM",
-          "Asset Name": "Bright Horizons Family Solutions Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/26/2018",
+          "owner": "Self",
+          "ticker": "BFAM",
+          "asset-name": "Bright Horizons Family Solutions Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

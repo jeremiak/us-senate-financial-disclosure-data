@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/05/2015",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 01/05/2015 @ 11:47 AM",
+  "filed-date": "01/05/2015",
+  "filed-time": "11:47 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "12/12/2014",
-          "Owner": "Spouse",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sep"
+          "transaction-date": "12/12/2014",
+          "owner": "Spouse",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sep"
         },
         {
-          "#": "3",
-          "Transaction Date": "12/19/2014",
-          "Owner": "Spouse",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "12/19/2014",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/12/2014",
-          "Owner": "Spouse",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "12/12/2014",
+          "owner": "Spouse",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/11/2014",
-          "Owner": "Spouse",
-          "Ticker": "MIK",
-          "Asset Name": "The Michaels Companies, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "12/11/2014",
+          "owner": "Spouse",
+          "ticker": "MIK",
+          "asset-name": "The Michaels Companies, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         }
       ]
     }

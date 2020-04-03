@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/13/2018",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 11/13/2018 @ 4:40 PM",
+  "filed-date": "11/13/2018",
+  "filed-time": "4:40 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "10/31/2018",
-          "Owner": "Spouse",
-          "Ticker": "AON",
-          "Asset Name": "Aon plc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/31/2018",
+          "owner": "Spouse",
+          "ticker": "AON",
+          "asset-name": "Aon plc",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "10/02/2018",
-          "Owner": "Spouse",
-          "Ticker": "SBUX",
-          "Asset Name": "Starbucks Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/02/2018",
+          "owner": "Spouse",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "10/31/2018",
-          "Owner": "Spouse",
-          "Ticker": "PX\n                                        \n                                        \n                                            \n                                            LIN",
-          "Asset Name": "Praxair, Inc. (Exchanged)\n                                            \n                                            Linde plc (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "LIN acquired from PX due to mandatory stock merger."
+          "transaction-date": "10/31/2018",
+          "owner": "Spouse",
+          "ticker": "PX\n                                        \n                                        \n                                            \n                                            LIN",
+          "asset-name": "Praxair, Inc. (Exchanged)\n                                            \n                                            Linde plc (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "LIN acquired from PX due to mandatory stock merger."
         },
         {
-          "#": "3",
-          "Transaction Date": "10/16/2018",
-          "Owner": "Spouse",
-          "Ticker": "HON",
-          "Asset Name": "Honeywell International Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/16/2018",
+          "owner": "Spouse",
+          "ticker": "HON",
+          "asset-name": "Honeywell International Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/16/2018",
-          "Owner": "Spouse",
-          "Ticker": "TJX",
-          "Asset Name": "The TJX Companies, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/16/2018",
+          "owner": "Spouse",
+          "ticker": "TJX",
+          "asset-name": "The TJX Companies, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/02/2018",
-          "Owner": "Spouse",
-          "Ticker": "AMZN",
-          "Asset Name": "Amazon.com, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/02/2018",
+          "owner": "Spouse",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

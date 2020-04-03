@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/01/2017",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 05/01/2017 @ 5:38 PM",
+  "filed-date": "05/01/2017",
+  "filed-time": "5:38 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "04/25/2017",
-          "Owner": "Self",
-          "Ticker": "CRM",
-          "Asset Name": "Salesforce.com, inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/25/2017",
+          "owner": "Self",
+          "ticker": "CRM",
+          "asset-name": "Salesforce.com, inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/20/2017",
-          "Owner": "Self",
-          "Ticker": "HBI",
-          "Asset Name": "Hanesbrands Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/20/2017",
+          "owner": "Self",
+          "ticker": "HBI",
+          "asset-name": "Hanesbrands Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/05/2017",
-          "Owner": "Self",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/05/2017",
+          "owner": "Self",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

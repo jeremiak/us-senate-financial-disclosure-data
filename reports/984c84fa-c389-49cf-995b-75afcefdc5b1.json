@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/19/2017",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 09/19/2017 @ 3:18 PM",
+  "filed-date": "09/19/2017",
+  "filed-time": "3:18 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "09/11/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "DISCOVER FINL SVCS NTS \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.050% Matures: 09/15/2023",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/11/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "DISCOVER FINL SVCS NTS \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.050% Matures: 09/15/2023",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "08/23/2017",
-          "Owner": "Self",
-          "Ticker": "BHF",
-          "Asset Name": "Brighthouse Financial, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/23/2017",
+          "owner": "Self",
+          "ticker": "BHF",
+          "asset-name": "Brighthouse Financial, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "08/23/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "MULTNOMAH CNTY ORE SCH DIST NO 1J PORTLAND PORTLAND PUB SCHS-SER B OREGON SCHOOL BOND GUARANTEE PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 06/15/2037",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/23/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MULTNOMAH CNTY ORE SCH DIST NO 1J PORTLAND PORTLAND PUB SCHS-SER B OREGON SCHOOL BOND GUARANTEE PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 06/15/2037",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

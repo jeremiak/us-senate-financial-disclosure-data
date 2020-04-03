@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/16/2016",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 12/16/2016 @ 11:37 AM",
+  "filed-date": "12/16/2016",
+  "filed-time": "11:37 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/30/2016",
-          "Owner": "Self",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Health Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/30/2016",
+          "owner": "Self",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

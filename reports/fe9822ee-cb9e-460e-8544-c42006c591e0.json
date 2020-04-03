@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/10/2018",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 05/10/2018 @ 6:04 PM",
+  "filed-date": "05/10/2018",
+  "filed-time": "6:04 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "04/03/2018",
-          "Owner": "Joint",
-          "Ticker": "V",
-          "Asset Name": "Visa Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/03/2018",
+          "owner": "Joint",
+          "ticker": "V",
+          "asset-name": "Visa Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "04/03/2018",
-          "Owner": "Joint",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Health Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/03/2018",
+          "owner": "Joint",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "04/03/2018",
-          "Owner": "Joint",
-          "Ticker": "CMCSA",
-          "Asset Name": "Comcast Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/03/2018",
+          "owner": "Joint",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/03/2018",
-          "Owner": "Joint",
-          "Ticker": "JPM",
-          "Asset Name": "JPMorgan Chase & Co.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/03/2018",
+          "owner": "Joint",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/03/2018",
-          "Owner": "Joint",
-          "Ticker": "WPC",
-          "Asset Name": "W. P. Carey Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/03/2018",
+          "owner": "Joint",
+          "ticker": "WPC",
+          "asset-name": "W. P. Carey Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/03/2018",
-          "Owner": "Joint",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/03/2018",
+          "owner": "Joint",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/03/2016",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 08/03/2016 @ 1:27 PM",
+  "filed-date": "08/03/2016",
+  "filed-time": "1:27 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "07/08/2016",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "sep"
+          "transaction-date": "07/08/2016",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "sep"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/08/2016",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "r"
+          "transaction-date": "07/08/2016",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "r"
         }
       ]
     }

@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/03/2018",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 08/03/2018 @ 10:28 AM",
+  "filed-date": "08/03/2018",
+  "filed-time": "10:28 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "07/23/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Knight-Swift Transportation Holdings",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/23/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Knight-Swift Transportation Holdings",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "07/23/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Danaher Corp",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/23/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Danaher Corp",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "07/23/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Tellus Corp",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/23/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Tellus Corp",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/23/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Walt Disney Corp",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/23/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Walt Disney Corp",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

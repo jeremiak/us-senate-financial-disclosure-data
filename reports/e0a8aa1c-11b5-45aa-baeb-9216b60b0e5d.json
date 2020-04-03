@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/14/2017",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 11/14/2017 @ 2:21 PM",
+  "filed-date": "11/14/2017",
+  "filed-time": "2:21 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "10/18/2017",
-          "Owner": "Self",
-          "Ticker": "XON",
-          "Asset Name": "Intrexon Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,000,001 - $5,000,000",
-          "Comment": "Underlying asset of MRW Biotech Investors, LLC. Previously held in New River V"
+          "transaction-date": "10/18/2017",
+          "owner": "Self",
+          "ticker": "XON",
+          "asset-name": "Intrexon Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "Underlying asset of MRW Biotech Investors, LLC. Previously held in New River V"
         },
         {
-          "#": "5",
-          "Transaction Date": "10/18/2017",
-          "Owner": "Self",
-          "Ticker": "ZIOP",
-          "Asset Name": "ZIOPHARM Oncology, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$250,001 - $500,000",
-          "Comment": "Underlying asset of MRW Biotech Investors, LLC"
+          "transaction-date": "10/18/2017",
+          "owner": "Self",
+          "ticker": "ZIOP",
+          "asset-name": "ZIOPHARM Oncology, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$250,001 - $500,000",
+          "comment": "Underlying asset of MRW Biotech Investors, LLC"
         },
         {
-          "#": "4",
-          "Transaction Date": "10/20/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Accela, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Accela, Inc.\n                                                    \n                                                         (San Ramon, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MGE, LLC - underlying asset of Point Judith Fund II LP. LDC Blind Trust has a 26% interest"
+          "transaction-date": "10/20/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Accela, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Accela, Inc.\n                                                    \n                                                         (San Ramon, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "MGE, LLC - underlying asset of Point Judith Fund II LP. LDC Blind Trust has a 26% interest"
         },
         {
-          "#": "3",
-          "Transaction Date": "10/20/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Accela, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Accela, Inc.\n                                                    \n                                                         (San Ramon, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MGE, LLC - underlying asset of Point Judith Fund II LP. MRW Blind Trust has 26% interest"
+          "transaction-date": "10/20/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Accela, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Accela, Inc.\n                                                    \n                                                         (San Ramon, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "MGE, LLC - underlying asset of Point Judith Fund II LP. MRW Blind Trust has 26% interest"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/20/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Spirus Medical, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Spirus Medical, Inc.\n                                                    \n                                                         (Bridgewater, MA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Medical Devices",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MGE, LLC - underlying asset of Point Judith Venture Fund LP. LDC Blind Trust has a 26% interest"
+          "transaction-date": "10/20/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Spirus Medical, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Spirus Medical, Inc.\n                                                    \n                                                         (Bridgewater, MA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Medical Devices",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "MGE, LLC - underlying asset of Point Judith Venture Fund LP. LDC Blind Trust has a 26% interest"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/20/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Spirus Medical, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Spirus Medical, Inc.\n                                                    \n                                                         (Bridgewater, MA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Medical Devices",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MGE, LLC - underlying asset of Point Judith Venture Fund LP. MRW Blind Trust has a 26% interest"
+          "transaction-date": "10/20/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Spirus Medical, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Spirus Medical, Inc.\n                                                    \n                                                         (Bridgewater, MA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Medical Devices",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "MGE, LLC - underlying asset of Point Judith Venture Fund LP. MRW Blind Trust has a 26% interest"
         }
       ]
     }

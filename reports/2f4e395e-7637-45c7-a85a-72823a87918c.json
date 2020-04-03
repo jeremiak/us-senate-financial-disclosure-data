@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/01/2019",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 10/01/2019 @ 12:17 PM",
+  "filed-date": "10/01/2019",
+  "filed-time": "12:17 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "09/27/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "CS Contingent Autocall on MSFT\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.25% Matures: 09/30/2022",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "09/27/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CS Contingent Autocall on MSFT\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.25% Matures: 09/30/2022",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "09/27/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "CS Contingent Autocall on MSFT\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.25% Matures: 09/30/2022",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "09/27/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CS Contingent Autocall on MSFT\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.25% Matures: 09/30/2022",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "09/19/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "JP Morgan Chase Step-up\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.5% Matures: 09/23/2029",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/19/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JP Morgan Chase Step-up\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.5% Matures: 09/23/2029",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "09/19/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "JPM Contingent Autocall on NVDA\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.1% Matures: 06/18/2020",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "09/19/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JPM Contingent Autocall on NVDA\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.1% Matures: 06/18/2020",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "09/19/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "JPM Contingent Autocall on NVDA\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.1% Matures: 06/18/2020",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "09/19/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JPM Contingent Autocall on NVDA\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.1% Matures: 06/18/2020",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "09/19/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "JP Morgan Chase Step-up\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.5% Matures: 09/23/2029",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/19/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JP Morgan Chase Step-up\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.5% Matures: 09/23/2029",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

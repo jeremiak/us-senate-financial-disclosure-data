@@ -1,130 +1,139 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Kyrsten Sinema (Sinema, Kyrsten)",
-  "filedDate": "Filed 05/15/2019 @ 10:10 AM",
+  "filed-date": "05/15/2019",
+  "filed-time": "10:10 AM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Approved Teaching Fee)",
-          "Who Paid": "Arizona State University\n\t\t\t\t\t\t\t\tTempe, AZ",
-          "Amount Paid": "$25,136.25"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Approved Teaching Fee)",
+          "who-paid": "Arizona State University\n\t\t\t\t\t\t\t\tTempe, AZ",
+          "amount-paid": "$25,136.25"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Technical Writing)",
-          "Who Paid": "Leading for Change\n\t\t\t\t\t\t\t\tPhoenix, AZ",
-          "Amount Paid": "$1,000.00"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Technical Writing)",
+          "who-paid": "Leading for Change\n\t\t\t\t\t\t\t\tPhoenix, AZ",
+          "amount-paid": "$1,000.00"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Arizona State Retirement System",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Arizona State Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AZ EORP",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "AZ EORP",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2002",
-          "Debtor": "Self",
-          "Type": "Educational Loan",
-          "Points": "-",
-          "Rate(Term)": "3.28%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 years)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "Mohela\n\t\t\t\t\t\t\t\tChesterfield, MO",
-          "Comments": "-"
+          "incurred": "2002",
+          "debtor": "Self",
+          "type": "Educational Loan",
+          "points": "-",
+          "rate-term": "3.28%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Mohela\n\t\t\t\t\t\t\t\tChesterfield, MO",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 2012 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Proprietor",
-          "Entity": "Sinema Consulting LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPhoenix, AZ",
-          "Entity Type": "Company",
-          "Comments": "LLC is dormant, provides no services."
+          "position-dates": "Jan 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Proprietor",
+          "entity": "Sinema Consulting LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPhoenix, AZ",
+          "entity-type": "Company",
+          "comments": "LLC is dormant, provides no services."
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 2003 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Employee",
-          "Entity": "Arizona State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPhoenix, AZ",
-          "Entity Type": "Educational Organization",
-          "Comments": "None"
+          "position-dates": "Jan 2003 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Employee",
+          "entity": "Arizona State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPhoenix, AZ",
+          "entity-type": "Educational Organization",
+          "comments": "None"
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2010",
-          "Parties Involved": "State of Arizona\n\t\t\t\t\t\t\t\tPhoenix, AZ",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Legislative pension with monthly benefit at age 65."
+          "date": "Jan 2010",
+          "parties-involved": "State of Arizona\n\t\t\t\t\t\t\t\tPhoenix, AZ",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Legislative pension with monthly benefit at age 65."
         },
         {
-          "#": "2",
-          "Date": "Aug 1996",
-          "Parties Involved": "State of Arizona\n\t\t\t\t\t\t\t\tPhoenix, AZ",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "ASRS pension with monthly benefit at age 65."
+          "date": "Aug 1996",
+          "parties-involved": "State of Arizona\n\t\t\t\t\t\t\t\tPhoenix, AZ",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "ASRS pension with monthly benefit at age 65."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

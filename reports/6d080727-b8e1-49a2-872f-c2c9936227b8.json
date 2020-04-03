@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/12/2018",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 07/12/2018 @ 3:17 PM",
+  "filed-date": "07/12/2018",
+  "filed-time": "3:17 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "06/28/2018",
-          "Owner": "Self",
-          "Ticker": "ST",
-          "Asset Name": "Sensata Technologies Holding PLC",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2018",
+          "owner": "Self",
+          "ticker": "ST",
+          "asset-name": "Sensata Technologies Holding PLC",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/28/2018",
-          "Owner": "Self",
-          "Ticker": "LEA",
-          "Asset Name": "Lear Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2018",
+          "owner": "Self",
+          "ticker": "LEA",
+          "asset-name": "Lear Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/28/2018",
-          "Owner": "Self",
-          "Ticker": "APTV",
-          "Asset Name": "Aptiv PLC",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2018",
+          "owner": "Self",
+          "ticker": "APTV",
+          "asset-name": "Aptiv PLC",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

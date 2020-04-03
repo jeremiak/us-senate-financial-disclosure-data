@@ -1,336 +1,340 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2014",
   "filer": "The Honorable Charles E Schumer (Schumer, Charles E.)",
-  "filedDate": "Filed 05/15/2015 @ 3:10 PM",
+  "filed-date": "05/15/2015",
+  "filed-time": "3:10 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "City University Of New York\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "City University Of New York\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "US Senate\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Amount Paid": "$172,887.00"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "US Senate\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "$172,887.00"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "The New York Public Library\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "The New York Public Library\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Value Line Funds(New York, NY)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Value Line Funds(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley(New York, NY)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley(New York, NY)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley(New York, NY)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Morgan Stanley(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Congressional Federal Credit Union(Washington, DC)Type: Certificate of Deposit, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Congressional Federal Credit Union(Washington, DC)Type: Certificate of Deposit, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Municipal Credit Union(New York, NY)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Municipal Credit Union(New York, NY)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Teachers Retirement System Deferred CompensationCompany: Craig James Financial Servies, LLC (Melville, NY) Description: deferred compensation",
-          "Asset Type": "Deferred Compensation",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "Teachers Retirement System Deferred CompensationCompany: Craig James Financial Servies, LLC (Melville, NY) Description: deferred compensation",
+          "asset-type": "Deferred Compensation",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "New York City Deferred Compensation PlanCompany: New York City Office of Labor Relations (New York, NY) Description: deferred compensation",
-          "Asset Type": "Deferred Compensation",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "New York City Deferred Compensation PlanCompany: New York City Office of Labor Relations (New York, NY) Description: deferred compensation",
+          "asset-type": "Deferred Compensation",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Catskill, NY Central School District BondsRate/Coupon: 4.25%  Matures: 06/15/2018",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Catskill, NY Central School District BondsRate/Coupon: 4.25%  Matures: 06/15/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Pleasantville, NY General Obligation Bonds, Series BRate/Coupon: 4%  Matures: 06/15/2023",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Pleasantville, NY General Obligation Bonds, Series BRate/Coupon: 4%  Matures: 06/15/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Catskill, NY Central School District BondsRate/Coupon: 4.25%  Matures: 06/15/2018",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Catskill, NY Central School District BondsRate/Coupon: 4.25%  Matures: 06/15/2018",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "New York State Voluntary Defined Contribution Program",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "New York State Voluntary Defined Contribution Program",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "TIAA Acc Lifecycle 2015 T1",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIAA Acc Lifecycle 2015 T1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Pensco Trust Company IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Pensco Trust Company IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Pensco Trust Company(San Francisco, CA)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Pensco Trust Company(San Francisco, CA)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Pensco Trust Company IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Pensco Trust Company IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Pensco Trust Company(San Francisco, CA)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Pensco Trust Company(San Francisco, CA)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "City University of New York Tax Deferred Annuity Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "City University of New York Tax Deferred Annuity Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "CREF Money Market",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "CREF Money Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "New York Public Library TDA Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "New York Public Library TDA Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "T-C Lifecycle 2020-Rtmt",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "T-C Lifecycle 2020-Rtmt",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "TIAA Acc Lifecycle 2015 T1",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/03/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lifecycle 2015 T1",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/03/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "TIAA Acc Lifecycle 2015 T1",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/17/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lifecycle 2015 T1",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/17/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "TIAA Acc Lifecycle 2015 T1",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/31/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lifecycle 2015 T1",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/31/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "TIAA Acc Lifecycle 2015 T1",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/14/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lifecycle 2015 T1",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/14/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "TIAA Acc Lifecycle 2015 T1",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/28/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lifecycle 2015 T1",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/28/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "TIAA Acc Lifecycle 2015 T1",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/12/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lifecycle 2015 T1",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/12/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "TIAA Acc Lifecycle 2015 T1",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/26/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "TIAA Acc Lifecycle 2015 T1",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/26/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2012",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Citibank\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Comments": "Mortgage on primary residence"
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Citibank\n\t\t\t\t\t\t\t\tNew York, NY",
+          "comments": "Mortgage on primary residence"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2008",
-          "Parties Involved": "Rodale, Inc.\n\t\t\t\t\t\t\t\tEmmaus, PA",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Pursuant to agreement with Rodale, Inc., in 2007 Senator Schumer authored a book entitled \"Positively American.\"  Under the terms of the agreement the Senator received an advance (disclosed in 2007 report) against royalties and is entitled to receive ongoing standard royalties.  The above agreement was reviewed and approved by the Senate Ethics Committee in advance."
+          "date": "Jan 2008",
+          "parties-involved": "Rodale, Inc.\n\t\t\t\t\t\t\t\tEmmaus, PA",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Pursuant to agreement with Rodale, Inc., in 2007 Senator Schumer authored a book entitled \"Positively American.\"  Under the terms of the agreement the Senator received an advance (disclosed in 2007 report) against royalties and is entitled to receive ongoing standard royalties.  The above agreement was reviewed and approved by the Senate Ethics Committee in advance."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

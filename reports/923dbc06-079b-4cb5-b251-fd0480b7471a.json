@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/11/2019",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 06/11/2019 @ 12:19 PM",
+  "filed-date": "06/11/2019",
+  "filed-time": "12:19 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/17/2019",
-          "Owner": "Joint",
-          "Ticker": "NVDA",
-          "Asset Name": "NVIDIA Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/17/2019",
+          "owner": "Joint",
+          "ticker": "NVDA",
+          "asset-name": "NVIDIA Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/16/2019",
-          "Owner": "Self",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Health Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/16/2019",
+          "owner": "Self",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

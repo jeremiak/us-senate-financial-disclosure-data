@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/04/2015",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 03/04/2015 @ 11:50 AM",
+  "filed-date": "03/04/2015",
+  "filed-time": "11:50 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "03/03/2015",
-          "Owner": "Joint",
-          "Ticker": "MYL",
-          "Asset Name": "Mylan, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/03/2015",
+          "owner": "Joint",
+          "ticker": "MYL",
+          "asset-name": "Mylan, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/03/2015",
-          "Owner": "Joint",
-          "Ticker": "ACT",
-          "Asset Name": "Actavis plc (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/03/2015",
+          "owner": "Joint",
+          "ticker": "ACT",
+          "asset-name": "Actavis plc (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/03/2015",
-          "Owner": "Self",
-          "Ticker": "AMAT",
-          "Asset Name": "Applied Materials, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/03/2015",
+          "owner": "Self",
+          "ticker": "AMAT",
+          "asset-name": "Applied Materials, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/03/2015",
-          "Owner": "Self",
-          "Ticker": "ACT",
-          "Asset Name": "Actavis plc (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/03/2015",
+          "owner": "Self",
+          "ticker": "ACT",
+          "asset-name": "Actavis plc (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/01/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 02/01/2019 @ 4:10 PM",
+  "filed-date": "02/01/2019",
+  "filed-time": "4:10 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/04/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "NUCOR CORP NTS B/E 03.950% 050128 DTD042618\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.950% Matures: 05/01/2028",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/04/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "NUCOR CORP NTS B/E 03.950% 050128 DTD042618\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.950% Matures: 05/01/2028",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/04/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ANHEUSER-BUSCH INBEV 04.000% 041328 DTD040418\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.000% Matures: 04/13/2028",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/04/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ANHEUSER-BUSCH INBEV 04.000% 041328 DTD040418\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.000% Matures: 04/13/2028",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

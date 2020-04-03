@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/03/2019",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 06/03/2019 @ 4:43 PM",
+  "filed-date": "06/03/2019",
+  "filed-time": "4:43 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/30/2019",
-          "Owner": "Self",
-          "Ticker": "CE",
-          "Asset Name": "Celanese Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/30/2019",
+          "owner": "Self",
+          "ticker": "CE",
+          "asset-name": "Celanese Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/30/2019",
-          "Owner": "Self",
-          "Ticker": "DOW",
-          "Asset Name": "Dow Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/30/2019",
+          "owner": "Self",
+          "ticker": "DOW",
+          "asset-name": "Dow Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,500 +1,496 @@
 {
+  "type": "periodic transaction",
   "title": "Candidate Report (Amendment 1)",
   "filer": "Mr. Mike Rounds",
-  "filedDate": "State of Candidacy: SD | Candidacy Commenced:",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Council Member Fee)",
-          "Who Paid": "Bipartisan Policy Council\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Amount Paid": "$20,000.00"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Council Member Fee)",
+          "who-paid": "Bipartisan Policy Council\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "$20,000.00"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Fischer, Rounds & Assoc. Inc\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Fischer, Rounds & Assoc. Inc\n\t\t\t\t\t\t\t\tPierre, SD",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "Fischer, Rounds & Assoc. Inc.\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Amount Paid": "$260,509.00"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "Fischer, Rounds & Assoc. Inc.\n\t\t\t\t\t\t\t\tPierre, SD",
+          "amount-paid": "$260,509.00"
         },
         {
-          "#": "4",
-          "Who Was Paid": "Self",
-          "Type": "Board Compensation",
-          "Who Paid": "ITC Holding Corp (ITC)\n\t\t\t\t\t\t\t\tNovi, MI",
-          "Amount Paid": "$79,784.00"
+          "who-was-paid": "Self",
+          "type": "Board Compensation",
+          "who-paid": "ITC Holding Corp (ITC)\n\t\t\t\t\t\t\t\tNovi, MI",
+          "amount-paid": "$79,784.00"
         },
         {
-          "#": "5",
-          "Who Was Paid": "Self",
-          "Type": "Retirement",
-          "Who Paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Amount Paid": "$19,956.00"
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
+          "amount-paid": "$19,956.00"
         },
         {
-          "#": "6",
-          "Who Was Paid": "Spouse",
-          "Type": "Retirement",
-          "Who Paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "ALL - The Allstate Corporation (NYSE)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "ALL - The Allstate Corporation (NYSE)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Auto Owners",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Auto Owners",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Oahe Federal Credit Union(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Oahe Federal Credit Union(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BankWest(Pierre, SD)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "BankWest(Pierre, SD)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ITC Corp",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$50,001 - $100,000"
+          "asset": "ITC Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$50,001 - $100,000"
         },
         {
-          "Asset": "Vanguard Ttl Intl Stk Indx Ins (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Ttl Intl Stk Indx Ins (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Ext Mkt Indx Inst (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Vanguard Ext Mkt Indx Inst (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Franklin MSF Mut Shrs Z (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "Franklin MSF Mut Shrs Z (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Vanguard Ttl Bd Mkt Index Ins (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Ttl Bd Mkt Index Ins (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Inst Index Fund (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "Vanguard Inst Index Fund (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "American Funds Fundamental Inv Inv Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "American Funds Fundamental Inv Inv Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Fidelity Adv Leveraged Co Stock Inv Opt (Held throughTransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Fidelity Adv Leveraged Co Stock Inv Opt (Held throughTransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Alger Capital Appreciation Ret Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Alger Capital Appreciation Ret Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "WMC Quality Growth Equity Ret Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "WMC Quality Growth Equity Ret Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "American Century Small Cap Value Inv Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "American Century Small Cap Value Inv Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "RidgeWorth Small Cap Value Equity Ret Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "RidgeWorth Small Cap Value Equity Ret Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Oppenheimer Global Ret Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Oppenheimer Global Ret Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Aegon Cash Management Ret Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "Aegon Cash Management Ret Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Pimco Total Return Ret Opt (Held through TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Pimco Total Return Ret Opt (Held through TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TransAmerica Partners Stk Index Ret Opt (TransAmerica Retirement Services)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "TransAmerica Partners Stk Index Ret Opt (TransAmerica Retirement Services)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "First National Bank(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "First National Bank(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Nationwide Retirement Solutions",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Nationwide Retirement Solutions",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First National Bank(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "First National Bank(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fischer, Rounds & Assoc., Inc. (Insurance/Real Estate Agency, Pierre, SD)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$5,000,001 - $25,000,000",
-          "Income Type": "Dividends, Other, (S-Corp)",
-          "Income": "$100,001 - $1,000,000Other $409,690.00"
+          "asset": "Fischer, Rounds & Assoc., Inc. (Insurance/Real Estate Agency, Pierre, SD)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Dividends, Other, (S-Corp)",
+          "income": "$100,001 - $1,000,000Other $409,690.00"
         },
         {
-          "Asset": "FRA, LLCDescription: Farm (Pierre, SD) Filer comment:  Proceeds from rental income and the sale of farm commodities after expenses.",
-          "Asset Type": "Farm",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (LLC)",
-          "Income": "$1,001 - $2,500Other $1,024.00"
+          "asset": "FRA, LLCDescription: Farm (Pierre, SD) Filer comment:  Proceeds from rental income and the sale of farm commodities after expenses.",
+          "asset-type": "Farm",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (LLC)",
+          "income": "$1,001 - $2,500Other $1,024.00"
         },
         {
-          "Asset": "201, LLCCompany: 201, LLC (Pierre, SD) Description: Aircraft Ownership",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "201, LLCCompany: 201, LLC (Pierre, SD) Description: Aircraft Ownership",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Hawk Leasing, LLCCompany: Hawk Leasing, LLC (Pierre, SD) Description: Aircraft Ownership",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Hawk Leasing, LLCCompany: Hawk Leasing, LLC (Pierre, SD) Description: Aircraft Ownership",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Lake Sharpe Investments, LLCCompany: Lake Sharpe Investments, LLC (Pierre, SD) Description: Investments (Assets Below)",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Lake Sharpe Investments, LLCCompany: Lake Sharpe Investments, LLC (Pierre, SD) Description: Investments (Assets Below)",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First National Bank (Asset of Lake Sharpe Investments, LLC)(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "$201 - $1,000"
+          "asset": "First National Bank (Asset of Lake Sharpe Investments, LLC)(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Nordic Venture Partners (Asset of Lake Sharpe Investments, LLC)Company: Nordic Venture Partners (Pierre, SD) Description: Investments",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Nordic Venture Partners (Asset of Lake Sharpe Investments, LLC)Company: Nordic Venture Partners (Pierre, SD) Description: Investments",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Locals Love Us (Asset of Nordic Venture Partners)Company: Locals Love Us (Bossler City, LA) Description: Marketing",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Locals Love Us (Asset of Nordic Venture Partners)Company: Locals Love Us (Bossler City, LA) Description: Marketing",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Aeronics (Asset of Nordic Venture Partners)Company: Aeronics (Austin, TX) Description: Equipment Manufacturing",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Aeronics (Asset of Nordic Venture Partners)Company: Aeronics (Austin, TX) Description: Equipment Manufacturing",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fashion Audio, LLC (Asset of Nordic Venture Partners)Company: Fashion Audio, LLC (Irvine , CA) Description: Audio Equipment Sales",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Fashion Audio, LLC (Asset of Nordic Venture Partners)Company: Fashion Audio, LLC (Irvine , CA) Description: Audio Equipment Sales",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Novita, LLC (Asset of Nordic Venture Partners)Company: Novita, LLC (Brookings, SD) Description: Oil Extraction",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Novita, LLC (Asset of Nordic Venture Partners)Company: Novita, LLC (Brookings, SD) Description: Oil Extraction",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Badlands Manufacturing, LLC (Asset of Nordic Venture Partners)Company: Badlands Manufacturing, LLC (Pierre, SD) Description: Fiberglass Tank Manufacturing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Badlands Manufacturing, LLC (Asset of Nordic Venture Partners)Company: Badlands Manufacturing, LLC (Pierre, SD) Description: Fiberglass Tank Manufacturing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Hartford Mutual Funds-IRA (Asset below)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "Hartford Mutual Funds-IRA (Asset below)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Growth Opportunity FD-Y Fund (Held through Hartford Mutual Funds-IRA)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "Growth Opportunity FD-Y Fund (Held through Hartford Mutual Funds-IRA)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2012",
-          "Debtor": "Self",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(1 year)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "First National Bank\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Comments": "-"
+          "incurred": "2012",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(1 year)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "First National Bank\n\t\t\t\t\t\t\t\tPierre, SD",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "May 1994 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "201, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
-          "Comments": ""
+          "position-dates": "May 1994 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "201, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
+          "comments": ""
         },
         {
-          "#": "2",
-          "Position Dates": "Jun 2011 to\n\t\t\t\t\t\t\t\tFeb 2014",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member, Governors Council)",
-          "Entity": "Bipartisan Policy Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Policy Nonprofit)",
-          "Comments": ""
+          "position-dates": "Jun 2011 to\n\t\t\t\t\t\t\t\tFeb 2014",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member, Governors Council)",
+          "entity": "Bipartisan Policy Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Policy Nonprofit)",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Dec 2011 to\n\t\t\t\t\t\t\t\tMar 2013",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Co-Chair)",
-          "Entity": "Chicago Council on Global Affairs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tChicago, IL",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Policy Nonprofit)",
-          "Comments": ""
+          "position-dates": "Dec 2011 to\n\t\t\t\t\t\t\t\tMar 2013",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Co-Chair)",
+          "entity": "Chicago Council on Global Affairs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tChicago, IL",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Policy Nonprofit)",
+          "comments": ""
         },
         {
-          "#": "4",
-          "Position Dates": "Apr 2011 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(President and CEO)",
-          "Entity": "Fischer, Rounds & Assoc., Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Apr 2011 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(President and CEO)",
+          "entity": "Fischer, Rounds & Assoc., Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "5",
-          "Position Dates": "Dec 1995 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "FRA, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Farm)",
-          "Comments": ""
+          "position-dates": "Dec 1995 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "FRA, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Farm)",
+          "comments": ""
         },
         {
-          "#": "6",
-          "Position Dates": "Jul 2012 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Hawk Leasing, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
-          "Comments": ""
+          "position-dates": "Jul 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Hawk Leasing, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
+          "comments": ""
         },
         {
-          "#": "7",
-          "Position Dates": "Sep 2011 to\n\t\t\t\t\t\t\t\tMay 2013",
-          "Position Held": "Director",
-          "Entity": "ITC Holdings Corp\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNovi, MI",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Sep 2011 to\n\t\t\t\t\t\t\t\tMay 2013",
+          "position-held": "Director",
+          "entity": "ITC Holdings Corp\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tNovi, MI",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "8",
-          "Position Dates": "Jun 2012 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Lake Sharpe Investments, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Investment LLC)",
-          "Comments": ""
+          "position-dates": "Jun 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Lake Sharpe Investments, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Investment LLC)",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2003",
-          "Parties Involved": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Participant in South Dakota Retirement System Pension Plan.  Monthly payments of $1,257."
+          "date": "Jan 2003",
+          "parties-involved": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Participant in South Dakota Retirement System Pension Plan.  Monthly payments of $1,257."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Source": "Bipartisan Policy Council\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Duties": "Member of Governors Council"
+          "source": "Bipartisan Policy Council\n\t\t\t\t\t\t\t\tWashington, DC",
+          "duties": "Member of Governors Council"
         },
         {
-          "#": "2",
-          "Source": "Fischer, Rounds & Assoc., Inc.\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Duties": "President & CEO"
+          "source": "Fischer, Rounds & Assoc., Inc.\n\t\t\t\t\t\t\t\tPierre, SD",
+          "duties": "President & CEO"
         },
         {
-          "#": "3",
-          "Source": "ITC Holding Corp (ITC)\n\t\t\t\t\t\t\t\tNovi, MI",
-          "Duties": "Director"
+          "source": "ITC Holding Corp (ITC)\n\t\t\t\t\t\t\t\tNovi, MI",
+          "duties": "Director"
         },
         {
-          "#": "4",
-          "Source": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Duties": "Retirement Income"
+          "source": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
+          "duties": "Retirement Income"
         }
       ]
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

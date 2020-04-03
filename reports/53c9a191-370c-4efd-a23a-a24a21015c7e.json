@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/21/2018",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 02/21/2018 @ 2:57 PM",
+  "filed-date": "02/21/2018",
+  "filed-time": "2:57 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/20/2018",
-          "Owner": "Self",
-          "Ticker": "WTW",
-          "Asset Name": "Weight Watchers International, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "02/20/2018",
+          "owner": "Self",
+          "ticker": "WTW",
+          "asset-name": "Weight Watchers International, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/20/2018",
-          "Owner": "Self",
-          "Ticker": "WMT",
-          "Asset Name": "Walmart Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "02/20/2018",
+          "owner": "Self",
+          "ticker": "WMT",
+          "asset-name": "Walmart Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

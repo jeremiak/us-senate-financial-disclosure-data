@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 08/12/2015 (Amendment 3)",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 08/13/2015 @ 4:15 PM",
+  "filed-date": "08/13/2015",
+  "filed-time": "4:15 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "06/18/2014",
-          "Owner": "Self",
-          "Ticker": "KLXI",
-          "Asset Name": "KLX Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/18/2014",
+          "owner": "Self",
+          "ticker": "KLXI",
+          "asset-name": "KLX Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/13/2014",
-          "Owner": "Self",
-          "Ticker": "KLXI",
-          "Asset Name": "KLX Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/13/2014",
+          "owner": "Self",
+          "ticker": "KLXI",
+          "asset-name": "KLX Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

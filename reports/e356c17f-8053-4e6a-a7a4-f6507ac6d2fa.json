@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/02/2019",
   "filer": "The Honorable Christopher A Coons (Coons, Chris)",
-  "filedDate": "Filed 07/02/2019 @ 2:11 PM",
+  "filed-date": "07/02/2019",
+  "filed-time": "2:11 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "06/19/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "W.L. Gore\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: W.L. Gore & Associates\n                                                    \n                                                         (Newark, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Advanced materials manufacturing",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "06/19/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "W.L. Gore\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: W.L. Gore & Associates\n                                                    \n                                                         (Newark, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Advanced materials manufacturing",
+          "asset-type": "Non-Public Stock",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

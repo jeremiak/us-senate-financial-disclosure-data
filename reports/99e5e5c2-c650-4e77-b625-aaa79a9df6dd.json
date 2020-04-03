@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 01/04/2017 (Amendment 1)",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/05/2017 @ 4:18 PM",
+  "filed-date": "05/05/2017",
+  "filed-time": "4:18 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "12/29/2016",
-          "Owner": "Self",
-          "Ticker": "SPG",
-          "Asset Name": "SPG-SPG-Simon Property Group, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade date)."
+          "transaction-date": "12/29/2016",
+          "owner": "Self",
+          "ticker": "SPG",
+          "asset-name": "SPG-SPG-Simon Property Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade date)."
         },
         {
-          "#": "3",
-          "Transaction Date": "12/29/2016",
-          "Owner": "Self",
-          "Ticker": "NKE",
-          "Asset Name": "NKE-NKE-NKE-NIKE, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade date)."
+          "transaction-date": "12/29/2016",
+          "owner": "Self",
+          "ticker": "NKE",
+          "asset-name": "NKE-NKE-NKE-NIKE, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade date)."
         },
         {
-          "#": "2",
-          "Transaction Date": "12/28/2016",
-          "Owner": "Self",
-          "Ticker": "CSX",
-          "Asset Name": "CSX Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "12/28/2016",
+          "owner": "Self",
+          "ticker": "CSX",
+          "asset-name": "CSX Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/28/2016",
-          "Owner": "Self",
-          "Ticker": "F",
-          "Asset Name": "Ford Motor Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "12/28/2016",
+          "owner": "Self",
+          "ticker": "F",
+          "asset-name": "Ford Motor Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

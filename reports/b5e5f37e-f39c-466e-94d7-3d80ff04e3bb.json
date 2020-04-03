@@ -1,254 +1,263 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2015",
   "filer": "The Honorable John A Barrasso (Barrasso, John)",
-  "filedDate": "Filed 05/16/2016 @ 3:30 PM",
+  "filed-date": "05/16/2016",
+  "filed-time": "3:30 PM",
+  "calendar-year": "2015",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Partnership Distributions",
-          "Who Paid": "Wyoming Surgical Center, LLC (see Part IX)\n\t\t\t\t\t\t\t\tCasper, WY",
-          "Amount Paid": "$19,625.00"
+          "who-was-paid": "Self",
+          "type": "Partnership Distributions",
+          "who-paid": "Wyoming Surgical Center, LLC (see Part IX)\n\t\t\t\t\t\t\t\tCasper, WY",
+          "amount-paid": "$19,625.00"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "First Interstate Bank(Casper, WY)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "First Interstate Bank(Casper, WY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Jonah Bank(Casper, WY)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Jonah Bank(Casper, WY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo Bank(Casper, WY)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo Bank(Casper, WY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Hilltop National Bank(Casper, WY)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Hilltop National Bank(Casper, WY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TPMXXFiler comment:  Formerly reported as Tamarack Prime Money Market Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "TPMXXFiler comment:  Formerly reported as Tamarack Prime Money Market Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTSAX - Vanguard Total Stock Mkt Idx Adm (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "VTSAX - Vanguard Total Stock Mkt Idx Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "VAIPX - Vanguard Inflation-Protected Secs Adm (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "VAIPX - Vanguard Inflation-Protected Secs Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "VMMXX - Vanguard Money Market Reserves  (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "VMMXX - Vanguard Money Market Reserves  (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BRK-B - Berkshire Hathaway Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "BRK-B - Berkshire Hathaway Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VMSXX - Vanguard Tax-Exempt Money Marke (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "VMSXX - Vanguard Tax-Exempt Money Marke (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VGSLX - Vanguard REIT Index Adm (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "VGSLX - Vanguard REIT Index Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "VBTLX - Vanguard Total Bond Market Index Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Dividends,",
-          "Income": "$15,001 - $50,000"
+          "asset": "VBTLX - Vanguard Total Bond Market Index Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Wyoming Orthopaedics Institute, LLCCompany: Wyoming Orthopaedics Institute, LLC (Casper, WY) Description: Real Estate Partnership",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Wyoming Orthopaedics Institute, LLCCompany: Wyoming Orthopaedics Institute, LLC (Casper, WY) Description: Real Estate Partnership",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Undeveloped LandDescription: Undeveloped Land (land subdivided to create TOPOL-future sale) (Casper, WY)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undeveloped LandDescription: Undeveloped Land (land subdivided to create TOPOL-future sale) (Casper, WY)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Account ReceivableDebtor: Dr. Matthew Gorman",
-          "Asset Type": "Accounts ReceivableFrom an Individual",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Account ReceivableDebtor: Dr. Matthew Gorman",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Account ReceivableCompany: Wyoming Surgical Center, LLC (Casper, WY)",
-          "Asset Type": "Accounts ReceivableFrom a Business",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (Partnership Distribution)",
-          "Income": "Other $19,625.00"
+          "asset": "Account ReceivableCompany: Wyoming Surgical Center, LLC (Casper, WY)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Partnership Distribution)",
+          "income": "Other $19,625.00"
         },
         {
-          "Asset": "Promissory NoteCompany: Wyoming Orthopaedics Institute, LLC (Casper, WY)",
-          "Asset Type": "Accounts ReceivableFrom a Business",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Promissory NoteCompany: Wyoming Orthopaedics Institute, LLC (Casper, WY)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "VTSAX",
-          "Asset Name": "Vanguard Total Stock Mkt Idx Adm",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "02/18/2015",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VTSAX",
+          "asset-name": "Vanguard Total Stock Mkt Idx Adm",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/18/2015",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "VBTLX",
-          "Asset Name": "Vanguard Total Bond Market Index Adm",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/18/2015",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VBTLX",
+          "asset-name": "Vanguard Total Bond Market Index Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/18/2015",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Other\n\t\t\t\t\t\t\t\t (Mortgage-Refinance)",
-          "Points": "-",
-          "Rate(Term)": "3%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10/1 Arm)",
-          "Amount": "$500,001 - $1,000,000",
-          "Creditor": "Wells Fargo Home Mortgage\n\t\t\t\t\t\t\t\tDes Moines, IA",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Mortgage-Refinance)",
+          "points": "-",
+          "rate-term": "3%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10/1 Arm)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Wells Fargo Home Mortgage\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Oct 1984",
-          "Parties Involved": "Wyoming Surgical Center, LLC\n\t\t\t\t\t\t\t\tCasper, WY",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Partnership Buyout Agreement)",
-          "Status and Terms": "Pursuant to partnership agreement all departing physicians must sell ownership of Wyoming Surgical Center, LLC at the time of departure.  Periodic payout is based on pre-determined valuation of assets.  Payout will begin on October 1, 2007 through September 2017 in annual payments."
+          "date": "Oct 1984",
+          "parties-involved": "Wyoming Surgical Center, LLC\n\t\t\t\t\t\t\t\tCasper, WY",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Partnership Buyout Agreement)",
+          "status-and-terms": "Pursuant to partnership agreement all departing physicians must sell ownership of Wyoming Surgical Center, LLC at the time of departure.  Periodic payout is based on pre-determined valuation of assets.  Payout will begin on October 1, 2007 through September 2017 in annual payments."
         },
         {
-          "#": "2",
-          "Date": "Oct 2008",
-          "Parties Involved": "Wyoming Surgical Center, LLC\n\t\t\t\t\t\t\t\tCasper, WY",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Real Estate Partnership Buyout Agreement)",
-          "Status and Terms": "Dr. Matthew Gorman is currently buying into the real estate partnership of Wyoming Orthopaedics Institute, LLC and paying each partner quarterly over a 10 year purchase period but allowed to prepay without penalty."
+          "date": "Oct 2008",
+          "parties-involved": "Wyoming Surgical Center, LLC\n\t\t\t\t\t\t\t\tCasper, WY",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Real Estate Partnership Buyout Agreement)",
+          "status-and-terms": "Dr. Matthew Gorman is currently buying into the real estate partnership of Wyoming Orthopaedics Institute, LLC and paying each partner quarterly over a 10 year purchase period but allowed to prepay without penalty."
         },
         {
-          "#": "3",
-          "Date": "Jul 2012",
-          "Parties Involved": "Wyoming Surgical Center, LLC\n\t\t\t\t\t\t\t\tCasper, WY",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Promissory Note)",
-          "Status and Terms": "Entered into a Promissory Note with Wyoming Orthopaedics Institute, LLC for the sale of the Commercial Real Estate portion to be paid over 10 years.  Promissory note bearing 7% interest."
+          "date": "Jul 2012",
+          "parties-involved": "Wyoming Surgical Center, LLC\n\t\t\t\t\t\t\t\tCasper, WY",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Promissory Note)",
+          "status-and-terms": "Entered into a Promissory Note with Wyoming Orthopaedics Institute, LLC for the sale of the Commercial Real Estate portion to be paid over 10 years.  Promissory note bearing 7% interest."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

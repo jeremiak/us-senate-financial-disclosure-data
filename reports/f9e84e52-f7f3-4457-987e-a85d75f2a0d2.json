@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/14/2020",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 02/14/2020 @ 5:32 PM",
+  "filed-date": "02/14/2020",
+  "filed-time": "5:32 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "01/27/2020",
-          "Owner": "Self",
-          "Ticker": "PYPL",
-          "Asset Name": "PayPal Holdings, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2020",
+          "owner": "Self",
+          "ticker": "PYPL",
+          "asset-name": "PayPal Holdings, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "01/27/2020",
-          "Owner": "Self",
-          "Ticker": "INTU",
-          "Asset Name": "Intuit Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2020",
+          "owner": "Self",
+          "ticker": "INTU",
+          "asset-name": "Intuit Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/27/2020",
-          "Owner": "Self",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2020",
+          "owner": "Self",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "01/27/2020",
-          "Owner": "Self",
-          "Ticker": "BAM",
-          "Asset Name": "Brookfield Asset Management Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2020",
+          "owner": "Self",
+          "ticker": "BAM",
+          "asset-name": "Brookfield Asset Management Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/27/2020",
-          "Owner": "Self",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2020",
+          "owner": "Self",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

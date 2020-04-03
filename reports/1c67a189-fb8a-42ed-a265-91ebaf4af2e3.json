@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/03/2017",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 03/03/2017 @ 9:57 AM",
+  "filed-date": "03/03/2017",
+  "filed-time": "9:57 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/28/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "SE - Spectra Energy Corp",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Spectra Energy Corp exchanged for Enbridge Inc"
+          "transaction-date": "02/28/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "SE - Spectra Energy Corp",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "Spectra Energy Corp exchanged for Enbridge Inc"
         },
         {
-          "#": "3",
-          "Transaction Date": "02/28/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Enbridge Inc",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Spectra Energy Corp exchanged for Enbridge Inc"
+          "transaction-date": "02/28/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Enbridge Inc",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "Spectra Energy Corp exchanged for Enbridge Inc"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/10/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Preospect Capital Group",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/10/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Preospect Capital Group",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

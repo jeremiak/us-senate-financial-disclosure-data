@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/12/2016",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 01/12/2016 @ 5:07 PM",
+  "filed-date": "01/12/2016",
+  "filed-time": "5:07 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "ESV",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "ESV",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/04/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "AMLP",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/04/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "AMLP",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "01/05/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "DBP",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/05/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "DBP",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/05/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "GLD",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/05/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "GLD",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

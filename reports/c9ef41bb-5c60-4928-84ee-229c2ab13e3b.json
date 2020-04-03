@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/10/2018",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 08/10/2018 @ 2:01 PM",
+  "filed-date": "08/10/2018",
+  "filed-time": "2:01 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/25/2018",
-          "Owner": "Spouse",
-          "Ticker": "ENB",
-          "Asset Name": "Enbridge Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2018",
+          "owner": "Spouse",
+          "ticker": "ENB",
+          "asset-name": "Enbridge Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

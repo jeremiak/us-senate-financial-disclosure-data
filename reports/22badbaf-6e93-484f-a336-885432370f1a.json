@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/04/2015",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 06/04/2015 @ 2:42 PM",
+  "filed-date": "06/04/2015",
+  "filed-time": "2:42 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/26/2015",
-          "Owner": "Joint",
-          "Ticker": "XRT",
-          "Asset Name": "SPDR Series Trust - SPDR S&P Retail ETF (NYSEArca)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/26/2015",
+          "owner": "Joint",
+          "ticker": "XRT",
+          "asset-name": "SPDR Series Trust - SPDR S&P Retail ETF (NYSEArca)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

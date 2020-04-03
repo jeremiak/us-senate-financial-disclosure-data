@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/11/2019",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 01/11/2019 @ 10:33 AM",
+  "filed-date": "01/11/2019",
+  "filed-time": "10:33 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "12/12/2018",
-          "Owner": "Spouse",
-          "Ticker": "GIS",
-          "Asset Name": "General Mills, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/12/2018",
+          "owner": "Spouse",
+          "ticker": "GIS",
+          "asset-name": "General Mills, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "12/13/2018",
-          "Owner": "Spouse",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/13/2018",
+          "owner": "Spouse",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/13/2018",
-          "Owner": "Spouse",
-          "Ticker": "PEP",
-          "Asset Name": "PepsiCo, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/13/2018",
+          "owner": "Spouse",
+          "ticker": "PEP",
+          "asset-name": "PepsiCo, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/31/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/31/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

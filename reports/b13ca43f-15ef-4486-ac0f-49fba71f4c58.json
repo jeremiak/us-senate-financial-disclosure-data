@@ -1,1095 +1,1072 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2013",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/15/2014 @ 12:01 PM",
+  "filed-date": "05/15/2014",
+  "filed-time": "12:01 PM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "MDDVX - BlackRock Equity Dividend Inv A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "FCNTX - Fidelity Contrafund (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "SGIIX - First Eagle Global I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "JAMCX - JPMorgan Mid Cap Value A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "WASAX - Ivy Asset Strategy A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "MGFIX - AMG Managers Bond Service (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "PRPFX - Permanent Portfolio (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "PRNHX - T. Rowe Price New Horizons (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "TPINX - Templeton Global Bond A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "T - AT&T, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "AAPL - Apple Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "ARCC - Ares Capital Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "ADP - Automatic Data Processing, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MDDVX - BlackRock Equity Dividend Inv A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contrafund (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "JAMCX - JPMorgan Mid Cap Value A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "WASAX - Ivy Asset Strategy A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MGFIX - AMG Managers Bond Service (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PRPFX - Permanent Portfolio (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PRNHX - T. Rowe Price New Horizons (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TPINX - Templeton Global Bond A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "T - AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AAPL - Apple Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ARCC - Ares Capital Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ADP - Automatic Data Processing, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "BLK - BlackRock, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "BLK - BlackRock, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "CSX - CSX Corp. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "CSX - CSX Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "CTL - CenturyLink, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "CTL - CenturyLink, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "COH - Coach, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "COH - Coach, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "KO - The Coca-Cola Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "KO - The Coca-Cola Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "CTSH - Cognizant Technology Solutions Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "CTSH - Cognizant Technology Solutions Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DE - Deere & Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "DE - Deere & Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DEO - Diageo plc (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "DEO - Diageo plc (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "F - Ford Motor Co. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "F - Ford Motor Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FCX - Freeport-McMoRan Copper & Gold Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "FCX - Freeport-McMoRan Copper & Gold Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "GIS - General Mills, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "GIS - General Mills, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "GOOG - Google Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "GOOG - Google Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "INTC - Intel Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "INTC - Intel Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "IBM - International Business Machines Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "IBM - International Business Machines Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "IRET - Investors Real Estate Trust (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends, Capital Gains, Other, (Return of Capital)",
-          "Income": "$5,001 - $15,000Other $14,086.00"
+          "asset": "IRET - Investors Real Estate Trust (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains, Other, (Return of Capital)",
+          "income": "$5,001 - $15,000Other $14,086.00"
         },
         {
-          "Asset": "JNJ - Johnson & Johnson (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "JNJ - Johnson & Johnson (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "KRFT - Kraft Foods Group, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "KRFT - Kraft Foods Group, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MCD - McDonald's Corp. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MCD - McDonald's Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MSFT - Microsoft Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MSFT - Microsoft Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MCHP - Microchip Technology Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (Return of Capital)",
-          "Income": "Other $5,223.00"
+          "asset": "MCHP - Microchip Technology Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Return of Capital)",
+          "income": "Other $5,223.00"
         },
         {
-          "Asset": "MDLZ - Mondelez International, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MDLZ - Mondelez International, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "PFE - Pfizer Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "PFE - Pfizer Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PG - The Procter & Gamble Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "PG - The Procter & Gamble Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "RL - Ralph Lauren Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "RL - Ralph Lauren Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SBUX - Starbucks Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SBUX - Starbucks Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TJX - The TJX Companies, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "TJX - The TJX Companies, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "USB - U.S. Bancorp (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "USB - U.S. Bancorp (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "UNP - Union Pacific Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "UNP - Union Pacific Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "VFC - V.F. Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VFC - V.F. Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "VZ - Verizon Communications Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "VZ - Verizon Communications Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "VSAT - ViaSat Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VSAT - ViaSat Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WFC - Wells Fargo & Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "WFC - Wells Fargo & Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "YUM - Yum! Brands, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "YUM - Yum! Brands, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "CG - The Carlyle Group LP (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $1,498.00"
+          "asset": "CG - The Carlyle Group LP (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $1,498.00"
         },
         {
-          "Asset": "ETP - Energy Transfer Partners, L.P. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $6,662.00"
+          "asset": "ETP - Energy Transfer Partners, L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $6,662.00"
         },
         {
-          "Asset": "KMP - Kinder Morgan Energy Partners, L.P. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $1,787.00"
+          "asset": "KMP - Kinder Morgan Energy Partners, L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $1,787.00"
         },
         {
-          "Asset": "LGCY - Legacy Reserves LP (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $6,482.00"
+          "asset": "LGCY - Legacy Reserves LP (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $6,482.00"
         },
         {
-          "Asset": "LINE - Linn Energy, LLC (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $7,129.00"
+          "asset": "LINE - Linn Energy, LLC (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $7,129.00"
         },
         {
-          "Asset": "VNR - Vanguard Natural Resources, LLC (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $6,699.00"
+          "asset": "VNR - Vanguard Natural Resources, LLC (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $6,699.00"
         },
         {
-          "Asset": "Campbell Fund TR Unit Ser A LTD PartnershipCompany: Cambell Fund TR Unit Ser A LTD Partnership (Baltimore, Maryland) Description: Investment Partnership",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Campbell Fund TR Unit Ser A LTD PartnershipCompany: Cambell Fund TR Unit Ser A LTD Partnership (Baltimore, Maryland) Description: Investment Partnership",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Stifel(Bismarck, North Dakota)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Stifel(Bismarck, North Dakota)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Westbrand Inc. Bank Holding Co. Minot ND",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$5,000,001 - $25,000,000",
-          "Income Type": "Dividends,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Westbrand Inc. Bank Holding Co. Minot ND",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "Tompson-Hoeven PartnershipCompany: Tompson-Hoeven Partnership (Bismarck, North Dakota) Description: MT Farmland Rental",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Tompson-Hoeven PartnershipCompany: Tompson-Hoeven Partnership (Bismarck, North Dakota) Description: MT Farmland Rental",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Northwest Respiratory Services, LLCCompany: Northwest Respiratory Services, LLC (St Paul, Minnesota) Description: Respiratory Services",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$5,000,001 - $25,000,000",
-          "Income Type": "Other, (LLC Income)",
-          "Income": "Other $2,334,609.00"
+          "asset": "Northwest Respiratory Services, LLCCompany: Northwest Respiratory Services, LLC (St Paul, Minnesota) Description: Respiratory Services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Other, (LLC Income)",
+          "income": "Other $2,334,609.00"
         },
         {
-          "Asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (LLC Income)",
-          "Income": "Other $10,705.00"
+          "asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (LLC Income)",
+          "income": "Other $10,705.00"
         },
         {
-          "Asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (LLC Income)",
-          "Income": "Other $10,705.00"
+          "asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (LLC Income)",
+          "income": "Other $10,705.00"
         },
         {
-          "Asset": "Mainstream Investors, LLCCompany: Mainstream Investors, LLC (Minot, North Dakota) Description: Oil & Gas Investing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Mainstream Investors, LLCCompany: Mainstream Investors, LLC (Minot, North Dakota) Description: Oil & Gas Investing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CCL - Carnival Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CCL - Carnival Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HOG - Harley-Davidson, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "HOG - Harley-Davidson, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TEVA - Teva Pharmaceutical Industries Limited (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "TEVA - Teva Pharmaceutical Industries Limited (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ATLS - Atlas Energy, L.P (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains, Other, (PTP Income)",
-          "Income": "$5,001 - $15,000Other $284.00"
+          "asset": "ATLS - Atlas Energy, L.P (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains, Other, (PTP Income)",
+          "income": "$5,001 - $15,000Other $284.00"
         },
         {
-          "Asset": "WIN - Windstream Holdings, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "WIN - Windstream Holdings, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HRZN - Horizon Technology Finance Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "HRZN - Horizon Technology Finance Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EVEP - EV Energy Partners LP (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains, Other, (PTP Income)",
-          "Income": "None (or less than $201)Other $5,146.00"
+          "asset": "EVEP - EV Energy Partners LP (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains, Other, (PTP Income)",
+          "income": "None (or less than $201)Other $5,146.00"
         },
         {
-          "Asset": "Heinz HJ Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Heinz HJ Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "First Western Bank Collective Asset Fund",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None, Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "First Western Bank Collective Asset Fund",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FISPX - Federated Max-Cap Index Instl (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "JAVLX - Janus Twenty T (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "OAKMX - Oakmark I (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "VDIGX - Vanguard Dividend Growth Inv (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "VV - Vanguard Large Cap ETF",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "VSMAX - Vanguard Small Cap Index Adm (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "FHYTX - Federated High Yield Trust Service (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "FTRKX - Federated Total Return Bond R (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "First Western Bank & Trust(Minot , North Dakota)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Interest,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "First Western Bank & Trust(Minot, North Dakota)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Copano Energy, LLCFiler comment:  PTP exchanged for Kinder Morgan",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None, Other, (PTP Income)",
-          "Income": "None (or less than $201)Other $1,642.00"
-        },
-        {
-          "Asset": "Millburn Multi-Markets Fund LLPCompany: Millburn Multi-Markets Fund LLP (Greenwich, CT) Description: Investment Fund",
-          "Asset Type": "Business EntityLimited Liability Limited Partnership (LLLP)",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "FISPX - Federated Max-Cap Index Instl (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "JAVLX - Janus Twenty T (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKMX - Oakmark I (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VDIGX - Vanguard Dividend Growth Inv (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VV - Vanguard Large Cap ETF",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VSMAX - Vanguard Small Cap Index Adm (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FHYTX - Federated High Yield Trust Service (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FTRKX - Federated Total Return Bond R (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "First Western Bank & Trust(Minot , North Dakota)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "First Western Bank & Trust(Minot, North Dakota)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Copano Energy, LLCFiler comment:  PTP exchanged for Kinder Morgan",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None, Other, (PTP Income)",
+          "income": "None (or less than $201)Other $1,642.00"
+        },
+        {
+          "asset": "Millburn Multi-Markets Fund LLPCompany: Millburn Multi-Markets Fund LLP (Greenwich, CT) Description: Investment Fund",
+          "asset-type": "Business EntityLimited Liability Limited Partnership (LLLP)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "04/29/2013",
-          "Owner": "Self",
-          "Ticker": "CG",
-          "Asset Name": "The Carlyle Group LP (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/29/2013",
+          "owner": "Self",
+          "ticker": "CG",
+          "asset-name": "The Carlyle Group LP (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/01/2013",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Copano Energy, LLC",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "KMP acquired Copano and received .4563 KMP units for each Copano unit."
+          "transaction-date": "05/01/2013",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Copano Energy, LLC",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "KMP acquired Copano and received .4563 KMP units for each Copano unit."
         },
         {
-          "#": "3",
-          "Transaction Date": "05/01/2013",
-          "Owner": "Self",
-          "Ticker": "KMP",
-          "Asset Name": "Kinder Morgan Energy Partners, L.P. (NYSE)",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "KMP acquired Copano Energy, LLC. Received .4563 KMP units for each Copano unit."
+          "transaction-date": "05/01/2013",
+          "owner": "Self",
+          "ticker": "KMP",
+          "asset-name": "Kinder Morgan Energy Partners, L.P. (NYSE)",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "KMP acquired Copano Energy, LLC. Received .4563 KMP units for each Copano unit."
         },
         {
-          "#": "4",
-          "Transaction Date": "06/10/2013",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Heinz HJ Company",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Berkshire acquired Heinz and paid cash to Heinz shareholders on acquisition."
+          "transaction-date": "06/10/2013",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Heinz HJ Company",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "Berkshire acquired Heinz and paid cash to Heinz shareholders on acquisition."
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "DEO",
-          "Asset Name": "Diageo plc (NYSE)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/22/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DEO",
+          "asset-name": "Diageo plc (NYSE)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/22/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "EVEP",
-          "Asset Name": "EV Energy Partners LP (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "EVEP",
+          "asset-name": "EV Energy Partners LP (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "KRFT",
-          "Asset Name": "Kraft Foods Group, Inc. (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/22/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "KRFT",
+          "asset-name": "Kraft Foods Group, Inc. (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/22/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company (NYSE)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company (NYSE)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "LGCY",
-          "Asset Name": "Legacy Reserves LP (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "LGCY",
+          "asset-name": "Legacy Reserves LP (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "VNR",
-          "Asset Name": "Vanguard Natural Resources, LLC (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VNR",
+          "asset-name": "Vanguard Natural Resources, LLC (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "CCL",
-          "Asset Name": "Carnival Corporation (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/20/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "CCL",
+          "asset-name": "Carnival Corporation (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/20/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Westbrand Inc Bank Holding Co Stock Minot ND",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/24/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Westbrand Inc Bank Holding Co Stock Minot ND",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/24/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "DE",
-          "Asset Name": "Deere & Company (NYSE)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/10/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DE",
+          "asset-name": "Deere & Company (NYSE)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/10/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Westbrand Inc Bank Holding Co Stock Minot ND",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/26/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Westbrand Inc Bank Holding Co Stock Minot ND",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/26/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "PFE",
-          "Asset Name": "Pfizer Inc. (NYSE)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/05/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PFE",
+          "asset-name": "Pfizer Inc. (NYSE)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/05/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "HOG",
-          "Asset Name": "Harley-Davidson, Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/05/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "HOG",
+          "asset-name": "Harley-Davidson, Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "TEVA",
-          "Asset Name": "Teva Pharmaceutical Industries Limited (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/05/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "TEVA",
+          "asset-name": "Teva Pharmaceutical Industries Limited (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/05/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/05/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "ATLS",
-          "Asset Name": "Atlas Energy, L.P (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/05/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ATLS",
+          "asset-name": "Atlas Energy, L.P (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/05/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Mainstream Investors, LLC Minot ND",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/30/2013",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Mainstream Investors, LLC Minot ND",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/30/2013",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Millburn Multi-Markets Fund LLP Greenwich CT",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Millburn Multi-Markets Fund LLP Greenwich CT",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/17/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "WIN",
-          "Asset Name": "Windstream Holdings, Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "WIN",
+          "asset-name": "Windstream Holdings, Inc. (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/17/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "HRZN",
-          "Asset Name": "Horizon Technology Finance Corporation (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "HRZN",
+          "asset-name": "Horizon Technology Finance Corporation (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/17/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "EVEP",
-          "Asset Name": "EV Energy Partners LP (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "EVEP",
+          "asset-name": "EV Energy Partners LP (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/17/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Heinz HJ Company",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "06/10/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Berkshire acquired Heinz and paid cash to Heinz shareholders on acquisition."
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Heinz HJ Company",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/10/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "Berkshire acquired Heinz and paid cash to Heinz shareholders on acquisition."
         },
         {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "CG",
-          "Asset Name": "The Carlyle Group LP (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "04/29/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "CG",
+          "asset-name": "The Carlyle Group LP (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/29/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "KMP",
-          "Asset Name": "Kinder Morgan Energy Partners, L.P. (NYSE)",
-          "Transaction Type": "Exchange",
-          "Transaction Date": "05/01/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "KMP acquired Copano Energy, LLC. Received .4563 KMP units for each Copano unit."
+          "owner": "Self",
+          "ticker": "KMP",
+          "asset-name": "Kinder Morgan Energy Partners, L.P. (NYSE)",
+          "transaction-type": "Exchange",
+          "transaction-date": "05/01/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "KMP acquired Copano Energy, LLC. Received .4563 KMP units for each Copano unit."
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Copano Energy, LLC",
-          "Transaction Type": "Exchange",
-          "Transaction Date": "05/01/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "KMP acquired Copano and received .4563 KMP units for each Copano unit."
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Copano Energy, LLC",
+          "transaction-type": "Exchange",
+          "transaction-date": "05/01/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "KMP acquired Copano and received .4563 KMP units for each Copano unit."
         },
         {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "JAVLX",
-          "Asset Name": "Janus Twenty T (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/03/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "IRA"
+          "owner": "Self",
+          "ticker": "JAVLX",
+          "asset-name": "Janus Twenty T (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/03/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "IRA"
         },
         {
-          "#": "26",
-          "Owner": "Self",
-          "Ticker": "FISPX",
-          "Asset Name": "Federated Max-Cap Index Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/08/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Self",
+          "ticker": "FISPX",
+          "asset-name": "Federated Max-Cap Index Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/08/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "27",
-          "Owner": "Self",
-          "Ticker": "OAKMX",
-          "Asset Name": "Oakmark I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/10/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "IRA"
+          "owner": "Self",
+          "ticker": "OAKMX",
+          "asset-name": "Oakmark I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/10/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "IRA"
         },
         {
-          "#": "28",
-          "Owner": "Self",
-          "Ticker": "VV",
-          "Asset Name": "Vanguard Large Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/14/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "IRA"
+          "owner": "Self",
+          "ticker": "VV",
+          "asset-name": "Vanguard Large Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/14/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "IRA"
         },
         {
-          "#": "29",
-          "Owner": "Self",
-          "Ticker": "LINE",
-          "Asset Name": "Linn Energy, LLC (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/22/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "LINE",
+          "asset-name": "Linn Energy, LLC (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/22/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2009",
-          "Debtor": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t (Personal Guarantor)",
-          "Points": "-",
-          "Rate(Term)": "5.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
-          "Amount": "$1,000,001 - $5,000,000",
-          "Creditor": "State Bank & Trust\n\t\t\t\t\t\t\t\tKenmare, North Dakota",
-          "Comments": "-"
+          "incurred": "2009",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (Personal Guarantor)",
+          "points": "-",
+          "rate-term": "5.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "State Bank & Trust\n\t\t\t\t\t\t\t\tKenmare, North Dakota",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Oct 1984 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Director",
-          "Entity": "First Western Bank & Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMinot, North Dakota",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Bank)",
-          "Comments": ""
+          "position-dates": "Oct 1984 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "First Western Bank & Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMinot, North Dakota",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Bank)",
+          "comments": ""
         },
         {
-          "#": "2",
-          "Position Dates": "Jun 1999 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Northwest Respiratory Service, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSt Paul, Minnesota",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Respiratory Services, LLC)",
-          "Comments": ""
+          "position-dates": "Jun 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Northwest Respiratory Service, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSt Paul, Minnesota",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Respiratory Services, LLC)",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Mar 1979 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Partner",
-          "Entity": "Tompson-Hoeven Partnership\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBismarck, North Dakota",
-          "Entity Type": "Partnership",
-          "Comments": ""
+          "position-dates": "Mar 1979 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Tompson-Hoeven Partnership\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBismarck, North Dakota",
+          "entity-type": "Partnership",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jul 1982",
-          "Parties Involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot , North Dakota",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Defined Benefit Plan)",
-          "Status and Terms": "Participant in First Western Bank & Trust Employee Pension Plan. Plan is a defined benefit plan and is 100% vested. Projected benefit at retirement is $837.74 per month."
+          "date": "Jul 1982",
+          "parties-involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot , North Dakota",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Defined Benefit Plan)",
+          "status-and-terms": "Participant in First Western Bank & Trust Employee Pension Plan. Plan is a defined benefit plan and is 100% vested. Projected benefit at retirement is $837.74 per month."
         },
         {
-          "#": "2",
-          "Date": "Apr 1986",
-          "Parties Involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot, North Dakota",
-          "Type": "Compensation Agreement",
-          "Status and Terms": "Participant in First Western Bank & Trust salary continuation agreement, however is currently suspended with a balance of $8,604. If and when John Hoeven would return to employment with First Western Bank & Trust, his salary continuation accrual would resume."
+          "date": "Apr 1986",
+          "parties-involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot, North Dakota",
+          "type": "Compensation Agreement",
+          "status-and-terms": "Participant in First Western Bank & Trust salary continuation agreement, however is currently suspended with a balance of $8,604. If and when John Hoeven would return to employment with First Western Bank & Trust, his salary continuation accrual would resume."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

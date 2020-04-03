@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/12/2017",
   "filer": "The Honorable William Cassidy (Cassidy, Bill)",
-  "filedDate": "Filed 12/12/2017 @ 2:51 PM",
+  "filed-date": "12/12/2017",
+  "filed-time": "2:51 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "11/07/2017",
-          "Owner": "Spouse",
-          "Ticker": "SLB",
-          "Asset Name": "Schlumberger Limited",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/07/2017",
+          "owner": "Spouse",
+          "ticker": "SLB",
+          "asset-name": "Schlumberger Limited",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/07/2017",
-          "Owner": "Spouse",
-          "Ticker": "QCOM",
-          "Asset Name": "QUALCOMM Incorporated",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/07/2017",
+          "owner": "Spouse",
+          "ticker": "QCOM",
+          "asset-name": "QUALCOMM Incorporated",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/07/2017",
-          "Owner": "Spouse",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/07/2017",
+          "owner": "Spouse",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/17/2017",
-          "Owner": "Spouse",
-          "Ticker": "IBM",
-          "Asset Name": "International Business Machines Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/17/2017",
+          "owner": "Spouse",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

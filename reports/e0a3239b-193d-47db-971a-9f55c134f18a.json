@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/11/2019",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 06/11/2019 @ 4:54 PM",
+  "filed-date": "06/11/2019",
+  "filed-time": "4:54 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/17/2019",
-          "Owner": "Spouse",
-          "Ticker": "RHT",
-          "Asset Name": "Red Hat, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/17/2019",
+          "owner": "Spouse",
+          "ticker": "RHT",
+          "asset-name": "Red Hat, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/21/2019",
-          "Owner": "Spouse",
-          "Ticker": "WEX",
-          "Asset Name": "WEX Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/21/2019",
+          "owner": "Spouse",
+          "ticker": "WEX",
+          "asset-name": "WEX Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

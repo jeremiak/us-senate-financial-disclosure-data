@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/11/2019",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 11/11/2019 @ 5:12 PM",
+  "filed-date": "11/11/2019",
+  "filed-time": "5:12 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/22/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Quadbridge HML Venture, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Quadbridge HML Venture, LLC\n                                                    \n                                                         (Charlotte, NC)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "Underlying asset of Echo Bridge Realty Fund I, LP"
+          "transaction-date": "10/22/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Quadbridge HML Venture, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Quadbridge HML Venture, LLC\n                                                    \n                                                         (Charlotte, NC)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "Underlying asset of Echo Bridge Realty Fund I, LP"
         }
       ]
     }

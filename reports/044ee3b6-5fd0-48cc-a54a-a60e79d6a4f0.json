@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/15/2018",
   "filer": "The Honorable A. Mitchell McConnell Jr. (McConnell, A. Mitchell Jr.)",
-  "filedDate": "Filed 05/15/2018 @ 9:24 AM",
+  "filed-date": "05/15/2018",
+  "filed-time": "9:24 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "03/05/2018",
-          "Owner": "Spouse",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Dividend Reinvestment"
+          "transaction-date": "03/05/2018",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Dividend Reinvestment"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/05/2017",
-          "Owner": "Spouse",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Dividend Reinvestment"
+          "transaction-date": "12/05/2017",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Dividend Reinvestment"
         },
         {
-          "#": "1",
-          "Transaction Date": "09/07/2017",
-          "Owner": "Spouse",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Dividend Reinvestment"
+          "transaction-date": "09/07/2017",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Dividend Reinvestment"
         }
       ]
     }

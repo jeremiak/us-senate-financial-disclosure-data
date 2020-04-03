@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/22/2016",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 07/22/2016 @ 12:15 PM",
+  "filed-date": "07/22/2016",
+  "filed-time": "12:15 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "06/24/2016",
-          "Owner": "Spouse",
-          "Ticker": "BRK-B",
-          "Asset Name": "Berkshire Hathaway Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/24/2016",
+          "owner": "Spouse",
+          "ticker": "BRK-B",
+          "asset-name": "Berkshire Hathaway Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/13/2016",
-          "Owner": "Spouse",
-          "Ticker": "F",
-          "Asset Name": "Ford Motor Co.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/13/2016",
+          "owner": "Spouse",
+          "ticker": "F",
+          "asset-name": "Ford Motor Co.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,199 +1,211 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Richard C Shelby (Shelby, Richard C.)",
-  "filedDate": "Filed 05/09/2019 @ 10:13 AM",
+  "filed-date": "05/09/2019",
+  "filed-time": "10:13 AM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Retirement",
-          "Who Paid": "TIAA/CREF - Professor, Emerita, Georgetown University\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "TIAA/CREF - Professor, Emerita, Georgetown University\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Retirement",
-          "Who Paid": "Vanguard Fiduciary Trust\n\t\t\t\t\t\t\t\tValley Forge, PA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "Vanguard Fiduciary Trust\n\t\t\t\t\t\t\t\tValley Forge, PA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Regions Bank(Birmingham, AL)Type: Checking, Filer comment:  Non-interest bearing",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Regions Bank(Birmingham, AL)Type: Checking, Filer comment:  Non-interest bearing",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Regions Bank #906(Birmingham, AL)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Regions Bank #906(Birmingham, AL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "BBVA Compass Bank(Birmingham, AL)Type: Certificate of Deposit, Filer comment:  Renewed 5/14/2018. Matures 8/14/2019",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "BBVA Compass Bank(Birmingham, AL)Type: Certificate of Deposit, Filer comment:  Renewed 5/14/2018. Matures 8/14/2019",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Vanguard Trust-Federal Money Fund(Valley Forge, PA)Type: IRA Cash Accounts, Money Market Account, Filer comment:  Established July 26, 2016-funded with interest income earned by three CDs also held at Vanguard.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Trust-Federal Money Fund(Valley Forge, PA)Type: IRA Cash Accounts, Money Market Account, Filer comment:  Established July 26, 2016-funded with interest income earned by three CDs also held at Vanguard.",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Express(Salt Lake City, UT)Type: Certificate of Deposit, IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$2,501 - $5,000"
+          "asset": "American Express(Salt Lake City, UT)Type: Certificate of Deposit, IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "CIT Bank(Salt Lake City, UT)Type: Certificate of Deposit, IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$2,501 - $5,000"
+          "asset": "CIT Bank(Salt Lake City, UT)Type: Certificate of Deposit, IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Goldman Sachs(Salt Lake City, UT)Type: Certificate of Deposit, IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Goldman Sachs(Salt Lake City, UT)Type: Certificate of Deposit, IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Centralite",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Centralite",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Regions Bank #721(Birmingham, AL)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Regions Bank #721(Birmingham, AL)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Tuscaloosa Title Company, Inc.Filer comment:  Closely held, non-publically traded company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Dividends,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Tuscaloosa Title Company, Inc.Filer comment:  Closely held, non-publically traded company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "Office BuildingDescription: 2210 8th Street (Tuscaloosa, AL)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Office BuildingDescription: 2210 8th Street (Tuscaloosa, AL)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "ResidenceDescription: 1414 High Forest Drive N (Tuscaloosa, AL) Filer comment:  Personal Residence",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "ResidenceDescription: 1414 High Forest Drive N (Tuscaloosa, AL) Filer comment:  Personal Residence",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Regions Bank #288(Birmingham, AL)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Regions Bank #288(Birmingham, AL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Nov 1974 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Director",
-          "Entity": "Tuscaloosa Title Company, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTuscaloosa, AL",
-          "Entity Type": "Corporation",
-          "Comments": "Chairman of the Board"
+          "position-dates": "Nov 1974 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "Tuscaloosa Title Company, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTuscaloosa, AL",
+          "entity-type": "Corporation",
+          "comments": "Chairman of the Board"
         },
         {
-          "#": "2",
-          "Position Dates": "Dec 2018 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Director",
-          "Entity": "President's Advisory Committee for the Arts\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": "This committee represents the Kennedy Center in Washington DC. No compensation is received in this role."
+          "position-dates": "Dec 2018 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "President's Advisory Committee for the Arts\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "This committee represents the Kennedy Center in Washington DC. No compensation is received in this role."
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

@@ -1,953 +1,907 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2015 (Amendment 1)",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 06/13/2017 @ 9:48 AM",
+  "filed-date": "06/13/2017",
+  "filed-time": "9:48 AM",
+  "calendar-year": "2015",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Commissions",
-          "Who Paid": "Long and Foster Realtors\n\t\t\t\t\t\t\t\tAlexandria, VA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Commissions",
+          "who-paid": "Long and Foster Realtors\n\t\t\t\t\t\t\t\tAlexandria, VA",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Retirement",
-          "Who Paid": "tdameritrade\n\t\t\t\t\t\t\t\tomaha, ne",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "tdameritrade\n\t\t\t\t\t\t\t\tomaha, ne",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "CondoDescription: Rental Property (National Harbor, Md)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "CondoDescription: Rental Property (National Harbor, Md)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "ResidenceDescription: Rental Property (Dodge City, Ks)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$5,001 - $15,000"
+          "asset": "ResidenceDescription: Rental Property (Dodge City, Ks)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "Old Town CondoDescription: Rental Property (Alexandria, VA)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Old Town CondoDescription: Rental Property (Alexandria, VA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "1/2 interest in two lotsDescription: unimproved lots in residential develop. (Columbia, SC)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "1/2 interest in two lotsDescription: unimproved lots in residential develop. (Columbia, SC)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "1/3 interest in unimproved landDescription: unimproved land (Sumter, SC)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "1/3 interest in unimproved landDescription: unimproved land (Sumter, SC)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TORRX - Torray Institutional Fund (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "TORRX - Torray Institutional Fund (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TDAmeritrade(Alexandria, Va)Type: IRA Cash Accounts, Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "TDAmeritrade(Alexandria, Va)Type: IRA Cash Accounts, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Sep",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Sep",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "ZNGA - Zynga, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "ZNGA - Zynga, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "COST - Costco Wholesale Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "COST - Costco Wholesale Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CVX - Chevron Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "CVX - Chevron Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AAPL - Apple Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None, Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None, Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TJX - The TJX Companies, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TJX - The TJX Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "NFLX - Netflix, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "NFLX - Netflix, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TDAMERITRADE-R",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "TDAMERITRADE-R",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "AAPL - Apple Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "AAPL - Apple Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "BIDU - Baidu, Inc. (NASDAQ)Filer comment:  R",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "BIDU - Baidu, Inc. (NASDAQ)Filer comment:  R",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ETY - Eaton Vance Tax-Managed Diversified Equity Income Fund (NYSE)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "ETY - Eaton Vance Tax-Managed Diversified Equity Income Fund (NYSE)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "AMZN - Amazon.com Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "AMZN - Amazon.com Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FB - Facebook, Inc. (NASDAQ)Filer comment:  R",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "FB - Facebook, Inc. (NASDAQ)Filer comment:  R",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TCS - The Container Store Group, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TCS - The Container Store Group, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TWTR - Twitter, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TWTR - Twitter, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BA - The Boeing Company (NYSE)Filer comment:  R",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "BA - The Boeing Company (NYSE)Filer comment:  R",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "COST - Costco Wholesale CorporationFiler comment:  r",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "COST - Costco Wholesale CorporationFiler comment:  r",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SBUX - Starbucks Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SBUX - Starbucks Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FR-555",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "FR-555",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "TCS - The Container Store Group, Inc. (NYSE)Filer comment:  555",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TCS - The Container Store Group, Inc. (NYSE)Filer comment:  555",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Capitol One (Alexandria, VA)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends, Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Capitol One (Alexandria, VA)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Wells Fargo(Alexandria, VA)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Alexandria, VA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Express Savings(Salt Lake City, Utah)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "American Express Savings(Salt Lake City, Utah)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "MTT(Alexandria, VA)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "MTT(Alexandria, VA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Senate Federal Credit Union(Washington, DC)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Senate Federal Credit Union(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo(Alexandria, VA)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Alexandria, VA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Capitol One(Alexandria, VA)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Capitol One(Alexandria, VA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "DVN - Devon Energy CorporationFiler comment:  jt",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "DVN - Devon Energy CorporationFiler comment:  jt",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/02/2015",
-          "Owner": "Spouse",
-          "Ticker": "TWTR",
-          "Asset Name": "Twitter, Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "01/02/2015",
+          "owner": "Spouse",
+          "ticker": "TWTR",
+          "asset-name": "Twitter, Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "2",
-          "Transaction Date": "01/02/2015",
-          "Owner": "Spouse",
-          "Ticker": "TCS",
-          "Asset Name": "The Container Store Group, Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "01/02/2015",
+          "owner": "Spouse",
+          "ticker": "TCS",
+          "asset-name": "The Container Store Group, Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/16/2015",
-          "Owner": "Spouse",
-          "Ticker": "TCS",
-          "Asset Name": "The Container Store Group, Inc. (NYSE)",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "01/16/2015",
+          "owner": "Spouse",
+          "ticker": "TCS",
+          "asset-name": "The Container Store Group, Inc. (NYSE)",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "4",
-          "Transaction Date": "01/16/2015",
-          "Owner": "Spouse",
-          "Ticker": "ZNGA",
-          "Asset Name": "Zynga, Inc. (NASDAQ)",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sep"
+          "transaction-date": "01/16/2015",
+          "owner": "Spouse",
+          "ticker": "ZNGA",
+          "asset-name": "Zynga, Inc. (NASDAQ)",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sep"
         },
         {
-          "#": "5",
-          "Transaction Date": "01/16/2015",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc. (NASDAQ)",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "01/16/2015",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc. (NASDAQ)",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "6",
-          "Transaction Date": "01/27/2015",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "01/27/2015",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "7",
-          "Transaction Date": "01/28/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "01/28/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "8",
-          "Transaction Date": "01/28/2015",
-          "Owner": "Spouse",
-          "Ticker": "BIDU",
-          "Asset Name": "Baidu, Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "01/28/2015",
+          "owner": "Spouse",
+          "ticker": "BIDU",
+          "asset-name": "Baidu, Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "9",
-          "Transaction Date": "02/05/2015",
-          "Owner": "Spouse",
-          "Ticker": "DVN",
-          "Asset Name": "Devon Energy Corporation (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sep"
+          "transaction-date": "02/05/2015",
+          "owner": "Spouse",
+          "ticker": "DVN",
+          "asset-name": "Devon Energy Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sep"
         },
         {
-          "#": "10",
-          "Transaction Date": "02/05/2015",
-          "Owner": "Spouse",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "02/05/2015",
+          "owner": "Spouse",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "11",
-          "Transaction Date": "02/05/2015",
-          "Owner": "Spouse",
-          "Ticker": "GM",
-          "Asset Name": "General Motors Company (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "02/05/2015",
+          "owner": "Spouse",
+          "ticker": "GM",
+          "asset-name": "General Motors Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "12",
-          "Transaction Date": "02/10/2015",
-          "Owner": "Spouse",
-          "Ticker": "MIK",
-          "Asset Name": "The Michaels Companies, Inc. (NASDAQ)",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "02/10/2015",
+          "owner": "Spouse",
+          "ticker": "MIK",
+          "asset-name": "The Michaels Companies, Inc. (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "13",
-          "Transaction Date": "03/02/2015",
-          "Owner": "Spouse",
-          "Ticker": "BIDU",
-          "Asset Name": "Baidu, Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/02/2015",
+          "owner": "Spouse",
+          "ticker": "BIDU",
+          "asset-name": "Baidu, Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "14",
-          "Transaction Date": "03/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "BABA",
-          "Asset Name": "Alibaba Group Holding Limited (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/04/2015",
+          "owner": "Spouse",
+          "ticker": "BABA",
+          "asset-name": "Alibaba Group Holding Limited (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "15",
-          "Transaction Date": "03/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc. (NASDAQ)",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "R"
+          "transaction-date": "03/04/2015",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc. (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "R"
         },
         {
-          "#": "16",
-          "Transaction Date": "03/06/2015",
-          "Owner": "Spouse",
-          "Ticker": "SBUX",
-          "Asset Name": "Starbucks Corporation (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/06/2015",
+          "owner": "Spouse",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "17",
-          "Transaction Date": "03/06/2015",
-          "Owner": "Spouse",
-          "Ticker": "ETY",
-          "Asset Name": "Eaton Vance Tax-Managed Diversi (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/06/2015",
+          "owner": "Spouse",
+          "ticker": "ETY",
+          "asset-name": "Eaton Vance Tax-Managed Diversi (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "18",
-          "Transaction Date": "03/06/2015",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/06/2015",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "19",
-          "Transaction Date": "03/09/2015",
-          "Owner": "Spouse",
-          "Ticker": "AMZN",
-          "Asset Name": "Amazon.com Inc. (NASDAQ)",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "03/09/2015",
+          "owner": "Spouse",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com Inc. (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "20",
-          "Transaction Date": "03/11/2015",
-          "Owner": "Spouse",
-          "Ticker": "BABA",
-          "Asset Name": "Alibaba Group Holding Limited (NYSE)",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/11/2015",
+          "owner": "Spouse",
+          "ticker": "BABA",
+          "asset-name": "Alibaba Group Holding Limited (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "21",
-          "Transaction Date": "03/11/2015",
-          "Owner": "Spouse",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "03/11/2015",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "22",
-          "Transaction Date": "03/11/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/11/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "23",
-          "Transaction Date": "03/13/2015",
-          "Owner": "Spouse",
-          "Ticker": "ETY",
-          "Asset Name": "Eaton Vance Tax-Managed Diversi (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/13/2015",
+          "owner": "Spouse",
+          "ticker": "ETY",
+          "asset-name": "Eaton Vance Tax-Managed Diversi (NYSE)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Transaction Date": "03/13/2015",
-          "Owner": "Spouse",
-          "Ticker": "ETY",
-          "Asset Name": "Eaton Vance Tax-Managed Diversi (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "R"
+          "transaction-date": "03/13/2015",
+          "owner": "Spouse",
+          "ticker": "ETY",
+          "asset-name": "Eaton Vance Tax-Managed Diversi (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "R"
         },
         {
-          "#": "25",
-          "Transaction Date": "03/13/2015",
-          "Owner": "Spouse",
-          "Ticker": "ETY",
-          "Asset Name": "Eaton Vance Tax-Managed Diversi (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/13/2015",
+          "owner": "Spouse",
+          "ticker": "ETY",
+          "asset-name": "Eaton Vance Tax-Managed Diversi (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "26",
-          "Transaction Date": "03/16/2015",
-          "Owner": "Spouse",
-          "Ticker": "CVX",
-          "Asset Name": "Chevron Corporation (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sep"
+          "transaction-date": "03/16/2015",
+          "owner": "Spouse",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sep"
         },
         {
-          "#": "27",
-          "Transaction Date": "03/16/2015",
-          "Owner": "Joint",
-          "Ticker": "DVN",
-          "Asset Name": "Devon Energy Corporation (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Jt"
+          "transaction-date": "03/16/2015",
+          "owner": "Joint",
+          "ticker": "DVN",
+          "asset-name": "Devon Energy Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Jt"
         },
         {
-          "#": "28",
-          "Transaction Date": "03/17/2015",
-          "Owner": "Spouse",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/17/2015",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "29",
-          "Transaction Date": "03/17/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/17/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "30",
-          "Transaction Date": "03/17/2015",
-          "Owner": "Spouse",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/17/2015",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "31",
-          "Transaction Date": "03/25/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "03/25/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "32",
-          "Transaction Date": "04/14/2015",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Sep"
+          "transaction-date": "04/14/2015",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Sep"
         },
         {
-          "#": "33",
-          "Transaction Date": "04/22/2015",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc. (NASDAQ)",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Sep"
+          "transaction-date": "04/22/2015",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc. (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Sep"
         },
         {
-          "#": "34",
-          "Transaction Date": "04/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "04/24/2015",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "35",
-          "Transaction Date": "04/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "CVX",
-          "Asset Name": "Chevron Corporation (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sep"
+          "transaction-date": "04/24/2015",
+          "owner": "Spouse",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sep"
         },
         {
-          "#": "36",
-          "Transaction Date": "04/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "04/24/2015",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "37",
-          "Transaction Date": "05/06/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "NFLX",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "SEP"
+          "transaction-date": "05/06/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "NFLX",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "SEP"
         },
         {
-          "#": "38",
-          "Transaction Date": "05/06/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "COST",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "SEP"
+          "transaction-date": "05/06/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "COST",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "SEP"
         },
         {
-          "#": "39",
-          "Transaction Date": "05/15/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "ZNGA",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "SEP"
+          "transaction-date": "05/15/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "ZNGA",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "SEP"
         },
         {
-          "#": "40",
-          "Transaction Date": "05/15/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "NFLX",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "SEP"
+          "transaction-date": "05/15/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "NFLX",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "SEP"
         },
         {
-          "#": "41",
-          "Transaction Date": "05/15/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "AAPL",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "SEP"
+          "transaction-date": "05/15/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "AAPL",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "SEP"
         },
         {
-          "#": "42",
-          "Transaction Date": "05/28/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/28/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "43",
-          "Transaction Date": "06/09/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "aapl",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "SEP"
+          "transaction-date": "06/09/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "aapl",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "SEP"
         },
         {
-          "#": "44",
-          "Transaction Date": "06/09/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "aapl",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "06/09/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "aapl",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "45",
-          "Transaction Date": "06/11/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "znga",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "SEP"
+          "transaction-date": "06/11/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "znga",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "SEP"
         },
         {
-          "#": "46",
-          "Transaction Date": "06/16/2015",
-          "Owner": "Spouse",
-          "Ticker": "GM",
-          "Asset Name": "General Motors Company",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "r"
+          "transaction-date": "06/16/2015",
+          "owner": "Spouse",
+          "ticker": "GM",
+          "asset-name": "General Motors Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "r"
         },
         {
-          "#": "47",
-          "Transaction Date": "06/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "nflx",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "SEP"
+          "transaction-date": "06/24/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "nflx",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "SEP"
         },
         {
-          "#": "48",
-          "Transaction Date": "07/02/2015",
-          "Owner": "Spouse",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation (NASDAQ)",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/02/2015",
+          "owner": "Spouse",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "49",
-          "Transaction Date": "07/13/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SBUX.SW-STARBUCKS (Swiss)",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/13/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SBUX.SW-STARBUCKS (Swiss)",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "50",
-          "Transaction Date": "07/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/24/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "51",
-          "Transaction Date": "07/27/2015",
-          "Owner": "Spouse",
-          "Ticker": "BIDU",
-          "Asset Name": "Baidu, Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/27/2015",
+          "owner": "Spouse",
+          "ticker": "BIDU",
+          "asset-name": "Baidu, Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "52",
-          "Transaction Date": "07/27/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/27/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "53",
-          "Transaction Date": "08/25/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "aapl",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "08/25/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "aapl",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "54",
-          "Transaction Date": "08/25/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "aapl",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "08/25/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "aapl",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "55",
-          "Transaction Date": "11/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "nflx",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "sep"
+          "transaction-date": "11/04/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "nflx",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "sep"
         },
         {
-          "#": "56",
-          "Transaction Date": "11/16/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "tjx",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "11/16/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "tjx",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "57",
-          "Transaction Date": "12/08/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "nflx",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "12/08/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "nflx",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "58",
-          "Transaction Date": "12/10/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "nflx",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "12/10/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "nflx",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "59",
-          "Transaction Date": "12/17/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "aapl",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "12/17/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "aapl",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2003",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.87%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tNewark, NJ",
-          "Comments": "-"
+          "incurred": "2003",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.87%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tNewark, NJ",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

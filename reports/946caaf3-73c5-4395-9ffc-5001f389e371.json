@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/09/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 03/09/2017 @ 10:40 AM",
+  "filed-date": "03/09/2017",
+  "filed-time": "10:40 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/21/2017",
-          "Owner": "Joint",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Less than $1001."
+          "transaction-date": "02/21/2017",
+          "owner": "Joint",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Less than $1001."
         },
         {
-          "#": "1",
-          "Transaction Date": "02/21/2017",
-          "Owner": "Self",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/21/2017",
+          "owner": "Self",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

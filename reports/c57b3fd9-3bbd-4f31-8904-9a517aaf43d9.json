@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/12/2014",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 12/12/2014 @ 1:49 PM",
+  "filed-date": "12/12/2014",
+  "filed-time": "1:49 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "11/14/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Me Muni Bond Bk Rev 3% 09/01/2026",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/14/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Me Muni Bond Bk Rev 3% 09/01/2026",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/10/2014",
-          "Owner": "Spouse",
-          "Ticker": "RYN",
-          "Asset Name": "Rayonier Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/10/2014",
+          "owner": "Spouse",
+          "ticker": "RYN",
+          "asset-name": "Rayonier Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

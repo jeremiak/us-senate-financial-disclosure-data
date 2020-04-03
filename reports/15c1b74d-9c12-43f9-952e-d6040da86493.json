@@ -1,1349 +1,1286 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2013",
   "filer": "The Honorable Ron L Wyden (Wyden, Ron)",
-  "filedDate": "Filed 05/15/2014 @ 2:41 PM",
+  "filed-date": "05/15/2014",
+  "filed-time": "2:41 PM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Strand Book Store Inc\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Strand Book Store Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Partnership Distributions",
-          "Who Paid": "Bass Book Trading, Inc\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Partnership Distributions",
+          "who-paid": "Bass Book Trading, Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Spouse",
-          "Type": "Partnership Distributions",
-          "Who Paid": "The Strand II Corp\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Partnership Distributions",
+          "who-paid": "The Strand II Corp\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "4",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Bass Real Estate LLC\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Bass Real Estate LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "US Senate FCU(Washington, DC)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "US Senate FCU(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "US Savings Bond Series IDescription: US Savings Bond (Washington, DC)",
-          "Asset Type": "Other Securities",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "US Savings Bond Series IDescription: US Savings Bond (Washington, DC)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "US Senate FCU(Washington, DC)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "US Senate FCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Rights to the literary works of Peter WydenDescription: Rights to the literary works of Peter Wyden",
-          "Asset Type": "Intellectual PropertyCopyrights",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Rights to the literary works of Peter WydenDescription: Rights to the literary works of Peter Wyden",
+          "asset-type": "Intellectual PropertyCopyrights",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "brookhaven NY ref bondsRate/Coupon: 5  Matures: 8/15/2014",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "brookhaven NY ref bondsRate/Coupon: 5  Matures: 8/15/2014",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "triborough brdg & Tunl auth ny rev bondRate/Coupon: 3  Matures: 11/15/2014",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "triborough brdg & Tunl auth ny rev bondRate/Coupon: 3  Matures: 11/15/2014",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "new york st dorm auth lease bond fundRate/Coupon: 5  Matures: 8/15/2015",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "new york st dorm auth lease bond fundRate/Coupon: 5  Matures: 8/15/2015",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ACGIX - Invesco Growth and Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "ACGIX - Invesco Growth and Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "BSCFX - Baron Small Cap Retail (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "BSCFX - Baron Small Cap Retail (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MDLOX - BlackRock Global Allocation Inv A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MDLOX - BlackRock Global Allocation Inv A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "CVSIX - Calamos Market Neutral Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "CVSIX - Calamos Market Neutral Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "DFSTX - DFA US Small Cap I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "DFSTX - DFA US Small Cap I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "DDMAX - DWS Diversified Market Neutral A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "DDMAX - DWS Diversified Market Neutral A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "DFLVX - DFA US Large Cap Value I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "DFLVX - DFA US Large Cap Value I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "american europacific growth class F1 (mutual fund)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "american europacific growth class F1 (mutual fund)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SGENX - First Eagle Global A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "SGENX - First Eagle Global A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HIINX - Harbor International Investor (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "HIINX - Harbor International Investor (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "MLAAX - MainStay Large Cap Growth A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "MLAAX - MainStay Large Cap Growth A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "MERVX - The Merger Fund VL (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MERVX - The Merger Fund VL (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "FREAX - Nuveen Real Estate Securities A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "FREAX - Nuveen Real Estate Securities A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "ODMAX - Oppenheimer Developing Markets A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "ODMAX - Oppenheimer Developing Markets A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Delaware National High Yield Muni Bd cl A (mutual fund)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Delaware National High Yield Muni Bd cl A (mutual fund)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Fidelity Investment Cash(New York, NY)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Fidelity Investment Cash(New York, NY)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Merrill Lynch Deposit Program(New York, NY)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest, Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Merrill Lynch Deposit Program(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest, Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIAA/CREF(Washington, DC)Type: IRA Cash Accounts, Filer comment:  inherited IRA",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TIAA/CREF(Washington, DC)Type: IRA Cash Accounts, Filer comment:  inherited IRA",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Edith Wyden Trust FBO Ronald L. Wyden TrustFiler comment:  inherited trust",
-          "Asset Type": "TrustGeneral Trust",
-          "Owner": "Self",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Dividends, Interest, Capital Gains,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Edith Wyden Trust FBO Ronald L. Wyden TrustFiler comment:  inherited trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Oregon College Savings Plan - William Peter WydenInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Oregon College Savings Plan - William Peter WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Oregon College Savings Plan - Ava Rose WydenInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Oregon College Savings Plan - Ava Rose WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "bank of the west advantage accountFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "bank of the west advantage accountFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FRONX - Forward Frontier Strategy Investor (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "FRONX - Forward Frontier Strategy Investor (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EFA - iShares MSCI EAFEFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "EFA - iShares MSCI EAFEFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IJH - iShares Core S&P Mid-CapFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "IJH - iShares Core S&P Mid-CapFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IWM - iShares Russell 2000Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "IWM - iShares Russell 2000Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IYR - iShares US Real EstateFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "IYR - iShares US Real EstateFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "jp morgan emerging markets fundFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "jp morgan emerging markets fundFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JP Morgan US equity fundFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "JP Morgan US equity fundFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "MIEIX - MFS Instl International Equity (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "MIEIX - MFS Instl International Equity (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MWNIX - MFS International New Discovery I (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "MWNIX - MFS International New Discovery I (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PCBIX - Principal MidCap Institutional (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "PCBIX - Principal MidCap Institutional (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "T Rowe Price Small Cap Stock FundFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "T Rowe Price Small Cap Stock FundFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VWO - Vanguard Emerging Markets Stock Idx ETFFiler comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "VWO - Vanguard Emerging Markets Stock Idx ETFFiler comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VADIX - Virtus Alternatives Diversifier I (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VADIX - Virtus Alternatives Diversifier I (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FEUGX - Federated Adjustable Rate Secs Instl (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "FEUGX - Federated Adjustable Rate Secs Instl (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FMUSX - Federated Municipal Ultrashort Instl (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "FMUSX - Federated Municipal Ultrashort Instl (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FIHBX - Federated Instl High Yield Bond Instl (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "FIHBX - Federated Instl High Yield Bond Instl (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "OMBIX - JPMorgan Mortgage-Backed Securities Sel (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "OMBIX - JPMorgan Mortgage-Backed Securities Sel (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "OOSYX - Oppenheimer Senior Floating Rate Y (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "OOSYX - Oppenheimer Senior Floating Rate Y (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PFORX - PIMCO Foreign Bond (USD-Hedged) I (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "PFORX - PIMCO Foreign Bond (USD-Hedged) I (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PELBX - PIMCO Emerging Local Bond Instl (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "PELBX - PIMCO Emerging Local Bond Instl (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWALX - Vanguard High-Yield Tax-Exempt Adm (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "VWALX - Vanguard High-Yield Tax-Exempt Adm (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VWLUX - Vanguard Long-Term Tax-Exempt Adm (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VWLUX - Vanguard Long-Term Tax-Exempt Adm (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "VWIUX - Vanguard Interm-Term Tx-Ex Adm (NASDAQ)Filer comment:  holding of inherited trust account",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VWIUX - Vanguard Interm-Term Tx-Ex Adm (NASDAQ)Filer comment:  holding of inherited trust account",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Chemeketa CLG-ARate/Coupon: 5.25  Matures: 6/15/2024Filer comment:  holding of inherited trust account",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Chemeketa CLG-ARate/Coupon: 5.25  Matures: 6/15/2024Filer comment:  holding of inherited trust account",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Lane County SD#40Rate/Coupon: 4  Matures: 6/15/2021Filer comment:  holding of inherited trust account",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Lane County SD#40Rate/Coupon: 4  Matures: 6/15/2021Filer comment:  holding of inherited trust account",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "OR ST Dept COPS-BRate/Coupon: 4.25  Matures: 11/1/2025Filer comment:  holding of inherited trust account",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "OR ST Dept COPS-BRate/Coupon: 4.25  Matures: 11/1/2025Filer comment:  holding of inherited trust account",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Polk SD#13J-A-PREREFRate/Coupon: 4  Matures: 06/15/2022Filer comment:  holding of inherited trust account",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Polk SD#13J-A-PREREFRate/Coupon: 4  Matures: 06/15/2022Filer comment:  holding of inherited trust account",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Polk SD#13J-A-UNREFRate/Coupon: 4  Matures: 06/15/2022Filer comment:  holding of inherited trust account",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Polk SD#13J-A-UNREFRate/Coupon: 4  Matures: 06/15/2022Filer comment:  holding of inherited trust account",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Tri-Co Metro Transp-ARate/Coupon: 5  Matures: 10/1/2023Filer comment:  holding of inherited trust account",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Tri-Co Metro Transp-ARate/Coupon: 5  Matures: 10/1/2023Filer comment:  holding of inherited trust account",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Strand Book Store Inc.  (S-Corp)Description: Book Store (New York, NY)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "Dividends, Rent/Royalties, Interest, Capital Gains,",
-          "Income": "Over $1,000,000 and held independently by spouse or dependent child"
+          "asset": "Strand Book Store Inc.  (S-Corp)Description: Book Store (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
         },
         {
-          "Asset": "The Strand II Corp.  (S-Corp)Description: Book Store (New York, NY)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "Dividends,",
-          "Income": "$50,001 - $100,000"
+          "asset": "The Strand II Corp.  (S-Corp)Description: Book Store (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "$50,001 - $100,000"
         },
         {
-          "Asset": "Bass Book Trading, Inc  (S-corp)Description: Book Trading (New York, NY)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "Dividends, Rent/Royalties,",
-          "Income": "Over $1,000,000 and held independently by spouse or dependent child"
+          "asset": "Bass Book Trading, Inc  (S-corp)Description: Book Trading (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Rent/Royalties",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
         },
         {
-          "Asset": "Bass Real Estate LLCCompany: Bass Real Estate LLC (New York, NY) Description: real estate holding",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "Dividends,",
-          "Income": "Over $1,000,000 and held independently by spouse or dependent child"
+          "asset": "Bass Real Estate LLCCompany: Bass Real Estate LLC (New York, NY) Description: real estate holding",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
         },
         {
-          "Asset": "LTMFX - Thornburg Limited-Term Muni A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "LTMFX - Thornburg Limited-Term Muni A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Spouse",
-          "Ticker": "ADBE",
-          "Asset Name": "Adobe Systems Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "2",
-          "Owner": "Spouse",
-          "Ticker": "AXP",
-          "Asset Name": "American Express Company (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "3",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "4",
-          "Owner": "Spouse",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "5",
-          "Owner": "Spouse",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Caremark Corporation (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "6",
-          "Owner": "Spouse",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "7",
-          "Owner": "Spouse",
-          "Ticker": "CBG",
-          "Asset Name": "CBRE Group, Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "8",
-          "Owner": "Spouse",
-          "Ticker": "CME",
-          "Asset Name": "CME Group Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "9",
-          "Owner": "Spouse",
-          "Ticker": "CSCO",
-          "Asset Name": "Cisco Systems, Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "10",
-          "Owner": "Spouse",
-          "Ticker": "EMC",
-          "Asset Name": "EMC Corporation (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "11",
-          "Owner": "Spouse",
-          "Ticker": "EBAY",
-          "Asset Name": "eBay Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "12",
-          "Owner": "Spouse",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "13",
-          "Owner": "Spouse",
-          "Ticker": "HD",
-          "Asset Name": "The Home Depot, Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "14",
-          "Owner": "Spouse",
-          "Ticker": "INTC",
-          "Asset Name": "Intel Corporation (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "15",
-          "Owner": "Spouse",
-          "Ticker": "L",
-          "Asset Name": "Loews Corporation (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "16",
-          "Owner": "Spouse",
-          "Ticker": "MON",
-          "Asset Name": "Monsanto Company (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "17",
-          "Owner": "Spouse",
-          "Ticker": "MSI",
-          "Asset Name": "Motorola Solutions, Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "18",
-          "Owner": "Spouse",
-          "Ticker": "MSFT",
-          "Asset Name": "Microsoft Corporation (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "19",
-          "Owner": "Spouse",
-          "Ticker": "SLM",
-          "Asset Name": "SLM Corporation (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "20",
-          "Owner": "Spouse",
-          "Ticker": "URBN",
-          "Asset Name": "Urban Outfitters Inc. (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "21",
-          "Owner": "Spouse",
-          "Ticker": "ZMH",
-          "Asset Name": "Zimmer Holdings, Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "22",
-          "Owner": "Spouse",
-          "Ticker": "WLP",
-          "Asset Name": "WellPoint Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "23",
-          "Owner": "Spouse",
-          "Ticker": "DVHIX",
-          "Asset Name": "Delaware National Hi-Yld Muni Bd Instl (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "02/25/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "24",
-          "Owner": "Spouse",
-          "Ticker": "DVHIX",
-          "Asset Name": "Delaware National Hi-Yld Muni Bd Instl (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/26/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "25",
-          "Owner": "Spouse",
-          "Ticker": "SCMTX",
-          "Asset Name": "DWS Intermediate Tax/AMT Free S (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/19/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "26",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "gateway fund class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/25/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "27",
-          "Owner": "Spouse",
-          "Ticker": "CHTRX",
-          "Asset Name": "Invesco Charter A (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/25/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "28",
-          "Owner": "Spouse",
-          "Ticker": "HIINX",
-          "Asset Name": "Harbor International Investor (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/25/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "29",
-          "Owner": "Spouse",
-          "Ticker": "PARRX",
-          "Asset Name": "PIMCO Real Return Admin (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "07/08/2013",
-          "Amount": "$250,001 - $500,000",
-          "Comment": "--"
-        },
-        {
-          "#": "30",
-          "Owner": "Spouse",
-          "Ticker": "PARRX",
-          "Asset Name": "PIMCO Real Return Admin (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/26/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "31",
-          "Owner": "Spouse",
-          "Ticker": "THNYX",
-          "Asset Name": "Thornburg NY Intermediate Municipal A (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/19/2013",
-          "Amount": "$250,001 - $500,000",
-          "Comment": "--"
-        },
-        {
-          "#": "32",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "wells fargo advantage intermediate",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/19/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "33",
-          "Owner": "Spouse",
-          "Ticker": "CVSIX",
-          "Asset Name": "Calamos Market Neutral Income A (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "07/08/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "34",
-          "Owner": "Spouse",
-          "Ticker": "CVSIX",
-          "Asset Name": "Calamos Market Neutral Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/20/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "35",
-          "Owner": "Spouse",
-          "Ticker": "SCMTX",
-          "Asset Name": "DWS Intermediate Tax/AMT Free S (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/20/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "36",
-          "Owner": "Spouse",
-          "Ticker": "LTMFX",
-          "Asset Name": "Thornburg Limited-Term Muni A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/20/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "37",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "wells fargo advantage intermediate",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/20/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "38",
-          "Owner": "Spouse",
-          "Ticker": "HIINX",
-          "Asset Name": "Harbor International Investor (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/09/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "39",
-          "Owner": "Spouse",
-          "Ticker": "CXHYX",
-          "Asset Name": "Delaware National Hi-Yld Muni Bd A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/09/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "40",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "new york st dorm auth lease bond fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/07/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "41",
-          "Owner": "Spouse",
-          "Ticker": "ACGIX",
-          "Asset Name": "Invesco Growth and Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/27/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "42",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "baron small cap FD (mutual fund)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/27/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "43",
-          "Owner": "Spouse",
-          "Ticker": "CVSIX",
-          "Asset Name": "Calamos Market Neutral Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/27/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "44",
-          "Owner": "Spouse",
-          "Ticker": "MLAAX",
-          "Asset Name": "MainStay Large Cap Growth A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/27/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "45",
-          "Owner": "Spouse",
-          "Ticker": "ODMAX",
-          "Asset Name": "Oppenheimer Developing Markets A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/27/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "46",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "brookhaven NY ref bonds",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/30/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "47",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "triborough brdg & Tunl auth ny rev bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/30/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "48",
-          "Owner": "Spouse",
-          "Ticker": "MDLOX",
-          "Asset Name": "BlackRock Global Allocation Inv A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "49",
-          "Owner": "Spouse",
-          "Ticker": "DFSTX",
-          "Asset Name": "DFA US Small Cap I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "50",
-          "Owner": "Spouse",
-          "Ticker": "DFLVX",
-          "Asset Name": "DFA US Large Cap Value I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/22/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "51",
-          "Owner": "Spouse",
-          "Ticker": "MERVX",
-          "Asset Name": "The Merger Fund VL (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/22/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "52",
-          "Owner": "Spouse",
-          "Ticker": "ODMAX",
-          "Asset Name": "Oppenheimer Developing Markets A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "53",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "delaware national high yield muni bond A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/22/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "54",
-          "Owner": "Spouse",
-          "Ticker": "BSCFX",
-          "Asset Name": "Baron Small Cap Retail (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/26/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "55",
-          "Owner": "Spouse",
-          "Ticker": "MLAAX",
-          "Asset Name": "MainStay Large Cap Growth A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "56",
-          "Owner": "Spouse",
-          "Ticker": "ACGIX",
-          "Asset Name": "Invesco Growth and Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "57",
-          "Owner": "Spouse",
-          "Ticker": "DDMSX",
-          "Asset Name": "DWS Diversified Market Neutrall S (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/16/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "58",
-          "Owner": "Spouse",
-          "Ticker": "FREAX",
-          "Asset Name": "Nuveen Real Estate Securities A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/16/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "59",
-          "Owner": "Spouse",
-          "Ticker": "HIINX",
-          "Asset Name": "Harbor International Investor (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "60",
-          "Owner": "Spouse",
-          "Ticker": "MDLOX",
-          "Asset Name": "BlackRock Global Allocation Inv A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/18/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "61",
-          "Owner": "Spouse",
-          "Ticker": "CVSIX",
-          "Asset Name": "Calamos Market Neutral Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "62",
-          "Owner": "Spouse",
-          "Ticker": "MERVX",
-          "Asset Name": "The Merger Fund VL (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/27/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "63",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "american europacific growth CL F1 fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/30/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "64",
-          "Owner": "Spouse",
-          "Ticker": "SGENX",
-          "Asset Name": "First Eagle Global A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/30/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "65",
-          "Owner": "Spouse",
-          "Ticker": "ODMAX",
-          "Asset Name": "Oppenheimer Developing Markets A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/30/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "66",
-          "Owner": "Spouse",
-          "Ticker": "ACGIX",
-          "Asset Name": "Invesco Growth and Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/26/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "67",
-          "Owner": "Spouse",
-          "Ticker": "CVSIX",
-          "Asset Name": "Calamos Market Neutral Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/26/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "68",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "dws disciplined market neutral Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/26/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "69",
-          "Owner": "Spouse",
-          "Ticker": "MERVX",
-          "Asset Name": "The Merger Fund VL (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/26/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "70",
-          "Owner": "Spouse",
-          "Ticker": "PARRX",
-          "Asset Name": "PIMCO Real Return Admin (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/26/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "71",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "US Senate FCU Kids Club Account (William Peter Wyden)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/09/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "for transfer to Oregon College Savings Plan"
-        },
-        {
-          "#": "72",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "US Senate FCU Kid's Club, (Ava Rose Wyden)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/09/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "for transfer to Oregon College Savings Plan"
-        },
-        {
-          "#": "73",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Oregon College Savings Plan - William Peter Wyden",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/09/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "74",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Oregon College Savings Plan - Ava Rose Wyden",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/09/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "ADBE",
+          "asset-name": "Adobe Systems Inc. (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AXP",
+          "asset-name": "American Express Company (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CVS",
+          "asset-name": "CVS Caremark Corporation (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CBG",
+          "asset-name": "CBRE Group, Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CME",
+          "asset-name": "CME Group Inc. (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc. (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EMC",
+          "asset-name": "EMC Corporation (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EBAY",
+          "asset-name": "eBay Inc. (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "GE",
+          "asset-name": "General Electric Company (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HD",
+          "asset-name": "The Home Depot, Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "L",
+          "asset-name": "Loews Corporation (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MON",
+          "asset-name": "Monsanto Company (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MSI",
+          "asset-name": "Motorola Solutions, Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SLM",
+          "asset-name": "SLM Corporation (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "URBN",
+          "asset-name": "Urban Outfitters Inc. (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ZMH",
+          "asset-name": "Zimmer Holdings, Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WLP",
+          "asset-name": "WellPoint Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DVHIX",
+          "asset-name": "Delaware National Hi-Yld Muni Bd Instl (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/25/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DVHIX",
+          "asset-name": "Delaware National Hi-Yld Muni Bd Instl (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/26/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SCMTX",
+          "asset-name": "DWS Intermediate Tax/AMT Free S (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/19/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "gateway fund class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/25/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CHTRX",
+          "asset-name": "Invesco Charter A (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/25/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HIINX",
+          "asset-name": "Harbor International Investor (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/25/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PARRX",
+          "asset-name": "PIMCO Real Return Admin (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/08/2013",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PARRX",
+          "asset-name": "PIMCO Real Return Admin (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/26/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "THNYX",
+          "asset-name": "Thornburg NY Intermediate Municipal A (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/19/2013",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "wells fargo advantage intermediate",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/19/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CVSIX",
+          "asset-name": "Calamos Market Neutral Income A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/08/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CVSIX",
+          "asset-name": "Calamos Market Neutral Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/20/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SCMTX",
+          "asset-name": "DWS Intermediate Tax/AMT Free S (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/20/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LTMFX",
+          "asset-name": "Thornburg Limited-Term Muni A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/20/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "wells fargo advantage intermediate",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/20/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HIINX",
+          "asset-name": "Harbor International Investor (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CXHYX",
+          "asset-name": "Delaware National Hi-Yld Muni Bd A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/09/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "new york st dorm auth lease bond fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/07/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ACGIX",
+          "asset-name": "Invesco Growth and Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/27/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "baron small cap FD (mutual fund)",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/27/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CVSIX",
+          "asset-name": "Calamos Market Neutral Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/27/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MLAAX",
+          "asset-name": "MainStay Large Cap Growth A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/27/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODMAX",
+          "asset-name": "Oppenheimer Developing Markets A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/27/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "brookhaven NY ref bonds",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "triborough brdg & Tunl auth ny rev bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/30/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MDLOX",
+          "asset-name": "BlackRock Global Allocation Inv A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DFSTX",
+          "asset-name": "DFA US Small Cap I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DFLVX",
+          "asset-name": "DFA US Large Cap Value I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/22/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MERVX",
+          "asset-name": "The Merger Fund VL (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/22/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODMAX",
+          "asset-name": "Oppenheimer Developing Markets A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "delaware national high yield muni bond A",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/22/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSCFX",
+          "asset-name": "Baron Small Cap Retail (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/26/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MLAAX",
+          "asset-name": "MainStay Large Cap Growth A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ACGIX",
+          "asset-name": "Invesco Growth and Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DDMSX",
+          "asset-name": "DWS Diversified Market Neutrall S (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "FREAX",
+          "asset-name": "Nuveen Real Estate Securities A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HIINX",
+          "asset-name": "Harbor International Investor (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MDLOX",
+          "asset-name": "BlackRock Global Allocation Inv A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/18/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CVSIX",
+          "asset-name": "Calamos Market Neutral Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MERVX",
+          "asset-name": "The Merger Fund VL (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/27/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "american europacific growth CL F1 fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/30/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SGENX",
+          "asset-name": "First Eagle Global A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/30/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ODMAX",
+          "asset-name": "Oppenheimer Developing Markets A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/30/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ACGIX",
+          "asset-name": "Invesco Growth and Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CVSIX",
+          "asset-name": "Calamos Market Neutral Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "dws disciplined market neutral Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MERVX",
+          "asset-name": "The Merger Fund VL (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PARRX",
+          "asset-name": "PIMCO Real Return Admin (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/26/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "US Senate FCU Kids Club Account (William Peter Wyden)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/09/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "for transfer to Oregon College Savings Plan"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "US Senate FCU Kid's Club, (Ava Rose Wyden)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/09/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "for transfer to Oregon College Savings Plan"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Oregon College Savings Plan - William Peter Wyden",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/09/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Oregon College Savings Plan - Ava Rose Wyden",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/09/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Self",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

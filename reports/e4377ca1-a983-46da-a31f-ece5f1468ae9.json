@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/03/2018",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 10/03/2018 @ 2:36 PM",
+  "filed-date": "10/03/2018",
+  "filed-time": "2:36 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "09/19/2018",
-          "Owner": "Self",
-          "Ticker": "FDX",
-          "Asset Name": "FedEx Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "09/19/2018",
+          "owner": "Self",
+          "ticker": "FDX",
+          "asset-name": "FedEx Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

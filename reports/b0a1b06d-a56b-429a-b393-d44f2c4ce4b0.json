@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 06/07/2017 (Amendment 2)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 08/13/2018 @ 10:59 AM",
+  "filed-date": "08/13/2018",
+  "filed-time": "10:59 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/18/2017",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/18/2017",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

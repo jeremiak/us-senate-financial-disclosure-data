@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/14/2017",
   "filer": "The Honorable Ladda Tammy Duckworth (Duckworth, Tammy)",
-  "filedDate": "Filed 06/14/2017 @ 5:13 PM",
+  "filed-date": "06/14/2017",
+  "filed-time": "5:13 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "05/10/2017",
-          "Owner": "Joint",
-          "Ticker": "GME",
-          "Asset Name": "GameStop Corp.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/10/2017",
+          "owner": "Joint",
+          "ticker": "GME",
+          "asset-name": "GameStop Corp.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/10/2017",
-          "Owner": "Joint",
-          "Ticker": "CAT",
-          "Asset Name": "Caterpillar Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/10/2017",
+          "owner": "Joint",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/09/2017",
-          "Owner": "Joint",
-          "Ticker": "POT",
-          "Asset Name": "Potash Corporation of Saskatchewan Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/09/2017",
+          "owner": "Joint",
+          "ticker": "POT",
+          "asset-name": "Potash Corporation of Saskatchewan Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

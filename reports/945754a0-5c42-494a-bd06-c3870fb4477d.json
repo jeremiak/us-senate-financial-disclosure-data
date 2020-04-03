@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/28/2017",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 04/28/2017 @ 5:54 PM",
+  "filed-date": "04/28/2017",
+  "filed-time": "5:54 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "04/13/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "SPOKANE WASH\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2032",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/13/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "SPOKANE WASH\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2032",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/19/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "MASSACHUSETTS ST FOR ISSUES DTD PRIOR TO 11/06/2014 SEE 57582P ETC CONS LN-SER E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 09/01/2038",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/19/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MASSACHUSETTS ST FOR ISSUES DTD PRIOR TO 11/06/2014 SEE 57582P ETC CONS LN-SER E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 09/01/2038",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

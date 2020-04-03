@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/06/2015",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 05/06/2015 @ 4:48 PM",
+  "filed-date": "05/06/2015",
+  "filed-time": "4:48 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "04/23/2015",
-          "Owner": "Self",
-          "Ticker": "MSFT",
-          "Asset Name": "Microsoft Corporation (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/23/2015",
+          "owner": "Self",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "04/23/2015",
-          "Owner": "Self",
-          "Ticker": "FEYE",
-          "Asset Name": "FireEye, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/23/2015",
+          "owner": "Self",
+          "ticker": "FEYE",
+          "asset-name": "FireEye, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/23/2015",
-          "Owner": "Self",
-          "Ticker": "ESRX",
-          "Asset Name": "Express Scripts Holding Company (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/23/2015",
+          "owner": "Self",
+          "ticker": "ESRX",
+          "asset-name": "Express Scripts Holding Company (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/23/2015",
-          "Owner": "Self",
-          "Ticker": "SLB",
-          "Asset Name": "Schlumberger Limited (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/23/2015",
+          "owner": "Self",
+          "ticker": "SLB",
+          "asset-name": "Schlumberger Limited (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/23/2015",
-          "Owner": "Self",
-          "Ticker": "EMC",
-          "Asset Name": "EMC Corporation (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/23/2015",
+          "owner": "Self",
+          "ticker": "EMC",
+          "asset-name": "EMC Corporation (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

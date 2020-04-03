@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/21/2017",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 12/21/2017 @ 5:06 PM",
+  "filed-date": "12/21/2017",
+  "filed-time": "5:06 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/01/2015",
-          "Owner": "Self",
-          "Ticker": "ETP\n                                        \n                                        \n                                            \n                                            ^RGP",
-          "Asset Name": "Energy Transfer Partners, L.P. (Exchanged)\n                                            \n                                            ^RGP (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/01/2015",
+          "owner": "Self",
+          "ticker": "ETP\n                                        \n                                        \n                                            \n                                            ^RGP",
+          "asset-name": "Energy Transfer Partners, L.P. (Exchanged)\n                                            \n                                            ^RGP (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/01/2015",
-          "Owner": "Self",
-          "Ticker": "^RGP\n                                        \n                                        \n                                            \n                                            ETP",
-          "Asset Name": "^RGP (Exchanged)\n                                            \n                                            Energy Transfer Partners, L.P. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/01/2015",
+          "owner": "Self",
+          "ticker": "^RGP\n                                        \n                                        \n                                            \n                                            ETP",
+          "asset-name": "^RGP (Exchanged)\n                                            \n                                            Energy Transfer Partners, L.P. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

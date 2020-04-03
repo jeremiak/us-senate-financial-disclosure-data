@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/06/2019",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 08/06/2019 @ 7:28 PM",
+  "filed-date": "08/06/2019",
+  "filed-time": "7:28 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "06/28/2019",
-          "Owner": "Self",
-          "Ticker": "MPLX",
-          "Asset Name": "MPLX LP",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2019",
+          "owner": "Self",
+          "ticker": "MPLX",
+          "asset-name": "MPLX LP",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/31/2019",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/31/2019",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

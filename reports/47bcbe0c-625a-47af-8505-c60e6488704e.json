@@ -1,1855 +1,1789 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2013",
   "filer": "The Honorable Benjamin L Cardin (Cardin, Benjamin L.)",
-  "filedDate": "Filed 05/15/2014 @ 10:35 AM",
+  "filed-date": "05/15/2014",
+  "filed-time": "10:35 AM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Pension",
-          "Who Paid": "State of Maryland\n\t\t\t\t\t\t\t\tAnnapolis, Md",
-          "Amount Paid": "$5,774.00"
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "State of Maryland\n\t\t\t\t\t\t\t\tAnnapolis, Md",
+          "amount-paid": "$5,774.00"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(MRD - IRA)",
-          "Who Paid": "IRA, Wells Fargo Advisors\n\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(MRD - IRA)",
+          "who-paid": "IRA, Wells Fargo Advisors\n\t\t\t\t\t\t\t\tBaltimore, Md",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "OLN - Olin Corp. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "AWSAX - Invesco Global Core Equity A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "LBSAX - Columbia Dividend Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "PEQUX - Putnam Global Equity A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "CHTRX - Invesco Charter A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "Congressional Credit Union(Washington, DC)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Met Life Total Control Account(New York, NY)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "COLTX - Columbia Tax-Exempt A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "SBI - Western Asset Intermediate Muni (AMEX)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "ETMDX - Eaton Vance MD Municipal Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "DDF - Delaware Investments Dividend & Income Fund, Inc. (NYSE)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "OLN - Olin Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AWSAX - Invesco Global Core Equity A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "LBSAX - Columbia Dividend Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "PEQUX - Putnam Global Equity A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CHTRX - Invesco Charter A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Congressional Credit Union(Washington, DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Met Life Total Control Account(New York, NY)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "COLTX - Columbia Tax-Exempt A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "SBI - Western Asset Intermediate Muni (AMEX)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ETMDX - Eaton Vance MD Municipal Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DDF - Delaware Investments Dividend & Income Fund, Inc. (NYSE)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LBSAX - Columbia Dividend Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "LBSAX - Columbia Dividend Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "CVTCX - Calamos Growth & Income C (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "CVTCX - Calamos Growth & Income C (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "NGG - National Grid plc (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "NGG - National Grid plc (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "MET - MetLife, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "MET - MetLife, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CPOAX - Morgan Stanley Multi Cap Growth A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "CPOAX - Morgan Stanley Multi Cap Growth A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "AEGFX - American Funds EuroPacific Gr F1 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "AEGFX - American Funds EuroPacific Gr F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TWTIX - American Century IntermTrm Tx-Fr Bd Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TWTIX - American Century IntermTrm Tx-Fr Bd Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BEGBX - American Century International Bd Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BEGBX - American Century International Bd Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BGRFX - Baron Growth Retail (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BGRFX - Baron Growth Retail (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WBIGX - William Blair International Growth N (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "WBIGX - William Blair International Growth N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DRFMX - Dreyfus Emerging Markets A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "DRFMX - Dreyfus Emerging Markets A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AFIFX - American Funds Fundamental Invs F1 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "AFIFX - American Funds Fundamental Invs F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GFAFX - American Funds Growth Fund of Amer F1 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "GFAFX - American Funds Growth Fund of Amer F1 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "HCAIX - Harbor Capital Appreciation Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "HCAIX - Harbor Capital Appreciation Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PAVLX - T. Rowe Price Value Adv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "PAVLX - T. Rowe Price Value Adv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "RYPRX - Royce Premier Invmt (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "RYPRX - Royce Premier Invmt (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Meyer M. Cardin TrustFiler comment:  A trust established by filer's father for the benefit of filer and spouse during their lifetime with remainderman interest to filer's children",
-          "Asset Type": "TrustGeneral Trust",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Meyer M. Cardin TrustFiler comment:  A trust established by filer's father for the benefit of filer and spouse during their lifetime with remainderman interest to filer's children",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Prince George's Co., Md BondRate/Coupon: 4%  Matures: 10/1/19",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Prince George's Co., Md BondRate/Coupon: 4%  Matures: 10/1/19",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Prince George's Co.,  Md. BondRate/Coupon: 5%  Matures: 7/15/16",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Prince George's Co.,  Md. BondRate/Coupon: 5%  Matures: 7/15/16",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Baltimore City, Md. BondRate/Coupon: 3.375%  Matures: 1/1/15",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Baltimore City, Md. BondRate/Coupon: 3.375%  Matures: 1/1/15",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Baltimore, Md. BondRate/Coupon: 5.375%  Matures: 10/15/13",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Baltimore, Md. BondRate/Coupon: 5.375%  Matures: 10/15/13",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Baltimore Co., Md. BondRate/Coupon: 4.5%  Matures: 8/1/19",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Baltimore Co., Md. BondRate/Coupon: 4.5%  Matures: 8/1/19",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Baltimore Co., Md. BondRate/Coupon: 2.25%  Matures: 8/1/29",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Baltimore Co., Md. BondRate/Coupon: 2.25%  Matures: 8/1/29",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Baltimore Co., Md. BondRate/Coupon: 4%  Matures: 2/1/31",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Baltimore Co., Md. BondRate/Coupon: 4%  Matures: 2/1/31",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Maryland State Community Development BondRate/Coupon: 4.75%  Matures: 6/1/15",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Maryland State Community Development BondRate/Coupon: 4.75%  Matures: 6/1/15",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Montgomery Co., Md. BondRate/Coupon: 4%  Matures: 7/1/28",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Montgomery Co., Md. BondRate/Coupon: 4%  Matures: 7/1/28",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Montgomery Co., Md. BondRate/Coupon: 4%  Matures: 8/1/20",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Montgomery Co., Md. BondRate/Coupon: 4%  Matures: 8/1/20",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Montgomery Co., Md. Housing BondRate/Coupon: 3.65%  Matures: 1/17/13",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Montgomery Co., Md. Housing BondRate/Coupon: 3.65%  Matures: 1/17/13",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "St. Mary's College, Md. BondRate/Coupon: 4%  Matures: 9/1/13",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "St. Mary's College, Md. BondRate/Coupon: 4%  Matures: 9/1/13",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Carroll Co., Md. BondRate/Coupon: 4.25%  Matures: 11/1/22",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Carroll Co., Md. BondRate/Coupon: 4.25%  Matures: 11/1/22",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Washington Co., Md. BondRate/Coupon: 3.5%  Matures: 1/1/23",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Washington Co., Md. BondRate/Coupon: 3.5%  Matures: 1/1/23",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Washington Co., Md. BondRate/Coupon: 4%  Matures: 7/1/28",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Washington Co., Md. BondRate/Coupon: 4%  Matures: 7/1/28",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Worcester Co., Md. BondRate/Coupon: 4%  Matures: 10/1/19",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Worcester Co., Md. BondRate/Coupon: 4%  Matures: 10/1/19",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Howard Co., Md. BondRate/Coupon: 4%  Matures: 2/15/37",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Howard Co., Md. BondRate/Coupon: 4%  Matures: 2/15/37",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Anne Arundel Co., Md. BondRate/Coupon: 3.25%  Matures: 4/1/31",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Anne Arundel Co., Md. BondRate/Coupon: 3.25%  Matures: 4/1/31",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Anne Arundel Co., Md. BondRate/Coupon: 4%  Matures: 4/1/26",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Anne Arundel Co., Md. BondRate/Coupon: 4%  Matures: 4/1/26",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Charles Co., Md. BondRate/Coupon: 5.375%  Matures: 2/1/24",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Charles Co., Md. BondRate/Coupon: 5.375%  Matures: 2/1/24",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Frederick Co., Md. BondRate/Coupon: 4%  Matures: 8/1/29",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Frederick Co., Md. BondRate/Coupon: 4%  Matures: 8/1/29",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Cecil Co., Md. BondRate/Coupon: 4%  Matures: 11/1/22",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Cecil Co., Md. BondRate/Coupon: 4%  Matures: 11/1/22",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Wells Fargo Advisors(Baltimore, Md.)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo Advisors(Baltimore, Md.)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Minnesota Life Variable Life InsFiler comment:  Values represent cash value. Investments directed by agent.",
-          "Asset Type": "Life InsuranceVariable",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Minnesota Life Variable Life InsFiler comment:  Values represent cash value. Investments directed by agent.",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Advantus Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Advantus Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Ivy VIP Int Core",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Ivy VIP Int Core",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Advantus Index 400 MidCap",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Advantus Index 400 MidCap",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Advantus Real Estate Security",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Advantus Real Estate Security",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Templeton Develpment Market Security",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Templeton Develpment Market Security",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IFVEX - G Fidelity VIP Equity-Income Po (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IFVEX - G Fidelity VIP Equity-Income Po (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Franklin Large Cap Growth Sec",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Franklin Large Cap Growth Sec",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MFS New Discover Series",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MFS New Discover Series",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Oppenheimer High Income",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Oppenheimer High Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Oppenheimer Int Growth",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Oppenheimer Int Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Guaranteed Principal Account (Minnesota Life)",
-          "Asset Type": "Mutual FundsStable Value Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Guaranteed Principal Account (Minnesota Life)",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USF & G Life Insuance Co. - Cash ValueProvider: USF & G Life Insurance Co.",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "USF & G Life Insuance Co. - Cash ValueProvider: USF & G Life Insurance Co.",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Venture BG, LLCCompany: Venture BG, LLC (Baltimore, Md) Description: Real Estate Filer comment:  See \"Attachments and Comments\"; evaluation based on 7/12/05 appraisal; income reflects K1 filer's allocation of rent and interest and is equal to \"Distribution\"",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties, Interest, Other, (Distribution)",
-          "Income": "$5,001 - $15,000Other $9,600.00"
+          "asset": "Venture BG, LLCCompany: Venture BG, LLC (Baltimore, Md) Description: Real Estate Filer comment:  See \"Attachments and Comments\"; evaluation based on 7/12/05 appraisal; income reflects K1 filer's allocation of rent and interest and is equal to \"Distribution\"",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties, Interest, Other, (Distribution)",
+          "income": "$5,001 - $15,000Other $9,600.00"
         },
         {
-          "Asset": "Maryland College Investment PlanInstitution: College Savings Plans of Maryland",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Maryland College Investment PlanInstitution: College Savings Plans of Maryland",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Portfolio 2018",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Portfolio 2018",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Portfolio 2021",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Portfolio 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Maryland College Investment PlanInstitution: College Savings Plans of Maryland",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Maryland College Investment PlanInstitution: College Savings Plans of Maryland",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Portfolio 2018",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Portfolio 2018",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Portfolio 2021",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Portfolio 2021",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ABA Retirement Plan - Benjamin L. Cardin",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "ABA Retirement Plan - Benjamin L. Cardin",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Stable Assets Return Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Stable Assets Return Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bond Core Plus Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Bond Core Plus Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Moderate Risk Portfolio Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Moderate Risk Portfolio Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mid Cap Index Equity Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Mid Cap Index Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bond Index Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Bond Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Real Estate Return Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Real Estate Return Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Conservative Risk Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Conservative Risk Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Small Cap Index Equity Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Small Cap Index Equity Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA - Wells Fargo Advisors",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA - Wells Fargo Advisors",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "PRTNX - PIMCO Real Return A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PRTNX - PIMCO Real Return A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Invesco Closed End Strategy Sr Loan & Limited",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Invesco Closed End Strategy Sr Loan & Limited",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Israel BondRate/Coupon: Zero coupon 0%  Matures: 1/1/14",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Israel BondRate/Coupon: Zero coupon 0%  Matures: 1/1/14",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIAA-Cref Retirement Plan  - TIAA Traditional (Annuity)Provider: TIAA - Cref Filer comment:   TIAA Traditional converted to Annuity on 11/7/13.  No income reported in Section 2 since less than $1000. Cref Stock rollover to IRA 11/7/13",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIAA-Cref Retirement Plan  - TIAA Traditional (Annuity)Provider: TIAA - Cref Filer comment:   TIAA Traditional converted to Annuity on 11/7/13.  No income reported in Section 2 since less than $1000. Cref Stock rollover to IRA 11/7/13",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA - Wells Fargo AdvisorsFiler comment:  Includes rollover from TIAA - Cref Retirement Plan and Deferred Compensation Plan",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA - Wells Fargo AdvisorsFiler comment:  Includes rollover from TIAA - Cref Retirement Plan and Deferred Compensation Plan",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "XLE - Energy Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLE - Energy Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLF - Financial Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLF - Financial Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLI - Industrial Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLI - Industrial Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AGZ - iShares Agency Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AGZ - iShares Agency Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IYZ - iShares US Telecommunications",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IYZ - iShares US Telecommunications",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IJT - iShares S&P Small-Cap 600 Growth",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IJT - iShares S&P Small-Cap 600 Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IJS - iShares S&P Small-Cap 600 Value",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IJS - iShares S&P Small-Cap 600 Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PFF - iShares US Preferred Stock",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PFF - iShares US Preferred Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IEF - iShares 7-10 Year Treasury Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IEF - iShares 7-10 Year Treasury Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SHY - iShares 1-3 Year Treasury Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SHY - iShares 1-3 Year Treasury Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TLT - iShares 20+ Year Treasury Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TLT - iShares 20+ Year Treasury Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EMB - iShares JPMorgan USD Emerg Markets Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EMB - iShares JPMorgan USD Emerg Markets Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MBB - iShares MBS",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MBB - iShares MBS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IJJ - iShares S&P Mid-Cap 400 Value",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IJJ - iShares S&P Mid-Cap 400 Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IJK - iShares S&P MidCap 400 Growth",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IJK - iShares S&P MidCap 400 Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIP - iShares TIPS Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIP - iShares TIPS Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PCY - PowerShares Emerging Mkts Sovereign Debt",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PCY - PowerShares Emerging Mkts Sovereign Debt",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLK - Technology Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLK - Technology Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLP - Consumer Staples Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLP - Consumer Staples Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLB - Materials Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLB - Materials Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLV - Health Care Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLV - Health Care Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLY - Consumer Discret Select Sector SPDR",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLY - Consumer Discret Select Sector SPDR",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JNK - SPDR Barclays High Yield Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "JNK - SPDR Barclays High Yield Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VEA - Vanguard FTSE Developed Markets ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VEA - Vanguard FTSE Developed Markets ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VCIT - Vanguard Interm-Tm Corp Bd Idx ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "VWO - Vanguard Emerging Markets Stock Idx ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "VNQ - Vanguard REIT Index ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "VCSH - Vanguard Short-Term Corp Bd Idx ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "STPZ - PIMCO 1-5 Year US TIPS Index ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "PRTNX - PIMCO Real Return A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Invesco Closed End Strategy Sr Loan & Limited",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Israel BondRate/Coupon: Zero Coupon 0%  Matures: 1/1/14",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Deferred Compensation Plan (Lincoln Financial Group)Filer comment:  rollover to IRA 8/22/13",
-          "Asset Type": "Retirement PlansDeferred Compensation",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Israel BondRate/Coupon: 3.9963%  Matures: 12/1/14",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Other, (OID)",
-          "Income": "Other $67.00"
-        },
-        {
-          "Asset": "Israel BondRate/Coupon: 3.9963%  Matures: 4/1/18",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Other, (OID)",
-          "Income": "Other $88.00"
-        },
-        {
-          "Asset": "Israel BondRate/Coupon: 4%  Matures: 1/1/20",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "VCIT - Vanguard Interm-Tm Corp Bd Idx ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VWO - Vanguard Emerging Markets Stock Idx ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VNQ - Vanguard REIT Index ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VCSH - Vanguard Short-Term Corp Bd Idx ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo Advisors(Baltimore, Md)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "STPZ - PIMCO 1-5 Year US TIPS Index ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRTNX - PIMCO Real Return A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Invesco Closed End Strategy Sr Loan & Limited",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Israel BondRate/Coupon: Zero Coupon 0%  Matures: 1/1/14",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Deferred Compensation Plan (Lincoln Financial Group)Filer comment:  rollover to IRA 8/22/13",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Israel BondRate/Coupon: 3.9963%  Matures: 12/1/14",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Other, (OID)",
+          "income": "Other $67.00"
+        },
+        {
+          "asset": "Israel BondRate/Coupon: 3.9963%  Matures: 4/1/18",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Other, (OID)",
+          "income": "Other $88.00"
+        },
+        {
+          "asset": "Israel BondRate/Coupon: 4%  Matures: 1/1/20",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/15/2013",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Meyer M. Cardin Trust, Baltimore, Md. Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "bond matured"
+          "transaction-date": "10/15/2013",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Meyer M. Cardin Trust, Baltimore, Md. Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "bond matured"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/01/2013",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Israel Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA (bond matured)"
+          "transaction-date": "11/01/2013",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Israel Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA (bond matured)"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/01/2013",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Israel Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA (bond matured)"
+          "transaction-date": "11/01/2013",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Israel Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA (bond matured)"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Joint",
-          "Ticker": "CHTRX",
-          "Asset Name": "Invesco Charter A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/16/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "distribution reinvestment"
+          "owner": "Joint",
+          "ticker": "CHTRX",
+          "asset-name": "Invesco Charter A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "distribution reinvestment"
         },
         {
-          "#": "2",
-          "Owner": "Joint",
-          "Ticker": "AWSAX",
-          "Asset Name": "Invesco Global Core Equity A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/16/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "dividend reinvestment"
+          "owner": "Joint",
+          "ticker": "AWSAX",
+          "asset-name": "Invesco Global Core Equity A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "dividend reinvestment"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "CVTCX",
-          "Asset Name": "Calamos Growth & Income C (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/20/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "distribution reinvestment"
+          "owner": "Self",
+          "ticker": "CVTCX",
+          "asset-name": "Calamos Growth & Income C (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "distribution reinvestment"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "ETMDX",
-          "Asset Name": "Eaton Vance MD Municipal Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "interest reinv. received monthly on the 1st of each month except 1/2/13, 6/3/13, 9/3/13, and 12/2/13"
+          "owner": "Self",
+          "ticker": "ETMDX",
+          "asset-name": "Eaton Vance MD Municipal Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "interest reinv. received monthly on the 1st of each month except 1/2/13, 6/3/13, 9/3/13, and 12/2/13"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "LBSAX",
-          "Asset Name": "Columbia Dividend Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/25/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "dividend reinv. received quarterly, 3/25/13, 6/25/13, 9/25/13, and 12/18/13"
+          "owner": "Self",
+          "ticker": "LBSAX",
+          "asset-name": "Columbia Dividend Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/25/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "dividend reinv. received quarterly, 3/25/13, 6/25/13, 9/25/13, and 12/18/13"
         },
         {
-          "#": "6",
-          "Owner": "Joint",
-          "Ticker": "LBSAX",
-          "Asset Name": "Columbia Dividend Income A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/25/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "dividend reinvest. received quarterly, 3/25/13, 6/25/13, 9/25/13 and 12/18/13"
+          "owner": "Joint",
+          "ticker": "LBSAX",
+          "asset-name": "Columbia Dividend Income A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/25/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "dividend reinvest. received quarterly, 3/25/13, 6/25/13, 9/25/13 and 12/18/13"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "CPOAX",
-          "Asset Name": "Morgan Stanley Multi Cap Growth A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/16/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "dividend reinvestment"
+          "owner": "Self",
+          "ticker": "CPOAX",
+          "asset-name": "Morgan Stanley Multi Cap Growth A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/16/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "dividend reinvestment"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "COLTX",
-          "Asset Name": "Columbia Tax-Exempt A (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "06/21/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "COLTX",
+          "asset-name": "Columbia Tax-Exempt A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/21/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "ETMDX",
-          "Asset Name": "Eaton Vance MD Municipal Income A (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "07/31/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ETMDX",
+          "asset-name": "Eaton Vance MD Municipal Income A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "07/31/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "CREF Stock - TIAA-Cref Retirement Plan",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/07/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Rollover into IRA"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CREF Stock - TIAA-Cref Retirement Plan",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/07/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "Rollover into IRA"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement - Stable Asset Return Fund",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ABA Retirement Funds reallocation"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement - Stable Asset Return Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "ABA Retirement Funds reallocation"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement - Bond Core Plus Fund",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "ABA Retirement Fund reallocation"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement - Bond Core Plus Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/17/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "ABA Retirement Fund reallocation"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement Plan - Mid Cap Index Equity Fund",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ABA Retirement Fund realloacation"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement Plan - Mid Cap Index Equity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "ABA Retirement Fund realloacation"
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement Plan - Moderate Risk Portfolio Fund",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ABA Retirement Fund realloaction"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement Plan - Moderate Risk Portfolio Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "06/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "ABA Retirement Fund realloaction"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement Plan - Bond Index Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ABA Retirement Fund realloacation"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement Plan - Bond Index Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "ABA Retirement Fund realloacation"
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement Plan - Real Estate Return Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ABA Retirement Fund reallocation"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement Plan - Real Estate Return Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "ABA Retirement Fund reallocation"
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement Plan - Conservative Risk Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "ABA Retirement Fund realloaction"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement Plan - Conservative Risk Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/17/2013",
+          "amount": "$100,001 - $250,000",
+          "comment": "ABA Retirement Fund realloaction"
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ABA Retirement Plan - Small Cap Index Equity Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/17/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "ABA Retirement Fund reallocation"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ABA Retirement Plan - Small Cap Index Equity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/17/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "ABA Retirement Fund reallocation"
         },
         {
-          "#": "19",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Meyer M. Cardin Trust, Montgomery Co., Md Housing Bond",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "01/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Meyer M. Cardin Trust, Montgomery Co., Md Housing Bond",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Meyer M. Cardin Trust, St. Mary's Co., Md. Bond",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/03/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Meyer M. Cardin Trust, St. Mary's Co., Md. Bond",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/03/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Meyer M.Cardin Trust, Cecil Co., Md. Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/17/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Meyer M.Cardin Trust, Cecil Co., Md. Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/17/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Maryland 529 College Fund, Portfolio 2018",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maryland 529 College Fund, Portfolio 2018",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Maryland 529 College Fund, Portfolio 2021",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maryland 529 College Fund, Portfolio 2021",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Maryland 529 College Fund, Portfolio 2018",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Maryland 529 College Fund, Portfolio 2018",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Maryland 529 College Fund, Portfolio 2021",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/17/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Maryland 529 College Fund, Portfolio 2021",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/17/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "26",
-          "Owner": "Spouse",
-          "Ticker": "IJT",
-          "Asset Name": "iShares S&P Small-Cap 600 Growth",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
+          "owner": "Spouse",
+          "ticker": "IJT",
+          "asset-name": "iShares S&P Small-Cap 600 Growth",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
         },
         {
-          "#": "27",
-          "Owner": "Spouse",
-          "Ticker": "IJS",
-          "Asset Name": "iShares S&P Small-Cap 600 Value",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchase also on 10/4/13 and 11/19/13"
+          "owner": "Spouse",
+          "ticker": "IJS",
+          "asset-name": "iShares S&P Small-Cap 600 Value",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchase also on 10/4/13 and 11/19/13"
         },
         {
-          "#": "28",
-          "Owner": "Spouse",
-          "Ticker": "IJJ",
-          "Asset Name": "iShares S&P Mid-Cap 400 Value",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
+          "owner": "Spouse",
+          "ticker": "IJJ",
+          "asset-name": "iShares S&P Mid-Cap 400 Value",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
         },
         {
-          "#": "29",
-          "Owner": "Spouse",
-          "Ticker": "IJK",
-          "Asset Name": "iShares S&P MidCap 400 Growth",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
+          "owner": "Spouse",
+          "ticker": "IJK",
+          "asset-name": "iShares S&P MidCap 400 Growth",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
         },
         {
-          "#": "30",
-          "Owner": "Spouse",
-          "Ticker": "VCIT",
-          "Asset Name": "Vanguard Interm-Tm Corp Bd Idx ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
+          "owner": "Spouse",
+          "ticker": "VCIT",
+          "asset-name": "Vanguard Interm-Tm Corp Bd Idx ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
         },
         {
-          "#": "31",
-          "Owner": "Spouse",
-          "Ticker": "VEA",
-          "Asset Name": "Vanguard FTSE Developed Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
+          "owner": "Spouse",
+          "ticker": "VEA",
+          "asset-name": "Vanguard FTSE Developed Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
         },
         {
-          "#": "32",
-          "Owner": "Spouse",
-          "Ticker": "PFF",
-          "Asset Name": "iShares US Preferred Stock",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "PFF",
+          "asset-name": "iShares US Preferred Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "33",
-          "Owner": "Spouse",
-          "Ticker": "EMB",
-          "Asset Name": "iShares JPMorgan USD Emerg Markets Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "EMB",
+          "asset-name": "iShares JPMorgan USD Emerg Markets Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "34",
-          "Owner": "Spouse",
-          "Ticker": "PCY",
-          "Asset Name": "PowerShares Emerging Mkts Sovereign Debt",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "PCY",
+          "asset-name": "PowerShares Emerging Mkts Sovereign Debt",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "35",
-          "Owner": "Spouse",
-          "Ticker": "XLK",
-          "Asset Name": "Technology Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "XLK",
+          "asset-name": "Technology Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "36",
-          "Owner": "Spouse",
-          "Ticker": "XLF",
-          "Asset Name": "Financial Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "XLF",
+          "asset-name": "Financial Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "37",
-          "Owner": "Spouse",
-          "Ticker": "XLI",
-          "Asset Name": "Industrial Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "XLI",
+          "asset-name": "Industrial Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "38",
-          "Owner": "Spouse",
-          "Ticker": "XLP",
-          "Asset Name": "Consumer Staples Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "XLP",
+          "asset-name": "Consumer Staples Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "39",
-          "Owner": "Spouse",
-          "Ticker": "XLE",
-          "Asset Name": "Energy Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "XLE",
+          "asset-name": "Energy Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "40",
-          "Owner": "Spouse",
-          "Ticker": "XLB",
-          "Asset Name": "Materials Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Spouse",
+          "ticker": "XLB",
+          "asset-name": "Materials Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "41",
-          "Owner": "Spouse",
-          "Ticker": "XLV",
-          "Asset Name": "Health Care Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "XLV",
+          "asset-name": "Health Care Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "42",
-          "Owner": "Spouse",
-          "Ticker": "XLY",
-          "Asset Name": "Consumer Discret Select Sector SPDR",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "XLY",
+          "asset-name": "Consumer Discret Select Sector SPDR",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "43",
-          "Owner": "Spouse",
-          "Ticker": "TLT",
-          "Asset Name": "iShares 20+ Year Treasury Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "TLT",
+          "asset-name": "iShares 20+ Year Treasury Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "44",
-          "Owner": "Spouse",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "45",
-          "Owner": "Spouse",
-          "Ticker": "IEF",
-          "Asset Name": "iShares 7-10 Year Treasury Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
+          "owner": "Spouse",
+          "ticker": "IEF",
+          "asset-name": "iShares 7-10 Year Treasury Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 10/4/13 and 11/19/13"
         },
         {
-          "#": "46",
-          "Owner": "Spouse",
-          "Ticker": "MBB",
-          "Asset Name": "iShares MBS",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "MBB",
+          "asset-name": "iShares MBS",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "47",
-          "Owner": "Spouse",
-          "Ticker": "AGZ",
-          "Asset Name": "iShares Agency Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "AGZ",
+          "asset-name": "iShares Agency Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "48",
-          "Owner": "Spouse",
-          "Ticker": "SHY",
-          "Asset Name": "iShares 1-3 Year Treasury Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "SHY",
+          "asset-name": "iShares 1-3 Year Treasury Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "49",
-          "Owner": "Spouse",
-          "Ticker": "SHY",
-          "Asset Name": "iShares 1-3 Year Treasury Bond",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Spouse",
+          "ticker": "SHY",
+          "asset-name": "iShares 1-3 Year Treasury Bond",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "50",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "STPZ-PIMCO 1-5 Year US TIPS Index ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "STPZ-PIMCO 1-5 Year US TIPS Index ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "51",
-          "Owner": "Spouse",
-          "Ticker": "STPZ",
-          "Asset Name": "PIMCO 1-5 Year US TIPS Index ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "10/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Spouse",
+          "ticker": "STPZ",
+          "asset-name": "PIMCO 1-5 Year US TIPS Index ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "10/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "52",
-          "Owner": "Spouse",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Barclays High Yield Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "JNK",
+          "asset-name": "SPDR Barclays High Yield Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "53",
-          "Owner": "Spouse",
-          "Ticker": "VCSH",
-          "Asset Name": "Vanguard Short-Term Corp Bd Idx ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "VCSH",
+          "asset-name": "Vanguard Short-Term Corp Bd Idx ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "54",
-          "Owner": "Spouse",
-          "Ticker": "VCSH",
-          "Asset Name": "Vanguard Short-Term Corp Bd Idx ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Spouse",
+          "ticker": "VCSH",
+          "asset-name": "Vanguard Short-Term Corp Bd Idx ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "55",
-          "Owner": "Spouse",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard Emerging Markets Stock Idx ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard Emerging Markets Stock Idx ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "56",
-          "Owner": "Spouse",
-          "Ticker": "VNQ",
-          "Asset Name": "Vanguard REIT Index ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA - includes purchases also on 11/19/13"
+          "owner": "Spouse",
+          "ticker": "VNQ",
+          "asset-name": "Vanguard REIT Index ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA - includes purchases also on 11/19/13"
         },
         {
-          "#": "57",
-          "Owner": "Spouse",
-          "Ticker": "PRTNX",
-          "Asset Name": "PIMCO Real Return A (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/25/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Spouse",
+          "ticker": "PRTNX",
+          "asset-name": "PIMCO Real Return A (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/25/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "58",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Invesco Closed End Strategy Sr Loan & Limited",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/25/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "IRA"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Invesco Closed End Strategy Sr Loan & Limited",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/25/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "IRA"
         },
         {
-          "#": "59",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Fixed Account - Deferred Compensation Plan",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Rollover into IRA"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fixed Account - Deferred Compensation Plan",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "Rollover into IRA"
         },
         {
-          "#": "60",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "LVIP Bond - Deferred Compensaion Plan",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Rollover into IRA"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LVIP Bond - Deferred Compensaion Plan",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "Rollover into IRA"
         },
         {
-          "#": "61",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "LVIP Growth and Income - Deferred Cmpensation Plan",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Rollover into IRA"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LVIP Growth and Income - Deferred Cmpensation Plan",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "Rollover into IRA"
         },
         {
-          "#": "62",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "LVIP Special Opportunity - Deferred opensation Plan",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/22/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Rollover into IRA"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "LVIP Special Opportunity - Deferred opensation Plan",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/22/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "Rollover into IRA"
         },
         {
-          "#": "63",
-          "Owner": "Self",
-          "Ticker": "COLTX",
-          "Asset Name": "Columbia Tax-Exempt A (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/31/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "COLTX",
+          "asset-name": "Columbia Tax-Exempt A (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/31/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "64",
-          "Owner": "Self",
-          "Ticker": "ETMDX",
-          "Asset Name": "Eaton Vance MD Municipal Income A (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/20/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ETMDX",
+          "asset-name": "Eaton Vance MD Municipal Income A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/20/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 1998 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board of Visitors)",
-          "Entity": "University of Maryland Law School\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jan 1998 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board of Visitors)",
+          "entity": "University of Maryland Law School\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 1993 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(President's Advisory Board)",
-          "Entity": "University of Maryland, Balto. Co.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jan 1993 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(President's Advisory Board)",
+          "entity": "University of Maryland, Balto. Co.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Sep 2001 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board)",
-          "Entity": "The Center for Democracy and the Interpretation of Civil Society\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSt. Mary's City, Md",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Sep 2001 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board)",
+          "entity": "The Center for Democracy and the Interpretation of Civil Society\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSt. Mary's City, Md",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "4",
-          "Position Dates": "Jan 2003 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board)",
-          "Entity": "Institute for Public Studies, Johns Hopkins University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jan 2003 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Advisory Board)",
+          "entity": "Institute for Public Studies, Johns Hopkins University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "5",
-          "Position Dates": "Aug 2007 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board of Visitors)",
-          "Entity": "US Naval Academy\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAnnapolis, Md",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Aug 2007 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board of Visitors)",
+          "entity": "US Naval Academy\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAnnapolis, Md",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "6",
-          "Position Dates": "Sep 2007 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board of Visitors)",
-          "Entity": "University of Maryland, School of Public Policy\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCollege Park, Md",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Sep 2007 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board of Visitors)",
+          "entity": "University of Maryland, School of Public Policy\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCollege Park, Md",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "7",
-          "Position Dates": "Nov 2010 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "James Madison Memorial Fellowship Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, D.C.",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Nov 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "James Madison Memorial Fellowship Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, D.C.",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "8",
-          "Position Dates": "Jan 1999 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "Lawrence M. Katz Irrevocable Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Personal Trust)",
-          "Comments": ""
+          "position-dates": "Jan 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Lawrence M. Katz Irrevocable Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Personal Trust)",
+          "comments": ""
         },
         {
-          "#": "9",
-          "Position Dates": "Jan 2002 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "Herbert Rosen Irrevocable Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Personal Trust)",
-          "Comments": ""
+          "position-dates": "Jan 2002 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Herbert Rosen Irrevocable Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Personal Trust)",
+          "comments": ""
         },
         {
-          "#": "10",
-          "Position Dates": "Jul 1991 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "Meyer M. Cardin Irrevocable Trust (Howard L. Cardin and family)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Personal Trust)",
-          "Comments": ""
+          "position-dates": "Jul 1991 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Meyer M. Cardin Irrevocable Trust (Howard L. Cardin and family)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Personal Trust)",
+          "comments": ""
         },
         {
-          "#": "11",
-          "Position Dates": "Jan 1972 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Limited Partner or Member)",
-          "Entity": "Venture BG, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
-          "Comments": "Change from Limited Partnership to LLC in 2002"
+          "position-dates": "Jan 1972 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Limited Partner or Member)",
+          "entity": "Venture BG, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaltimore, Md",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
+          "comments": "Change from Limited Partnership to LLC in 2002"
         },
         {
-          "#": "12",
-          "Position Dates": "Jun 2009 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Adivsory Board)",
-          "Entity": "Congressional Coalition on Adoption Institute National Angels in Adoption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": ""
+          "position-dates": "Jun 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Adivsory Board)",
+          "entity": "Congressional Coalition on Adoption Institute National Angels in Adoption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 1987",
-          "Parties Involved": "State of Maryland\n\t\t\t\t\t\t\t\tAnnapolis, Md",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Retirement Benefits)",
-          "Status and Terms": "As a \"retiree\" from the State of Maryland, I receive pensions benefits (reported in Part 2) and the right to participate in health insurance with the employer subsidizing part of the cost."
+          "date": "Jan 1987",
+          "parties-involved": "State of Maryland\n\t\t\t\t\t\t\t\tAnnapolis, Md",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Retirement Benefits)",
+          "status-and-terms": "As a \"retiree\" from the State of Maryland, I receive pensions benefits (reported in Part 2) and the right to participate in health insurance with the employer subsidizing part of the cost."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

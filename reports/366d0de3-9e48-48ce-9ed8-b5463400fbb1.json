@@ -1,122 +1,135 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2013",
   "filer": "The Honorable Robert Menendez (Menendez, Robert)",
-  "filedDate": "Filed 05/15/2014 @ 1:04 PM",
+  "filed-date": "05/15/2014",
+  "filed-time": "1:04 PM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Congressional Federal Credit Union(Washington , DC)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Congressional Federal Credit Union(Washington , DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Senate Federal Credit Union(Washington , DC)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Senate Federal Credit Union(Washington , DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Hudson City Savings Bank(Hoboken, NJ)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "Hudson City Savings Bank(Hoboken, NJ)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ResidentialDescription: Rental Property (Union City, NJ)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "ResidentialDescription: Rental Property (Union City, NJ)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Metropoliitan Life Insurance Stock",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Metropoliitan Life Insurance Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2005",
-          "Debtor": "Self",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "6.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Bayonne Community Bank\n\t\t\t\t\t\t\t\tBayonne, NJ",
-          "Comments": "Mortgage on 1806 West Street, Union City, NJ"
+          "incurred": "2005",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "6.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Bayonne Community Bank\n\t\t\t\t\t\t\t\tBayonne, NJ",
+          "comments": "Mortgage on 1806 West Street, Union City, NJ"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2009",
-          "Parties Involved": "New American Library (NAL), a division of Pemguin Group (USA) Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Pursuant to book publishing agreement will receive an advance royalties to be split with coauthor of $50,000, of which $25,000 shall be paid upon execution of the agreement and $25,000 upon delivery of completed manuscript; royalty payments of 10% of the net receipts for the first 5,000 hardcover copies sold, 12.5% for the next 5,000 hardcover copies sold and 15% for hardcover copies sold thereafter. Royalty payments be made of 7.5% and 10% on mass market, trade paperback and audio copies sold."
+          "date": "Jan 2009",
+          "parties-involved": "New American Library (NAL), a division of Pemguin Group (USA) Inc.\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Pursuant to book publishing agreement will receive an advance royalties to be split with coauthor of $50,000, of which $25,000 shall be paid upon execution of the agreement and $25,000 upon delivery of completed manuscript; royalty payments of 10% of the net receipts for the first 5,000 hardcover copies sold, 12.5% for the next 5,000 hardcover copies sold and 15% for hardcover copies sold thereafter. Royalty payments be made of 7.5% and 10% on mass market, trade paperback and audio copies sold."
         },
         {
-          "#": "2",
-          "Date": "Jan 2009",
-          "Parties Involved": "Peter Eisner c/o Sterling Lord Literistic, Inc.,\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Pursuant to collaboration agreement, coauthor shall receive the first royalty advance of $50,000. The next $50,000 earned shall be paid to me. Any monies thereafter, shall be split 50/50. I also agreed to pay reasonable travel and lodging expenses of Mr. Eisner, with any expenses over $100 approved in advance."
+          "date": "Jan 2009",
+          "parties-involved": "Peter Eisner c/o Sterling Lord Literistic, Inc.,\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Pursuant to collaboration agreement, coauthor shall receive the first royalty advance of $50,000. The next $50,000 earned shall be paid to me. Any monies thereafter, shall be split 50/50. I also agreed to pay reasonable travel and lodging expenses of Mr. Eisner, with any expenses over $100 approved in advance."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

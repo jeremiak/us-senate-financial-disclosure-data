@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/07/2018",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 09/07/2018 @ 9:23 AM",
+  "filed-date": "09/07/2018",
+  "filed-time": "9:23 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "08/22/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "HEALTHCARE REALY TR INC 03.875% 050125 DTD042415\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.875% Matures: 05/01/2025",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/22/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "HEALTHCARE REALY TR INC 03.875% 050125 DTD042415\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.875% Matures: 05/01/2025",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

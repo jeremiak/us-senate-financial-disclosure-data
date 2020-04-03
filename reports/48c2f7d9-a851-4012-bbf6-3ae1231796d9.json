@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/01/2016",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 12/01/2016 @ 10:19 PM",
+  "filed-date": "12/01/2016",
+  "filed-time": "10:19 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "11/14/2016",
-          "Owner": "Spouse",
-          "Ticker": "NOC",
-          "Asset Name": "Northrop Grumman Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "r"
+          "transaction-date": "11/14/2016",
+          "owner": "Spouse",
+          "ticker": "NOC",
+          "asset-name": "Northrop Grumman Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "r"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/14/2016",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "r"
+          "transaction-date": "11/14/2016",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "r"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/15/2016",
-          "Owner": "Spouse",
-          "Ticker": "HDS",
-          "Asset Name": "HD Supply Holdings, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "555"
+          "transaction-date": "11/15/2016",
+          "owner": "Spouse",
+          "ticker": "HDS",
+          "asset-name": "HD Supply Holdings, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "555"
         }
       ]
     }

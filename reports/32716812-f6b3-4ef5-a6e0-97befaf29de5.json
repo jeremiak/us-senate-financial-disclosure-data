@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/20/2017",
   "filer": "The Honorable Joseph Manchin III (Manchin, Joe)",
-  "filedDate": "Filed 12/20/2017 @ 9:47 AM",
+  "filed-date": "12/20/2017",
+  "filed-time": "9:47 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/29/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "West Virginia Growth Investment LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Care 24/7\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: A health care service and technology company that coordinates and explains treatment recommendations for patients with serious illnesses.",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Additional Investment in Care 24/7, an underlying asset of West Virginia Growth Investment Fund LLC"
+          "transaction-date": "11/29/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "West Virginia Growth Investment LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Care 24/7\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: A health care service and technology company that coordinates and explains treatment recommendations for patients with serious illnesses.",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Additional Investment in Care 24/7, an underlying asset of West Virginia Growth Investment Fund LLC"
         }
       ]
     }

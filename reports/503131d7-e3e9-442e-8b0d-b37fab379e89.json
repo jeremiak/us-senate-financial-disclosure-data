@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/06/2017",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 01/06/2017 @ 8:25 AM",
+  "filed-date": "01/06/2017",
+  "filed-time": "8:25 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/28/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "PFS-Provident Financial Services, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/28/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "PFS-Provident Financial Services, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/14/2016",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 03/14/2016 @ 5:37 PM",
+  "filed-date": "03/14/2016",
+  "filed-time": "5:37 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "03/03/2016",
-          "Owner": "Self",
-          "Ticker": "NCR",
-          "Asset Name": "NCR Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/03/2016",
+          "owner": "Self",
+          "ticker": "NCR",
+          "asset-name": "NCR Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

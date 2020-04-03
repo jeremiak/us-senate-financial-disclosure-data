@@ -1,307 +1,317 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2014",
   "filer": "The Honorable Roy Blunt (Blunt, Roy)",
-  "filedDate": "Filed 05/15/2015 @ 12:05 PM",
+  "filed-date": "05/15/2015",
+  "filed-time": "12:05 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Retirement",
-          "Who Paid": "State of Missouri\n\t\t\t\t\t\t\t\tJefferson City, MO",
-          "Amount Paid": "$36,721.32"
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "State of Missouri\n\t\t\t\t\t\t\t\tJefferson City, MO",
+          "amount-paid": "$36,721.32"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Kraft Foods\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Kraft Foods\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Lockheed Martin",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Lockheed Martin",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Hartford Capitol AppreciatedFiler comment:  Mutual Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Hartford Capitol AppreciatedFiler comment:  Mutual Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Cisco Systems",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Cisco Systems",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Child 1 529Institution: State of Missouri",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": ""
+          "asset": "Child 1 529Institution: State of Missouri",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "Excepted Investment Fund",
+          "income": ""
         },
         {
-          "Asset": "Most Aggressive Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Most Aggressive Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MO 529 Account Vanguard Growth FundInstitution: State of Missouri",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MO 529 Account Vanguard Growth FundInstitution: State of Missouri",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Altria Group",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "Altria Group",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Kraft Foods",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Kraft Foods",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "PMI",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "PMI",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "Mondelez Int Inc",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Mondelez Int Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Mondelez Int Inc Vested Option",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Mondelez Int Inc Vested Option",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "401-K Altria Group Stock",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "401-K Altria Group Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "401-K Kraft Foods Stock",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "401-K Kraft Foods Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "401-K PMI Stock",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "401-K PMI Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "401-K Interest Income FundFiler comment:  Mutual Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "401-K Interest Income FundFiler comment:  Mutual Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "401-K International FundFiler comment:  Mutual Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "401-K International FundFiler comment:  Mutual Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "U.S. Government Obligations FundFiler comment:  Mutual Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "U.S. Government Obligations FundFiler comment:  Mutual Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "401-K Mondelez Int. Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "401-K Mondelez Int. Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "401-K US Mid-Cap Equity Index FundFiler comment:  Mutual Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "401-K US Mid-Cap Equity Index FundFiler comment:  Mutual Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "401-K US Large Cap Equity Index FundFiler comment:  Mutual Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "401-K US Large Cap Equity Index FundFiler comment:  Mutual Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Kraft Supplemental Thrift Plan (non self-directed)Filer comment:  Mutual Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Kraft Supplemental Thrift Plan (non self-directed)Filer comment:  Mutual Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Churchill Coffee LTD, Springfield, MO (Wholesale coffee business)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Churchill Coffee LTD, Springfield, MO (Wholesale coffee business)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "11 Undeveloped Acres in Strafford, MODescription: 11 Undeveloped Acres (Straffor, MO)",
-          "Asset Type": "Farm",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "11 Undeveloped Acres in Strafford, MODescription: 11 Undeveloped Acres (Straffor, MO)",
+          "asset-type": "Farm",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Abigail P. Blunt Revocable Trust Lot 32, Sq1436 Washington, DC 20016",
-          "Asset Type": "TrustGeneral Trust",
-          "Owner": "Spouse",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Abigail P. Blunt Revocable Trust Lot 32, Sq1436 Washington, DC 20016",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Spouse",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/11/2014",
-          "Owner": "Spouse",
-          "Ticker": "MDLZ",
-          "Asset Name": "Mondelez International, Inc. (NASDAQ)",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/11/2014",
+          "owner": "Spouse",
+          "ticker": "MDLZ",
+          "asset-name": "Mondelez International, Inc. (NASDAQ)",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2009",
-          "Debtor": "Spouse",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "UBS Financial Services\n\t\t\t\t\t\t\t\tWhite Plains, NY",
-          "Comments": "-"
+          "incurred": "2009",
+          "debtor": "Spouse",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "UBS Financial Services\n\t\t\t\t\t\t\t\tWhite Plains, NY",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2011",
-          "Debtor": "Spouse",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "1.7-12%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(25 years)",
-          "Amount": "Over $1,000,000 (asset held independently by spouse or dependent child)",
-          "Creditor": "Merrill Lynch Credit\n\t\t\t\t\t\t\t\tJacksonville, Florida",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Spouse",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "1.7-12%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(25 years)",
+          "amount": "Over $1,000,000 (asset held independently by spouse or dependent child)",
+          "creditor": "Merrill Lynch Credit\n\t\t\t\t\t\t\t\tJacksonville, Florida",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Empire Bank\n\t\t\t\t\t\t\t\tSpringfield, MO",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Empire Bank\n\t\t\t\t\t\t\t\tSpringfield, MO",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

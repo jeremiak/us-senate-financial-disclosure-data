@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 01/10/2019 (Amendment 1)",
   "filer": "The Honorable Thomas Udall (Udall, Tom)",
-  "filedDate": "Filed 04/18/2019 @ 10:34 AM",
+  "filed-date": "04/18/2019",
+  "filed-time": "10:34 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/18/2018",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/18/2018",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

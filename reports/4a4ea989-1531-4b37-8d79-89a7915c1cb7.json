@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/07/2017",
   "filer": "The Honorable Ladda Tammy Duckworth (Duckworth, Tammy)",
-  "filedDate": "Filed 11/07/2017 @ 7:41 PM",
+  "filed-date": "11/07/2017",
+  "filed-time": "7:41 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "10/23/2017",
-          "Owner": "Joint",
-          "Ticker": "DWDP",
-          "Asset Name": "DowDuPont Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/23/2017",
+          "owner": "Joint",
+          "ticker": "DWDP",
+          "asset-name": "DowDuPont Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "10/18/2017",
-          "Owner": "Joint",
-          "Ticker": "ABT",
-          "Asset Name": "Abbott Laboratories",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/18/2017",
+          "owner": "Joint",
+          "ticker": "ABT",
+          "asset-name": "Abbott Laboratories",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/17/2017",
-          "Owner": "Joint",
-          "Ticker": "JNJ",
-          "Asset Name": "Johnson & Johnson",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/17/2017",
+          "owner": "Joint",
+          "ticker": "JNJ",
+          "asset-name": "Johnson & Johnson",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/10/2017",
-          "Owner": "Joint",
-          "Ticker": "CC",
-          "Asset Name": "CC - The Chemours Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/10/2017",
+          "owner": "Joint",
+          "ticker": "CC",
+          "asset-name": "CC - The Chemours Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

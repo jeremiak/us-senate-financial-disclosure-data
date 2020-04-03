@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/10/2017",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 07/10/2017 @ 3:18 PM",
+  "filed-date": "07/10/2017",
+  "filed-time": "3:18 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "06/02/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "OmniEarth, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: OmniEarth, Inc.\n                                                    \n                                                         (Arlington, VA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MGE, LLC - underlying asset of Point Judith Fund II LP"
+          "transaction-date": "06/02/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "OmniEarth, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: OmniEarth, Inc.\n                                                    \n                                                         (Arlington, VA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "MGE, LLC - underlying asset of Point Judith Fund II LP"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/02/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "OmniEarth, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: OmniEarth, Inc.\n                                                    \n                                                         (Arlington, VA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MGE, LLC - underlying asset of Point Judith Fund II LP"
+          "transaction-date": "06/02/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OmniEarth, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: OmniEarth, Inc.\n                                                    \n                                                         (Arlington, VA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Software Company",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "MGE, LLC - underlying asset of Point Judith Fund II LP"
         }
       ]
     }

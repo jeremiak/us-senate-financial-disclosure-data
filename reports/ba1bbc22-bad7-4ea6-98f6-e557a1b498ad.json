@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/30/2015",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 11/30/2015 @ 11:25 AM",
+  "filed-date": "11/30/2015",
+  "filed-time": "11:25 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "11/13/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "CG",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "CARLYLE GROUP LTD PUBLICLY TRADED PARTNERSHIP"
+          "transaction-date": "11/13/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CG",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "CARLYLE GROUP LTD PUBLICLY TRADED PARTNERSHIP"
         },
         {
-          "#": "4",
-          "Transaction Date": "11/13/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ETP",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "ENERGY TRANSFER PARTNERS PUBLICLY TRADED PARTNERSHIP"
+          "transaction-date": "11/13/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ETP",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "ENERGY TRANSFER PARTNERS PUBLICLY TRADED PARTNERSHIP"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/13/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "LGCY",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "LEGACY RESERVES LTD PUBLICLY TRADED PARTNERSHIP"
+          "transaction-date": "11/13/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "LGCY",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "LEGACY RESERVES LTD PUBLICLY TRADED PARTNERSHIP"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/13/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "VNR",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "VANGUARD NATURAL RESOURCES PUBLICLY TRADED PARTNERSHIP"
+          "transaction-date": "11/13/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VNR",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "VANGUARD NATURAL RESOURCES PUBLICLY TRADED PARTNERSHIP"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/13/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "LINE",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "LINN ENERGY LLC PUBLICLY TRADED PARTNERSHIP"
+          "transaction-date": "11/13/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "LINE",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "LINN ENERGY LLC PUBLICLY TRADED PARTNERSHIP"
         }
       ]
     }

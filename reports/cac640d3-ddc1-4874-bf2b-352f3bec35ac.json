@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/23/2020",
   "filer": "Mr. David A Perdue Jr (Perdue, David)",
-  "filedDate": "Filed 01/23/2020 @ 2:08 PM",
+  "filed-date": "01/23/2020",
+  "filed-time": "2:08 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/09/2019",
-          "Owner": "Joint",
-          "Ticker": "--\n                                        \n                                        \n                                            \n                                            VIAC",
-          "Asset Name": "CBS (Exchanged)\n                                            \n                                            ViacomCBS Inc. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "12/09/2019",
+          "owner": "Joint",
+          "ticker": "--\n                                        \n                                        \n                                            \n                                            VIAC",
+          "asset-name": "CBS (Exchanged)\n                                            \n                                            ViacomCBS Inc. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

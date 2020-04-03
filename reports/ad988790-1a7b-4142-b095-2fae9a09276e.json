@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/10/2018",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 01/10/2018 @ 11:06 AM",
+  "filed-date": "01/10/2018",
+  "filed-time": "11:06 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "12/20/2017",
-          "Owner": "Spouse",
-          "Ticker": "GDDY",
-          "Asset Name": "GoDaddy Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/20/2017",
+          "owner": "Spouse",
+          "ticker": "GDDY",
+          "asset-name": "GoDaddy Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "12/20/2017",
-          "Owner": "Spouse",
-          "Ticker": "CSX",
-          "Asset Name": "CSX Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/20/2017",
+          "owner": "Spouse",
+          "ticker": "CSX",
+          "asset-name": "CSX Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "12/19/2017",
-          "Owner": "Spouse",
-          "Ticker": "ENB",
-          "Asset Name": "Enbridge Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2017",
+          "owner": "Spouse",
+          "ticker": "ENB",
+          "asset-name": "Enbridge Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/19/2017",
-          "Owner": "Spouse",
-          "Ticker": "SGAPY",
-          "Asset Name": "Singapore Telecommunications Limited",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2017",
+          "owner": "Spouse",
+          "ticker": "SGAPY",
+          "asset-name": "Singapore Telecommunications Limited",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/19/2017",
-          "Owner": "Spouse",
-          "Ticker": "SSDOY",
-          "Asset Name": "Shiseido Company, Limited",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2017",
+          "owner": "Spouse",
+          "ticker": "SSDOY",
+          "asset-name": "Shiseido Company, Limited",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

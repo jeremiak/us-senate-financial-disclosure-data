@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/17/2016",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 02/17/2016 @ 2:29 PM",
+  "filed-date": "02/17/2016",
+  "filed-time": "2:29 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/19/2016",
-          "Owner": "Spouse",
-          "Ticker": "CB",
-          "Asset Name": "Chubb Limited",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MANDATORY MERGER FROM CHUBB CORPORATION"
+          "transaction-date": "01/19/2016",
+          "owner": "Spouse",
+          "ticker": "CB",
+          "asset-name": "Chubb Limited",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "MANDATORY MERGER FROM CHUBB CORPORATION"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/19/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "CHUBB CORPORATION - CB",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "MANDATORY MERGER TO CHUBB LTD"
+          "transaction-date": "01/19/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CHUBB CORPORATION - CB",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "MANDATORY MERGER TO CHUBB LTD"
         }
       ]
     }

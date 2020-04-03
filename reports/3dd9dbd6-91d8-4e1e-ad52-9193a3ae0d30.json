@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 08/13/2019 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 11/15/2019 @ 11:37 AM",
+  "filed-date": "11/15/2019",
+  "filed-time": "11:37 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "10/31/2018",
-          "Owner": "Joint",
-          "Ticker": "BBT",
-          "Asset Name": "BB&T Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.25% Matures: 11/01/2019",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/31/2018",
+          "owner": "Joint",
+          "ticker": "BBT",
+          "asset-name": "BB&T Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.25% Matures: 11/01/2019",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/19/2018",
-          "Owner": "Self",
-          "Ticker": "ETP\n                                        \n                                        \n                                            \n                                            ET",
-          "Asset Name": "Energy Transfer Partners, L.P. (Exchanged)\n                                            \n                                            Energy Transfer LP (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/19/2018",
+          "owner": "Self",
+          "ticker": "ETP\n                                        \n                                        \n                                            \n                                            ET",
+          "asset-name": "Energy Transfer Partners, L.P. (Exchanged)\n                                            \n                                            Energy Transfer LP (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/29/2018",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 03/29/2018 @ 3:20 PM",
+  "filed-date": "03/29/2018",
+  "filed-time": "3:20 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "03/27/2018",
-          "Owner": "Self",
-          "Ticker": "DWDP",
-          "Asset Name": "DowDuPont Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "03/27/2018",
+          "owner": "Self",
+          "ticker": "DWDP",
+          "asset-name": "DowDuPont Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/27/2018",
-          "Owner": "Self",
-          "Ticker": "UPS",
-          "Asset Name": "United Parcel Service, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "03/27/2018",
+          "owner": "Self",
+          "ticker": "UPS",
+          "asset-name": "United Parcel Service, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

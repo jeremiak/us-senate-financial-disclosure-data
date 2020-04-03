@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 01/05/2018 (Amendment 1)",
   "filer": "The Honorable Ladda Tammy Duckworth (Duckworth, Tammy)",
-  "filedDate": "Filed 08/07/2018 @ 2:14 PM",
+  "filed-date": "08/07/2018",
+  "filed-time": "2:14 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/21/2017",
-          "Owner": "Joint",
-          "Ticker": "BBL",
-          "Asset Name": "BHP Billiton plc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Originally reported as Purchase in error"
+          "transaction-date": "12/21/2017",
+          "owner": "Joint",
+          "ticker": "BBL",
+          "asset-name": "BHP Billiton plc",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Originally reported as Purchase in error"
         }
       ]
     }

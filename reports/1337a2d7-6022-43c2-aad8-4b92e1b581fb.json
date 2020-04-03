@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/03/2017",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 05/03/2017 @ 10:22 AM",
+  "filed-date": "05/03/2017",
+  "filed-time": "10:22 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "04/13/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Barclays Contingent Autocall on Apple\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.15% Matures: 07/13/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/13/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Barclays Contingent Autocall on Apple\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.15% Matures: 07/13/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

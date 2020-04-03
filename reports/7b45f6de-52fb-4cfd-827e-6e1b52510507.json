@@ -1,319 +1,328 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2017",
   "filer": "The Honorable Lisa A Murkowski (Murkowski, Lisa)",
-  "filedDate": "Filed 05/15/2018 @ 5 PM",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": "2017",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Schwab Cash(Anchorage, AK)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Schwab Cash(Anchorage, AK)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Invesco S&P 500 Index Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "Invesco S&P 500 Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",
-          "Asset Type": "Other Securities",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Alaska Permanent Fund DividendDescription: N/A (N/A, N/A)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Northrim Bank(Anchorage, AK)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Northrim Bank(Anchorage, AK)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo(Anchorage, AK)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Anchorage, AK)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WFC - Wells Fargo & Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "WFC - Wells Fargo & Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "EUGBX-Morgan Stanley European Equity B",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "EUGBX-Morgan Stanley European Equity B",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FSCDX - Fidelity Advisor Small Cap A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "FSCDX - Fidelity Advisor Small Cap A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Voya Multi Manager International Small Cap A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "Voya Multi Manager International Small Cap A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley(Anchorage, AK)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley(Anchorage, AK)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Invesco S&P 500 Index Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "Invesco S&P 500 Index Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MS Focus Growth",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "MS Focus Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SCHB - Schwab US Broad Market ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "SCHB - Schwab US Broad Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SCHF - Schwab International Equity ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SCHF - Schwab International Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SCHE - Schwab Emerging Markets Equity ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SCHE - Schwab Emerging Markets Equity ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SCHZ - Schwab US Aggregate Bond ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SCHZ - Schwab US Aggregate Bond ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "First Bank(Ketchikan, AK)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "First Bank(Ketchikan, AK)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First Bank(Ketchikan, AK)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "First Bank(Ketchikan, AK)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Rental income from basement apartmentDescription: Basement apartment in DC residence (Washington, DC)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Rental income from basement apartmentDescription: Basement apartment in DC residence (Washington, DC)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "National Capital Bank(Washington, DC)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "National Capital Bank(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SCHH - Schwab Strategic Trust - Schwab U.S. REIT ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SCHH - Schwab Strategic Trust - Schwab U.S. REIT ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "First BankCompany: First Bank (Ketchikan, AK) Description: Bank",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "First BankCompany: First Bank (Ketchikan, AK) Description: Bank",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "State of Alaska Public Employee Retirement System (PERS)Filer comment:  Previous reported as State of Alaska Annuity Plan.",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "State of Alaska Public Employee Retirement System (PERS)Filer comment:  Previous reported as State of Alaska Annuity Plan.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "SCHZ",
-          "Asset Name": "Schwab US Aggregate Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/17/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SCHZ",
+          "asset-name": "Schwab US Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "SCHZ",
-          "Asset Name": "Schwab US Aggregate Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/19/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SCHZ",
+          "asset-name": "Schwab US Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/19/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "SCHH",
-          "Asset Name": "Schwab US REIT ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "04/06/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SCHH",
+          "asset-name": "Schwab US REIT ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "SCHB",
-          "Asset Name": "Schwab US Broad Market ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "04/06/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SCHB",
+          "asset-name": "Schwab US Broad Market ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "SCHZ",
-          "Asset Name": "Schwab US Aggregate Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/20/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SCHZ",
+          "asset-name": "Schwab US Aggregate Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/20/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tAnchorage, AK",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tAnchorage, AK",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 2005 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "U.S. - Japan Friendship Commission\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Ind. Federal Agency)",
-          "Comments": ""
+          "position-dates": "Jan 2005 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "U.S. - Japan Friendship Commission\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Ind. Federal Agency)",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

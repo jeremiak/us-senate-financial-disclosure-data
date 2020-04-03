@@ -1,1167 +1,1125 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2016",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 05/15/2017 @ 11:39 AM",
+  "filed-date": "05/15/2017",
+  "filed-time": "11:39 AM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "05/16/2016",
-          "Activity": "Appearance",
-          "Amount": "$1,000.00",
-          "Who Paid?": "Hinckley, Allen & Snyder LLP, Attorneys at Law\n\t\t\t\t\t\t\t\tProvidence, RI",
-          "Who received payment?": "A Charity"
+          "date": "05/16/2016",
+          "activity": "Appearance",
+          "amount": "$1,000.00",
+          "who-paid": "Hinckley, Allen & Snyder LLP, Attorneys at Law\n\t\t\t\t\t\t\t\tProvidence, RI",
+          "who-received-payment": "A Charity"
         }
       ]
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "AGU - Agrium Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "AAPL - Apple Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "CSCO - Cisco Systems, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "COST - Costco Wholesale Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "CVS - CVS Caremark Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "EMR - Emerson Electric Co. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "ESRX - Express Scripts Holding Company (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "ITW - Illinois Tool Works Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "INTC - Intel Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IYT - iShares Transportation Average",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "PEP - Pepsico, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "QCOM - QUALCOMM Incorporated (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SYK - Stryker Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AGU - Agrium Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CSCO - Cisco Systems, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "COST - Costco Wholesale Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CVS - CVS Caremark Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EMR - Emerson Electric Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ESRX - Express Scripts Holding Company (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ITW - Illinois Tool Works Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "INTC - Intel Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYT - iShares Transportation Average",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PEP - Pepsico, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QCOM - QUALCOMM Incorporated (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SYK - Stryker Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "UNFI - United Natural Foods, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "UNFI - United Natural Foods, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VRTX - Vertex Pharmaceuticals Incorporated (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VRTX - Vertex Pharmaceuticals Incorporated (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo Bank(Charlestown, RI)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo Bank(Charlestown, RI)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AAPL - Apple Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AAPL - Apple Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "COST - Costco Wholesale Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "COST - Costco Wholesale Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CVS - CVS Caremark Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CVS - CVS Caremark Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ESRX - Express Scripts Holding Company (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "ESRX - Express Scripts Holding Company (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Global X Funds China Consumer CHIQ",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Global X Funds China Consumer CHIQ",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IBB - iShares Nasdaq Biotechnology",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "IBB - iShares Nasdaq Biotechnology",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PEP - Pepsico, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "PEP - Pepsico, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PGJ - PowerShares Golden Dragon China",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "PGJ - PowerShares Golden Dragon China",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QQQ - PowerShares QQQ Trust, Series 1 (NASDAQ)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "QQQ - PowerShares QQQ Trust, Series 1 (NASDAQ)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QCOM - QUALCOMM Incorporated (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "QCOM - QUALCOMM Incorporated (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SLB - Schlumberger Limited (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SLB - Schlumberger Limited (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XBI - SPDR S&P Biotech ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "XBI - SPDR S&P Biotech ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SYK - Stryker Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SYK - Stryker Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "UNFI - United Natural Foods, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "UNFI - United Natural Foods, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Intl Equity ET Index FDS FTSE Emerging Mkts VWO",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Intl Equity ET Index FDS FTSE Emerging Mkts VWO",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WFM - Whole Foods Market, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "WFM - Whole Foods Market, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLNX - Xilinx Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "XLNX - Xilinx Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo Bank(Charlestown, RI)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo Bank(Charlestown, RI)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "U.S. Senate Federal Credit Union(Washington, DC)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "U.S. Senate Federal Credit Union(Washington, DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "U.S. Senate Federal Credit Union(Washington, DC)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "U.S. Senate Federal Credit Union(Washington, DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Navigant Credit Union(Smithfield, RI)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Navigant Credit Union(Smithfield, RI)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CELG - Celgene Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CELG - Celgene Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MSFT - Microsoft Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "MSFT - Microsoft Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "NXPI - NXP Semiconductors NV (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "NXPI - NXP Semiconductors NV (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CELG - Celgene Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CELG - Celgene Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "NXPI - NXP Semiconductors NV (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "NXPI - NXP Semiconductors NV (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XBI - SPDR S&P Biotech ETF (NYSEArca)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "XBI - SPDR S&P Biotech ETF (NYSEArca)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWO - Vanguard FTSE Emerging Markets ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO - Vanguard FTSE Emerging Markets ETF (NYSEArca)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLNX - Xilinx Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "XLNX - Xilinx Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LSCC - Lattice Semiconductor Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "LSCC - Lattice Semiconductor Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AMGN - Amgen Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AMGN - Amgen Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HACK - PureFunds ISE Cyber Security ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "HACK - PureFunds ISE Cyber Security ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Guggenheim S&P 500 ET Equal Weight Technology RYT",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Guggenheim S&P 500 ET Equal Weight Technology RYT",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LSCC - Lattice Semiconductor Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "LSCC - Lattice Semiconductor Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "College Bound FundInstitution: Lincoln Financial Advisors Corp.",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "College Bound FundInstitution: Lincoln Financial Advisors Corp.",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Invesco CollegeBound 2025-2026 Portfolio RA",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Invesco CollegeBound 2025-2026 Portfolio RA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DHR - Danaher Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "DHR - Danaher Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FDX - FedEx Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "ISRG - Intuitive Surgical, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "XSD - SPDR S&P Semiconductor ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "TMO - Thermo Fisher Scientific Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "WETF - WisdomTree Investments, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "DHR - Danaher Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "FDX - FedEx Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "INTC - Intel Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "ISRG - Intuitive Surgical, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IYT - iShares Transportation Average",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "HACK - PureFunds ISE Cyber Security ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "XSD - SPDR S&P Semiconductor ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "TMO - Thermo Fisher Scientific Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "FDX - FedEx Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ISRG - Intuitive Surgical, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XSD - SPDR S&P Semiconductor ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TMO - Thermo Fisher Scientific Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WETF - WisdomTree Investments, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DHR - Danaher Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDX - FedEx Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ISRG - Intuitive Surgical, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IYT - iShares Transportation Average",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "HACK - PureFunds ISE Cyber Security ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "XSD - SPDR S&P Semiconductor ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TMO - Thermo Fisher Scientific Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/29/2016",
-          "Owner": "Joint",
-          "Ticker": "TBF",
-          "Asset Name": "ProShares Short 20+ Year Treasury",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/29/2016",
+          "owner": "Joint",
+          "ticker": "TBF",
+          "asset-name": "ProShares Short 20+ Year Treasury",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "01/29/2016",
-          "Owner": "Self",
-          "Ticker": "TBF",
-          "Asset Name": "ProShares Short 20+ Year Treasury",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/29/2016",
+          "owner": "Self",
+          "ticker": "TBF",
+          "asset-name": "ProShares Short 20+ Year Treasury",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "02/11/2016",
-          "Owner": "Joint",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase was less than $1001."
+          "transaction-date": "02/11/2016",
+          "owner": "Joint",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase was less than $1001."
         },
         {
-          "#": "4",
-          "Transaction Date": "02/11/2016",
-          "Owner": "Self",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/11/2016",
+          "owner": "Self",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "02/29/2016",
-          "Owner": "Self",
-          "Ticker": "FDX",
-          "Asset Name": "FedEx Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/29/2016",
+          "owner": "Self",
+          "ticker": "FDX",
+          "asset-name": "FedEx Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Transaction Date": "02/29/2016",
-          "Owner": "Joint",
-          "Ticker": "FDX",
-          "Asset Name": "FedEx Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/29/2016",
+          "owner": "Joint",
+          "ticker": "FDX",
+          "asset-name": "FedEx Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Transaction Date": "03/03/2016",
-          "Owner": "Self",
-          "Ticker": "NCR",
-          "Asset Name": "NCR Corporation",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/03/2016",
+          "owner": "Self",
+          "ticker": "NCR",
+          "asset-name": "NCR Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Self",
-          "Ticker": "AMG",
-          "Asset Name": "Affiliated Managers Group Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Self",
+          "ticker": "AMG",
+          "asset-name": "Affiliated Managers Group Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Self",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Self",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Joint",
-          "Ticker": "PEP",
-          "Asset Name": "Pepsico, Inc.",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Joint",
+          "ticker": "PEP",
+          "asset-name": "Pepsico, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Joint",
-          "Ticker": "ZBH",
-          "Asset Name": "Zimmer Biomet Holdings, Inc.",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Joint",
+          "ticker": "ZBH",
+          "asset-name": "Zimmer Biomet Holdings, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Joint",
-          "Ticker": "AMG",
-          "Asset Name": "Affiliated Managers Group Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Joint",
+          "ticker": "AMG",
+          "asset-name": "Affiliated Managers Group Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Joint",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Joint",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Self",
-          "Ticker": "MSFT",
-          "Asset Name": "Microsoft Corporation",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Self",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Self",
-          "Ticker": "PEP",
-          "Asset Name": "Pepsico, Inc.",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Self",
+          "ticker": "PEP",
+          "asset-name": "Pepsico, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Transaction Date": "07/25/2016",
-          "Owner": "Self",
-          "Ticker": "ZBH",
-          "Asset Name": "Zimmer Biomet Holdings, Inc.",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2016",
+          "owner": "Self",
+          "ticker": "ZBH",
+          "asset-name": "Zimmer Biomet Holdings, Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Transaction Date": "09/02/2016",
-          "Owner": "Self",
-          "Ticker": "IYT",
-          "Asset Name": "iShares Transportation Average",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/02/2016",
+          "owner": "Self",
+          "ticker": "IYT",
+          "asset-name": "iShares Transportation Average",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Transaction Date": "09/07/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "EMC Corp. Mass EMC",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/07/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "EMC Corp. Mass EMC",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Transaction Date": "09/07/2016",
-          "Owner": "Self",
-          "Ticker": "DVMT",
-          "Asset Name": "Dell Technologies Inc.",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "EMC Corp. Mass EMC is now listed as Dell Technologies FMGR EMC Corp Mass."
+          "transaction-date": "09/07/2016",
+          "owner": "Self",
+          "ticker": "DVMT",
+          "asset-name": "Dell Technologies Inc.",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "EMC Corp. Mass EMC is now listed as Dell Technologies FMGR EMC Corp Mass."
         },
         {
-          "#": "20",
-          "Transaction Date": "09/12/2016",
-          "Owner": "Joint",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corp.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/12/2016",
+          "owner": "Joint",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corp.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Transaction Date": "09/12/2016",
-          "Owner": "Joint",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/12/2016",
+          "owner": "Joint",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Transaction Date": "09/12/2016",
-          "Owner": "Self",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corp.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/12/2016",
+          "owner": "Self",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corp.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Transaction Date": "09/12/2016",
-          "Owner": "Self",
-          "Ticker": "IYT",
-          "Asset Name": "iShares Transportation Average",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/12/2016",
+          "owner": "Self",
+          "ticker": "IYT",
+          "asset-name": "iShares Transportation Average",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Transaction Date": "09/12/2016",
-          "Owner": "Self",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/12/2016",
+          "owner": "Self",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Transaction Date": "09/22/2016",
-          "Owner": "Joint",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/22/2016",
+          "owner": "Joint",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "26",
-          "Transaction Date": "09/22/2016",
-          "Owner": "Self",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corp.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/22/2016",
+          "owner": "Self",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corp.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "27",
-          "Transaction Date": "09/22/2016",
-          "Owner": "Self",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/22/2016",
+          "owner": "Self",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "28",
-          "Transaction Date": "09/22/2016",
-          "Owner": "Joint",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corp.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/22/2016",
+          "owner": "Joint",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corp.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "29",
-          "Transaction Date": "10/06/2016",
-          "Owner": "Self",
-          "Ticker": "IYT",
-          "Asset Name": "iShares Transportation Average",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/06/2016",
+          "owner": "Self",
+          "ticker": "IYT",
+          "asset-name": "iShares Transportation Average",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "30",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Self",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Self",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "31",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Self",
-          "Ticker": "WETF",
-          "Asset Name": "WisdomTree Investments, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Self",
+          "ticker": "WETF",
+          "asset-name": "WisdomTree Investments, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "32",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Self",
-          "Ticker": "ISRG",
-          "Asset Name": "Intuitive Surgical, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Self",
+          "ticker": "ISRG",
+          "asset-name": "Intuitive Surgical, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "33",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Self",
-          "Ticker": "HACK",
-          "Asset Name": "PureFunds ISE Cyber Security ETF",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Self",
+          "ticker": "HACK",
+          "asset-name": "PureFunds ISE Cyber Security ETF",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "34",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Self",
-          "Ticker": "XSD",
-          "Asset Name": "SPDR S&P Semiconductor ETF",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Self",
+          "ticker": "XSD",
+          "asset-name": "SPDR S&P Semiconductor ETF",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "35",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Self",
-          "Ticker": "FEYE",
-          "Asset Name": "FireEye, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Self",
+          "ticker": "FEYE",
+          "asset-name": "FireEye, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "36",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets ETF",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "37",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "WETF",
-          "Asset Name": "WisdomTree Investments, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "WETF",
+          "asset-name": "WisdomTree Investments, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "38",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "ISRG",
-          "Asset Name": "Intuitive Surgical, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "ISRG",
+          "asset-name": "Intuitive Surgical, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "39",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "XSD",
-          "Asset Name": "SPDR S&P Semiconductor ETF",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "XSD",
+          "asset-name": "SPDR S&P Semiconductor ETF",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "40",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "41",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "EEM",
-          "Asset Name": "iShares MSCI Emerging Markets",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "EEM",
+          "asset-name": "iShares MSCI Emerging Markets",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "42",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Joint",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Joint",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "43",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Joint",
-          "Ticker": "XSD",
-          "Asset Name": "SPDR S&P Semiconductor ETF",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Joint",
+          "ticker": "XSD",
+          "asset-name": "SPDR S&P Semiconductor ETF",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "44",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Joint",
-          "Ticker": "AMG",
-          "Asset Name": "Affiliated Managers Group, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Joint",
+          "ticker": "AMG",
+          "asset-name": "Affiliated Managers Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "45",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Joint",
-          "Ticker": "IAI",
-          "Asset Name": "iShares US Broker-Dealers & Secs Exchs",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Joint",
+          "ticker": "IAI",
+          "asset-name": "iShares US Broker-Dealers & Secs Exchs",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "46",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Self",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Self",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "47",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Self",
-          "Ticker": "INTC",
-          "Asset Name": "Intel Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Self",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "48",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Self",
-          "Ticker": "XSD",
-          "Asset Name": "SPDR S&P Semiconductor ETF",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Self",
+          "ticker": "XSD",
+          "asset-name": "SPDR S&P Semiconductor ETF",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "49",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Self",
-          "Ticker": "AMG",
-          "Asset Name": "Affiliated Managers Group, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Self",
+          "ticker": "AMG",
+          "asset-name": "Affiliated Managers Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "50",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Self",
-          "Ticker": "DVMT",
-          "Asset Name": "Dell Technologies Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Self",
+          "ticker": "DVMT",
+          "asset-name": "Dell Technologies Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "51",
-          "Transaction Date": "12/14/2016",
-          "Owner": "Self",
-          "Ticker": "WETF",
-          "Asset Name": "WisdomTree Investments, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/14/2016",
+          "owner": "Self",
+          "ticker": "WETF",
+          "asset-name": "WisdomTree Investments, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "52",
-          "Transaction Date": "12/16/2016",
-          "Owner": "Self",
-          "Ticker": "ZBH",
-          "Asset Name": "Zimmer Biomet Holdings, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/16/2016",
+          "owner": "Self",
+          "ticker": "ZBH",
+          "asset-name": "Zimmer Biomet Holdings, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "53",
-          "Transaction Date": "12/16/2016",
-          "Owner": "Joint",
-          "Ticker": "ZBH",
-          "Asset Name": "Zimmer Biomet Holdings, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/16/2016",
+          "owner": "Joint",
+          "ticker": "ZBH",
+          "asset-name": "Zimmer Biomet Holdings, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Invesco College Bound 2025-2026 Portfolio RA",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/08/2016",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Invesco College Bound 2025-2026 Portfolio RA",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/08/2016",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "CBF Agressive Growth",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/08/2016",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "CBF Agressive Growth",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/08/2016",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "2.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Navigant Credit Union\n\t\t\t\t\t\t\t\tSmithfield, RI",
-          "Comments": "Residential mortgage"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Navigant Credit Union\n\t\t\t\t\t\t\t\tSmithfield, RI",
+          "comments": "Residential mortgage"
         },
         {
-          "#": "2",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "U.S. Bank Home Mortgage\n\t\t\t\t\t\t\t\tEagen, MN",
-          "Comments": "Residential mortgage"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "U.S. Bank Home Mortgage\n\t\t\t\t\t\t\t\tEagen, MN",
+          "comments": "Residential mortgage"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

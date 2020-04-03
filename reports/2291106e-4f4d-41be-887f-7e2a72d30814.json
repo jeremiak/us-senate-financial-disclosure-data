@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/25/2016",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 03/25/2016 @ 1:26 PM",
+  "filed-date": "03/25/2016",
+  "filed-time": "1:26 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "03/02/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "CARMAN-AINSWORTH CMNTY SCH DIST MICH RFDG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/01/2027",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CARMAN-AINSWORTH CMNTY SCH DIST MICH RFDG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/01/2027",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/02/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "LINCOLN NATL CORP B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.350% Matures: 03/09/2025",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "LINCOLN NATL CORP B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.350% Matures: 03/09/2025",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/02/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "CIGNA CORP B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.250% Matures: 04/15/2025",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CIGNA CORP B/E\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.250% Matures: 04/15/2025",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

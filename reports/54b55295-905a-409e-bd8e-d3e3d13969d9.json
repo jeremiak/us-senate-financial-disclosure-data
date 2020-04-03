@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/02/2018",
   "filer": "The Honorable Benjamin L Cardin (Cardin, Benjamin L.)",
-  "filedDate": "Filed 05/02/2018 @ 8:25 PM",
+  "filed-date": "05/02/2018",
+  "filed-time": "8:25 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/01/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Israel Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4% Matures: 02/01/27",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "IRA"
+          "transaction-date": "02/01/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Israel Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4% Matures: 02/01/27",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "IRA"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/01/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Israel Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4% Matures: 02/01/27",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "IRA"
+          "transaction-date": "02/01/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Israel Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4% Matures: 02/01/27",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "IRA"
         }
       ]
     }

@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/14/2018",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 05/14/2018 @ 10:43 AM",
+  "filed-date": "05/14/2018",
+  "filed-time": "10:43 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "02/28/2017",
-          "Owner": "Spouse",
-          "Ticker": "--\n                                        \n                                        \n                                            \n                                            ENB",
-          "Asset Name": "Spectra Energy Corp. (Exchanged)\n                                            \n                                            Enbridge Inc. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Spectra acquired by Enbridge in stock merger."
+          "transaction-date": "02/28/2017",
+          "owner": "Spouse",
+          "ticker": "--\n                                        \n                                        \n                                            \n                                            ENB",
+          "asset-name": "Spectra Energy Corp. (Exchanged)\n                                            \n                                            Enbridge Inc. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "Spectra acquired by Enbridge in stock merger."
         }
       ]
     }

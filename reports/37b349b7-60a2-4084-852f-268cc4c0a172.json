@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/30/2017",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/30/2017 @ 1:54 PM",
+  "filed-date": "05/30/2017",
+  "filed-time": "1:54 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "05/17/2017",
-          "Owner": "Self",
-          "Ticker": "FB",
-          "Asset Name": "Facebook, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/17/2017",
+          "owner": "Self",
+          "ticker": "FB",
+          "asset-name": "Facebook, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "05/17/2017",
-          "Owner": "Self",
-          "Ticker": "LYB",
-          "Asset Name": "LyondellBasell Industries N.V.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/17/2017",
+          "owner": "Self",
+          "ticker": "LYB",
+          "asset-name": "LyondellBasell Industries N.V.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/15/2017",
-          "Owner": "Self",
-          "Ticker": "WTW",
-          "Asset Name": "Weight Watchers International, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/15/2017",
+          "owner": "Self",
+          "ticker": "WTW",
+          "asset-name": "Weight Watchers International, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/15/2017",
-          "Owner": "Self",
-          "Ticker": "F",
-          "Asset Name": "Ford Motor Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "05/15/2017",
+          "owner": "Self",
+          "ticker": "F",
+          "asset-name": "Ford Motor Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

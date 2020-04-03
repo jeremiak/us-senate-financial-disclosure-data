@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/23/2019",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 07/23/2019 @ 2:01 PM",
+  "filed-date": "07/23/2019",
+  "filed-time": "2:01 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/17/2019",
-          "Owner": "Self",
-          "Ticker": "AIG",
-          "Asset Name": "American International Group, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "07/17/2019",
+          "owner": "Self",
+          "ticker": "AIG",
+          "asset-name": "American International Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

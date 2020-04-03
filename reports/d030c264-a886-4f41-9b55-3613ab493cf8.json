@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/10/2019",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 12/10/2019 @ 1:12 PM",
+  "filed-date": "12/10/2019",
+  "filed-time": "1:12 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/15/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Acumen Pharmaceuticals, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Acumen Pharmaceuticals, Inc.\n                                                    \n                                                         (South San Francisco, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Drug Discovery",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/15/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Acumen Pharmaceuticals, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Acumen Pharmaceuticals, Inc.\n                                                    \n                                                         (South San Francisco, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Drug Discovery",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 01/12/2016 (Amendment 2)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 12/19/2017 @ 4:05 PM",
+  "filed-date": "12/19/2017",
+  "filed-time": "4:05 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/05/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "GLD",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/05/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "GLD",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

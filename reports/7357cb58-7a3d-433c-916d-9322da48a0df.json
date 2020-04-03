@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/16/2016",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 06/16/2016 @ 3:24 PM",
+  "filed-date": "06/16/2016",
+  "filed-time": "3:24 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "05/02/2016",
-          "Owner": "Joint",
-          "Ticker": "MTUM",
-          "Asset Name": "iShares Edge MSCI USA Momentum Factor",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/02/2016",
+          "owner": "Joint",
+          "ticker": "MTUM",
+          "asset-name": "iShares Edge MSCI USA Momentum Factor",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/02/2016",
-          "Owner": "Joint",
-          "Ticker": "SHY",
-          "Asset Name": "iShares 1-3 Year Treasury Bond",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/02/2016",
+          "owner": "Joint",
+          "ticker": "SHY",
+          "asset-name": "iShares 1-3 Year Treasury Bond",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/09/2016",
-          "Owner": "Joint",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/09/2016",
+          "owner": "Joint",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,330 +1,337 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2013 (Amendment 1)",
   "filer": "The Honorable John R Thune (Thune, John)",
-  "filedDate": "Filed 06/16/2014 @ 11:57 AM",
+  "filed-date": "06/16/2014",
+  "filed-time": "11:57 AM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Wages",
-          "Who Paid": "Sanford Health Plan\n\t\t\t\t\t\t\t\tSioux Falls, SD",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Wages",
+          "who-paid": "Sanford Health Plan\n\t\t\t\t\t\t\t\tSioux Falls, SD",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "FKITZ - Franklin Federal Intermediate Term Tax Free Income Fund A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "FKITZ - Franklin Federal Intermediate Term Tax Free Income Fund A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SWUXX - Schwab U.S. Treasury Money Fund (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "SWUXX - Schwab U.S. Treasury Money Fund (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SWUXX - Schwab U.S. Treasury Money Fund (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "SWUXX - Schwab U.S. Treasury Money Fund (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MDLOX - BlackRock Global Allocation Inv A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "MDLOX - BlackRock Global Allocation Inv A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "CHSCP - CHS, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "CHSCP - CHS, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "OAKBX - Oakmark Equity & Income I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "OAKBX - Oakmark Equity & Income I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "UMBMX - Scout Mid Cap (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "UMBMX - Scout Mid Cap (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "HSGFX - Hussman Strategic Growth (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "HSGFX - Hussman Strategic Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SGGDX - First Eagle Gold A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "SGGDX - First Eagle Gold A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MFLDX - MainStay Marketfield I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "MFLDX - MainStay Marketfield I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ICPAX - Integrity Williston Bsn/Md-N Amer Stk A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "ICPAX - Integrity Williston Bsn/Md-N Amer Stk A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SGGDX - First Eagle Gold A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "SGGDX - First Eagle Gold A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DLTNX - DoubleLine Total Return Bond N (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "DLTNX - DoubleLine Total Return Bond N (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FNRSZ - Franklin Natural Resources",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "FNRSZ - Franklin Natural Resources",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MDLOX - BlackRock Global Allocation Inv A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MDLOX - BlackRock Global Allocation Inv A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "College Access 529Institution: Allianz Global Investors",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "College Access 529Institution: Allianz Global Investors",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Age Based 7-10 Years  A  CUSIP 83754Q544",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Age Based 7-10 Years  A  CUSIP 83754Q544",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PIMCO ALL Asset CL SD A CUSIP 83754S342",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "PIMCO ALL Asset CL SD A CUSIP 83754S342",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PHYS - Sprott Physical Gold Trust ETV",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "PHYS - Sprott Physical Gold Trust ETV",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Steadfast Income REITDescription: Investment in real estate (Irvine, CA)",
-          "Asset Type": "Real EstateREIT",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "Steadfast Income REITDescription: Investment in real estate (Irvine, CA)",
+          "asset-type": "Real EstateREIT",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SD Retirement System PlanFiler comment:  Defined benefit plan - no present cash value.   Retirement benefit estimated at $676 per month as of January 1, 2023.",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "Unascertainable",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "SD Retirement System PlanFiler comment:  Defined benefit plan - no present cash value.   Retirement benefit estimated at $676 per month as of January 1, 2023.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo(Sioux Falls, SD)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Sioux Falls, SD)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Congressional Federal Credit Union(Washington, DC)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Congressional Federal Credit Union(Washington, DC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "FMOXX",
-          "Asset Name": "Fidelity Tax-Free Money Market (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/01/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "FMOXX",
+          "asset-name": "Fidelity Tax-Free Money Market (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/01/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "HSGFX",
-          "Asset Name": "Hussman Strategic Growth (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/15/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "HSGFX",
+          "asset-name": "Hussman Strategic Growth (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/15/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Steadfast Income REIT",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/18/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Steadfast Income REIT",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/18/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "MFLDX",
-          "Asset Name": "MainStay Marketfield I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/18/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MFLDX",
+          "asset-name": "MainStay Marketfield I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "ICPAX",
-          "Asset Name": "Integrity Williston Bsn/Md-N Amer Stk A (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/18/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ICPAX",
+          "asset-name": "Integrity Williston Bsn/Md-N Amer Stk A (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "UMBMX",
-          "Asset Name": "Scout Mid Cap (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/18/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "UMBMX",
+          "asset-name": "Scout Mid Cap (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "OAKBX",
-          "Asset Name": "Oakmark Equity & Income I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/18/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "OAKBX",
+          "asset-name": "Oakmark Equity & Income I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/18/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2012",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "PNC\n\t\t\t\t\t\t\t\tDayton, Ohio",
-          "Comments": "-"
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "PNC\n\t\t\t\t\t\t\t\tDayton, Ohio",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

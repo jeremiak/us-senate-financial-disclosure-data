@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/25/2017",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 08/25/2017 @ 12:46 PM",
+  "filed-date": "08/25/2017",
+  "filed-time": "12:46 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/14/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "CB-Chubb Limited",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ACE Limited acquired Chubb Corporation and immediately adopted The Chubb name"
+          "transaction-date": "01/14/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CB-Chubb Limited",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "ACE Limited acquired Chubb Corporation and immediately adopted The Chubb name"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/14/2016",
-          "Owner": "Spouse",
-          "Ticker": "AEX.MU",
-          "Asset Name": "CHUBB LTD.  SF 24,15",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ACE Limited acquired Chubb Corporation and immediately adopted The Chubb name"
+          "transaction-date": "01/14/2016",
+          "owner": "Spouse",
+          "ticker": "AEX.MU",
+          "asset-name": "CHUBB LTD.  SF 24,15",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "ACE Limited acquired Chubb Corporation and immediately adopted The Chubb name"
         }
       ]
     }

@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/14/2017",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 11/14/2017 @ 12:48 PM",
+  "filed-date": "11/14/2017",
+  "filed-time": "12:48 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/31/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ANDERSON CNTY S C SCH DIST NO 005 RFDG-SER B SOUTH CAROLINA EDUCATION\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 03/01/2027",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/31/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ANDERSON CNTY S C SCH DIST NO 005 RFDG-SER B SOUTH CAROLINA EDUCATION\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 03/01/2027",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,1417 +1,1342 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2015 (Amendment 1)",
   "filer": "Mr. Mike Rounds (Rounds, Mike)",
-  "filedDate": "Filed 06/30/2016 @ 2:23 PM",
+  "filed-date": "06/30/2016",
+  "filed-time": "2:23 PM",
+  "calendar-year": "2015",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Fischer, Rounds & Assoc. Inc\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Fischer, Rounds & Assoc. Inc\n\t\t\t\t\t\t\t\tPierre, SD",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Retirement",
-          "Who Paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Retirement",
+          "who-paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Self",
-          "Type": "Retirement",
-          "Who Paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Amount Paid": "$15,792.00"
+          "who-was-paid": "Self",
+          "type": "Retirement",
+          "who-paid": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
+          "amount-paid": "$15,792.00"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "ALL - The Allstate Corporation (NYSE)Provider:  Allstate Life Insurance Co.",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "ALL - The Allstate Corporation (NYSE)Provider:  Allstate Life Insurance Co.",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Auto Owners",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": ""
+          "asset": "Auto Owners",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": ""
         },
         {
-          "Asset": "Auto OwnersProvider: Auto Owners Life Ins. Co.",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Auto OwnersProvider: Auto Owners Life Ins. Co.",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Oahe Federal Credit Union(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Oahe Federal Credit Union(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BankWest(Pierre, SD)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$5,000,001 - $25,000,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "BankWest(Pierre, SD)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Ttl Intl Stk Indx Ins (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Ttl Intl Stk Indx Ins (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Ext Mkt Indx Inst (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Ext Mkt Indx Inst (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Franklin MSF Mut Shrs Z (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Franklin MSF Mut Shrs Z (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Ttl Bd Mkt Index Ins (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Ttl Bd Mkt Index Ins (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Inst Index Fund (Held through Nationwide Retirement Solutions)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Inst Index Fund (Held through Nationwide Retirement Solutions)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First National Bank(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None, Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "First National Bank(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Nationwide Retirement Solutions",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": ""
+          "asset": "Nationwide Retirement Solutions",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": ""
         },
         {
-          "Asset": "Prudential Guaranteed Interest Account",
-          "Asset Type": "Retirement PlansDeferred Compensation",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Prudential Guaranteed Interest Account",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First National Bank(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest, Other, (Distribution of earnings)",
-          "Income": "None (or less than $201)Other $2,506.00"
+          "asset": "First National Bank(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest, Other, (Distribution of earnings)",
+          "income": "None (or less than $201)Other $2,506.00"
         },
         {
-          "Asset": "FRA, LLCDescription: Farm (Pierre, SD)",
-          "Asset Type": "Farm",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "FRA, LLCDescription: Farm (Pierre, SD)",
+          "asset-type": "Farm",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "201, LLCCompany: 201, LLC (Pierre, SD) Description: Aircraft Ownership Filer comment:  See underlying asset below.",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "201, LLCCompany: 201, LLC (Pierre, SD) Description: Aircraft Ownership Filer comment:  See underlying asset below.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Personal PropertyDescription: Aircraft",
-          "Asset Type": "Personal PropertyOther",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Personal PropertyDescription: Aircraft",
+          "asset-type": "Personal PropertyOther",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First National Bank(Pierre, SD)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "First National Bank(Pierre, SD)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Hawk Leasing, LLCCompany: Hawk Leasing, LLC (Pierre, SD) Description: Aircraft Ownership - See underlying asset below.",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Other, (Cash after liquidation)",
-          "Income": "$100,001 - $1,000,000Other $133,096.00"
+          "asset": "Hawk Leasing, LLCCompany: Hawk Leasing, LLC (Pierre, SD) Description: Aircraft Ownership - See underlying asset below.",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Other, (Cash after liquidation)",
+          "income": "$100,001 - $1,000,000Other $133,096.00"
         },
         {
-          "Asset": "Lake Sharpe Investments, LLCCompany: Lake Sharpe Investments, LLC (Pierre, SD) Description: Investments (Assets Below)",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Lake Sharpe Investments, LLCCompany: Lake Sharpe Investments, LLC (Pierre, SD) Description: Investments (Assets Below)",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First National Bank (Asset of Lake Sharpe Investments, LLC)(Pierre, SD)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "$201 - $1,000"
+          "asset": "First National Bank (Asset of Lake Sharpe Investments, LLC)(Pierre, SD)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Nordic Venture Partners (Asset of Lake Sharpe Investments, LLC)Company: Nordic Venture Partners (Pierre, SD) Description: Investments",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Nordic Venture Partners (Asset of Lake Sharpe Investments, LLC)Company: Nordic Venture Partners (Pierre, SD) Description: Investments",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Locals Love Us (Asset of Nordic Venture Partners)Company: Locals Love Us (Bossler City, LA) Description: Marketing",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Locals Love Us (Asset of Nordic Venture Partners)Company: Locals Love Us (Bossler City, LA) Description: Marketing",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Aeronics (Asset of Nordic Venture Partners)Company: Aeronics (Austin, TX) Description: Equipment Manufacturing",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Aeronics (Asset of Nordic Venture Partners)Company: Aeronics (Austin, TX) Description: Equipment Manufacturing",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fashion Audio, LLC (Asset of Nordic Venture Partners)Company: Fashion Audio, LLC (Irvine , CA) Description: Audio Equipment Sales",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Fashion Audio, LLC (Asset of Nordic Venture Partners)Company: Fashion Audio, LLC (Irvine , CA) Description: Audio Equipment Sales",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Novita, LLC (Asset of Nordic Venture Partners)Company: Novita, LLC (Brookings, SD) Description: Oil Extraction",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Novita, LLC (Asset of Nordic Venture Partners)Company: Novita, LLC (Brookings, SD) Description: Oil Extraction",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Badlands Manufacturing, LLC (Asset of Nordic Venture Partners)Company: Badlands Manufacturing, LLC (Sioux Falls, SD) Description: Fiberglass Tank Manufacturing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Badlands Manufacturing, LLC (Asset of Nordic Venture Partners)Company: Badlands Manufacturing, LLC (Sioux Falls, SD) Description: Fiberglass Tank Manufacturing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bird Dog LLU, LLC (Asset of Nordic Venture Partners Fund II, LLC)Company: Bird Dog LLU, LLC (Sioux Falls, SD) Description: Marketing Company",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bird Dog LLU, LLC (Asset of Nordic Venture Partners Fund II, LLC)Company: Bird Dog LLU, LLC (Sioux Falls, SD) Description: Marketing Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Hartford Mutual Funds-IRA (Asset below)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Hartford Mutual Funds-IRA (Asset below)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Growth Opportunity FD-Y Fund (Held through Hartford Mutual Funds-IRA)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Growth Opportunity FD-Y Fund (Held through Hartford Mutual Funds-IRA)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fischer, Rounds & Assoc., Inc. (Insurance/Real Estate Agency, Pierre, SD)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Other, (Ordinary Business Income)",
-          "Income": "$100,001 - $1,000,000Other $688,941.00"
+          "asset": "Fischer, Rounds & Assoc., Inc. (Insurance/Real Estate Agency, Pierre, SD)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Other, (Ordinary Business Income)",
+          "income": "$100,001 - $1,000,000Other $688,941.00"
         },
         {
-          "Asset": "Transamerica Retirement Solutions",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Transamerica Retirement Solutions",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Transamerica Retirement Solutions(West Chester, OH)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Transamerica Retirement Solutions(West Chester, OH)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IAU-iShares Gold Trust (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IAU-iShares Gold Trust (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JNK-SPDR Barclays High Yield Bond ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "JNK-SPDR Barclays High Yield Bond ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BSV-Vanguard Short-Term Bond ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BSV-Vanguard Short-Term Bond ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VEA-Vanguard FTSE Developed Markets ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VEA-Vanguard FTSE Developed Markets ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VTIP-Vanguard Short-Term Infl-Prot Secs ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTIP-Vanguard Short-Term Infl-Prot Secs ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BNDX-Vanguard Total International Bond ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "BNDX-Vanguard Total International Bond ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VCR-Vanguard Consumer Discretionary ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VCR-Vanguard Consumer Discretionary ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VDC - Vanguard World FDS Vanguard Consumer Staples (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VDC - Vanguard World FDS Vanguard Consumer Staples (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VDE - Vanguard Worlds FDS Vanguard Energy ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VDE - Vanguard Worlds FDS Vanguard Energy ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VFH - Vanguard World FDS Vanguard Finls ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VFH - Vanguard World FDS Vanguard Finls ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VHT - Vanguard World FDS Vanguard Health Care (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VHT - Vanguard World FDS Vanguard Health Care (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VIS-Vanguard Industrials ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VIS-Vanguard Industrials ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VGT-Vanguard Information Technology ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VGT-Vanguard Information Technology ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VAW-Vanguard Materials ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VAW-Vanguard Materials ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VPU-Vanguard Utilities ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VPU-Vanguard Utilities ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VOX-Vanguard Telecommunication Services ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VOX-Vanguard Telecommunication Services ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VNQI-Vanguard Global ex-US Real Estate ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VNQI-Vanguard Global ex-US Real Estate ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VSS-Vanguard FTSE All-World ex-US Sm-Cp ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VSS-Vanguard FTSE All-World ex-US Sm-Cp ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VWO-Vanguard FTSE Emerging Markets ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VWO-Vanguard FTSE Emerging Markets ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VMBS-Vanguard Mortgage-Backed Securities ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VMBS-Vanguard Mortgage-Backed Securities ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VNQ-Vanguard REIT ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VNQ-Vanguard REIT ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VO-Vanguard Mid-Cap ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VO-Vanguard Mid-Cap ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VB-Vanguard Small-Cap ETF (Held through Transamerica Retirement Solutions)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VB-Vanguard Small-Cap ETF (Held through Transamerica Retirement Solutions)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "BND - Vanguard Total Bond Market ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "BND - Vanguard Total Bond Market ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Transamerica Financial(St. Petersburg, FL)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Transamerica Financial(St. Petersburg, FL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/20/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Bird Dog LLU, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Bird Dog LLU, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Marketing Company",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/20/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Bird Dog LLU, LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Bird Dog LLU, LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Marketing Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/28/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Fischer, Rounds & Assoc., Inc (Insurance/Real Estate Agency, Pierre, SD)",
-          "Type": "Sale (Full)",
-          "Amount": "$5,000,001 - $25,000,000",
-          "Comment": "--"
+          "transaction-date": "12/28/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fischer, Rounds & Assoc., Inc (Insurance/Real Estate Agency, Pierre, SD)",
+          "type": "Sale (Full)",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "IAU - iShares Gold Trust",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "IAU - iShares Gold Trust",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "IAU - iShares Gold Trust",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "JNK - SPDR Series Trust - SPDR Barclays High Yield Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Series Trust - SPDR Barclays High Yield Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Series Trust - SPDR Barclays High Yield Bond",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Series Trust - SPDR Barclays High Yield Bond",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Bond Index Funds - Vanguard Short-Term Bo",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Bond Index Funds - Vanguard Short-Term Bo",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "BND",
-          "Asset Name": "Vanguard Bond Index Funds - Vanguard Total Bond Ma",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "BND - Vanguard Bond Index Funds - Vanguard Total Bond Ma",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "BND",
-          "Asset Name": "Vanguard Bond Index Funds - Vanguard Total Bond Ma",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "VEA",
-          "Asset Name": "Vanguard Tax-Managed Funds - Vanguard FTSE Develop",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "VEA",
-          "Asset Name": "Vanguard Tax-Managed Funds - Vanguard FTSE Develop",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "VEA",
-          "Asset Name": "Vanguard Tax-Managed Funds - Vanguard FTSE Develop",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "VTIP",
-          "Asset Name": "Vanguard Malvern Funds - Vanguard Short-Term Infla",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "BNDX",
-          "Asset Name": "Vanguard Charlotte Funds - Vanguard Total Internat",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "BNDX",
-          "Asset Name": "Vanguard Charlotte Funds - Vanguard Total Internat",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "BNDX",
-          "Asset Name": "Vanguard Charlotte Funds - Vanguard Total Internat",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "BNDX",
-          "Asset Name": "Vanguard Charlotte Funds - Vanguard Total Internat",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "BNDX",
-          "Asset Name": "Vanguard Charlotte Funds - Vanguard Total Internat",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "VCR",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Discretion",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "VCR",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Discretion",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "VCR",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Discretion",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "VDC",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Staples ET",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "26",
-          "Owner": "Self",
-          "Ticker": "VDC",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Staples ET",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "27",
-          "Owner": "Self",
-          "Ticker": "VDC",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Staples ET",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "28",
-          "Owner": "Self",
-          "Ticker": "VDC",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Staples ET",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "29",
-          "Owner": "Self",
-          "Ticker": "VDC",
-          "Asset Name": "Vanguard World Fund - Vanguard Consumer Staples ET",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "30",
-          "Owner": "Self",
-          "Ticker": "VDE",
-          "Asset Name": "Vanguard World Fund - Vanguard Energy ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "31",
-          "Owner": "Self",
-          "Ticker": "VDE",
-          "Asset Name": "Vanguard World Fund - Vanguard Energy ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "32",
-          "Owner": "Self",
-          "Ticker": "VDE",
-          "Asset Name": "Vanguard World Fund - Vanguard Energy ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "33",
-          "Owner": "Self",
-          "Ticker": "VDE",
-          "Asset Name": "Vanguard World Fund - Vanguard Energy ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "34",
-          "Owner": "Self",
-          "Ticker": "VDE",
-          "Asset Name": "Vanguard World Fund - Vanguard Energy ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "35",
-          "Owner": "Self",
-          "Ticker": "VFH",
-          "Asset Name": "Vanguard World Fund - Vanguard Financials ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "36",
-          "Owner": "Self",
-          "Ticker": "VFH",
-          "Asset Name": "Vanguard World Fund - Vanguard Financials ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "37",
-          "Owner": "Self",
-          "Ticker": "VFH",
-          "Asset Name": "Vanguard World Fund - Vanguard Financials ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "38",
-          "Owner": "Self",
-          "Ticker": "VFH",
-          "Asset Name": "Vanguard World Fund - Vanguard Financials ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "39",
-          "Owner": "Self",
-          "Ticker": "VFH",
-          "Asset Name": "Vanguard World Fund - Vanguard Financials ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "40",
-          "Owner": "Self",
-          "Ticker": "VHT",
-          "Asset Name": "Vanguard World Fund - Vanguard Health Care ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "41",
-          "Owner": "Self",
-          "Ticker": "VHT",
-          "Asset Name": "Vanguard World Fund - Vanguard Health Care ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "42",
-          "Owner": "Self",
-          "Ticker": "VHT",
-          "Asset Name": "Vanguard World Fund - Vanguard Health Care ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "43",
-          "Owner": "Self",
-          "Ticker": "VHT",
-          "Asset Name": "Vanguard World Fund - Vanguard Health Care ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "44",
-          "Owner": "Self",
-          "Ticker": "VIS",
-          "Asset Name": "Vanguard World Fund - Vanguard Industrials ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "45",
-          "Owner": "Self",
-          "Ticker": "VIS",
-          "Asset Name": "Vanguard World Fund - Vanguard Industrials ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "46",
-          "Owner": "Self",
-          "Ticker": "VIS",
-          "Asset Name": "Vanguard World Fund - Vanguard Industrials ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "47",
-          "Owner": "Self",
-          "Ticker": "VGT",
-          "Asset Name": "Vanguard World Fund - Vanguard Information Technol",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "48",
-          "Owner": "Self",
-          "Ticker": "VGT",
-          "Asset Name": "Vanguard World Fund - Vanguard Information Technol",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "49",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "VGT - Vanguard World Fund - Vanguard Information Technol",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "50",
-          "Owner": "Self",
-          "Ticker": "VGT",
-          "Asset Name": "Vanguard World Fund - Vanguard Information Technol",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "51",
-          "Owner": "Self",
-          "Ticker": "VGT",
-          "Asset Name": "Vanguard World Fund - Vanguard Information Technol",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "52",
-          "Owner": "Self",
-          "Ticker": "VPU",
-          "Asset Name": "Vanguard World Fund - Vanguard Utilities ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "53",
-          "Owner": "Self",
-          "Ticker": "VPU",
-          "Asset Name": "Vanguard World Fund - Vanguard Utilities ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "54",
-          "Owner": "Self",
-          "Ticker": "VNQI",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "55",
-          "Owner": "Self",
-          "Ticker": "VNQI",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "56",
-          "Owner": "Self",
-          "Ticker": "VSS",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "57",
-          "Owner": "Self",
-          "Ticker": "VSS",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "04/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "58",
-          "Owner": "Self",
-          "Ticker": "VSS",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "59",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "60",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "61",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "62",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard International Equity Index Funds - Vangua",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "63",
-          "Owner": "Self",
-          "Ticker": "VMBS",
-          "Asset Name": "Vanguard Scottsdale Funds - Vanguard Mortgage-Back",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "64",
-          "Owner": "Self",
-          "Ticker": "VNQ",
-          "Asset Name": "Vanguard Specialized Funds - Vanguard REIT ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "65",
-          "Owner": "Self",
-          "Ticker": "VNQ",
-          "Asset Name": "Vanguard Specialized Funds - Vanguard REIT ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "66",
-          "Owner": "Self",
-          "Ticker": "VNQ",
-          "Asset Name": "Vanguard Specialized Funds - Vanguard REIT ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "67",
-          "Owner": "Self",
-          "Ticker": "VO",
-          "Asset Name": "Vanguard Index Funds - Vanguard Mid-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "68",
-          "Owner": "Self",
-          "Ticker": "VO",
-          "Asset Name": "Vanguard Index Funds - Vanguard Mid-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "69",
-          "Owner": "Self",
-          "Ticker": "VO",
-          "Asset Name": "Vanguard Index Funds - Vanguard Mid-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "70",
-          "Owner": "Self",
-          "Ticker": "VB",
-          "Asset Name": "Vanguard Index Funds - Vanguard Small-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/07/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "71",
-          "Owner": "Self",
-          "Ticker": "VB",
-          "Asset Name": "Vanguard Index Funds - Vanguard Small-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/06/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "72",
-          "Owner": "Self",
-          "Ticker": "VB",
-          "Asset Name": "Vanguard Index Funds - Vanguard Small-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/15/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "73",
-          "Owner": "Self",
-          "Ticker": "VOX",
-          "Asset Name": "Vanguard World Fund - Vanguard Telecommunication S",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/11/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchases in 2015 did not meet threshold for reporting."
-        },
-        {
-          "#": "74",
-          "Owner": "Self",
-          "Ticker": "HGOYX",
-          "Asset Name": "Hartford Growth Opportunities Y",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "06/22/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "75",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Vanguard Ttl Intl Stk Indx Ins",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/30/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Held through Nationwide Retirement Solutions."
-        },
-        {
-          "#": "76",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Vanguard Ext Mkt Indx Inst",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/30/2015",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Held through Nationwide Retirement Solutions."
-        },
-        {
-          "#": "77",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Franklin MSF Mut Shrs Z",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/30/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Held through Nationwide Retirement Solutions."
-        },
-        {
-          "#": "78",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Vanguard Inst Index Fund",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/30/2015",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Held through Nationwide Retirement Solutions."
-        },
-        {
-          "#": "79",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Vanguard Inst Indx Inst",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/30/2015",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Held through Nationwide Retirement Solutions."
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IAU - iShares Gold Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IAU - iShares Gold Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IAU - iShares Gold Trust",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JNK - SPDR Series Trust - SPDR Barclays High Yield Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNK",
+          "asset-name": "SPDR Series Trust - SPDR Barclays High Yield Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNK",
+          "asset-name": "SPDR Series Trust - SPDR Barclays High Yield Bond",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "JNK",
+          "asset-name": "SPDR Series Trust - SPDR Barclays High Yield Bond",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Bond Index Funds - Vanguard Short-Term Bo",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Bond Index Funds - Vanguard Short-Term Bo",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BND",
+          "asset-name": "Vanguard Bond Index Funds - Vanguard Total Bond Ma",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BND - Vanguard Bond Index Funds - Vanguard Total Bond Ma",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BND",
+          "asset-name": "Vanguard Bond Index Funds - Vanguard Total Bond Ma",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard Tax-Managed Funds - Vanguard FTSE Develop",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard Tax-Managed Funds - Vanguard FTSE Develop",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VEA",
+          "asset-name": "Vanguard Tax-Managed Funds - Vanguard FTSE Develop",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VTIP",
+          "asset-name": "Vanguard Malvern Funds - Vanguard Short-Term Infla",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BNDX",
+          "asset-name": "Vanguard Charlotte Funds - Vanguard Total Internat",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BNDX",
+          "asset-name": "Vanguard Charlotte Funds - Vanguard Total Internat",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BNDX",
+          "asset-name": "Vanguard Charlotte Funds - Vanguard Total Internat",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BNDX",
+          "asset-name": "Vanguard Charlotte Funds - Vanguard Total Internat",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "BNDX",
+          "asset-name": "Vanguard Charlotte Funds - Vanguard Total Internat",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VCR",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Discretion",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VCR",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Discretion",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VCR",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Discretion",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDC",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Staples ET",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDC",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Staples ET",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDC",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Staples ET",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDC",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Staples ET",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDC",
+          "asset-name": "Vanguard World Fund - Vanguard Consumer Staples ET",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDE",
+          "asset-name": "Vanguard World Fund - Vanguard Energy ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDE",
+          "asset-name": "Vanguard World Fund - Vanguard Energy ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDE",
+          "asset-name": "Vanguard World Fund - Vanguard Energy ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDE",
+          "asset-name": "Vanguard World Fund - Vanguard Energy ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VDE",
+          "asset-name": "Vanguard World Fund - Vanguard Energy ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFH",
+          "asset-name": "Vanguard World Fund - Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFH",
+          "asset-name": "Vanguard World Fund - Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFH",
+          "asset-name": "Vanguard World Fund - Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFH",
+          "asset-name": "Vanguard World Fund - Vanguard Financials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VFH",
+          "asset-name": "Vanguard World Fund - Vanguard Financials ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VHT",
+          "asset-name": "Vanguard World Fund - Vanguard Health Care ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VHT",
+          "asset-name": "Vanguard World Fund - Vanguard Health Care ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VHT",
+          "asset-name": "Vanguard World Fund - Vanguard Health Care ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VHT",
+          "asset-name": "Vanguard World Fund - Vanguard Health Care ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIS",
+          "asset-name": "Vanguard World Fund - Vanguard Industrials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIS",
+          "asset-name": "Vanguard World Fund - Vanguard Industrials ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VIS",
+          "asset-name": "Vanguard World Fund - Vanguard Industrials ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGT",
+          "asset-name": "Vanguard World Fund - Vanguard Information Technol",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGT",
+          "asset-name": "Vanguard World Fund - Vanguard Information Technol",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VGT - Vanguard World Fund - Vanguard Information Technol",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGT",
+          "asset-name": "Vanguard World Fund - Vanguard Information Technol",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VGT",
+          "asset-name": "Vanguard World Fund - Vanguard Information Technol",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VPU",
+          "asset-name": "Vanguard World Fund - Vanguard Utilities ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VPU",
+          "asset-name": "Vanguard World Fund - Vanguard Utilities ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VNQI",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VNQI",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VSS",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VSS",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "04/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VSS",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard International Equity Index Funds - Vangua",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VMBS",
+          "asset-name": "Vanguard Scottsdale Funds - Vanguard Mortgage-Back",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VNQ",
+          "asset-name": "Vanguard Specialized Funds - Vanguard REIT ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VNQ",
+          "asset-name": "Vanguard Specialized Funds - Vanguard REIT ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VNQ",
+          "asset-name": "Vanguard Specialized Funds - Vanguard REIT ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Index Funds - Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Index Funds - Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Index Funds - Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Index Funds - Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/07/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Index Funds - Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/06/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Index Funds - Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/15/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "VOX",
+          "asset-name": "Vanguard World Fund - Vanguard Telecommunication S",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/11/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchases in 2015 did not meet threshold for reporting."
+        },
+        {
+          "owner": "Self",
+          "ticker": "HGOYX",
+          "asset-name": "Hartford Growth Opportunities Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "06/22/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Vanguard Ttl Intl Stk Indx Ins",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "Held through Nationwide Retirement Solutions."
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Vanguard Ext Mkt Indx Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2015",
+          "amount": "$50,001 - $100,000",
+          "comment": "Held through Nationwide Retirement Solutions."
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Franklin MSF Mut Shrs Z",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "Held through Nationwide Retirement Solutions."
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Vanguard Inst Index Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2015",
+          "amount": "$1,001 - $15,000",
+          "comment": "Held through Nationwide Retirement Solutions."
+        },
+        {
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Vanguard Inst Indx Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/30/2015",
+          "amount": "$15,001 - $50,000",
+          "comment": "Held through Nationwide Retirement Solutions."
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2012",
-          "Debtor": "Self",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(1 year)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "First National Bank\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Comments": "-"
+          "incurred": "2012",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "4.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(1 year)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "First National Bank\n\t\t\t\t\t\t\t\tPierre, SD",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 yrs)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "First National Bank\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 yrs)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "First National Bank\n\t\t\t\t\t\t\t\tPierre, SD",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "May 1994 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "201, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
-          "Comments": ""
+          "position-dates": "May 1994 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "201, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
+          "comments": ""
         },
         {
-          "#": "2",
-          "Position Dates": "Dec 1995 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "FRA, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Farm)",
-          "Comments": ""
+          "position-dates": "Dec 1995 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "FRA, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Farm)",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Jun 2012 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Lake Sharpe Investments, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Investment LLC)",
-          "Comments": ""
+          "position-dates": "Jun 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Lake Sharpe Investments, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Investment LLC)",
+          "comments": ""
         },
         {
-          "#": "4",
-          "Position Dates": "Jul 2012 to\n\t\t\t\t\t\t\t\tJan 2015",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Hawk Leasing, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
-          "Comments": ""
+          "position-dates": "Jul 2012 to\n\t\t\t\t\t\t\t\tJan 2015",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Hawk Leasing, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPierre, SD",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Aircraft Ownership)",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2003",
-          "Parties Involved": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Participant in South Dakota Retirement System Pension Plan.  Monthly payments of $1,316."
+          "date": "Jan 2003",
+          "parties-involved": "South Dakota Retirement System\n\t\t\t\t\t\t\t\tPierre, SD",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Participant in South Dakota Retirement System Pension Plan.  Monthly payments of $1,316."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

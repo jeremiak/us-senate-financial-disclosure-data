@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/02/2017",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 03/02/2017 @ 11:52 AM",
+  "filed-date": "03/02/2017",
+  "filed-time": "11:52 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "02/28/2017",
-          "Owner": "Self",
-          "Ticker": "BMY",
-          "Asset Name": "Bristol-Myers Squibb Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/28/2017",
+          "owner": "Self",
+          "ticker": "BMY",
+          "asset-name": "Bristol-Myers Squibb Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "02/16/2017",
-          "Owner": "Self",
-          "Ticker": "XON",
-          "Asset Name": "Intrexon Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/16/2017",
+          "owner": "Self",
+          "ticker": "XON",
+          "asset-name": "Intrexon Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "02/14/2017",
-          "Owner": "Self",
-          "Ticker": "AGN",
-          "Asset Name": "Allergan plc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/14/2017",
+          "owner": "Self",
+          "ticker": "AGN",
+          "asset-name": "Allergan plc",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "02/10/2017",
-          "Owner": "Self",
-          "Ticker": "CERN",
-          "Asset Name": "Cerner Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/10/2017",
+          "owner": "Self",
+          "ticker": "CERN",
+          "asset-name": "Cerner Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "02/01/2017",
-          "Owner": "Self",
-          "Ticker": "SYF",
-          "Asset Name": "Synchrony Financial",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/01/2017",
+          "owner": "Self",
+          "ticker": "SYF",
+          "asset-name": "Synchrony Financial",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/01/2017",
-          "Owner": "Self",
-          "Ticker": "BMY",
-          "Asset Name": "Bristol-Myers Squibb Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/01/2017",
+          "owner": "Self",
+          "ticker": "BMY",
+          "asset-name": "Bristol-Myers Squibb Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

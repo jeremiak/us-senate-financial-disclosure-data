@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/26/2017",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 06/26/2017 @ 6:48 AM",
+  "filed-date": "06/26/2017",
+  "filed-time": "6:48 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/03/2017",
-          "Owner": "Spouse",
-          "Ticker": "DIS",
-          "Asset Name": "The Walt Disney Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/03/2017",
+          "owner": "Spouse",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/03/2017",
-          "Owner": "Spouse",
-          "Ticker": "TGT",
-          "Asset Name": "Target Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/03/2017",
+          "owner": "Spouse",
+          "ticker": "TGT",
+          "asset-name": "Target Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

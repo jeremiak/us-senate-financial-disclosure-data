@@ -1,840 +1,815 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Steve Daines (Daines, Steve)",
-  "filedDate": "Filed 06/06/2019 @ 4:18 PM",
+  "filed-date": "06/06/2019",
+  "filed-time": "4:18 PM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "U.S. Senate\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Amount Paid": "$174,000.00"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "U.S. Senate\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "$174,000.00"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Commercial PropertyDescription: Commercial Property (West Union, IA)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Commercial PropertyDescription: Commercial Property (West Union, IA)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "American Bank(Bozeman, MT)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$2,501 - $5,000"
+          "asset": "American Bank(Bozeman, MT)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "GenesisCompany: Genesis Business Park (Bozeman, MT) Description: Commercial real estate",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "GenesisCompany: Genesis Business Park (Bozeman, MT) Description: Commercial real estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Gen 1Description: Office Building (Bozeman, MT)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Gen 1Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Gen 2Description: Office Building (Bozeman, MT)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Gen 2Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "Gen 3Description: Office Building (Bozeman, MT)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Gen 3Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "Gen 4Description: Office Building (Bozeman, MT)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$50,001 - $100,000"
+          "asset": "Gen 4Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$50,001 - $100,000"
         },
         {
-          "Asset": "Gen 5Description: Office Building (Bozeman, MT)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Gen 5Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "QuantumDescription: Office Building (Bozeman, MT)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "QuantumDescription: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Lot 3Description: Lot 3 (Bozeman, MT) Filer comment:  Empty parcel of land in Genesis Business park",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Lot 3Description: Lot 3 (Bozeman, MT) Filer comment:  Empty parcel of land in Genesis Business park",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Lot 20Description: Lot 20 (Bozeman, MT) Filer comment:  Empty parcel of land in Genesis Business park",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Lot 20Description: Lot 20 (Bozeman, MT) Filer comment:  Empty parcel of land in Genesis Business park",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Gen 6Description: Office Building (Bozeman, Montana)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$5,001 - $15,000"
+          "asset": "Gen 6Description: Office Building (Bozeman, Montana)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "Sewage SystemDescription: Sewage System (Bozeman, Montana) Filer comment:  Per development agreement, sewage system was transferred to HOA upon build out of business park.",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Sewage SystemDescription: Sewage System (Bozeman, Montana) Filer comment:  Per development agreement, sewage system was transferred to HOA upon build out of business park.",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Gen 7Description: Office Building (Bozeman, MT)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Joint",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Gen 7Description: Office Building (Bozeman, MT)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Joint",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "Vanguard IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Vanguard IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "VBIAX-Vanguard Balanced Index Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VBIAX-Vanguard Balanced Index Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VDADX-Vanguard Dividend Appreciation Index Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VDADX-Vanguard Dividend Appreciation Index Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VGHAX-Vanguard Health Care Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VGHAX-Vanguard Health Care Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VGPMX - Vanguard Precious Metals and Mining Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VGPMX - Vanguard Precious Metals and Mining Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTHRX-Vanguard Target Retirement 2030 Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VTHRX-Vanguard Target Retirement 2030 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "APDQX-Artisan Mid Cap Value Advisor",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "APDQX-Artisan Mid Cap Value Advisor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MISGX-Meridian Small Cap Growth Investor",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "MISGX-Meridian Small Cap Growth Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "NWHYX-Nationwide Geneva Mid Cap Gr Instl Svc",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "NWHYX-Nationwide Geneva Mid Cap Gr Instl Svc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ESPIX-Wells Fargo Special Small Cap Value Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "ESPIX-Wells Fargo Special Small Cap Value Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLE-Energy Select Sector SPDR ETF",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "XLE-Energy Select Sector SPDR ETF",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VASGX - Vanguard LifeStrategy Growth Fund Investor Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VASGX - Vanguard LifeStrategy Growth Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VEXPX - Vanguard Explorer Fund Investor Class",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VEXPX - Vanguard Explorer Fund Investor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VFORX - Vanguard Target Retirement 2040 Fund Investor Shar",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VFORX - Vanguard Target Retirement 2040 Fund Investor Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VGSTX - Vanguard Star Fund Investor Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VGSTX - Vanguard Star Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VHDYX - Vanguard High Dividend Yield Index Fund Investor S",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VHDYX - Vanguard High Dividend Yield Index Fund Investor S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VIMAX - Vanguard Mid-Cap Index Fund Admiral Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VIMAX - Vanguard Mid-Cap Index Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSGAX - Vanguard Small-Cap Growth Index Fund Admiral Share",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VSGAX - Vanguard Small-Cap Growth Index Fund Admiral Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSMGX - Vanguard LifeStrategy Moderate Growth Fund Investo",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VSMGX - Vanguard LifeStrategy Moderate Growth Fund Investo",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTSAX - Vanguard Total Stock Market Index Fund Admiral Sha",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VTSAX - Vanguard Total Stock Market Index Fund Admiral Sha",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTTHX - Vanguard Target Retirement 2035 Fund Investor Shar",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VTTHX - Vanguard Target Retirement 2035 Fund Investor Shar",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWIGX - Vanguard International Growth Fund Investor Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VWIGX - Vanguard International Growth Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Brokerage",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Vanguard Brokerage",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "VTTVX-Vanguard Target Retirement 2025 Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "VTTVX-Vanguard Target Retirement 2025 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VDADX - Vanguard Dividend Appreciation Index Fund Admiral",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VDADX - Vanguard Dividend Appreciation Index Fund Admiral",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VEXPX - Vanguard Explorer Fund Investor Class",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VEXPX - Vanguard Explorer Fund Investor Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VHDYX - Vanguard High Dividend Yield Index Fund Investor S",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VHDYX - Vanguard High Dividend Yield Index Fund Investor S",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSGAX - Vanguard Small-Cap Growth Index Fund Admiral Share",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VSGAX - Vanguard Small-Cap Growth Index Fund Admiral Share",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTCLX - Vanguard Tax-Managed Capital Appreciation Fund Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VTCLX - Vanguard Tax-Managed Capital Appreciation Fund Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTMSX - Vanguard Tax-Managed Small Cap Fund Admiral Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VTMSX - Vanguard Tax-Managed Small Cap Fund Admiral Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWUSX - Vanguard U.S. Growth Fund Investor Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VWUSX - Vanguard U.S. Growth Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Federal Money Market Fund(Monroe, WI)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Federal Money Market Fund(Monroe, WI)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard Federal Money Market Fund(Monroe, WI)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard Federal Money Market Fund(Monroe, WI)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Gen 6 Building",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/09/2018",
-          "Amount": "$250,001 - $500,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Gen 6 Building",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/09/2018",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "HFOIX",
-          "Asset Name": "Janus Henderson International Opportunities Fund C",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/24/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "HFOIX",
+          "asset-name": "Janus Henderson International Opportunities Fund C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/24/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "AACFX",
-          "Asset Name": "Invesco Greater China Fund Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/24/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AACFX",
+          "asset-name": "Invesco Greater China Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/24/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "MCHFX",
-          "Asset Name": "Matthews China Fund Investor Class",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/24/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MCHFX",
+          "asset-name": "Matthews China Fund Investor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/24/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "VGHAX",
-          "Asset Name": "Vanguard Health Care Fund Admiral Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/24/2018",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VGHAX",
+          "asset-name": "Vanguard Health Care Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/24/2018",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "VTTHX",
-          "Asset Name": "Vanguard Target Retirement 2035 Fund Investor Shar",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VTTHX",
+          "asset-name": "Vanguard Target Retirement 2035 Fund Investor Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "VSMGX",
-          "Asset Name": "Vanguard LifeStrategy Moderate Growth Fund Investo",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VSMGX",
+          "asset-name": "Vanguard LifeStrategy Moderate Growth Fund Investo",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "VTHRX",
-          "Asset Name": "Vanguard Target Retirement 2030 Fund Investor Shar",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VTHRX",
+          "asset-name": "Vanguard Target Retirement 2030 Fund Investor Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "VFORX",
-          "Asset Name": "Vanguard Target Retirement 2040 Fund Investor Shar",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VFORX",
+          "asset-name": "Vanguard Target Retirement 2040 Fund Investor Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "VWIGX",
-          "Asset Name": "Vanguard International Growth Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/19/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWIGX",
+          "asset-name": "Vanguard International Growth Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/19/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "VTSAX",
-          "Asset Name": "Vanguard Total Stock Market Index Fund Admiral Sha",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/18/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VTSAX",
+          "asset-name": "Vanguard Total Stock Market Index Fund Admiral Sha",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/18/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "VIMAX",
-          "Asset Name": "Vanguard Mid-Cap Index Fund Admiral Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/19/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VIMAX",
+          "asset-name": "Vanguard Mid-Cap Index Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/19/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "MCHFX",
-          "Asset Name": "Matthews China Fund Investor Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/21/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MCHFX",
+          "asset-name": "Matthews China Fund Investor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/21/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "VGSTX",
-          "Asset Name": "Vanguard Star Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VGSTX",
+          "asset-name": "Vanguard Star Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "AACFX",
-          "Asset Name": "Invesco Greater China Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/21/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AACFX",
+          "asset-name": "Invesco Greater China Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/21/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "VASGX",
-          "Asset Name": "Vanguard LifeStrategy Growth Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VASGX",
+          "asset-name": "Vanguard LifeStrategy Growth Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "VHDYX",
-          "Asset Name": "Vanguard High Dividend Yield Index Fund Investor S",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VHDYX",
+          "asset-name": "Vanguard High Dividend Yield Index Fund Investor S",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "VSGAX",
-          "Asset Name": "Vanguard Small-Cap Growth Index Fund Admiral Share",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/15/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VSGAX",
+          "asset-name": "Vanguard Small-Cap Growth Index Fund Admiral Share",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "VEXPX",
-          "Asset Name": "Vanguard Explorer Fund Investor Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VEXPX",
+          "asset-name": "Vanguard Explorer Fund Investor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "VGHAX",
-          "Asset Name": "Vanguard Health Care Fund Admiral Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/18/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VGHAX",
+          "asset-name": "Vanguard Health Care Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/18/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "NWHYX",
-          "Asset Name": "Nationwide Geneva Mid Cap Growth Fund Institutiona",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/20/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "NWHYX",
+          "asset-name": "Nationwide Geneva Mid Cap Growth Fund Institutiona",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "VGHAX",
-          "Asset Name": "Vanguard Health Care Fund Admiral Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/29/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VGHAX",
+          "asset-name": "Vanguard Health Care Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/29/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "VTHRX",
-          "Asset Name": "Vanguard Target Retirement 2030 Fund Investor Shar",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/28/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VTHRX",
+          "asset-name": "Vanguard Target Retirement 2030 Fund Investor Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/28/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "APDQX",
-          "Asset Name": "Artisan Mid Cap Value Fund Advisor Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/23/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "APDQX",
+          "asset-name": "Artisan Mid Cap Value Fund Advisor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/23/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "MCHFX",
-          "Asset Name": "Matthews China Fund Investor Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MCHFX",
+          "asset-name": "Matthews China Fund Investor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "26",
-          "Owner": "Self",
-          "Ticker": "HFOIX",
-          "Asset Name": "Janus Henderson International Opportunities Fund C",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/20/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "HFOIX",
+          "asset-name": "Janus Henderson International Opportunities Fund C",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/20/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "27",
-          "Owner": "Self",
-          "Ticker": "AACFX",
-          "Asset Name": "Invesco Greater China Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/18/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AACFX",
+          "asset-name": "Invesco Greater China Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/18/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "28",
-          "Owner": "Joint",
-          "Ticker": "MCDFX",
-          "Asset Name": "Matthews China Dividend Fund Investor Class",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/24/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "MCDFX",
+          "asset-name": "Matthews China Dividend Fund Investor Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/24/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "29",
-          "Owner": "Joint",
-          "Ticker": "MCDFX",
-          "Asset Name": "Matthews China Dividend Fund Investor Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/21/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "MCDFX",
+          "asset-name": "Matthews China Dividend Fund Investor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/21/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "30",
-          "Owner": "Joint",
-          "Ticker": "VTCLX",
-          "Asset Name": "Vanguard Tax-Managed Capital Appreciation Fund Adm",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "VTCLX",
+          "asset-name": "Vanguard Tax-Managed Capital Appreciation Fund Adm",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "31",
-          "Owner": "Joint",
-          "Ticker": "VWUSX",
-          "Asset Name": "Vanguard U.S. Growth Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/16/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "VWUSX",
+          "asset-name": "Vanguard U.S. Growth Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/16/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "32",
-          "Owner": "Joint",
-          "Ticker": "VDADX",
-          "Asset Name": "Vanguard Dividend Appreciation Index Fund Admiral",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/15/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "VDADX",
+          "asset-name": "Vanguard Dividend Appreciation Index Fund Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "33",
-          "Owner": "Joint",
-          "Ticker": "VEXPX",
-          "Asset Name": "Vanguard Explorer Fund Investor Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/15/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "VEXPX",
+          "asset-name": "Vanguard Explorer Fund Investor Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "34",
-          "Owner": "Joint",
-          "Ticker": "VHDYX",
-          "Asset Name": "Vanguard High Dividend Yield Index Fund Investor S",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/15/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "VHDYX",
+          "asset-name": "Vanguard High Dividend Yield Index Fund Investor S",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "35",
-          "Owner": "Joint",
-          "Ticker": "VSGAX",
-          "Asset Name": "Vanguard Small-Cap Growth Index Fund Admiral Share",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/15/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "VSGAX",
+          "asset-name": "Vanguard Small-Cap Growth Index Fund Admiral Share",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "36",
-          "Owner": "Joint",
-          "Ticker": "VTMSX",
-          "Asset Name": "Vanguard Tax-Managed Small Cap Fund Admiral Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/15/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "VTMSX",
+          "asset-name": "Vanguard Tax-Managed Small Cap Fund Admiral Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/15/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date(s)": "10/05/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t10/05/2018",
-          "Traveler(s)": "Self",
-          "Travel Type": "Colleague",
-          "Itinerary": "Washington, DC to Bozeman",
-          "Reimbursed For": "Private airfare from Virginia to Montana\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $8,750.00",
-          "Who Paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
-          "Comment": "Expected cost of officially purchased flight (saved taxpayer funds): $872.80."
+          "date-s": "10/05/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t10/05/2018",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Washington, DC to Bozeman",
+          "reimbursed-for": "Private airfare from Virginia to Montana\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $8,750.00",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comment": "Expected cost of officially purchased flight (saved taxpayer funds): $872.80."
         },
         {
-          "#": "2",
-          "Date(s)": "05/30/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t05/30/2018",
-          "Traveler(s)": "Self",
-          "Travel Type": "Colleague",
-          "Itinerary": "Colstrip to Billings",
-          "Reimbursed For": "Private airfare from Colstrip to Billings\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $105.00",
-          "Who Paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
-          "Comment": "Expected cost of officially reimbursed mileage (saved taxpayer funds): $65.29"
+          "date-s": "05/30/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t05/30/2018",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Colstrip to Billings",
+          "reimbursed-for": "Private airfare from Colstrip to Billings\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $105.00",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comment": "Expected cost of officially reimbursed mileage (saved taxpayer funds): $65.29"
         },
         {
-          "#": "3",
-          "Date(s)": "12/22/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t12/22/2018",
-          "Traveler(s)": "Self",
-          "Travel Type": "Colleague",
-          "Itinerary": "Leesburg, VA to Bozeman",
-          "Reimbursed For": "Private airfare from Leesburg, VA to Bozeman\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $2,508.33",
-          "Who Paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
-          "Comment": "Expected cost of officially purchased flight (saved taxpayer funds): $722.80"
+          "date-s": "12/22/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t12/22/2018",
+          "traveler-s": "Self",
+          "travel-type": "Colleague",
+          "itinerary": "Leesburg, VA to Bozeman",
+          "reimbursed-for": "Private airfare from Leesburg, VA to Bozeman\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $2,508.33",
+          "who-paid": "Congressman Greg Gianforte\n\t\t\t\t\t\t\t\tBozeman, MT",
+          "comment": "Expected cost of officially purchased flight (saved taxpayer funds): $722.80"
         }
       ]
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "May 1998 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Partner",
-          "Entity": "Genesis Partners\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT-Montana",
-          "Entity Type": "Company",
-          "Comments": ""
+          "position-dates": "May 1998 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Genesis Partners\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBozeman, MT-Montana",
+          "entity-type": "Company",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/03/2019",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 10/03/2019 @ 4:10 PM",
+  "filed-date": "10/03/2019",
+  "filed-time": "4:10 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/03/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Westbrand, Inc. stock\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, ND)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/03/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Westbrand, Inc. stock\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, ND)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

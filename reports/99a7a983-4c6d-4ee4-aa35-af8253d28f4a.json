@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/28/2016",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 11/28/2016 @ 2:28 PM",
+  "filed-date": "11/28/2016",
+  "filed-time": "2:28 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "EEM",
-          "Asset Name": "iShares MSCI Emerging Markets",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "EEM",
+          "asset-name": "iShares MSCI Emerging Markets",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "XSD",
-          "Asset Name": "SPDR S&P Semiconductor ETF",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "XSD",
+          "asset-name": "SPDR S&P Semiconductor ETF",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "ISRG",
-          "Asset Name": "Intuitive Surgical, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "ISRG",
+          "asset-name": "Intuitive Surgical, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "WETF",
-          "Asset Name": "WisdomTree Investments, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "WETF",
+          "asset-name": "WisdomTree Investments, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/23/2016",
-          "Owner": "Joint",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets ETF",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2016",
+          "owner": "Joint",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

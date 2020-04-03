@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/21/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 11/21/2019 @ 5:10 PM",
+  "filed-date": "11/21/2019",
+  "filed-time": "5:10 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/13/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "GEORGIA POWER CO B/E 02.650% 091529 DTD091019\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.650% Matures: 09/15/2029",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/13/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GEORGIA POWER CO B/E 02.650% 091529 DTD091019\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.650% Matures: 09/15/2029",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

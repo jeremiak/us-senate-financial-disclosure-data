@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/10/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 05/10/2017 @ 12:48 PM",
+  "filed-date": "05/10/2017",
+  "filed-time": "12:48 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/05/2017",
-          "Owner": "Joint",
-          "Ticker": "NXPI",
-          "Asset Name": "NXP Semiconductors N.V.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/05/2017",
+          "owner": "Joint",
+          "ticker": "NXPI",
+          "asset-name": "NXP Semiconductors N.V.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/05/2017",
-          "Owner": "Self",
-          "Ticker": "NXPI",
-          "Asset Name": "NXP Semiconductors N.V.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/05/2017",
+          "owner": "Self",
+          "ticker": "NXPI",
+          "asset-name": "NXP Semiconductors N.V.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

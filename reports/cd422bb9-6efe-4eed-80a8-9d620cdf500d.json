@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/13/2016",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 09/13/2016 @ 6:47 PM",
+  "filed-date": "09/13/2016",
+  "filed-time": "6:47 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "08/29/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Ford Motor Credit Co. LLC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.30% Matures: 09/20/26",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "08/29/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Ford Motor Credit Co. LLC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.30% Matures: 09/20/26",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "08/24/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Lloyds TSB BK PLC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.80% Matures: 11/29/2024",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/24/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Lloyds TSB BK PLC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.80% Matures: 11/29/2024",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

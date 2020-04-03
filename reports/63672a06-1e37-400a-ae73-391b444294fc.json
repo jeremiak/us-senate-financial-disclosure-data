@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/12/2019",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 02/12/2019 @ 11:09 AM",
+  "filed-date": "02/12/2019",
+  "filed-time": "11:09 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/24/2019",
-          "Owner": "Self",
-          "Ticker": "T",
-          "Asset Name": "AT&T Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/24/2019",
+          "owner": "Self",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

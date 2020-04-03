@@ -1,394 +1,398 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2014",
   "filer": "The Honorable Patty Murray (Murray, Patty)",
-  "filedDate": "Filed 05/12/2015 @ 8:42 PM",
+  "filed-date": "05/12/2015",
+  "filed-time": "8:42 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Tideworks\n\t\t\t\t\t\t\t\tSeattle, WA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Tideworks\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Chase(Seattle, WA)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Chase(Seattle, WA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USSFCU(Washington, DC)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "USSFCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USSFCU(Washington, DC)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "USSFCU(Washington, DC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Spouse IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "PQIAX - Principal Equity Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "PQIAX - Principal Equity Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Self IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Self IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "PQIAX - Principal Equity Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "PQIAX - Principal Equity Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Spouse Retirement Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Spouse Retirement Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FKVFX - Fidelity Freedom K 2015 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$15,001 - $50,000"
+          "asset": "FKVFX - Fidelity Freedom K 2015 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "FFKDX - Fidelity Freedom K 2020 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "FFKDX - Fidelity Freedom K 2020 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "PTLDX - PIMCO Low Duration Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PTLDX - PIMCO Low Duration Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Spouse IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "VMRGX - Vanguard Morgan Growth Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VMRGX - Vanguard Morgan Growth Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VPMCX - Vanguard PRIMECAP Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VPMCX - Vanguard PRIMECAP Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "VGENX - Vanguard Energy Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VGENX - Vanguard Energy Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Variable AnnuityProvider: Fidelity",
-          "Asset Type": "AnnuityVariable Annuity",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Variable AnnuityProvider: Fidelity",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FAVAM",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "FAVAM",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Spouse IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FFXSX - Fidelity Limited Term Government (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FFXSX - Fidelity Limited Term Government (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FUSEX - Fidelity Spartan 500 Index Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "FUSEX - Fidelity Spartan 500 Index Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FGRIX - Fidelity Growth & Income Portfolio (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "FGRIX - Fidelity Growth & Income Portfolio (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FMAGX - Fidelity Magellan (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "FMAGX - Fidelity Magellan (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Spouse Retirement Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Spouse Retirement Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FLPKX - Fidelity Low-Priced Stock K (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "FLPKX - Fidelity Low-Priced Stock K (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "FFKDX - Fidelity Freedom K 2020 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "FFKDX - Fidelity Freedom K 2020 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "PTLDX - PIMCO Low Duration Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PTLDX - PIMCO Low Duration Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "State of Washington Retirement Plan PERS1",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "State of Washington Retirement Plan PERS1",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Spouse",
-          "Ticker": "FFXSX",
-          "Asset Name": "Fidelity Limited Term Government (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "05/15/2014",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "FFXSX",
+          "asset-name": "Fidelity Limited Term Government (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/15/2014",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Spouse",
-          "Ticker": "FFXSX",
-          "Asset Name": "Fidelity Limited Term Government (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "05/15/2014",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "FFXSX",
+          "asset-name": "Fidelity Limited Term Government (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/15/2014",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Spouse",
-          "Ticker": "FFKDX",
-          "Asset Name": "Fidelity Freedom K 2020 (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/15/2014",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "FFKDX",
+          "asset-name": "Fidelity Freedom K 2020 (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/15/2014",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Spouse",
-          "Ticker": "FFKDX",
-          "Asset Name": "Fidelity Freedom K 2020 (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/15/2014",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "FFKDX",
+          "asset-name": "Fidelity Freedom K 2020 (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/15/2014",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Spouse",
-          "Ticker": "FFXSX",
-          "Asset Name": "Fidelity Limited Term Government (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/23/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "FFXSX",
+          "asset-name": "Fidelity Limited Term Government (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Spouse",
-          "Ticker": "FFXSX",
-          "Asset Name": "Fidelity Limited Term Government (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/23/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "FFXSX",
+          "asset-name": "Fidelity Limited Term Government (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/23/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Spouse",
-          "Ticker": "PTLDX",
-          "Asset Name": "PIMCO Low Duration Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/23/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "PTLDX",
+          "asset-name": "PIMCO Low Duration Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Spouse",
-          "Ticker": "PTLDX",
-          "Asset Name": "PIMCO Low Duration Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/23/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "PTLDX",
+          "asset-name": "PIMCO Low Duration Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/23/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2002",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "5.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
-          "Comments": "-"
+          "incurred": "2002",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "5.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.0%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2005",
-          "Debtor": "Joint",
-          "Type": "Home Equity Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "WSJ Prime%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(--)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
-          "Comments": "-"
+          "incurred": "2005",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "WSJ Prime%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(--)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "CHASE\n\t\t\t\t\t\t\t\tSeattle, WA",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

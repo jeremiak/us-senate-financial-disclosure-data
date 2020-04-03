@@ -1,360 +1,368 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2013 (Amendment 1)",
   "filer": "The Honorable Bernard Sanders (Sanders, Bernard)",
-  "filedDate": "Filed 11/18/2014 @ 3:21 PM",
+  "filed-date": "11/18/2014",
+  "filed-time": "3:21 PM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "06/30/2013",
-          "Activity": "Speech",
-          "Amount": "$931.42",
-          "Who Paid?": "Avalon Publishing Group\n\t\t\t\t\t\t\t\tBerkeley, CA",
-          "Who received payment?": "Self"
+          "date": "06/30/2013",
+          "activity": "Speech",
+          "amount": "$931.42",
+          "who-paid": "Avalon Publishing Group\n\t\t\t\t\t\t\t\tBerkeley, CA",
+          "who-received-payment": "Self"
         },
         {
-          "#": "2",
-          "Date": "12/30/2013",
-          "Activity": "Speech",
-          "Amount": "$574.37",
-          "Who Paid?": "Avalon Publishing Group\n\t\t\t\t\t\t\t\tBerkeley, CA",
-          "Who received payment?": "Self"
+          "date": "12/30/2013",
+          "activity": "Speech",
+          "amount": "$574.37",
+          "who-paid": "Avalon Publishing Group\n\t\t\t\t\t\t\t\tBerkeley, CA",
+          "who-received-payment": "Self"
         }
       ]
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Sabbatical)",
-          "Who Paid": "Burlington College\n\t\t\t\t\t\t\t\tBurlington, VT",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Sabbatical)",
+          "who-paid": "Burlington College\n\t\t\t\t\t\t\t\tBurlington, VT",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Self",
-          "Type": "Pension",
-          "Who Paid": "City of Burlington Vermont\n\t\t\t\t\t\t\t\tBurlington, VT",
-          "Amount Paid": "$4,894.20"
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "City of Burlington Vermont\n\t\t\t\t\t\t\t\tBurlington, VT",
+          "amount-paid": "$4,894.20"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Spouse",
-          "Type": "Self-Employment Income",
-          "Who Paid": "Self-Employed, Antique Dealer\n\t\t\t\t\t\t\t\tBurlington, VT",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Self-Employed, Antique Dealer\n\t\t\t\t\t\t\t\tBurlington, VT",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "4",
-          "Who Was Paid": "Spouse",
-          "Type": "Board Compensation",
-          "Who Paid": "State of Vermont Public Service Department\n\t\t\t\t\t\t\t\tMontpelier, VT",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Board Compensation",
+          "who-paid": "State of Vermont Public Service Department\n\t\t\t\t\t\t\t\tMontpelier, VT",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "Tiaa Cref Equities",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Tiaa Cref Equities",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Tiaa Real Estate",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Tiaa Real Estate",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Cref Fixed Income",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Cref Fixed Income",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Cref Social Choice",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Cref Social Choice",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Tiaa Guatanteed Traditional",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Tiaa Guatanteed Traditional",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Tiaa Personal Annuity Fixed",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Tiaa Personal Annuity Fixed",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Tiaa Personal Annuity Stock Acount",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Tiaa Personal Annuity Stock Acount",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IBM Corporate",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "IBM Corporate",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Valic Core Equity",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Valic Core Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC DIV VALUE",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC DIV VALUE",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC SOCIALLY RESP",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC SOCIALLY RESP",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC STOCK INDEX",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC STOCK INDEX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC MID CAP INDEX",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC MID CAP INDEX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC SMALL CAP",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC SMALL CAP",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC SMALL CAP INDEX",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC SMALL CAP INDEX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC SOCIAL AWARENESS",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC SOCIAL AWARENESS",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC INT'L EQUITIES",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC INT'L EQUITIES",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC SCIENCE & TECH",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC SCIENCE & TECH",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC AGGR GROWTH LI",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC AGGR GROWTH LI",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC ASSET ALLOC",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC ASSET ALLOC",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC MOD GROWTH LI",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC MOD GROWTH LI",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VNGRD LI FGRO",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VNGRD LI FGRO",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VNGRD LI FMOD",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VNGRD LI FMOD",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC GOVT SECURITIES",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC GOVT SECURITIES",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC INTL GOVT BOND",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC INTL GOVT BOND",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC STRATEGIC BOND",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC STRATEGIC BOND",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VNGRD LT TRSRY",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VNGRD LT TRSRY",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VNGRD LT INV GRADE",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VNGRD LT INV GRADE",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VALIC MONEY MARKET II",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VALIC MONEY MARKET II",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "1991",
-          "Debtor": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t (VISA CARD)",
-          "Points": "-",
-          "Rate(Term)": "8.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Revolving)",
-          "Amount": "$10,001 - $15,000",
-          "Creditor": "Congressional Federal Credit Union\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Comments": "-"
+          "incurred": "1991",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (VISA CARD)",
+          "points": "-",
+          "rate-term": "8.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Revolving)",
+          "amount": "$10,001 - $15,000",
+          "creditor": "Congressional Federal Credit Union\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2006",
-          "Debtor": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t (VISA CARD)",
-          "Points": "-",
-          "Rate(Term)": "10.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Revolving)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "U.S. Senate Federal Credit Union\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Comments": "-"
+          "incurred": "2006",
+          "debtor": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t (VISA CARD)",
+          "points": "-",
+          "rate-term": "10.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Revolving)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "U.S. Senate Federal Credit Union\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": [
         {
-          "Document Title": "Sanders, Bernard.pdf",
-          "Date/Time Added": "10/15/2014 @ 10:16 AM"
+          "document-title": "Sanders, Bernard.pdf",
+          "date-time-added": "10/15/2014 @ 10:16 AM"
         }
       ]
     }

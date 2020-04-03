@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/20/2017",
   "filer": "The Honorable Ladda Tammy Duckworth (Duckworth, Tammy)",
-  "filedDate": "Filed 07/20/2017 @ 10:30 AM",
+  "filed-date": "07/20/2017",
+  "filed-time": "10:30 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "06/20/2017",
-          "Owner": "Self",
-          "Ticker": "MCD",
-          "Asset Name": "McDonald's Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/20/2017",
+          "owner": "Self",
+          "ticker": "MCD",
+          "asset-name": "McDonald's Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/16/2017",
-          "Owner": "Joint",
-          "Ticker": "NEE",
-          "Asset Name": "NEE-NextEra Energy, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/16/2017",
+          "owner": "Joint",
+          "ticker": "NEE",
+          "asset-name": "NEE-NextEra Energy, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/05/2017",
-          "Owner": "Joint",
-          "Ticker": "CAT",
-          "Asset Name": "Caterpillar Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/05/2017",
+          "owner": "Joint",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

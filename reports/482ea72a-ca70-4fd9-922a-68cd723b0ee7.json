@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 02/07/2018 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 08/12/2019 @ 1:04 AM",
+  "filed-date": "08/12/2019",
+  "filed-time": "1:04 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/05/2018",
-          "Owner": "Joint",
-          "Ticker": "PFS",
-          "Asset Name": "Provident Financial Services, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/05/2018",
+          "owner": "Joint",
+          "ticker": "PFS",
+          "asset-name": "Provident Financial Services, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "01/08/2018",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/08/2018",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/08/2018",
-          "Owner": "Joint",
-          "Ticker": "PFS",
-          "Asset Name": "Provident Financial Services, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/08/2018",
+          "owner": "Joint",
+          "ticker": "PFS",
+          "asset-name": "Provident Financial Services, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Transaction Date": "01/30/2018",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/30/2018",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "01/30/2018",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/30/2018",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/05/2018",
-          "Owner": "Joint",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.5% Matures: 03/15/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "This transaction was a sale of a BAC bond. Originally, this transaction was inadvertently listed as a sale of BAC stock."
+          "transaction-date": "01/05/2018",
+          "owner": "Joint",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.5% Matures: 03/15/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "This transaction was a sale of a BAC bond. Originally, this transaction was inadvertently listed as a sale of BAC stock."
         }
       ]
     }

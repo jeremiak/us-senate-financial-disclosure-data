@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 12/16/2015 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 12/20/2017 @ 3:26 PM",
+  "filed-date": "12/20/2017",
+  "filed-time": "3:26 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "10/28/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "PFS",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/28/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "PFS",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "ESV",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "ESV",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

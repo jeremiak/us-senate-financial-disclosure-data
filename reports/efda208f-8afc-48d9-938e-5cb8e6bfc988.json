@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/20/2019",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 11/20/2019 @ 2:44 PM",
+  "filed-date": "11/20/2019",
+  "filed-time": "2:44 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "11/05/2019",
-          "Owner": "Self",
-          "Ticker": "IVZ",
-          "Asset Name": "Invesco Ltd.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/05/2019",
+          "owner": "Self",
+          "ticker": "IVZ",
+          "asset-name": "Invesco Ltd.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "11/05/2019",
-          "Owner": "Self",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/05/2019",
+          "owner": "Self",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "11/04/2019",
-          "Owner": "Self",
-          "Ticker": "TWO",
-          "Asset Name": "Two Harbors Investment Corp.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2019",
+          "owner": "Self",
+          "ticker": "TWO",
+          "asset-name": "Two Harbors Investment Corp.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/04/2019",
-          "Owner": "Self",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2019",
+          "owner": "Self",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/04/2019",
-          "Owner": "Self",
-          "Ticker": "EXC",
-          "Asset Name": "Exelon Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2019",
+          "owner": "Self",
+          "ticker": "EXC",
+          "asset-name": "Exelon Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/04/2019",
-          "Owner": "Self",
-          "Ticker": "CVX",
-          "Asset Name": "Chevron Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2019",
+          "owner": "Self",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

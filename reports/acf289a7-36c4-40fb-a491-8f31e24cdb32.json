@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 01/03/2019 (Amendment 2)",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 05/15/2019 @ 10:13 AM",
+  "filed-date": "05/15/2019",
+  "filed-time": "10:13 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Bank of America\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.0% Matures: 06/21/2020",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Bank of America\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.0% Matures: 06/21/2020",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Bank of America\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.0% Matures: 06/21/2020",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Bank of America\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.0% Matures: 06/21/2020",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "12/17/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Invesco Pacific Growth A",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/17/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Invesco Pacific Growth A",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/17/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Goldman Sachs\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.5% Matures: 12/15/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/17/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Goldman Sachs\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.5% Matures: 12/15/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/10/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Compass Materials",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/10/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Compass Materials",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

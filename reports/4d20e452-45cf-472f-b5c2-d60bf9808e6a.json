@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/21/2017",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 12/21/2017 @ 5:08 PM",
+  "filed-date": "12/21/2017",
+  "filed-time": "5:08 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "12/04/2015",
-          "Owner": "Self",
-          "Ticker": "MPLX\n                                        \n                                        \n                                            \n                                            ^MWE",
-          "Asset Name": "MPLX LP (Exchanged)\n                                            \n                                            ^MWE (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/04/2015",
+          "owner": "Self",
+          "ticker": "MPLX\n                                        \n                                        \n                                            \n                                            ^MWE",
+          "asset-name": "MPLX LP (Exchanged)\n                                            \n                                            ^MWE (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/04/2015",
-          "Owner": "Self",
-          "Ticker": "^MWE\n                                        \n                                        \n                                            \n                                            MPLX",
-          "Asset Name": "^MWE (Exchanged)\n                                            \n                                            MPLX LP (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/04/2015",
+          "owner": "Self",
+          "ticker": "^MWE\n                                        \n                                        \n                                            \n                                            MPLX",
+          "asset-name": "^MWE (Exchanged)\n                                            \n                                            MPLX LP (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

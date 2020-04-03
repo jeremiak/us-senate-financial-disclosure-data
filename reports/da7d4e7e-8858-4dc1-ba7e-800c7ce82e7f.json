@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/08/2014",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/08/2014 @ 4:19 PM",
+  "filed-date": "05/08/2014",
+  "filed-time": "4:19 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "ABBV",
-          "Asset Name": "AbbVie Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "ABBV",
+          "asset-name": "AbbVie Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "BUD",
-          "Asset Name": "Anheuser-Busch InBev SA/NV (NYSE)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "BUD",
+          "asset-name": "Anheuser-Busch InBev SA/NV (NYSE)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "F",
-          "Asset Name": "Ford Motor Co. (NYSE)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "F",
+          "asset-name": "Ford Motor Co. (NYSE)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

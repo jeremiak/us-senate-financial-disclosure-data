@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/06/2016",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 12/06/2016 @ 1:48 PM",
+  "filed-date": "12/06/2016",
+  "filed-time": "1:48 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "12/01/2016",
-          "Owner": "Self",
-          "Ticker": "CERN",
-          "Asset Name": "Cerner Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "12/01/2016",
+          "owner": "Self",
+          "ticker": "CERN",
+          "asset-name": "Cerner Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/15/2016",
-          "Owner": "Self",
-          "Ticker": "CTSH",
-          "Asset Name": "Cognizant Technology Solutions Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/15/2016",
+          "owner": "Self",
+          "ticker": "CTSH",
+          "asset-name": "Cognizant Technology Solutions Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

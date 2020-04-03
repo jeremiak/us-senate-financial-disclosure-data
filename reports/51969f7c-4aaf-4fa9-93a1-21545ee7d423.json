@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/09/2015",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 12/09/2015 @ 1:19 PM",
+  "filed-date": "12/09/2015",
+  "filed-time": "1:19 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "11/16/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "tjx",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "11/16/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "tjx",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "nflx",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "sep"
+          "transaction-date": "11/04/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "nflx",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "sep"
         }
       ]
     }

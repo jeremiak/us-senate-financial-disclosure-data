@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/03/2018",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 08/03/2018 @ 3:17 PM",
+  "filed-date": "08/03/2018",
+  "filed-time": "3:17 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "07/27/2018",
-          "Owner": "Self",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/27/2018",
+          "owner": "Self",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "07/03/2018",
-          "Owner": "Self",
-          "Ticker": "GLD",
-          "Asset Name": "SPDR Gold Shares",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/03/2018",
+          "owner": "Self",
+          "ticker": "GLD",
+          "asset-name": "SPDR Gold Shares",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/16/2018",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "EL DUPONT DE NEMOURS & CO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6% Matures: 07/15/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "This is a full redemption of a bond"
+          "transaction-date": "07/16/2018",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "EL DUPONT DE NEMOURS & CO\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6% Matures: 07/15/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "This is a full redemption of a bond"
         }
       ]
     }

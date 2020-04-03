@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/21/2015",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 01/21/2015 @ 10:26 AM",
+  "filed-date": "01/21/2015",
+  "filed-time": "10:26 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/16/2015",
-          "Owner": "Self",
-          "Ticker": "NOG",
-          "Asset Name": "Northern Oil and Gas, Inc. (AMEX)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/16/2015",
+          "owner": "Self",
+          "ticker": "NOG",
+          "asset-name": "Northern Oil and Gas, Inc. (AMEX)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/16/2015",
-          "Owner": "Self",
-          "Ticker": "NOG",
-          "Asset Name": "Northern Oil and Gas, Inc. (AMEX)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/16/2015",
+          "owner": "Self",
+          "ticker": "NOG",
+          "asset-name": "Northern Oil and Gas, Inc. (AMEX)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

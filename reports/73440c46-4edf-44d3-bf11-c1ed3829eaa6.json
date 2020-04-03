@@ -1,1697 +1,1634 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2017",
   "filer": "The Honorable Ladda Tammy Duckworth (Duckworth, Tammy)",
-  "filedDate": "Filed 08/10/2018 @ 12:12 PM",
+  "filed-date": "08/10/2018",
+  "filed-time": "12:12 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "TAD PGS, Inc\n\t\t\t\t\t\t\t\tJacksonville, FL",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "TAD PGS, Inc\n\t\t\t\t\t\t\t\tJacksonville, FL",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "VAE Inc\n\t\t\t\t\t\t\t\tReston, VA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "VAE Inc\n\t\t\t\t\t\t\t\tReston, VA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Edward Jones Brokerage #1",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "Edward Jones Investments(Streamwood, IL)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "BBL-BHP Billiton plc",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "CAT-Caterpillar Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "DVMT-Dell Technologies Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "DD-E. I. du Pont de Nemours and CompanyFiler comment:  Merger w/ Dow Chemical on 9/1/17, shares exchanged for DWDP.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "GE - General Electric Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "GS-The Goldman Sachs Group, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "ITW-Illinois Tool Works Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "INTC-Intel Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "JNJ-Johnson & Johnson",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "MDLZ-Mondelez International, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "NEE-NextEra Energy, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "Edward Jones Brokerage #1",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Edward Jones Investments(Streamwood, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BBL-BHP Billiton plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CAT-Caterpillar Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "DVMT-Dell Technologies Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DD-E. I. du Pont de Nemours and CompanyFiler comment:  Merger w/ Dow Chemical on 9/1/17, shares exchanged for DWDP.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GE - General Electric Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "GS-The Goldman Sachs Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ITW-Illinois Tool Works Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "INTC-Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "JNJ-Johnson & Johnson",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "MDLZ-Mondelez International, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "NEE-NextEra Energy, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "VZ - Verizon Communications Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "VZ - Verizon Communications Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WBA-Walgreens Boots Alliance, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "WBA-Walgreens Boots Alliance, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DIS-The Walt Disney Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "DIS-The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Lincoln Shareholdrs Adv Old Contract #953048073Provider: Edward Jones Investments",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Lincoln Shareholdrs Adv Old Contract #953048073Provider: Edward Jones Investments",
+          "asset-type": "AnnuityFixed",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ABT-Abbott Laboratories",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "ABT-Abbott Laboratories",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "CWGIX - American Funds Capital World Gr&Inc A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "CWGIX - American Funds Capital World Gr&Inc A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AMECX-American Funds Income Fund of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "AMECX-American Funds Income Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "AIVSX-American Funds Invmt Co of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "AIVSX-American Funds Invmt Co of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ANWPX-American Funds New Perspective A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "ANWPX-American Funds New Perspective A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "AFTEX - American Funds Tax-Exempt Bond A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AFTEX - American Funds Tax-Exempt Bond A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl CInstitution: Illinois",
-          "Asset Type": "Education Savings Plans529 Prepaid Tuition",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl CInstitution: Illinois",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl AInstitution: Illinois",
-          "Asset Type": "Education Savings Plans529 Prepaid Tuition",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl AInstitution: Illinois",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CC-The Chemours CompanyFiler comment:  Held in 2015 & 2016, under Threshold, appreciated over $1,000 before being sold.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "CC-The Chemours CompanyFiler comment:  Held in 2015 & 2016, under Threshold, appreciated over $1,000 before being sold.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SOUHY-South32 LimitedFiler comment:  Held in 2015 & 2016, under Threshold, appreciated over $1,000 before being sold.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "SOUHY-South32 LimitedFiler comment:  Held in 2015 & 2016, under Threshold, appreciated over $1,000 before being sold.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DWDP - DowDuPont Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "DWDP - DowDuPont Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "IRA #1",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA #1",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "DVMT-Dell Technologies Inc.Filer comment:  Sold in full, sale was under $1,000.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "DVMT-Dell Technologies Inc.Filer comment:  Sold in full, sale was under $1,000.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MCD-McDonald's Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "MCD-McDonald's Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Edward Jones Investments(Streamwood, IL)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Edward Jones Investments(Streamwood, IL)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ABNDX-American Funds Bond Fund of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ABNDX-American Funds Bond Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CWGIX-American Funds Capital World Gr&Inc A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "CWGIX-American Funds Capital World Gr&Inc A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AMECX-American Funds Income Fund of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AMECX-American Funds Income Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AIVSX-American Funds Invmt Co of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AIVSX-American Funds Invmt Co of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ANWPX-American Funds New Perspective A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ANWPX-American Funds New Perspective A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SMCWX-American Funds SMALLCAP World A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SMCWX-American Funds SMALLCAP World A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VYM-Vanguard High Dividend Yield ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VYM-Vanguard High Dividend Yield ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VIG-Vanguard Dividend Appreciation ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VIG-Vanguard Dividend Appreciation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWO-Vanguard FTSE Emerging Markets ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO-Vanguard FTSE Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VUG-Vanguard Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VUG-Vanguard Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VB-Vanguard Small-Cap ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VB-Vanguard Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BIV-Vanguard Interm-Term Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BIV-Vanguard Interm-Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VEU-Vanguard FTSE All-Wld ex-US ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VEU-Vanguard FTSE All-Wld ex-US ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VO-Vanguard Mid-Cap ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VO-Vanguard Mid-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FGORX-Franklin US Government Secs R6",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FGORX-Franklin US Government Secs R6",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA #2",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA #2",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "ABNDX-American Funds Bond Fund of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ABNDX-American Funds Bond Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AMECX-American Funds Income Fund of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AMECX-American Funds Income Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AIVSX-American Funds Invmt Co of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AIVSX-American Funds Invmt Co of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ANWPX-American Funds New Perspective A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ANWPX-American Funds New Perspective A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VIG-Vanguard Dividend Appreciation ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VIG-Vanguard Dividend Appreciation ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VUG-Vanguard Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VUG-Vanguard Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTV-Vanguard Value ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTV-Vanguard Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VEU-Vanguard FTSE All-Wld ex-US ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VEU-Vanguard FTSE All-Wld ex-US ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA #3",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA #3",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "AMECX-American Funds Income Fund of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AMECX-American Funds Income Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AIVSX-American Funds Invmt Co of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AIVSX-American Funds Invmt Co of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ANWPX-American Funds New Perspective A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ANWPX-American Funds New Perspective A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SMCWX-American Funds SMALLCAP World A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SMCWX-American Funds SMALLCAP World A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Edward Jones Investments(Streamwood, IL)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Edward Jones Investments(Streamwood, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EFG-iShares MSCI EAFE Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EFG-iShares MSCI EAFE Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SDY-SPDR S&P Dividend ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SDY-SPDR S&P Dividend ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWO-Vanguard FTSE Emerging Markets ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO-Vanguard FTSE Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VUG-Vanguard Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VUG-Vanguard Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VO-Vanguard Mid-Cap ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VO-Vanguard Mid-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VB-Vanguard Small-Cap ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VB-Vanguard Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTV-Vanguard Value ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTV-Vanguard Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BIV-Vanguard Interm-Term Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BIV-Vanguard Interm-Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BSV-Vanguard Short-Term Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BSV-Vanguard Short-Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA #4",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA #4",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "AMECX-American Funds Income Fund of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AMECX-American Funds Income Fund of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AIVSX-American Funds Invmt Co of Amer A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AIVSX-American Funds Invmt Co of Amer A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ANWPX-American Funds New Perspective A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ANWPX-American Funds New Perspective A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SMCWX-American Funds SMALLCAP World A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SMCWX-American Funds SMALLCAP World A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EFG-iShares MSCI EAFE Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EFG-iShares MSCI EAFE Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SDY-SPDR S&P Dividend ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SDY-SPDR S&P Dividend ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWO-Vanguard FTSE Emerging Markets ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO-Vanguard FTSE Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BIV-Vanguard Interm-Term Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BIV-Vanguard Interm-Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VUG-Vanguard Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VUG-Vanguard Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VO-Vanguard Mid-Cap ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VO-Vanguard Mid-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VB-Vanguard Small-Cap ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VB-Vanguard Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTV-Vanguard Value ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTV-Vanguard Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VSS-Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Edward Jones Investments(Streamwood, IL)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Edward Jones Investments(Streamwood, IL)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USAA Brokerage #2",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "USAA Brokerage #2",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "CAT-Caterpillar Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "CAT-Caterpillar Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "GME-GameStop Corp.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "GME-GameStop Corp.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USAA Investment Management(San Antonio, TX)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "USAA Investment Management(San Antonio, TX)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "POT-Potash Corporation of Saskatchewan Inc.Filer comment:  Held in  2016, under Threshold, appreciated over $1,000 before being sold.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Edward Jones Brokerage #3",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "CAIBX-American Funds Capital Income Bldr AFiler comment:  2017 Purchases were less than $1,000 per month.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "USAA(San Antonio, TX)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "USAA(San Antonio, TX)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Employer 401K",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "ARTKX-Artisan International Value InvestorFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "DODIX-Dodge & Cox IncomeFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "JMBUX-JPMorgan Mortgage-Backed Securities R6Filer comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SBLYX-ClearBridge Large Cap Growth IFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "OIEJX-JPMorgan Equity Income R6Filer comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "PCBIX-Principal MidCap InstitutionalFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SIGVX-Virtus Seix US Govt Secs Ultr-Shrt Bd IFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "POT-Potash Corporation of Saskatchewan Inc.Filer comment:  Held in  2016, under Threshold, appreciated over $1,000 before being sold.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Edward Jones Brokerage #3",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "CAIBX-American Funds Capital Income Bldr AFiler comment:  2017 Purchases were less than $1,000 per month.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "USAA(San Antonio, TX)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "USAA(San Antonio, TX)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Employer 401K",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "ARTKX-Artisan International Value InvestorFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DODIX-Dodge & Cox IncomeFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "JMBUX-JPMorgan Mortgage-Backed Securities R6Filer comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SBLYX-ClearBridge Large Cap Growth IFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OIEJX-JPMorgan Equity Income R6Filer comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PCBIX-Principal MidCap InstitutionalFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SIGVX-Virtus Seix US Govt Secs Ultr-Shrt Bd IFiler comment:  Biweekly contribution from payroll deduction, less than $1,000 per transaction",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/09/2017",
-          "Owner": "Joint",
-          "Ticker": "POT",
-          "Asset Name": "Potash Corporation of Saskatchewan Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/09/2017",
+          "owner": "Joint",
+          "ticker": "POT",
+          "asset-name": "Potash Corporation of Saskatchewan Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/10/2017",
-          "Owner": "Joint",
-          "Ticker": "CAT",
-          "Asset Name": "Caterpillar Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/10/2017",
+          "owner": "Joint",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "05/10/2017",
-          "Owner": "Joint",
-          "Ticker": "GME",
-          "Asset Name": "GameStop Corp.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/10/2017",
+          "owner": "Joint",
+          "ticker": "GME",
+          "asset-name": "GameStop Corp.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "06/05/2017",
-          "Owner": "Joint",
-          "Ticker": "CAT",
-          "Asset Name": "Caterpillar Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/05/2017",
+          "owner": "Joint",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "06/16/2017",
-          "Owner": "Joint",
-          "Ticker": "NEE",
-          "Asset Name": "NEE-NextEra Energy, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/16/2017",
+          "owner": "Joint",
+          "ticker": "NEE",
+          "asset-name": "NEE-NextEra Energy, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Transaction Date": "06/20/2017",
-          "Owner": "Self",
-          "Ticker": "MCD",
-          "Asset Name": "McDonald's Corporation",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/20/2017",
+          "owner": "Self",
+          "ticker": "MCD",
+          "asset-name": "McDonald's Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Transaction Date": "08/23/2017",
-          "Owner": "Joint",
-          "Ticker": "DVMT",
-          "Asset Name": "Dell Technologies Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/23/2017",
+          "owner": "Joint",
+          "ticker": "DVMT",
+          "asset-name": "Dell Technologies Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Transaction Date": "09/01/2017",
-          "Owner": "Joint",
-          "Ticker": "--\n                                \n                                \n                                    \n                                    DWDP",
-          "Asset Name": "DD - E I duPont de Nemours & Co (Exchanged)\n                                    \n                                    DowDuPont Inc. Received",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/01/2017",
+          "owner": "Joint",
+          "ticker": "--\n                                \n                                \n                                    \n                                    DWDP",
+          "asset-name": "DD - E I duPont de Nemours & Co (Exchanged)\n                                    \n                                    DowDuPont Inc. Received",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Transaction Date": "09/15/2017",
-          "Owner": "Joint",
-          "Ticker": "INTC",
-          "Asset Name": "Intel Corporation",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/15/2017",
+          "owner": "Joint",
+          "ticker": "INTC",
+          "asset-name": "Intel Corporation",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Transaction Date": "10/10/2017",
-          "Owner": "Joint",
-          "Ticker": "CC",
-          "Asset Name": "CC - The Chemours Company",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/10/2017",
+          "owner": "Joint",
+          "ticker": "CC",
+          "asset-name": "CC - The Chemours Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Transaction Date": "10/17/2017",
-          "Owner": "Joint",
-          "Ticker": "JNJ",
-          "Asset Name": "Johnson & Johnson",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/17/2017",
+          "owner": "Joint",
+          "ticker": "JNJ",
+          "asset-name": "Johnson & Johnson",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Transaction Date": "10/18/2017",
-          "Owner": "Joint",
-          "Ticker": "ABT",
-          "Asset Name": "Abbott Laboratories",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/18/2017",
+          "owner": "Joint",
+          "ticker": "ABT",
+          "asset-name": "Abbott Laboratories",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Transaction Date": "10/23/2017",
-          "Owner": "Joint",
-          "Ticker": "DWDP",
-          "Asset Name": "DowDuPont Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/23/2017",
+          "owner": "Joint",
+          "ticker": "DWDP",
+          "asset-name": "DowDuPont Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Transaction Date": "11/01/2017",
-          "Owner": "Joint",
-          "Ticker": "SOUHY",
-          "Asset Name": "South32 Limited",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/01/2017",
+          "owner": "Joint",
+          "ticker": "SOUHY",
+          "asset-name": "South32 Limited",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Transaction Date": "11/30/2017",
-          "Owner": "Joint",
-          "Ticker": "GS",
-          "Asset Name": "The Goldman Sachs Group, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/30/2017",
+          "owner": "Joint",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Transaction Date": "12/21/2017",
-          "Owner": "Joint",
-          "Ticker": "BBL",
-          "Asset Name": "BHP Billiton plc",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Originally reported as Purchase in error"
+          "transaction-date": "12/21/2017",
+          "owner": "Joint",
+          "ticker": "BBL",
+          "asset-name": "BHP Billiton plc",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Originally reported as Purchase in error"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "FGORX",
-          "Asset Name": "Franklin US Government Secs R6",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "FGORX",
+          "asset-name": "Franklin US Government Secs R6",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "VO",
-          "Asset Name": "Vanguard Mid-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "VB",
-          "Asset Name": "Vanguard Small-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "VIG",
-          "Asset Name": "Vanguard Dividend Appreciation ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VIG",
+          "asset-name": "Vanguard Dividend Appreciation ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "VYM",
-          "Asset Name": "Vanguard High Dividend Yield ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VYM",
+          "asset-name": "Vanguard High Dividend Yield ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "VEU",
-          "Asset Name": "Vanguard FTSE All-Wld ex-US ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VEU",
+          "asset-name": "Vanguard FTSE All-Wld ex-US ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "VSS",
-          "Asset Name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VSS",
+          "asset-name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "AMECX",
-          "Asset Name": "American Funds Income Fund of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AMECX",
+          "asset-name": "American Funds Income Fund of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "AIVSX",
-          "Asset Name": "American Funds Invmt Co of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AIVSX",
+          "asset-name": "American Funds Invmt Co of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "ANWPX",
-          "Asset Name": "American Funds New Perspective A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "American Funds New Perspective A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "SMCWX",
-          "Asset Name": "American Funds SMALLCAP World A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds SMALLCAP World A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "CWGIX",
-          "Asset Name": "American Funds Capital World Gr&Inc A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "CWGIX",
+          "asset-name": "American Funds Capital World Gr&Inc A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "ABNDX",
-          "Asset Name": "American Funds Bond Fund of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ABNDX",
+          "asset-name": "American Funds Bond Fund of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "ABNDX",
-          "Asset Name": "American Funds Bond Fund of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ABNDX",
+          "asset-name": "American Funds Bond Fund of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "AMECX",
-          "Asset Name": "American Funds Income Fund of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AMECX",
+          "asset-name": "American Funds Income Fund of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "AIVSX",
-          "Asset Name": "American Funds Invmt Co of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AIVSX",
+          "asset-name": "American Funds Invmt Co of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "ANWPX",
-          "Asset Name": "American Funds New Perspective A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ANWPX",
+          "asset-name": "American Funds New Perspective A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "VIG",
-          "Asset Name": "Vanguard Dividend Appreciation ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VIG",
+          "asset-name": "Vanguard Dividend Appreciation ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "VEU",
-          "Asset Name": "Vanguard FTSE All-Wld ex-US ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VEU",
+          "asset-name": "Vanguard FTSE All-Wld ex-US ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "VSS",
-          "Asset Name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VSS",
+          "asset-name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/21/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/21/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "26",
-          "Owner": "Spouse",
-          "Ticker": "EFG",
-          "Asset Name": "iShares MSCI EAFE Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "EFG",
+          "asset-name": "iShares MSCI EAFE Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "27",
-          "Owner": "Spouse",
-          "Ticker": "SDY",
-          "Asset Name": "SPDR S&P Dividend ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "SDY",
+          "asset-name": "SPDR S&P Dividend ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "28",
-          "Owner": "Spouse",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "29",
-          "Owner": "Spouse",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Short-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Short-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "30",
-          "Owner": "Spouse",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "31",
-          "Owner": "Spouse",
-          "Ticker": "VO",
-          "Asset Name": "Vanguard Mid-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "32",
-          "Owner": "Spouse",
-          "Ticker": "VB",
-          "Asset Name": "Vanguard Small-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "33",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "34",
-          "Owner": "Spouse",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "35",
-          "Owner": "Spouse",
-          "Ticker": "VSS",
-          "Asset Name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VSS",
+          "asset-name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "36",
-          "Owner": "Spouse",
-          "Ticker": "AMECX",
-          "Asset Name": "American Funds Income Fund of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AMECX",
+          "asset-name": "American Funds Income Fund of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "37",
-          "Owner": "Spouse",
-          "Ticker": "AIVSX",
-          "Asset Name": "American Funds Invmt Co of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AIVSX",
+          "asset-name": "American Funds Invmt Co of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "38",
-          "Owner": "Spouse",
-          "Ticker": "ANWPX",
-          "Asset Name": "American Funds New Perspective A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "ANWPX",
+          "asset-name": "American Funds New Perspective A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "39",
-          "Owner": "Spouse",
-          "Ticker": "SMCWX",
-          "Asset Name": "American Funds SMALLCAP World A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds SMALLCAP World A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "40",
-          "Owner": "Spouse",
-          "Ticker": "AMECX",
-          "Asset Name": "American Funds Income Fund of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AMECX",
+          "asset-name": "American Funds Income Fund of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "41",
-          "Owner": "Spouse",
-          "Ticker": "AIVSX",
-          "Asset Name": "American Funds Invmt Co of Amer A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AIVSX",
+          "asset-name": "American Funds Invmt Co of Amer A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "42",
-          "Owner": "Spouse",
-          "Ticker": "ANWPX",
-          "Asset Name": "American Funds New Perspective A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "ANWPX",
+          "asset-name": "American Funds New Perspective A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "43",
-          "Owner": "Spouse",
-          "Ticker": "SMCWX",
-          "Asset Name": "American Funds SMALLCAP World A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds SMALLCAP World A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "44",
-          "Owner": "Spouse",
-          "Ticker": "EFG",
-          "Asset Name": "iShares MSCI EAFE Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "EFG",
+          "asset-name": "iShares MSCI EAFE Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "45",
-          "Owner": "Spouse",
-          "Ticker": "SDY",
-          "Asset Name": "SPDR S&P Dividend ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "SDY",
+          "asset-name": "SPDR S&P Dividend ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "46",
-          "Owner": "Spouse",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "47",
-          "Owner": "Spouse",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "48",
-          "Owner": "Spouse",
-          "Ticker": "VO",
-          "Asset Name": "Vanguard Mid-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VO",
+          "asset-name": "Vanguard Mid-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "49",
-          "Owner": "Spouse",
-          "Ticker": "VB",
-          "Asset Name": "Vanguard Small-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VB",
+          "asset-name": "Vanguard Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "50",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "51",
-          "Owner": "Spouse",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "52",
-          "Owner": "Spouse",
-          "Ticker": "VSS",
-          "Asset Name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VSS",
+          "asset-name": "Vanguard FTSE All-Wld ex-US SmCp ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "53",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Bright Start College Svgs Advisor 0-6 Yr",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Bright Start College Svgs Advisor 0-6 Yr",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "54",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl C",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl C",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "55",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Bright Start College Svgs Mod Age Based 3-5 Yr Cl A",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2016",
-          "Debtor": "Joint",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "5.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(3 years)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "Edward Jones Investments\n\t\t\t\t\t\t\t\tStreamwood, IL",
-          "Comments": "-"
+          "incurred": "2016",
+          "debtor": "Joint",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "5.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(3 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Edward Jones Investments\n\t\t\t\t\t\t\t\tStreamwood, IL",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "USAA Federal Savings Bank\n\t\t\t\t\t\t\t\tCoppell, TX",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "USAA Federal Savings Bank\n\t\t\t\t\t\t\t\tCoppell, TX",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2017",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$1,000,001 - $5,000,000",
-          "Creditor": "Freedom Mortgage\n\t\t\t\t\t\t\t\tIndianapolis, IN",
-          "Comments": "-"
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Freedom Mortgage\n\t\t\t\t\t\t\t\tIndianapolis, IN",
+          "comments": "-"
         },
         {
-          "#": "4",
-          "Incurred": "2017",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 year)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Frank Perna Sr\n\t\t\t\t\t\t\t\tGreat Falls, VA",
-          "Comments": "-"
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 year)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Frank Perna Sr\n\t\t\t\t\t\t\t\tGreat Falls, VA",
+          "comments": "-"
         },
         {
-          "#": "5",
-          "Incurred": "2017",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 year)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "The June Matlick Trust FBO Olivia K Perna\n\t\t\t\t\t\t\t\tGreat Falls, VA",
-          "Comments": "-"
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "6%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 year)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "The June Matlick Trust FBO Olivia K Perna\n\t\t\t\t\t\t\t\tGreat Falls, VA",
+          "comments": "-"
         },
         {
-          "#": "6",
-          "Incurred": "2017",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$1,000,001 - $5,000,000",
-          "Creditor": "Intercoastal Mortgage Company\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Comments": "Original Mortgage on new property, transferred to Freedom Mortgage May 2017"
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$1,000,001 - $5,000,000",
+          "creditor": "Intercoastal Mortgage Company\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "comments": "Original Mortgage on new property, transferred to Freedom Mortgage May 2017"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

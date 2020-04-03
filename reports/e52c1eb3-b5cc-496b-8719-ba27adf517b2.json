@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/13/2015",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 05/13/2015 @ 5:29 PM",
+  "filed-date": "05/13/2015",
+  "filed-time": "5:29 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/04/2015",
-          "Owner": "Self",
-          "Ticker": "TBF",
-          "Asset Name": "ProShares Short 20+ Year Treasury (NYSEArca)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/04/2015",
+          "owner": "Self",
+          "ticker": "TBF",
+          "asset-name": "ProShares Short 20+ Year Treasury (NYSEArca)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/04/2015",
-          "Owner": "Joint",
-          "Ticker": "TBF",
-          "Asset Name": "ProShares Short 20+ Year Treasury (NYSEArca)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/04/2015",
+          "owner": "Joint",
+          "ticker": "TBF",
+          "asset-name": "ProShares Short 20+ Year Treasury (NYSEArca)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

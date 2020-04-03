@@ -1,547 +1,550 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Mazie K Hirono (Hirono, Mazie Keiko)",
-  "filedDate": "Filed 08/13/2019 @ 4:40 PM",
+  "filed-date": "08/13/2019",
+  "filed-time": "4:40 PM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Oshima, Itomura & Fujimoto, AAL, ALC\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Oshima, Itomura & Fujimoto, AAL, ALC\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Self",
-          "Type": "Pension",
-          "Who Paid": "Employees' Retirement System of the State of Hawaii\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
-          "Amount Paid": "$52,199.16"
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "Employees' Retirement System of the State of Hawaii\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
+          "amount-paid": "$52,199.16"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA required minimum distribution)",
-          "Who Paid": "Capital Bank & Trust\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Amount Paid": "$1,823.36"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA required minimum distribution)",
+          "who-paid": "Capital Bank & Trust\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "$1,823.36"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Hawaii State FCU(HONOLULU, HAWAII)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Hawaii State FCU(HONOLULU, HAWAII)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Territorial Savings(HONOLULU, HAWAII)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Territorial Savings(HONOLULU, HAWAII)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bank of the Orient(HONOLULU, HAWAII)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of the Orient(HONOLULU, HAWAII)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo Liquid Asset Fund(HONOLULU, HAWAII)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Wells Fargo Liquid Asset Fund(HONOLULU, HAWAII)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Congressional FCU(Washington, DC)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Congressional FCU(Washington, DC)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MFC-Manulife Financial Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MFC-Manulife Financial Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SLF-Sun Life Financial Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SLF-Sun Life Financial Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AMCPX-American Funds AMCAP A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "AMCPX-American Funds AMCAP A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "ABNDX-American Funds Bond Fund of Amer A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "ABNDX-American Funds Bond Fund of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "CAIBX-American Funds Capital Inc Bldr A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "CAIBX-American Funds Capital Inc Bldr A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "CWGIX-American Funds Capital World G/I A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$15,001 - $50,000"
+          "asset": "CWGIX-American Funds Capital World G/I A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "AMECX-American Funds Inc Fund of Amer A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "AMECX-American Funds Inc Fund of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "AIVSX-American Funds Invmt Co of Amer A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$15,001 - $50,000"
+          "asset": "AIVSX-American Funds Invmt Co of Amer A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "NEWFX-American Funds New World A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "NEWFX-American Funds New World A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PGGAX-Principal Large Cap Growth I A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "PGGAX-Principal Large Cap Growth I A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "EMPLOYEES' RETIREMENT SYSTEM OF THE STATE OF HAWAII",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "EMPLOYEES' RETIREMENT SYSTEM OF THE STATE OF HAWAII",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RESIDENTIAL RENTALDescription: RESIDENTIAL RENTAL (HONOLULU, HAWAII)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$5,001 - $15,000"
+          "asset": "RESIDENTIAL RENTALDescription: RESIDENTIAL RENTAL (HONOLULU, HAWAII)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "401k Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "401k Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "OPPAX-Oppenheimer Global A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OPPAX-Oppenheimer Global A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TRBCX-T. Rowe Price Blue Chip Growth (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TRBCX-T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PRRXX-T. Rowe Price Prime Reserve Fd (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PRRXX-T. Rowe Price Prime Reserve Fd (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PRTIX-T. Rowe Price US Treasury Interm (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PRTIX-T. Rowe Price US Treasury Interm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PRSIX-T. Rowe Price Personal Strat Inc",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PRSIX-T. Rowe Price Personal Strat Inc",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Spouse IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Spouse IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "AQMIX-AQR Managed Futures Strategy I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AQMIX-AQR Managed Futures Strategy I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FSRIX-Fidelity Advisor Strategic Income I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FSRIX-Fidelity Advisor Strategic Income I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OAKBX-Oakmark Equity & Income I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OAKBX-Oakmark Equity & Income I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIBIX-Thornburg Investment Income Builder I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIBIX-Thornburg Investment Income Builder I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "THOIX-Thornburg Global Opportunities I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "THOIX-Thornburg Global Opportunities I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FTIXX-Financial Square Treasury Instr (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FTIXX-Financial Square Treasury Instr (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JFLEX-Janus Flexible Bond I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "JFLEX-Janus Flexible Bond I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JNBSX-JPMorgan Income Builder Select (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "JNBSX-JPMorgan Income Builder Select (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "NBHIX-Neuberger Berman Equity Income Inst (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "NBHIX-Neuberger Berman Equity Income Inst (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BPAIX-Boston Partners All Cap Value Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BPAIX-Boston Partners All Cap Value Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WABIX-Wells Fargo Absolute Return Inst",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "WABIX-Wells Fargo Absolute Return Inst",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LEVIX - Lazard US Equity Concentrated Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "LEVIX - Lazard US Equity Concentrated Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AVGRX - Dreyfus Dynamic Total Return I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AVGRX - Dreyfus Dynamic Total Return I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "KGDIX - Deutsche Global Small Cap Institutional",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "KGDIX - Deutsche Global Small Cap Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HGOIX - Hartford Growth Opportunities I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "HGOIX - Hartford Growth Opportunities I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EKGIX - Wells Fargo Global Small Cap Fund Class Inst",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EKGIX - Wells Fargo Global Small Cap Fund Class Inst",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA PLAN",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA PLAN",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "CAIBX-American Funds Capital Income Bldr A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "CAIBX-American Funds Capital Income Bldr A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "3109 Waialae Avenue LLCCompany: 3109 Waialae Avenue LLC (Aiea, HI) Description: Rent real estate",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "3109 Waialae Avenue LLCCompany: 3109 Waialae Avenue LLC (Aiea, HI) Description: Rent real estate",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "3109 Waialae Ave., Honolulu, HI  96816Description: Commercial real estate (Honolulu, HI)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$5,001 - $15,000"
+          "asset": "3109 Waialae Ave., Honolulu, HI  96816Description: Commercial real estate (Honolulu, HI)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "Oshima, Itomura & Fujimoto, AAL, ALCDescription: law firm (Honolulu, HI)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Oshima, Itomura & Fujimoto, AAL, ALCDescription: law firm (Honolulu, HI)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "First Hawaiian Bank(HONOLULU, HAWAII)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "First Hawaiian Bank(HONOLULU, HAWAII)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Joint",
-          "Ticker": "PGGAX",
-          "Asset Name": "American Funds Global Growth Portfolio Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/08/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "PGGAX",
+          "asset-name": "American Funds Global Growth Portfolio Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/08/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Spouse",
-          "Ticker": "PRRXX",
-          "Asset Name": "T. Rowe Price Government Money Fund, Inc.",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "PRRXX",
+          "asset-name": "T. Rowe Price Government Money Fund, Inc.",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Spouse",
-          "Ticker": "PRTIX",
-          "Asset Name": "T. Rowe Price U.S. Treasury Intermediate Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "PRTIX",
+          "asset-name": "T. Rowe Price U.S. Treasury Intermediate Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Spouse",
-          "Ticker": "PRSIX",
-          "Asset Name": "T. Rowe Price Personal Strategy Income Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "PRSIX",
+          "asset-name": "T. Rowe Price Personal Strategy Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Spouse",
-          "Ticker": "PRSIX",
-          "Asset Name": "T. Rowe Price Personal Strategy Income Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/24/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "PRSIX",
+          "asset-name": "T. Rowe Price Personal Strategy Income Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/24/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Spouse",
-          "Ticker": "EKGIX",
-          "Asset Name": "Wells Fargo Global Small Cap Fund Class Inst",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/16/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "EKGIX",
+          "asset-name": "Wells Fargo Global Small Cap Fund Class Inst",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/16/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Spouse",
-          "Ticker": "KGDIX",
-          "Asset Name": "DWS Global Small Cap Fund - Class Inst",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "05/16/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "KGDIX",
+          "asset-name": "DWS Global Small Cap Fund - Class Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "05/16/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "2.625",
-          "Rate(Term)": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 YEARS)",
-          "Amount": "$500,001 - $1,000,000",
-          "Creditor": "TERRITORIAL SAVINGS\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "2.625",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 YEARS)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "TERRITORIAL SAVINGS\n\t\t\t\t\t\t\t\tHONOLULU, HAWAII",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.50%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 YEARS)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "CALIBER HOME LOANS\n\t\t\t\t\t\t\t\tEWING, NJ",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.50%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 YEARS)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "CALIBER HOME LOANS\n\t\t\t\t\t\t\t\tEWING, NJ",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2003",
-          "Parties Involved": "Hawaii Employees Retirement System\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Type": "Continuation of payments by former employer",
-          "Status and Terms": "Retirement health benefits and pension for former employment with the Hawaii State Government."
+          "date": "Jan 2003",
+          "parties-involved": "Hawaii Employees Retirement System\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "type": "Continuation of payments by former employer",
+          "status-and-terms": "Retirement health benefits and pension for former employment with the Hawaii State Government."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

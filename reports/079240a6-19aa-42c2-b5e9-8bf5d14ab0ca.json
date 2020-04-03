@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/01/2016",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 06/01/2016 @ 12:54 PM",
+  "filed-date": "06/01/2016",
+  "filed-time": "12:54 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/12/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Hannon Armstrong Sustainable Infrastructure",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/12/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Hannon Armstrong Sustainable Infrastructure",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/12/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Universal Health Realty Inc Tr",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/12/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Universal Health Realty Inc Tr",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

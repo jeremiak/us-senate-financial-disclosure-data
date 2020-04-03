@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 10/30/2014 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 04/14/2015 @ 2:44 PM",
+  "filed-date": "04/14/2015",
+  "filed-time": "2:44 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/01/2014",
-          "Owner": "Joint",
-          "Ticker": "VIXY",
-          "Asset Name": "ProShares VIX Short-Term Futures (NYSEArca)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/01/2014",
+          "owner": "Joint",
+          "ticker": "VIXY",
+          "asset-name": "ProShares VIX Short-Term Futures (NYSEArca)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

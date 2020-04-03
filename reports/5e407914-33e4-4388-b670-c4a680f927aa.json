@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 06/28/2018 (Amendment 1)",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 05/10/2019 @ 12:22 PM",
+  "filed-date": "05/10/2019",
+  "filed-time": "12:22 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "06/25/2018",
-          "Owner": "Spouse",
-          "Ticker": "AMZN",
-          "Asset Name": "Amazon.com, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "06/25/2018",
+          "owner": "Spouse",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "4",
-          "Transaction Date": "06/25/2018",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Sep"
+          "transaction-date": "06/25/2018",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Sep"
         },
         {
-          "#": "3",
-          "Transaction Date": "06/22/2018",
-          "Owner": "Joint",
-          "Ticker": "CVX",
-          "Asset Name": "Chevron Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Jt"
+          "transaction-date": "06/22/2018",
+          "owner": "Joint",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Jt"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/22/2018",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Sep"
+          "transaction-date": "06/22/2018",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Sep"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/22/2018",
-          "Owner": "Spouse",
-          "Ticker": "AMZN",
-          "Asset Name": "Amazon.com, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "06/22/2018",
+          "owner": "Spouse",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         }
       ]
     }

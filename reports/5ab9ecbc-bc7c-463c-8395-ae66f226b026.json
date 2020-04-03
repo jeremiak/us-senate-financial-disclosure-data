@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/08/2018",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 11/08/2018 @ 5:20 PM",
+  "filed-date": "11/08/2018",
+  "filed-time": "5:20 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "10/31/2018",
-          "Owner": "Spouse",
-          "Ticker": "PX\n                                        \n                                        \n                                            \n                                            LIN",
-          "Asset Name": "Praxair, Inc. (Exchanged)\n                                            \n                                            Linde plc (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/31/2018",
+          "owner": "Spouse",
+          "ticker": "PX\n                                        \n                                        \n                                            \n                                            LIN",
+          "asset-name": "Praxair, Inc. (Exchanged)\n                                            \n                                            Linde plc (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/17/2018",
-          "Owner": "Spouse",
-          "Ticker": "JNJ",
-          "Asset Name": "Johnson & Johnson",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/17/2018",
+          "owner": "Spouse",
+          "ticker": "JNJ",
+          "asset-name": "Johnson & Johnson",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/16/2018",
-          "Owner": "Spouse",
-          "Ticker": "JPM",
-          "Asset Name": "JPMorgan Chase & Co.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/16/2018",
+          "owner": "Spouse",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

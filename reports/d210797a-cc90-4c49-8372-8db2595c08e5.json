@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/06/2017",
   "filer": "Mr. David A Perdue Jr (Perdue, David)",
-  "filedDate": "Filed 12/06/2017 @ 5:08 PM",
+  "filed-date": "12/06/2017",
+  "filed-time": "5:08 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "09/01/2017",
-          "Owner": "Joint",
-          "Ticker": "DD-PA\n                                        \n                                        \n                                            \n                                            DWDP",
-          "Asset Name": "E. I. du Pont de Nemours and Company (Exchanged)\n                                            \n                                            DowDuPont Inc. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "This transaction was filed on October 2 but was re-filed with the new system"
+          "transaction-date": "09/01/2017",
+          "owner": "Joint",
+          "ticker": "DD-PA\n                                        \n                                        \n                                            \n                                            DWDP",
+          "asset-name": "E. I. du Pont de Nemours and Company (Exchanged)\n                                            \n                                            DowDuPont Inc. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "This transaction was filed on October 2 but was re-filed with the new system"
         }
       ]
     }

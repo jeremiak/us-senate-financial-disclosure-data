@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/07/2016",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 06/07/2016 @ 10:36 AM",
+  "filed-date": "06/07/2016",
+  "filed-time": "10:36 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "05/23/2016",
-          "Owner": "Self",
-          "Ticker": "PRGO",
-          "Asset Name": "Perrigo Company plc",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/23/2016",
+          "owner": "Self",
+          "ticker": "PRGO",
+          "asset-name": "Perrigo Company plc",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "05/25/2016",
-          "Owner": "Self",
-          "Ticker": "BABA",
-          "Asset Name": "Alibaba Group Holding Limited",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/25/2016",
+          "owner": "Self",
+          "ticker": "BABA",
+          "asset-name": "Alibaba Group Holding Limited",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/17/2016",
-          "Owner": "Self",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/17/2016",
+          "owner": "Self",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/12/2016",
-          "Owner": "Self",
-          "Ticker": "CLR",
-          "Asset Name": "Continental Resources, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/12/2016",
+          "owner": "Self",
+          "ticker": "CLR",
+          "asset-name": "Continental Resources, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

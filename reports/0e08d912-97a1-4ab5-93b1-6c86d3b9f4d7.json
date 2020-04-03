@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/03/2015",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 08/03/2015 @ 9:50 AM",
+  "filed-date": "08/03/2015",
+  "filed-time": "9:50 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/21/2015",
-          "Owner": "Spouse",
-          "Ticker": "ABT",
-          "Asset Name": "Abbott Laboratories (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/21/2015",
+          "owner": "Spouse",
+          "ticker": "ABT",
+          "asset-name": "Abbott Laboratories (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,272 +1,282 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "Mrs. Marsha Blackburn (Blackburn, Marsha)",
-  "filedDate": "Filed 08/12/2019 @ 10:16 PM",
+  "filed-date": "08/12/2019",
+  "filed-time": "10:16 PM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Pension",
-          "Who Paid": "Tennessee Consolidated Retirement System\n\t\t\t\t\t\t\t\tNashville, TN",
-          "Amount Paid": "$4,740.06"
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "Tennessee Consolidated Retirement System\n\t\t\t\t\t\t\t\tNashville, TN",
+          "amount-paid": "$4,740.06"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Strategic Sales Tactics Inc\n\t\t\t\t\t\t\t\tBrentwood, TN",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Strategic Sales Tactics Inc\n\t\t\t\t\t\t\t\tBrentwood, TN",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "First Tennessee(Brentwood, TN)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "First Tennessee(Brentwood, TN)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First Tennessee(Brentwood, TN)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "First Tennessee(Brentwood, TN)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Payflex Systems USA INC(Omaha, NE)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Payflex Systems USA INC(Omaha, NE)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Strategic Sales Tactics Inc.Company: Strategic Sales Tactics Inc (Brentwood, TN) Description: Marketing Consulting",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Strategic Sales Tactics Inc.Company: Strategic Sales Tactics Inc (Brentwood, TN) Description: Marketing Consulting",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Principal Investment Plus Variable AnnuityProvider: Principal Financial Group",
-          "Asset Type": "AnnuityVariable Annuity",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Principal Investment Plus Variable AnnuityProvider: Principal Financial Group",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Balanced Asset Allocation Diversified Inc.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Balanced Asset Allocation Diversified Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Principal Investment Plus Variable AnnuityProvider: Principal Financial Group",
-          "Asset Type": "AnnuityVariable Annuity",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Principal Investment Plus Variable AnnuityProvider: Principal Financial Group",
+          "asset-type": "AnnuityVariable Annuity",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Balanced Asset Allocation Diversified Inc.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Balanced Asset Allocation Diversified Inc.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Funds Brokerage Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "American Funds Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "ABALX - American Funds American Balanced Fund Class A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "ABALX - American Funds American Balanced Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AIVSX - American Funds Investment Company of America Class",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "AIVSX - American Funds Investment Company of America Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "ANWPX - American Funds New Perspective Fund Class A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "ANWPX - American Funds New Perspective Fund Class A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MetLife IRA",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "MetLife IRA",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "AB Global Dynamic Allocation Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "AB Global Dynamic Allocation Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Invesco Balanced Risk Allocation Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Invesco Balanced Risk Allocation Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Blackrock Global Tactical Strategies Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Blackrock Global Tactical Strategies Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JP Morgan Global Active Allocation Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "JP Morgan Global Active Allocation Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BHLife Balanced Plus Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "BHLife Balanced Plus Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Schroeders Global Multi-Asset Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Schroeders Global Multi-Asset Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "State of Tennessee Pension",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "Unascertainable",
-          "Income Type": "Other, (Annual Pension Payment)",
-          "Income": "Other $4,740.00"
+          "asset": "State of Tennessee Pension",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "Other, (Annual Pension Payment)",
+          "income": "Other $4,740.00"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2014",
-          "Debtor": "Self",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3-5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year fixed)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Pinnacle Bank\n\t\t\t\t\t\t\t\tNashville, TN",
-          "Comments": "-"
+          "incurred": "2014",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3-5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year fixed)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Pinnacle Bank\n\t\t\t\t\t\t\t\tNashville, TN",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2010",
-          "Debtor": "Spouse",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3-5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year fixed)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Wells Fargo Bank\n\t\t\t\t\t\t\t\tBrentwood, TN",
-          "Comments": "-"
+          "incurred": "2010",
+          "debtor": "Spouse",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3-5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year fixed)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo Bank\n\t\t\t\t\t\t\t\tBrentwood, TN",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2008",
-          "Debtor": "Spouse",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3-5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year fixed)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "First Tennessee Bank\n\t\t\t\t\t\t\t\tBrentwood, TN",
-          "Comments": "-"
+          "incurred": "2008",
+          "debtor": "Spouse",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3-5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 year fixed)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "First Tennessee Bank\n\t\t\t\t\t\t\t\tBrentwood, TN",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Feb 2002",
-          "Parties Involved": "State of Tennessee\n\t\t\t\t\t\t\t\tNashville, TN",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Legislative Pension)",
-          "Status and Terms": "Legislative Pension with the State of TN"
+          "date": "Feb 2002",
+          "parties-involved": "State of Tennessee\n\t\t\t\t\t\t\t\tNashville, TN",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Legislative Pension)",
+          "status-and-terms": "Legislative Pension with the State of TN"
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

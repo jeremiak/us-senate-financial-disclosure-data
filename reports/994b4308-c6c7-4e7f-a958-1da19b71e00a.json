@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/07/2015",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 05/07/2015 @ 1:03 PM",
+  "filed-date": "05/07/2015",
+  "filed-time": "1:03 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "05/28/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/28/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "04/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "CVX",
-          "Asset Name": "Chevron Corporation (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sep"
+          "transaction-date": "04/24/2015",
+          "owner": "Spouse",
+          "ticker": "CVX",
+          "asset-name": "Chevron Corporation (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sep"
         },
         {
-          "#": "4",
-          "Transaction Date": "04/22/2015",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Sep"
+          "transaction-date": "04/22/2015",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Sep"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/14/2015",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Sep"
+          "transaction-date": "04/14/2015",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Sep"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "04/24/2015",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "04/24/2015",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         }
       ]
     }

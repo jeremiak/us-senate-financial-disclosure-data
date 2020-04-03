@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/10/2017",
   "filer": "The Honorable Michael F Bennet (Bennet, Michael)",
-  "filedDate": "Filed 04/10/2017 @ 5:20 PM",
+  "filed-date": "04/10/2017",
+  "filed-time": "5:20 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "03/28/2017",
-          "Owner": "Self",
-          "Ticker": "RGC",
-          "Asset Name": "Regal Entertainment Group",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "transaction-date": "03/28/2017",
+          "owner": "Self",
+          "ticker": "RGC",
+          "asset-name": "Regal Entertainment Group",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         }
       ]
     }

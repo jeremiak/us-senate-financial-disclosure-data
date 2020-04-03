@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/14/2019",
   "filer": "The Honorable Roger F Wicker (Wicker, Roger)",
-  "filedDate": "Filed 05/14/2019 @ 1:02 PM",
+  "filed-date": "05/14/2019",
+  "filed-time": "1:02 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "08/24/2018",
-          "Owner": "Spouse",
-          "Ticker": "GDV",
-          "Asset Name": "The Gabelli Dividend & Income Trust",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/24/2018",
+          "owner": "Spouse",
+          "ticker": "GDV",
+          "asset-name": "The Gabelli Dividend & Income Trust",
+          "asset-type": "Other Securities",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

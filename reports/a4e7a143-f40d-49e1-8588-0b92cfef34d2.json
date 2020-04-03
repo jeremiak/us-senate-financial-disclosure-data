@@ -1,327 +1,335 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2016",
   "filer": "Ms. Catherine Cortez Masto (Cortez Masto, Catherine )",
-  "filedDate": "Filed 05/15/2017 @ 6:31 PM",
+  "filed-date": "05/15/2017",
+  "filed-time": "6:31 PM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Universal Security Specialists\n\t\t\t\t\t\t\t\tLas Vegas, Nevada",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Universal Security Specialists\n\t\t\t\t\t\t\t\tLas Vegas, Nevada",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Nevada Public Employees' Retirement System",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Nevada Public Employees' Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Clark County Credit Union(Las Vegas, Nevada)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Clark County Credit Union(Las Vegas, Nevada)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USAA(Las Vegas, Nevada)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "USAA(Las Vegas, Nevada)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Town & Country Bank(Las Vegas, Nevada)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Town & Country Bank(Las Vegas, Nevada)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Town & Country Bank(Las Vegas, Nevada)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Town & Country Bank(Las Vegas, Nevada)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Undeveloped LandDescription: Undeveloped Land (Las Vegas, Nevada)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undeveloped LandDescription: Undeveloped Land (Las Vegas, Nevada)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Rental PropertyDescription: Single family rental property (Las Vegas, Nevada)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Rental PropertyDescription: Single family rental property (Las Vegas, Nevada)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Universal Security SpecialistsCompany: Universal Security Specialists (Las Vegas, Nevada) Description: S-corporation providing security services",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Universal Security SpecialistsCompany: Universal Security Specialists (Las Vegas, Nevada) Description: S-corporation providing security services",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VOYA - Voya Financial, Inc.",
-          "Asset Type": "Deferred CompensationDeferred Compensation - Other",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "VOYA - Voya Financial, Inc.",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "VINIX - Vanguard Institutional Index I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VINIX - Vanguard Institutional Index I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HBMCX - Hartford MidCap HLS IB",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "HBMCX - Hartford MidCap HLS IB",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Voya Fixed Account 457/401 II",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Voya Fixed Account 457/401 II",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OPMYX - Oppenheimer Main Street Mid Cap Y",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OPMYX - Oppenheimer Main Street Mid Cap Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PRGFX - T. Rowe Price Growth Stock",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PRGFX - T. Rowe Price Growth Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GSMYX - Goldman Sachs Small/Mid Cap Growth Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "GSMYX - Goldman Sachs Small/Mid Cap Growth Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab Trust Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Trust Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "SWMXX - Schwab Money Market Fd",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SWMXX - Schwab Money Market Fd",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "SWLBX - Schwab Total Bond Market",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SWLBX - Schwab Total Bond Market",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OAKLX - Oakmark Select I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OAKLX - Oakmark Select I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WEBAX - TETON Westwood Balanced AAA",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "WEBAX - TETON Westwood Balanced AAA",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TBGVX - Tweedy, Browne Global Value",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TBGVX - Tweedy, Browne Global Value",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VLAAX - Value Line Asset Allocation Investor",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VLAAX - Value Line Asset Allocation Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "United States Senate Federal Credit Union(Alexandria, Virginia)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "United States Senate Federal Credit Union(Alexandria, Virginia)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "United States Senate Federal Credit Union(Alexandria, Virginia)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "United States Senate Federal Credit Union(Alexandria, Virginia)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Patriot Federal Bank(Amsterdam, New York)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Patriot Federal Bank(Amsterdam, New York)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2007",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Ditech Financial LLC\n\t\t\t\t\t\t\t\tRapid City, South Dakota",
-          "Comments": "-"
+          "incurred": "2007",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Ditech Financial LLC\n\t\t\t\t\t\t\t\tRapid City, South Dakota",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
-          "Entity": "UNLV Boyd School of Law Dean's Advisory Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLas Vegas, Nevada",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "UNLV Boyd School of Law Dean's Advisory Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLas Vegas, Nevada",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
-          "Entity": "Children's Advocacy Alliance\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLas Vegas, Nevada",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": ""
+          "position-dates": "Jan 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Children's Advocacy Alliance\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLas Vegas, Nevada",
+          "entity-type": "Nonprofit Organization",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Apr 2015 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
-          "Entity": "Girl Scouts of Southern Nevada\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLas Vegas, Nevada",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": ""
+          "position-dates": "Apr 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Girl Scouts of Southern Nevada\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLas Vegas, Nevada",
+          "entity-type": "Nonprofit Organization",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2015",
-          "Parties Involved": "Nevada Public Employees' Retirement System of Nevada\n\t\t\t\t\t\t\t\tLas Vegas, Nevada",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Nevada PERS is a defined benefit pension eligible to retire at age 60."
+          "date": "Jan 2015",
+          "parties-involved": "Nevada Public Employees' Retirement System of Nevada\n\t\t\t\t\t\t\t\tLas Vegas, Nevada",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Nevada PERS is a defined benefit pension eligible to retire at age 60."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Source": "State of Nevada\n\t\t\t\t\t\t\t\tCarson City, Nevada",
-          "Duties": "Attorney General"
+          "source": "State of Nevada\n\t\t\t\t\t\t\t\tCarson City, Nevada",
+          "duties": "Attorney General"
         },
         {
-          "#": "2",
-          "Source": "Nevada System of Higher Education\n\t\t\t\t\t\t\t\tLas Vegas, Nevada",
-          "Duties": "Executive Vice Chancellor"
+          "source": "Nevada System of Higher Education\n\t\t\t\t\t\t\t\tLas Vegas, Nevada",
+          "duties": "Executive Vice Chancellor"
         }
       ]
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

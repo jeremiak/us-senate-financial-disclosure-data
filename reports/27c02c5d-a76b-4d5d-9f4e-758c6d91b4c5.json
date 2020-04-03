@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/03/2018",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 08/03/2018 @ 11:17 AM",
+  "filed-date": "08/03/2018",
+  "filed-time": "11:17 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "07/26/2018",
-          "Owner": "Self",
-          "Ticker": "WTW",
-          "Asset Name": "Weight Watchers International, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "07/26/2018",
+          "owner": "Self",
+          "ticker": "WTW",
+          "asset-name": "Weight Watchers International, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/25/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Westbrand, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, North Dakota)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Westbrand, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Westbrand, Inc.\n                                                    \n                                                         (Minot, North Dakota)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Bank holding company of First Western Bank",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

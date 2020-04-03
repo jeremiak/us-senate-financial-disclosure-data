@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/09/2018",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 01/09/2018 @ 1:47 PM",
+  "filed-date": "01/09/2018",
+  "filed-time": "1:47 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "12/29/2017",
-          "Owner": "Self",
-          "Ticker": "AMZN",
-          "Asset Name": "Amazon.com, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "12/29/2017",
+          "owner": "Self",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/29/2017",
-          "Owner": "Self",
-          "Ticker": "AVGO",
-          "Asset Name": "Broadcom Limited",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "12/29/2017",
+          "owner": "Self",
+          "ticker": "AVGO",
+          "asset-name": "Broadcom Limited",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

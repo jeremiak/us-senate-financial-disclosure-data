@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/09/2016",
   "filer": "The Honorable Timothy M Kaine (Kaine, Tim)",
-  "filedDate": "Filed 08/09/2016 @ 4:43 PM",
+  "filed-date": "08/09/2016",
+  "filed-time": "4:43 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "12/03/2014",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Kinder Morgan Energy Partners (KMP)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/03/2014",
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Kinder Morgan Energy Partners (KMP)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/03/2014",
-          "Owner": "Child",
-          "Ticker": "KMI",
-          "Asset Name": "Kinder Morgan, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "KMI acquired KMP on 12/3/2014 through a corporate exchange"
+          "transaction-date": "12/03/2014",
+          "owner": "Child",
+          "ticker": "KMI",
+          "asset-name": "Kinder Morgan, Inc.",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "KMI acquired KMP on 12/3/2014 through a corporate exchange"
         }
       ]
     }

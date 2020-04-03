@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/26/2015",
   "filer": "Mr. David A Perdue Jr (Perdue, David)",
-  "filedDate": "Filed 06/26/2015 @ 12:02 PM",
+  "filed-date": "06/26/2015",
+  "filed-time": "12:02 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "06/19/2015",
-          "Owner": "Joint",
-          "Ticker": "CVC",
-          "Asset Name": "Cablevision Systems Corporation (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/19/2015",
+          "owner": "Joint",
+          "ticker": "CVC",
+          "asset-name": "Cablevision Systems Corporation (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "06/11/2015",
-          "Owner": "Joint",
-          "Ticker": "ANTM",
-          "Asset Name": "Anthem, Inc. (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/11/2015",
+          "owner": "Joint",
+          "ticker": "ANTM",
+          "asset-name": "Anthem, Inc. (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "05/29/2015",
-          "Owner": "Joint",
-          "Ticker": "DISCA",
-          "Asset Name": "Discovery Communications, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/29/2015",
+          "owner": "Joint",
+          "ticker": "DISCA",
+          "asset-name": "Discovery Communications, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/03/2015",
-          "Owner": "Joint",
-          "Ticker": "AXLL",
-          "Asset Name": "Axiall Corporation (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/03/2015",
+          "owner": "Joint",
+          "ticker": "AXLL",
+          "asset-name": "Axiall Corporation (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/04/2015",
-          "Owner": "Joint",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/04/2015",
+          "owner": "Joint",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

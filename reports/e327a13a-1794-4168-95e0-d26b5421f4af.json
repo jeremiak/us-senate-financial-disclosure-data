@@ -1,330 +1,338 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2013",
   "filer": "The Honorable Brian E Schatz (Schatz, Brian)",
-  "filedDate": "Filed 06/13/2014 @ 4:18 PM",
+  "filed-date": "06/13/2014",
+  "filed-time": "4:18 PM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Wages",
-          "Who Paid": "State of Hawaii Central Payroll\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Amount Paid": "$23,799.00"
+          "who-was-paid": "Self",
+          "type": "Wages",
+          "who-paid": "State of Hawaii Central Payroll\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "$23,799.00"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Wages",
-          "Who Paid": "Trustees of the Estate of Bernice Pauahi Bishop\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Wages",
+          "who-paid": "Trustees of the Estate of Bernice Pauahi Bishop\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Self",
-          "Type": "Pension",
-          "Who Paid": "Employee's Retirement System of the State of Hawaii\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Amount Paid": "$29,270.00"
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "Employee's Retirement System of the State of Hawaii\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "$29,270.00"
         },
         {
-          "#": "4",
-          "Who Was Paid": "Spouse",
-          "Type": "Pension",
-          "Who Paid": "Life Insurance Co. of the Southwest\n\t\t\t\t\t\t\t\tMontpelier, VT",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Pension",
+          "who-paid": "Life Insurance Co. of the Southwest\n\t\t\t\t\t\t\t\tMontpelier, VT",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "5",
-          "Who Was Paid": "Spouse",
-          "Type": "Self-Employment Income",
-          "Who Paid": "Pauoa Valley Preserve, LLC\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Pauoa Valley Preserve, LLC\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Bank of Hawaii(Honolulu, HI)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of Hawaii(Honolulu, HI)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Life Insurance of the SouthwestProvider: Life Insurance of the Southwest",
-          "Asset Type": "Life InsuranceSplit-Dollar",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (Pension)",
-          "Income": "Other $299.00"
+          "asset": "Life Insurance of the SouthwestProvider: Life Insurance of the Southwest",
+          "asset-type": "Life InsuranceSplit-Dollar",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Pension)",
+          "income": "Other $299.00"
         },
         {
-          "Asset": "Bank of Hawaii(Honolulu, HI)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Bank of Hawaii(Honolulu, HI)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Brookfield 401(k)",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Brookfield 401(k)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Wellington Select Fundamental Value Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Wellington Select Fundamental Value Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PRSGX - T. Rowe Price Spectrum Growth (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PRSGX - T. Rowe Price Spectrum Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AEPGX - American Funds EuroPacific Gr A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AEPGX - American Funds EuroPacific Gr A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Employee's Retirement System of the State of Hawaii",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "Unascertainable",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Employee's Retirement System of the State of Hawaii",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "TIAA-CREF Research Corp of UH Retirement",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "TIAA-CREF Research Corp of UH Retirement",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "CREF Stock",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "CREF Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIQRX - TIAA-CREF Equity Index R (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIQRX - TIAA-CREF Equity Index R (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TRSCX - TIAA-CREF Social Choice Eq Retire (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TRSCX - TIAA-CREF Social Choice Eq Retire (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TRRSX - TIAA-CREF Real Estate Sec Retire (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TRRSX - TIAA-CREF Real Estate Sec Retire (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mutual of America 403(b) Thrift",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Mutual of America 403(b) Thrift",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "MASSX - Mutual of America Small Cap Growth Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MASSX - Mutual of America Small Cap Growth Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MAVSX - Mutual of America Small Cap Value Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MAVSX - Mutual of America Small Cap Value Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mutual of America - Calvert VP SRI Balanced Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Mutual of America - Calvert VP SRI Balanced Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mutual of America - Fidelity Investments VIP Contrafund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Mutual of America - Fidelity Investments VIP Contrafund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Funds 529Institution: American Funds",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "American Funds 529Institution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "CWMAX - American Funds Washington Mutual 529A (NASDAQ)Institution: American Funds",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "CWMAX - American Funds Washington Mutual 529A (NASDAQ)Institution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Investment Company of America - 529AInstitution: American Funds",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Investment Company of America - 529AInstitution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Growth Fund of America - 529AInstitution: American Funds",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Growth Fund of America - 529AInstitution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Intermediate Bond Fund of America - 529AInstitution: American Funds",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Intermediate Bond Fund of America - 529AInstitution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CWMBX - American Funds Washington Mutual 529B (NASDAQ)Institution: American Funds",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "CWMBX - American Funds Washington Mutual 529B (NASDAQ)Institution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Investment Company of America - 529BInstitution: American Funds",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Investment Company of America - 529BInstitution: American Funds",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "T Rowe Price (Kamehameha Schools 401(k))",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "T Rowe Price (Kamehameha Schools 401(k))",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.750%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
-          "Amount": "$500,001 - $1,000,000",
-          "Creditor": "First Hawaiian Bank\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Comments": "Mortgage inadvertently left off of New Member report (2012)."
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.750%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "First Hawaiian Bank\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "comments": "Mortgage inadvertently left off of New Member report (2012)."
         },
         {
-          "#": "2",
-          "Incurred": "2012",
-          "Debtor": "Joint",
-          "Type": "Home Equity Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "Bank of Hawaii\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Comments": "-"
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Bank of Hawaii\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Dec 2009",
-          "Parties Involved": "State of Hawaii\n\t\t\t\t\t\t\t\tHonolulu, HI",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Pension"
+          "date": "Dec 2009",
+          "parties-involved": "State of Hawaii\n\t\t\t\t\t\t\t\tHonolulu, HI",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Pension"
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

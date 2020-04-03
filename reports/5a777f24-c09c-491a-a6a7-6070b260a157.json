@@ -1,95 +1,109 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2016",
   "filer": "The Honorable Kirsten E Gillibrand (Gillibrand, Kirsten E.)",
-  "filedDate": "Filed 05/15/2017 @ 4:37 PM",
+  "filed-date": "05/15/2017",
+  "filed-time": "4:37 PM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "GBS Holdings/Advantia\n\t\t\t\t\t\t\t\tArlington, VA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "GBS Holdings/Advantia\n\t\t\t\t\t\t\t\tArlington, VA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Citibank(New York City, NY)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Citibank(New York City, NY)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Citibank(New York City, New York)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Citibank(New York City, New York)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Windcrest LLC Stock, Medical Services, Bethesda, MD",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Windcrest LLC Stock, Medical Services, Bethesda, MD",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Aug 2013",
-          "Parties Involved": "Random House Inc. - Ballantine Bantam Dell\n\t\t\t\t\t\t\t\tNew York City, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "The agreement is to receive an advance and royalties based on usual and customary terms for the publication of book, titled \"Off the Sidelines - Raise Your Voice, Change the World\""
+          "date": "Aug 2013",
+          "parties-involved": "Random House Inc. - Ballantine Bantam Dell\n\t\t\t\t\t\t\t\tNew York City, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "The agreement is to receive an advance and royalties based on usual and customary terms for the publication of book, titled \"Off the Sidelines - Raise Your Voice, Change the World\""
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

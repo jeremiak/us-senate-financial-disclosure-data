@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/06/2017",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 11/06/2017 @ 8 PM",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "10/31/2017",
-          "Owner": "Spouse",
-          "Ticker": "FB",
-          "Asset Name": "Facebook, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "10/31/2017",
+          "owner": "Spouse",
+          "ticker": "FB",
+          "asset-name": "Facebook, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "5",
-          "Transaction Date": "10/30/2017",
-          "Owner": "Spouse",
-          "Ticker": "NVDA",
-          "Asset Name": "NVIDIA Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "10/30/2017",
+          "owner": "Spouse",
+          "ticker": "NVDA",
+          "asset-name": "NVIDIA Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "4",
-          "Transaction Date": "10/30/2017",
-          "Owner": "Spouse",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "10/30/2017",
+          "owner": "Spouse",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "3",
-          "Transaction Date": "10/30/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "AMZN-Amazon.com, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "10/30/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "AMZN-Amazon.com, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/30/2017",
-          "Owner": "Spouse",
-          "Ticker": "COF",
-          "Asset Name": "Capital One Financial Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "sep"
+          "transaction-date": "10/30/2017",
+          "owner": "Spouse",
+          "ticker": "COF",
+          "asset-name": "Capital One Financial Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "sep"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/30/2017",
-          "Owner": "Spouse",
-          "Ticker": "FB",
-          "Asset Name": "Facebook, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "sep"
+          "transaction-date": "10/30/2017",
+          "owner": "Spouse",
+          "ticker": "FB",
+          "asset-name": "Facebook, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "sep"
         }
       ]
     }

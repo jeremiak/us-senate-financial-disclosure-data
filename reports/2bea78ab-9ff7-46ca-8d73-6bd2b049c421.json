@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/30/2017",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 01/30/2017 @ 7:15 PM",
+  "filed-date": "01/30/2017",
+  "filed-time": "7:15 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "01/19/2017",
-          "Owner": "Spouse",
-          "Ticker": "FB",
-          "Asset Name": "Facebook, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "01/19/2017",
+          "owner": "Spouse",
+          "ticker": "FB",
+          "asset-name": "Facebook, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "2",
-          "Transaction Date": "01/09/2017",
-          "Owner": "Spouse",
-          "Ticker": "TJX",
-          "Asset Name": "The TJX Companies, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "01/09/2017",
+          "owner": "Spouse",
+          "ticker": "TJX",
+          "asset-name": "The TJX Companies, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/03/2017",
-          "Owner": "Spouse",
-          "Ticker": "NOC",
-          "Asset Name": "Northrop Grumman Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "01/03/2017",
+          "owner": "Spouse",
+          "ticker": "NOC",
+          "asset-name": "Northrop Grumman Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         }
       ]
     }

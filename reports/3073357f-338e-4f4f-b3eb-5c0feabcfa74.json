@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 06/16/2016 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 11/30/2017 @ 4:41 PM",
+  "filed-date": "11/30/2017",
+  "filed-time": "4:41 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "06/09/2016",
-          "Owner": "Joint",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/09/2016",
+          "owner": "Joint",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/11/2018",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 06/11/2018 @ 12:01 PM",
+  "filed-date": "06/11/2018",
+  "filed-time": "12:01 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/16/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Amazon.com, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "ugma--lily"
+          "transaction-date": "05/16/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Amazon.com, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "ugma--lily"
         }
       ]
     }

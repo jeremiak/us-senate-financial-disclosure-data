@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/09/2018",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/09/2018 @ 5:22 PM",
+  "filed-date": "05/09/2018",
+  "filed-time": "5:22 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "04/18/2018",
-          "Owner": "Self",
-          "Ticker": "IBM",
-          "Asset Name": "International Business Machines Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/18/2018",
+          "owner": "Self",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

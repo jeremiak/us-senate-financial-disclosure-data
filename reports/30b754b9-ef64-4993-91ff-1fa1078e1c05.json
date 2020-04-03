@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/02/2014",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 09/02/2014 @ 11:50 AM",
+  "filed-date": "09/02/2014",
+  "filed-time": "11:50 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "08/26/2014",
-          "Owner": "Spouse",
-          "Ticker": "KSU",
-          "Asset Name": "Kansas City Southern (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "FR"
+          "transaction-date": "08/26/2014",
+          "owner": "Spouse",
+          "ticker": "KSU",
+          "asset-name": "Kansas City Southern (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "FR"
         },
         {
-          "#": "4",
-          "Transaction Date": "08/26/2014",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "SEP"
+          "transaction-date": "08/26/2014",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation (NASDAQ)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "SEP"
         },
         {
-          "#": "3",
-          "Transaction Date": "08/26/2014",
-          "Owner": "Spouse",
-          "Ticker": "TWTR",
-          "Asset Name": "Twitter, Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "08/26/2014",
+          "owner": "Spouse",
+          "ticker": "TWTR",
+          "asset-name": "Twitter, Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "2",
-          "Transaction Date": "08/26/2014",
-          "Owner": "Spouse",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "08/26/2014",
+          "owner": "Spouse",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "1",
-          "Transaction Date": "08/26/2014",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "08/26/2014",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         }
       ]
     }

@@ -1,666 +1,652 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2014 (Amendment 1)",
   "filer": "The Honorable Timothy M Kaine (Kaine, Tim)",
-  "filedDate": "Filed 06/03/2015 @ 7:27 PM",
+  "filed-date": "06/03/2015",
+  "filed-time": "7:27 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Commonwealth of Virginia\n\t\t\t\t\t\t\t\tRichmond, VA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Commonwealth of Virginia\n\t\t\t\t\t\t\t\tRichmond, VA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "IRA Managed by Morgan Stanley",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA Managed by Morgan Stanley",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "SGENX - First Eagle Global A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SGENX - First Eagle Global A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley Consultant Advisor Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Morgan Stanley Consultant Advisor Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GE - General Electric Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "GE - General Electric Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SunTrust(Richmond, VA)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "SunTrust(Richmond, VA)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Wells Fargo(Richmond, VA)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Richmond, VA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA managed by Morgan Stanley",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA managed by Morgan Stanley",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "SGIIX - First Eagle Global I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "MDISX - Franklin Mutual Global Discovery Z (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MDISX - Franklin Mutual Global Discovery Z (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "LSBDX - Loomis Sayles Bond Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "LSBDX - Loomis Sayles Bond Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "DIFIX - MFS Diversified Income I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DIFIX - MFS Diversified Income I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "MEDIX - MFS Emerging Markets Debt I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MEDIX - MFS Emerging Markets Debt I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ODMAX - Oppenheimer Developing Markets A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ODMAX - Oppenheimer Developing Markets A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TGBAX - Templeton Global Bond Adv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "TGBAX - Templeton Global Bond Adv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "VWINX - Vanguard Wellesley Income Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VWINX - Vanguard Wellesley Income Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "RYSEX - Royce Special Equity Invmt (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "RYSEX - Royce Special Equity Invmt (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BPRIX - BlackRock Inflation Protected Bond Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "BPRIX - BlackRock Inflation Protected Bond Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Fidelity UTMA Account",
-          "Asset Type": "UGMA/UTMA",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity UTMA Account",
+          "asset-type": "UGMA/UTMA",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FGRIX - Fidelity Growth & Income Portfolio (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FGRIX - Fidelity Growth & Income Portfolio (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Virginia R. Holton Grandchildren's TrustFiler comment:  The assets in this trust are held for our three children and their 7 cousins. The values represent total trust holdings.",
-          "Asset Type": "TrustGeneral Trust",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Virginia R. Holton Grandchildren's TrustFiler comment:  The assets in this trust are held for our three children and their 7 cousins. The values represent total trust holdings.",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "American Movil",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "American Movil",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "T - AT&T, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "T - AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "BMY - Bristol-Myers Squibb Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "BMY - Bristol-Myers Squibb Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "CVX - Chevron Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "CVX - Chevron Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "KO - The Coca-Cola Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "KO - The Coca-Cola Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "DUK - Duke Energy Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "DUK - Duke Energy Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "XOM - Exxon Mobil Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "XOM - Exxon Mobil Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "GE - General Electric Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "GE - General Electric Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "IBM - International Business Machines Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "IBM - International Business Machines Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "KMB - Kimberly-Clark Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "KMB - Kimberly-Clark Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "KMP - Kinder Morgan Energy Partners, L.P. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "KMP - Kinder Morgan Energy Partners, L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SLRC - Solar Capital Ltd. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "SLRC - Solar Capital Ltd. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SPLS - Staples, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SPLS - Staples, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TXT - Textron Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "TXT - Textron Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TICC - TICC Capital Corp. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "TICC - TICC Capital Corp. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Morgan Stanley Bank, N.A.(New York, NY)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Child",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley Bank, N.A.(New York, NY)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Child",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CRIRX - Columbia Acorn International Select R5 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "CRIRX - Columbia Acorn International Select R5 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FRVAX - Franklin VA Tax-Free Income A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FRVAX - Franklin VA Tax-Free Income A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HYH - Halyard Health, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "HYH - Halyard Health, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Sentinel VPT Common Stock",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sentinel VPT Common Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Sentinel VPT Small Company",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sentinel VPT Small Company",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Sentinel VPT Bond",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sentinel VPT Bond",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "AAGOX",
-          "Asset Name": "Alger Large Cap Growth I-2 (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AAGOX",
+          "asset-name": "Alger Large Cap Growth I-2 (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Alliance Bernstein VPS Small/Mid Cap Value",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Alliance Bernstein VPS Small/Mid Cap Value",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "AVPLX",
-          "Asset Name": "American Century VP Internation (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AVPLX",
+          "asset-name": "American Century VP Internation (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Neuberger Berman AMT Short Duration Bond Fund",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Neuberger Berman AMT Short Duration Bond Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "PAFDX",
-          "Asset Name": "T. Rowe Price Equity Income Adv (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PAFDX",
+          "asset-name": "T. Rowe Price Equity Income Adv (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Van Eck VIP Emerging Markets",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Van Eck VIP Emerging Markets",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "EMBUX",
-          "Asset Name": "Van Eck Unconstrained Emerg Mkts Bond I (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "EMBUX",
+          "asset-name": "Van Eck Unconstrained Emerg Mkts Bond I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Van Eck VIP Global Hard Assets",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Van Eck VIP Global Hard Assets",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "DPDFX",
-          "Asset Name": "Delaware Diversified Income A (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/11/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DPDFX",
+          "asset-name": "Delaware Diversified Income A (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/11/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Permanent Portfolio Inc.",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "01/17/2014",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Permanent Portfolio Inc.",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/17/2014",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Owner": "Child",
-          "Ticker": "FBGRX",
-          "Asset Name": "Fidelity Blue Chip Growth (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/14/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Child",
+          "ticker": "FBGRX",
+          "asset-name": "Fidelity Blue Chip Growth (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/14/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "AllianceBernstein VPS International Value",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/29/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AllianceBernstein VPS International Value",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/29/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "VWINX",
-          "Asset Name": "Vanguard Wellesley Income Inv (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/24/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWINX",
+          "asset-name": "Vanguard Wellesley Income Inv (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/24/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "LSBDX",
-          "Asset Name": "Loomis Sayles Bond Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/24/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "LSBDX",
+          "asset-name": "Loomis Sayles Bond Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/24/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "BPRIX",
-          "Asset Name": "BlackRock Inflation Protected Bond Instl (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/13/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "BPRIX",
+          "asset-name": "BlackRock Inflation Protected Bond Instl (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/13/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "BPRIX",
-          "Asset Name": "BlackRock Inflation Protected Bond Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/13/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "BPRIX",
+          "asset-name": "BlackRock Inflation Protected Bond Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "MEDIX",
-          "Asset Name": "MFS Emerging Markets Debt I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/13/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MEDIX",
+          "asset-name": "MFS Emerging Markets Debt I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "TGBAX",
-          "Asset Name": "Templeton Global Bond Adv (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/24/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "TGBAX",
+          "asset-name": "Templeton Global Bond Adv (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/24/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "TGBAX",
-          "Asset Name": "Templeton Global Bond Adv (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/13/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "TGBAX",
+          "asset-name": "Templeton Global Bond Adv (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "MDISX",
-          "Asset Name": "Franklin Mutual Global Discovery Z (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/24/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MDISX",
+          "asset-name": "Franklin Mutual Global Discovery Z (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/24/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "MDISX",
-          "Asset Name": "Franklin Mutual Global Discovery Z (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/13/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MDISX",
+          "asset-name": "Franklin Mutual Global Discovery Z (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "VWINX",
-          "Asset Name": "Vanguard Wellesley Income Inv (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/13/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWINX",
+          "asset-name": "Vanguard Wellesley Income Inv (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/13/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
-      "heading": "Part 6. Travel\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 6. Travel",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Date(s)": "09/04/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t09/07/2014",
-          "Traveler(s)": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
-          "Travel Type": "Outside activity",
-          "Itinerary": "Marbella, Spain to Malaga, Spain, to Marbella, Spain",
-          "Reimbursed For": "Lodging, meals, and ground transportation.",
-          "Who Paid": "United States Spain Council\n\t\t\t\t\t\t\t\tFalls Church, Virginia",
-          "Comment": ""
+          "date-s": "09/04/2014\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t09/07/2014",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "Marbella, Spain to Malaga, Spain, to Marbella, Spain",
+          "reimbursed-for": "Lodging, meals, and ground transportation.",
+          "who-paid": "United States Spain Council\n\t\t\t\t\t\t\t\tFalls Church, Virginia",
+          "comment": ""
         }
       ]
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-          "Comments": "Mortgage on personal residence"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+          "comments": "Mortgage on personal residence"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 2010 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
-          "Entity": "Myotonic Dystrophy Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSan Francisco, CA",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": "Volunteer"
+          "position-dates": "Jan 2010 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Myotonic Dystrophy Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSan Francisco, CA",
+          "entity-type": "Nonprofit Organization",
+          "comments": "Volunteer"
         },
         {
-          "#": "2",
-          "Position Dates": "Nov 2013 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Honorary Chairman)",
-          "Entity": "United States Spain Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFalls Church, Virginia",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": ""
+          "position-dates": "Nov 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Honorary Chairman)",
+          "entity": "United States Spain Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFalls Church, Virginia",
+          "entity-type": "Nonprofit Organization",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

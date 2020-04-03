@@ -1,309 +1,318 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2014",
   "filer": "The Honorable John Cornyn (Cornyn, John)",
-  "filedDate": "Filed 05/14/2015 @ 6:35 PM",
+  "filed-date": "05/14/2015",
+  "filed-time": "6:35 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA Distribution)",
-          "Who Paid": "UBS Inherited IRA\n\t\t\t\t\t\t\t\tWeehawken, New Jersey",
-          "Amount Paid": "$8,271.90"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(IRA Distribution)",
+          "who-paid": "UBS Inherited IRA\n\t\t\t\t\t\t\t\tWeehawken, New Jersey",
+          "amount-paid": "$8,271.90"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Bank of America checking account(Austin, Texas)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of America checking account(Austin, Texas)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bank of America savings account(Austin, Texas)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of America savings account(Austin, Texas)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "UBS",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "UBS",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "UBS Bank USA Deposit account(San Antonio, Texas)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "UBS Bank USA Deposit account(San Antonio, Texas)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Funds New Economy Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "American Funds New Economy Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "UBS IRA (Spouse)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "UBS IRA (Spouse)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "UBS Bank USA Deposit account(San Antonio, Texas)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "UBS Bank USA Deposit account(San Antonio, Texas)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Funds SMALLCAP World Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "American Funds SMALLCAP World Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "American Funds Growth Fund of America",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "American Funds Growth Fund of America",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "American Funds New Perspective Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "American Funds New Perspective Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "UBS Inherited IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "UBS Inherited IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "UBS Bank USA Deposit account (Inherited IRA)(San Antonio, Texas)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "UBS Bank USA Deposit account (Inherited IRA)(San Antonio, Texas)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Funds SMALLCAP World Fund (Inherited IRA)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "American Funds SMALLCAP World Fund (Inherited IRA)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "American Funds Growth Fund of America (Inherited IRA)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "American Funds Growth Fund of America (Inherited IRA)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "American Funds New Economy Fund (Inherited IRA)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "American Funds New Economy Fund (Inherited IRA)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "American Funds New Perspective Fund (Inherited IRA)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "American Funds New Perspective Fund (Inherited IRA)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Employees Retirement System of Texas",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Other, (Retirement Distribution)",
-          "Income": "Other $11,347.44"
+          "asset": "Employees Retirement System of Texas",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Retirement Distribution)",
+          "income": "Other $11,347.44"
         },
         {
-          "Asset": "TX County and District Retirement System",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (Retirement Distribution)",
-          "Income": "Other $8,764.44"
+          "asset": "TX County and District Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Retirement Distribution)",
+          "income": "Other $8,764.44"
         },
         {
-          "Asset": "Employees Retirement System of Texas",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (Retirement Distribution)",
-          "Income": "Other $8,327.64"
+          "asset": "Employees Retirement System of Texas",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Retirement Distribution)",
+          "income": "Other $8,327.64"
         },
         {
-          "Asset": "Judicial Retirement System of Texas",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Other, (Retirement Distribution)",
-          "Income": "Other $60,009.60"
+          "asset": "Judicial Retirement System of Texas",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (Retirement Distribution)",
+          "income": "Other $60,009.60"
         },
         {
-          "Asset": "Hartford Life Insurance Co (Inherited Annuity)Provider: Hartford Life Insurance Co",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Other, (Annuity Distribution)",
-          "Income": "Other $1,356.96"
+          "asset": "Hartford Life Insurance Co (Inherited Annuity)Provider: Hartford Life Insurance Co",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Other, (Annuity Distribution)",
+          "income": "Other $1,356.96"
         },
         {
-          "Asset": "Hartford Life Insurance Co (Inherited Annuity)Provider: Hartford Life Insurance Co",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Other, (Annuity Distribution)",
-          "Income": "Other $2,308.92"
+          "asset": "Hartford Life Insurance Co (Inherited Annuity)Provider: Hartford Life Insurance Co",
+          "asset-type": "AnnuityFixed",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Other, (Annuity Distribution)",
+          "income": "Other $2,308.92"
         },
         {
-          "Asset": "Office of Personnel Management Retirement Services Program (Inherited Annuity)Provider: Office of Personnel Management Retirement Services Program",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Other, (Annuity Distribution)",
-          "Income": "Other $341.73"
+          "asset": "Office of Personnel Management Retirement Services Program (Inherited Annuity)Provider: Office of Personnel Management Retirement Services Program",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Other, (Annuity Distribution)",
+          "income": "Other $341.73"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "American Funds New Economy Fund (non-IRA account)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/28/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "American Funds New Economy Fund (non-IRA account)",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/28/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2010",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tDes Moines, IA",
-          "Comments": "-"
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2012",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tDes Moines, IA",
-          "Comments": "-"
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tDes Moines, IA",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2014",
-          "Debtor": "Self",
-          "Type": "Revolving Charge",
-          "Points": "-",
-          "Rate(Term)": "16.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Citibank\n\t\t\t\t\t\t\t\tSioux Falls, SC",
-          "Comments": "-"
+          "incurred": "2014",
+          "debtor": "Self",
+          "type": "Revolving Charge",
+          "points": "-",
+          "rate-term": "16.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Citibank\n\t\t\t\t\t\t\t\tSioux Falls, SC",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Apr 2009 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "MC Testamentary Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSan Antonio, TX",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
-          "Comments": "As trustee I hold no beneficial interest in the trust."
+          "position-dates": "Apr 2009 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "MC Testamentary Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSan Antonio, TX",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Trust)",
+          "comments": "As trustee I hold no beneficial interest in the trust."
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
-          "Entity": "Clements Center Statecraft Board\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAustin, Texas",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jan 2013 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Clements Center Statecraft Board\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAustin, Texas",
+          "entity-type": "Educational Organization",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

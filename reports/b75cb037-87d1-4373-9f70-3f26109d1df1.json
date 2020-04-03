@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/16/2015",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 07/16/2015 @ 11:28 AM",
+  "filed-date": "07/16/2015",
+  "filed-time": "11:28 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "06/30/2015",
-          "Owner": "Self",
-          "Ticker": "ALTR",
-          "Asset Name": "Altera Corp. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/30/2015",
+          "owner": "Self",
+          "ticker": "ALTR",
+          "asset-name": "Altera Corp. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "06/30/2015",
-          "Owner": "Self",
-          "Ticker": "AMG",
-          "Asset Name": "Affiliated Managers Group Inc. (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/30/2015",
+          "owner": "Self",
+          "ticker": "AMG",
+          "asset-name": "Affiliated Managers Group Inc. (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/30/2015",
-          "Owner": "Joint",
-          "Ticker": "ALTR",
-          "Asset Name": "Altera Corp. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/30/2015",
+          "owner": "Joint",
+          "ticker": "ALTR",
+          "asset-name": "Altera Corp. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/30/2015",
-          "Owner": "Joint",
-          "Ticker": "AMG",
-          "Asset Name": "Affiliated Managers Group Inc. (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/30/2015",
+          "owner": "Joint",
+          "ticker": "AMG",
+          "asset-name": "Affiliated Managers Group Inc. (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

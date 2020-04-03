@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/24/2018",
   "filer": "The Honorable John A Barrasso (Barrasso, John)",
-  "filedDate": "Filed 05/24/2018 @ 11:45 AM",
+  "filed-date": "05/24/2018",
+  "filed-time": "11:45 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/01/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Undeveloped Land-TOPOL\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Wyoming Orthopaedics Institute, LLC\n                                                    \n                                                         (Casper, WY)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate Partnership",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/01/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Undeveloped Land-TOPOL\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Wyoming Orthopaedics Institute, LLC\n                                                    \n                                                         (Casper, WY)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate Partnership",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

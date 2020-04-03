@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/10/2018",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 08/10/2018 @ 12:19 PM",
+  "filed-date": "08/10/2018",
+  "filed-time": "12:19 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "09/20/2017",
-          "Owner": "Spouse",
-          "Ticker": "GILD",
-          "Asset Name": "Gilead Sciences, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/20/2017",
+          "owner": "Spouse",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

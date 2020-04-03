@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/24/2015",
   "filer": "The Honorable Roy Blunt (Blunt, Roy)",
-  "filedDate": "Filed 12/24/2015 @ 8:58 PM",
+  "filed-date": "12/24/2015",
+  "filed-time": "8:58 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "12/11/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "CSCO",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/11/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CSCO",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "PM",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/04/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "PM",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/30/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MDLZ (stock option)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "12/30/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MDLZ (stock option)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/06/2017",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 03/06/2017 @ 3:35 PM",
+  "filed-date": "03/06/2017",
+  "filed-time": "3:35 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "03/02/2017",
-          "Owner": "Self",
-          "Ticker": "NGG",
-          "Asset Name": "National Grid plc",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2017",
+          "owner": "Self",
+          "ticker": "NGG",
+          "asset-name": "National Grid plc",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "03/02/2017",
-          "Owner": "Self",
-          "Ticker": "UPS",
-          "Asset Name": "United Parcel Service, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2017",
+          "owner": "Self",
+          "ticker": "UPS",
+          "asset-name": "United Parcel Service, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/02/2017",
-          "Owner": "Self",
-          "Ticker": "QCOM",
-          "Asset Name": "QUALCOMM Incorporated",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2017",
+          "owner": "Self",
+          "ticker": "QCOM",
+          "asset-name": "QUALCOMM Incorporated",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "02/15/2017",
-          "Owner": "Self",
-          "Ticker": "KSS",
-          "Asset Name": "Kohl's Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/15/2017",
+          "owner": "Self",
+          "ticker": "KSS",
+          "asset-name": "Kohl's Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/15/2017",
-          "Owner": "Self",
-          "Ticker": "CCI",
-          "Asset Name": "Crown Castle International Corp.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/15/2017",
+          "owner": "Self",
+          "ticker": "CCI",
+          "asset-name": "Crown Castle International Corp.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

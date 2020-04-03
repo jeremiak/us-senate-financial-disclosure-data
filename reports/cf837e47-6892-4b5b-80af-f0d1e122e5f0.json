@@ -1,1591 +1,1571 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2014 (Amendment 1)",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 12/29/2015 @ 5:48 PM",
+  "filed-date": "12/29/2015",
+  "filed-time": "5:48 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": []
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "MDDVX - BlackRock Equity Dividend Inv A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "FCNTX - Fidelity Contrafund (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "SGIIX - First Eagle Global I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "JAMCX - JPMorgan Mid Cap Value A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "WASAX - Ivy Asset Strategy A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "MGFIX - AMG Managers Bond Service (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "PRPFX - Permanent Portfolio (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "PRNHX - T. Rowe Price New Horizons (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "TPINX - Templeton Global Bond A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "T - AT&T, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "AAPL - Apple Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "ARCC - Ares Capital Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "ADP - Automatic Data Processing, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MDDVX - BlackRock Equity Dividend Inv A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "FCNTX - Fidelity Contrafund (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "JAMCX - JPMorgan Mid Cap Value A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "WASAX - Ivy Asset Strategy A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "MGFIX - AMG Managers Bond Service (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "PRPFX - Permanent Portfolio (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "PRNHX - T. Rowe Price New Horizons (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TPINX - Templeton Global Bond A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "T - AT&T, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "AAPL - Apple Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "ARCC - Ares Capital Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "ADP - Automatic Data Processing, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "BLK - BlackRock, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "BLK - BlackRock, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "CSX - CSX Corp. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "CSX - CSX Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "CTL - CenturyLink, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "CTL - CenturyLink, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "COH - Coach, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "COH - Coach, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "KO - The Coca-Cola Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "KO - The Coca-Cola Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "CTSH - Cognizant Technology Solutions Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "CTSH - Cognizant Technology Solutions Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DE - Deere & Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "DE - Deere & Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "DEO - Diageo plc (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "DEO - Diageo plc (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "F - Ford Motor Co. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "F - Ford Motor Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "FCX - Freeport-McMoRan Copper & Gold Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "FCX - Freeport-McMoRan Copper & Gold Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "GIS - General Mills, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "GIS - General Mills, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "GOOG - Google Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "GOOG - Google Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "INTC - Intel Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "INTC - Intel Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "IBM - International Business Machines Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "IBM - International Business Machines Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "IRET - Investors Real Estate Trust (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends, Capital Gains, Other, (Return of Capital)",
-          "Income": "$5,001 - $15,000Other $11,161.00"
+          "asset": "IRET - Investors Real Estate Trust (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends, Capital Gains, Other, (Return of Capital)",
+          "income": "$5,001 - $15,000Other $11,161.00"
         },
         {
-          "Asset": "JNJ - Johnson & Johnson (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "JNJ - Johnson & Johnson (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "KRFT - Kraft Foods Group, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "KRFT - Kraft Foods Group, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "MCD - McDonald's Corp. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "MCD - McDonald's Corp. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "MSFT - Microsoft Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MSFT - Microsoft Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MCHP - Microchip Technology Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (Return of Capital)",
-          "Income": "Other $5,430.00"
+          "asset": "MCHP - Microchip Technology Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Return of Capital)",
+          "income": "Other $5,430.00"
         },
         {
-          "Asset": "MDLZ - Mondelez International, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MDLZ - Mondelez International, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "PFE - Pfizer Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "PFE - Pfizer Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "PG - The Procter & Gamble Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "PG - The Procter & Gamble Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "RL - Ralph Lauren Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "RL - Ralph Lauren Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SBUX - Starbucks Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SBUX - Starbucks Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TJX - The TJX Companies, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "TJX - The TJX Companies, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "USB - U.S. Bancorp (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "USB - U.S. Bancorp (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "UNP - Union Pacific Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "UNP - Union Pacific Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "VFC - V.F. Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "VFC - V.F. Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "VZ - Verizon Communications Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "VZ - Verizon Communications Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "VSAT - ViaSat Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VSAT - ViaSat Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WFC - Wells Fargo & Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "WFC - Wells Fargo & Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "YUM - Yum! Brands, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "YUM - Yum! Brands, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "CG - The Carlyle Group LP (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $5,873.00"
+          "asset": "CG - The Carlyle Group LP (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $5,873.00"
         },
         {
-          "Asset": "ETP - Energy Transfer Partners, L.P. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $7,529.00"
+          "asset": "ETP - Energy Transfer Partners, L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $7,529.00"
         },
         {
-          "Asset": "KMP - Kinder Morgan Energy Partners, L.P. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains, Other, (PTP Income)",
-          "Income": "$50,001 - $100,000Other $3,897.00"
+          "asset": "KMP - Kinder Morgan Energy Partners, L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains, Other, (PTP Income)",
+          "income": "$50,001 - $100,000Other $3,897.00"
         },
         {
-          "Asset": "LGCY - Legacy Reserves LP (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $8,386.00"
+          "asset": "LGCY - Legacy Reserves LP (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $8,386.00"
         },
         {
-          "Asset": "LINE - Linn Energy, LLC (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $7,885.00"
+          "asset": "LINE - Linn Energy, LLC (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $7,885.00"
         },
         {
-          "Asset": "VNR - Vanguard Natural Resources, LLC (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $7,883.00"
+          "asset": "VNR - Vanguard Natural Resources, LLC (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $7,883.00"
         },
         {
-          "Asset": "Campbell Fund TR Unit Ser A LTD PartnershipCompany: Cambell Fund TR Unit Ser A LTD Partnership (Baltimore, Maryland) Description: Investment Partnership",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Campbell Fund TR Unit Ser A LTD PartnershipCompany: Cambell Fund TR Unit Ser A LTD Partnership (Baltimore, Maryland) Description: Investment Partnership",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Stifel(Bismarck, North Dakota)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Stifel(Bismarck, North Dakota)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Westbrand Inc. Bank Holding Co. Minot ND",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$5,000,001 - $25,000,000",
-          "Income Type": "Dividends,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Westbrand Inc. Bank Holding Co. Minot ND",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Dividends",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "Tompson-Hoeven PartnershipCompany: Tompson-Hoeven Partnership (Bismarck, North Dakota) Description: MT Farmland Rental",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Tompson-Hoeven PartnershipCompany: Tompson-Hoeven Partnership (Bismarck, North Dakota) Description: MT Farmland Rental",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Northwest Respiratory Services, LLCCompany: Northwest Respiratory Services, LLC (St Paul, Minnesota) Description: Respiratory Services",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$5,000,001 - $25,000,000",
-          "Income Type": "Other, (LLC Income)",
-          "Income": "Other $2,181,266.00"
+          "asset": "Northwest Respiratory Services, LLCCompany: Northwest Respiratory Services, LLC (St Paul, Minnesota) Description: Respiratory Services",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$5,000,001 - $25,000,000",
+          "income-type": "Other, (LLC Income)",
+          "income": "Other $2,181,266.00"
         },
         {
-          "Asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (LLC Income)",
-          "Income": "Other $14,476.00"
+          "asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (LLC Income)",
+          "income": "Other $14,476.00"
         },
         {
-          "Asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (LLC Income)",
-          "Income": "Other $14,475.00"
+          "asset": "Corridor Investments, LLCCompany: Corridor Investments, LLC (Minot, North Dakota) Description: Management Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (LLC Income)",
+          "income": "Other $14,475.00"
         },
         {
-          "Asset": "Mainstream Investors, LLCCompany: Mainstream Investors, LLC (Minot, North Dakota) Description: Oil & Gas Investing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Mainstream Investors, LLCCompany: Mainstream Investors, LLC (Minot, North Dakota) Description: Oil & Gas Investing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "HARVARD STATE 16-36S-164-101Description: OIL WELL INTEREST (COLGAN BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "HARVARD STATE 16-36S-164-101Description: OIL WELL INTEREST (COLGAN BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BW LARSON 149-100-1720H-1Description: OIL WELL INTEREST (ELLSWORTH BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "BW LARSON 149-100-1720H-1Description: OIL WELL INTEREST (ELLSWORTH BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "KOALA 15-33-28-2HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "KOALA 15-33-28-2HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "KOALA 15-33-28-2H3Description: OIL WELL INTEREST (POE THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "KOALA 15-33-28-2H3Description: OIL WELL INTEREST (POE THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "KOALA 15-33-28-3HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "KOALA 15-33-28-3HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "KOALA 4-4-28-3H3Description: OIL WELL INTEREST (POE THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "KOALA 4-4-28-3H3Description: OIL WELL INTEREST (POE THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "KOALA 4-4-28-4HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "KOALA 4-4-28-4HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "KOALA 4-4-28-4H3Description: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "KOALA 4-4-28-4H3Description: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "KOALA 4-4-29-1HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "KOALA 4-4-29-1HDescription: OIL WELL INTEREST (POE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MYRTLE 2-1-163-101Description: OIL WELL INTEREST (COLGAN BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "MYRTLE 2-1-163-101Description: OIL WELL INTEREST (COLGAN BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PIRATE 1-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "PIRATE 1-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PIRATE 2-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "PIRATE 2-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PIRATE 3-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "PIRATE 3-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PIRATE 4-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "PIRATE 4-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PIRATE 5-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "PIRATE 5-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PIRATE 6-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "PIRATE 6-2-11HDescription: OIL WELL INTEREST (FOREMAN BUTTE BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-1-27-34-16HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-1-27-34-16HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-1-27-35-13H3Description: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-1-27-35-13H3Description: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-15-23-35-15HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-15-23-35-15HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-15-23-35-15H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-15-23-35-15H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-15-23-35-15H3ADescription: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-15-23-35-15H3ADescription: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-15-23-35-15HADescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-15-23-35-15HADescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-16-23-35-15HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-16-23-35-15HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-16-23-35-15H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-16-23-35-15H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-16-23-35-9HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-16-23-35-9HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-16-23-35-9H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-16-23-35-9H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-4-26-35-13HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-4-26-35-13HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-4-26-35-13H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-4-26-35-13H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-4-26-35-14HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-4-26-35-14HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-4-26-35-14H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-4-26-35-14H3Description: OIL WELL INTEREST (TRUAX THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-4E-26-35-14HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-4E-26-35-14HDescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-4E-26-35-14H3Description: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-4E-26-35-14H3Description: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "P WOOD 154-98-4E-26-35-14HADescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "P WOOD 154-98-4E-26-35-14HADescription: OIL WELL INTEREST (TRUAX BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RICHARD 2-13N-163-101Description: OIL WELL INTEREST (COLGAN THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "RICHARD 2-13N-163-101Description: OIL WELL INTEREST (COLGAN THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ROBERT 1-13HDescription: OIL WELL INTEREST (STONY CREEK BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "ROBERT 1-13HDescription: OIL WELL INTEREST (STONY CREEK BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 1-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 1-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 10-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 10-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 11-16H-1Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 11-16H-1Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 12-16H-3Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 12-16H-3Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 13-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "WAHPETON 13-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WAHPETON 14-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 14-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 2-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 2-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 4-16H-1Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 4-16H-1Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 5-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 5-16H-2Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 6-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 6-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 7-16H-3Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 7-16H-3Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 8-16H-1Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 8-16H-1Description: OIL WELL INTEREST (BANKS THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WAHPETON 9-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "WAHPETON 9-16HDescription: OIL WELL INTEREST (BANKS BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CHRISTIANSON 15-12-163-101Description: OIL WELL INTEREST (COLGAN THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "CHRISTIANSON 15-12-163-101Description: OIL WELL INTEREST (COLGAN THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "ENTZEL 1-26HDescription: OIL WELL INTEREST (CABERNET BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "ENTZEL 1-26HDescription: OIL WELL INTEREST (CABERNET BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "MEGAN 14-12-163-101Description: OIL WELL INTEREST (COLGAN THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "MEGAN 14-12-163-101Description: OIL WELL INTEREST (COLGAN THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TALKINGTON FED 41-26-PHDescription: OIL WELL INTEREST (PARK THREE FORKS FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "TALKINGTON FED 41-26-PHDescription: OIL WELL INTEREST (PARK THREE FORKS FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ENTZEL 2-26HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "ENTZEL 2-26HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ENTZEL 3-26HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "ENTZEL 3-26HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LOOMER 44-33H-2HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "LOOMER 44-33H-2HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LOOMER 44-33HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "LOOMER 44-33HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ROBERT 2-13HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "ROBERT 2-13HDescription: OIL WELL INTEREST (BAKKEN FIELD, NORTH DAKOTA)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "First Western Bank Collective Asset Fund",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None, Interest,",
-          "Income": ""
+          "asset": "First Western Bank Collective Asset Fund",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None, Interest",
+          "income": ""
         },
         {
-          "Asset": "First Western Bank & Trust(Minot , North Dakota)Type: Checking, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Interest,",
-          "Income": "$5,001 - $15,000"
+          "asset": "First Western Bank & Trust(Minot , North Dakota)Type: Checking, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "First Western Bank & Trust(Minot, North Dakota)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "First Western Bank & Trust(Minot, North Dakota)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BUD - Anheuser-Busch InBev SA/NV (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "BUD - Anheuser-Busch InBev SA/NV (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "CDK - CDK Global, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CDK - CDK Global, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CSCO - Cisco Systems, Inc. (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CSCO - Cisco Systems, Inc. (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CMI - Cummins Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "CMI - Cummins Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AJG - Arthur J Gallagher & Co. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "AJG - Arthur J Gallagher & Co. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GOOGL - Google Inc. (NASDAQ)Filer comment:  Resulted from split of GOOG on 4/3/14.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "GOOGL - Google Inc. (NASDAQ)Filer comment:  Resulted from split of GOOG on 4/3/14.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HON - Honeywell International Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "HON - Honeywell International Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "KMI - Kinder Morgan, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "KMI - Kinder Morgan, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EL - The Estée Lauder Companies Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "EL - The Estée Lauder Companies Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PEP - Pepsico, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "PEP - Pepsico, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "BX - The Blackstone Group L.P. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (PTP Income)",
-          "Income": "Other $1,661.00"
+          "asset": "BX - The Blackstone Group L.P. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (PTP Income)",
+          "income": "Other $1,661.00"
         },
         {
-          "Asset": "HRZN - Horizon Technology Finance Corporation (NASDAQ)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "HRZN - Horizon Technology Finance Corporation (NASDAQ)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "ABBV - AbbVie Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$15,001 - $50,000"
+          "asset": "ABBV - AbbVie Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "BA - The Boeing Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "BA - The Boeing Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IJR - iShares Core S&P Small-Cap (NYSEArca)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IJR - iShares Core S&P Small-Cap (NYSEArca)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "IJR - iShares Core S&P Small-Cap (NYSEArca)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Mutual Funds",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "FISPX - Federated Max-Cap Index Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "JAVLX - Janus Twenty T (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "OAKMX - Oakmark I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "VDIGX - Vanguard Dividend Growth Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "VV - Vanguard Large-Cap ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "VSMAX - Vanguard Small Cap Index Adm (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "FHYTX - Federated High Yield Service (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "FTRKX - Federated Total Return Bond R (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "IJR - iShares Core S&P Small-Cap (NYSEArca)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Mutual Funds",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "FISPX - Federated Max-Cap Index Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "JAVLX - Janus Twenty T (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TRBCX - T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "OAKMX - Oakmark I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VDIGX - Vanguard Dividend Growth Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "VV - Vanguard Large-Cap ETF (NYSEArca)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "VSMAX - Vanguard Small Cap Index Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "FHYTX - Federated High Yield Service (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "FTRKX - Federated Total Return Bond R (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "02/19/2014",
-          "Owner": "Self",
-          "Ticker": "CTSH",
-          "Asset Name": "Cognizant Technology Solutions Corporation (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/19/2014",
+          "owner": "Self",
+          "ticker": "CTSH",
+          "asset-name": "Cognizant Technology Solutions Corporation (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "02/19/2014",
-          "Owner": "Self",
-          "Ticker": "VFC",
-          "Asset Name": "V.F. Corporation (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/19/2014",
+          "owner": "Self",
+          "ticker": "VFC",
+          "asset-name": "V.F. Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "02/19/2014",
-          "Owner": "Self",
-          "Ticker": "IBM",
-          "Asset Name": "International Business Machines Corporation (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/19/2014",
+          "owner": "Self",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "02/24/2014",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Westbrand Inc Bank Holding Co (Stock)",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/24/2014",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Westbrand Inc Bank Holding Co (Stock)",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "03/31/2014",
-          "Owner": "Self",
-          "Ticker": "BUD",
-          "Asset Name": "Anheuser-Busch InBev SA/NV (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "03/31/2014",
+          "owner": "Self",
+          "ticker": "BUD",
+          "asset-name": "Anheuser-Busch InBev SA/NV (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Transaction Date": "03/31/2014",
-          "Owner": "Self",
-          "Ticker": "ABBV",
-          "Asset Name": "AbbVie Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "03/31/2014",
+          "owner": "Self",
+          "ticker": "ABBV",
+          "asset-name": "AbbVie Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "ABBV",
-          "Asset Name": "AbbVie Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "ABBV",
+          "asset-name": "AbbVie Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "BUD",
-          "Asset Name": "Anheuser-Busch InBev SA/NV (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "BUD",
+          "asset-name": "Anheuser-Busch InBev SA/NV (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "F",
-          "Asset Name": "Ford Motor Co. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "F",
+          "asset-name": "Ford Motor Co. (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Transaction Date": "04/28/2014",
-          "Owner": "Self",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2014",
+          "owner": "Self",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Transaction Date": "05/27/2014",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "MAINSTREAM INVESTORS LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: MAINSTREAM INVESTORS LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: OIL AND GAS EXPLORATION AND PRODUCTION COMPANY",
-          "Type": "Purchase",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "transaction-date": "05/27/2014",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MAINSTREAM INVESTORS LLC\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: MAINSTREAM INVESTORS LLC\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: OIL AND GAS EXPLORATION AND PRODUCTION COMPANY",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Transaction Date": "08/25/2014",
-          "Owner": "Self",
-          "Ticker": "YUM",
-          "Asset Name": "Yum! Brands, Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/25/2014",
+          "owner": "Self",
+          "ticker": "YUM",
+          "asset-name": "Yum! Brands, Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Transaction Date": "08/25/2014",
-          "Owner": "Self",
-          "Ticker": "BX",
-          "Asset Name": "The Blackstone Group L.P. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "08/25/2014",
+          "owner": "Self",
+          "ticker": "BX",
+          "asset-name": "The Blackstone Group L.P. (NYSE)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Transaction Date": "08/25/2014",
-          "Owner": "Self",
-          "Ticker": "EL",
-          "Asset Name": "The Est (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "08/25/2014",
+          "owner": "Self",
+          "ticker": "EL",
+          "asset-name": "The Est (NYSE)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Transaction Date": "08/26/2014",
-          "Owner": "Self",
-          "Ticker": "PEP",
-          "Asset Name": "Pepsico, Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "08/26/2014",
+          "owner": "Self",
+          "ticker": "PEP",
+          "asset-name": "Pepsico, Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Transaction Date": "09/29/2014",
-          "Owner": "Self",
-          "Ticker": "SBUX",
-          "Asset Name": "Starbucks Corporation (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "09/29/2014",
+          "owner": "Self",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Transaction Date": "09/29/2014",
-          "Owner": "Self",
-          "Ticker": "ABBV",
-          "Asset Name": "AbbVie Inc. (NYSE)",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "09/29/2014",
+          "owner": "Self",
+          "ticker": "ABBV",
+          "asset-name": "AbbVie Inc. (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Transaction Date": "09/29/2014",
-          "Owner": "Self",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company (NYSE)",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "09/29/2014",
+          "owner": "Self",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company (NYSE)",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Transaction Date": "10/01/2014",
-          "Owner": "Self",
-          "Ticker": "CDK",
-          "Asset Name": "CDK Global, Inc. (NASDAQ)",
-          "Type": "Exchange",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Received shares of CDK resulting from a spin-off of ADP."
+          "transaction-date": "10/01/2014",
+          "owner": "Self",
+          "ticker": "CDK",
+          "asset-name": "CDK Global, Inc. (NASDAQ)",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "Received shares of CDK resulting from a spin-off of ADP."
         },
         {
-          "#": "20",
-          "Transaction Date": "10/20/2014",
-          "Owner": "Self",
-          "Ticker": "AJG",
-          "Asset Name": "Arthur J Gallagher & Co. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "10/20/2014",
+          "owner": "Self",
+          "ticker": "AJG",
+          "asset-name": "Arthur J Gallagher & Co. (NYSE)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Transaction Date": "10/20/2014",
-          "Owner": "Self",
-          "Ticker": "CMI",
-          "Asset Name": "Cummins Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "10/20/2014",
+          "owner": "Self",
+          "ticker": "CMI",
+          "asset-name": "Cummins Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Transaction Date": "10/29/2014",
-          "Owner": "Self",
-          "Ticker": "CSCO",
-          "Asset Name": "Cisco Systems, Inc. (NASDAQ)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "10/29/2014",
+          "owner": "Self",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc. (NASDAQ)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Transaction Date": "11/06/2014",
-          "Owner": "Self",
-          "Ticker": "HON",
-          "Asset Name": "Honeywell International Inc. (NYSE)",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "11/06/2014",
+          "owner": "Self",
+          "ticker": "HON",
+          "asset-name": "Honeywell International Inc. (NYSE)",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Transaction Date": "12/03/2014",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Kinder Morgan Energy Partners",
-          "Type": "Exchange",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "KMP merger resulted in receiving cash and 1603 shares of Kinder Morgan Inc. (KMI)."
+          "transaction-date": "12/03/2014",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Kinder Morgan Energy Partners",
+          "type": "Exchange",
+          "amount": "$50,001 - $100,000",
+          "comment": "KMP merger resulted in receiving cash and 1603 shares of Kinder Morgan Inc. (KMI)."
         }
       ]
     },
     {
-      "heading": "Part 4b. Transactions\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 4b. Transactions",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "COH",
-          "Asset Name": "Coach, Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/31/2014",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Filed PTR using Settlement Date of 1/6/2015"
+          "owner": "Self",
+          "ticker": "COH",
+          "asset-name": "Coach, Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/31/2014",
+          "amount": "$50,001 - $100,000",
+          "comment": "Filed PTR using Settlement Date of 1/6/2015"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "FCX",
-          "Asset Name": "Freeport-McMoRan Inc. (NYSE)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/31/2014",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Filed PTR using settlement date of 1/6/2015."
+          "owner": "Self",
+          "ticker": "FCX",
+          "asset-name": "Freeport-McMoRan Inc. (NYSE)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/31/2014",
+          "amount": "$50,001 - $100,000",
+          "comment": "Filed PTR using settlement date of 1/6/2015."
         },
         {
-          "#": "3",
-          "Owner": "Spouse",
-          "Ticker": "IJR",
-          "Asset Name": "iShares Core S&P Small-Cap (NYSEArca)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/24/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap (NYSEArca)",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/24/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Spouse",
-          "Ticker": "TRBCX",
-          "Asset Name": "T. Rowe Price Blue Chip Growth (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/27/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "TRBCX",
+          "asset-name": "T. Rowe Price Blue Chip Growth (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/27/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "First Western Bank Collective Asset Fund",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "03/24/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Western Bank Collective Asset Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/24/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "First Western Bank Collective Asset Fund",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/27/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "First Western Bank Collective Asset Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/27/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Mainstream Investors, LLC",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/27/2014",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Mainstream Investors, LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/27/2014",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Oct 1984 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Director",
-          "Entity": "First Western Bank & Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMinot, North Dakota",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Bank)",
-          "Comments": ""
+          "position-dates": "Oct 1984 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Director",
+          "entity": "First Western Bank & Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMinot, North Dakota",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Bank)",
+          "comments": ""
         },
         {
-          "#": "2",
-          "Position Dates": "Jun 1999 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Northwest Respiratory Service, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSt Paul, Minnesota",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Respiratory Services, LLC)",
-          "Comments": ""
+          "position-dates": "Jun 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Northwest Respiratory Service, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSt Paul, Minnesota",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Respiratory Services, LLC)",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Mar 1979 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Partner",
-          "Entity": "Tompson-Hoeven Partnership\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBismarck, North Dakota",
-          "Entity Type": "Partnership",
-          "Comments": ""
+          "position-dates": "Mar 1979 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Partner",
+          "entity": "Tompson-Hoeven Partnership\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBismarck, North Dakota",
+          "entity-type": "Partnership",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jul 1982",
-          "Parties Involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot , North Dakota",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Defined Benefit Plan)",
-          "Status and Terms": "Participant in First Western Bank & Trust Employee Pension Plan. Plan is a defined benefit plan and is 100% vested. Projected benefit at retirement is $837.74 per month."
+          "date": "Jul 1982",
+          "parties-involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot , North Dakota",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Defined Benefit Plan)",
+          "status-and-terms": "Participant in First Western Bank & Trust Employee Pension Plan. Plan is a defined benefit plan and is 100% vested. Projected benefit at retirement is $837.74 per month."
         },
         {
-          "#": "2",
-          "Date": "Apr 1986",
-          "Parties Involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot, North Dakota",
-          "Type": "Compensation Agreement",
-          "Status and Terms": "Participant in First Western Bank & Trust salary continuation agreement, however is currently suspended with a balance of $8,604. If and when John Hoeven would return to employment with First Western Bank & Trust, his salary continuation accrual would resume."
+          "date": "Apr 1986",
+          "parties-involved": "First Western Bank & Trust\n\t\t\t\t\t\t\t\tMinot, North Dakota",
+          "type": "Compensation Agreement",
+          "status-and-terms": "Participant in First Western Bank & Trust salary continuation agreement, however is currently suspended with a balance of $8,604. If and when John Hoeven would return to employment with First Western Bank & Trust, his salary continuation accrual would resume."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

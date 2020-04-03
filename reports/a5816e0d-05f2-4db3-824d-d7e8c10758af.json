@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/05/2016",
   "filer": "The Honorable Lamar Alexander (Alexander, Lamar)",
-  "filedDate": "Filed 12/05/2016 @ 6:25 PM",
+  "filed-date": "12/05/2016",
+  "filed-time": "6:25 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "11/10/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Chattanooga Tenn GO REF BDS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.00% Matures: 09/01/2019",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/10/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Chattanooga Tenn GO REF BDS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.00% Matures: 09/01/2019",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/08/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Metropolitan Govt Nashville & REF BDS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.00% Matures: 05/15/2019",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/08/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Metropolitan Govt Nashville & REF BDS\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.00% Matures: 05/15/2019",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

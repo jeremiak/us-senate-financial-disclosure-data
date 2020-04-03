@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/10/2015",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 07/10/2015 @ 12:06 PM",
+  "filed-date": "07/10/2015",
+  "filed-time": "12:06 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "06/17/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Maine State Hsg Authority Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.60% Matures: 11/15/2022",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/17/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maine State Hsg Authority Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.60% Matures: 11/15/2022",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/10/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Maine Health & Higher Ed Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 07/01/2027",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/10/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Maine Health & Higher Ed Bond\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25% Matures: 07/01/2027",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

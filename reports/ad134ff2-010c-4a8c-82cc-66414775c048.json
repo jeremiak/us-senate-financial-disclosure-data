@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/18/2015",
   "filer": "The Honorable Michael B Enzi (Enzi, Michael B.)",
-  "filedDate": "Filed 06/18/2015 @ 1:35 PM",
+  "filed-date": "06/18/2015",
+  "filed-time": "1:35 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "06/12/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "WYOMING COMMUNITY DEVELOPMENT AUTHORITY HOUSING REVENUE BONDS 2013 SERIES 2\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.75% Matures: 12/01/2032",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/12/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "WYOMING COMMUNITY DEVELOPMENT AUTHORITY HOUSING REVENUE BONDS 2013 SERIES 2\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.75% Matures: 12/01/2032",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/03/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "MITCHELL SOUTH DAKOTA SCHOOL DISTRICT NUMBER 17-2 LIMITED TAX CAPITAL OUTLAY CERTIFICATES\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.2% Matures: 06/15/2027",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/03/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "MITCHELL SOUTH DAKOTA SCHOOL DISTRICT NUMBER 17-2 LIMITED TAX CAPITAL OUTLAY CERTIFICATES\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.2% Matures: 06/15/2027",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

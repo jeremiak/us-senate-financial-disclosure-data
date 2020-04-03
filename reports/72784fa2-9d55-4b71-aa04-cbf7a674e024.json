@@ -1,842 +1,813 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2014",
   "filer": "The Honorable Michael D Crapo (Crapo, Michael D.)",
-  "filedDate": "Filed 05/14/2015 @ 2:35 PM",
+  "filed-date": "05/14/2015",
+  "filed-time": "2:35 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Freedom Fund\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Freedom Fund\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "GSZIX - Goldman Sachs Strategic Income Instl (NASDAQ)Filer comment:  Asset value:  $10,344.79\nTotal income:  $272.70.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "GSZIX - Goldman Sachs Strategic Income Instl (NASDAQ)Filer comment:  Asset value:  $10,344.79\nTotal income:  $272.70.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FDSAX - SunAmerica Focused Dividend Strategy A (NASDAQ)Filer comment:  Asset value:  $7,488.96\nTotal income:  $202.65",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "FDSAX - SunAmerica Focused Dividend Strategy A (NASDAQ)Filer comment:  Asset value:  $7,488.96\nTotal income:  $202.65",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Wells Fargo(Idaho Falls, ID)Type: Brokerage Sweep Account, Filer comment:  Asset value:  $601.60\nTotal income:  $0.12.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Brokerage Sweep Account, Filer comment:  Asset value:  $601.60\nTotal income:  $0.12.",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo(Idaho Falls, ID)Type: Brokerage Sweep Account, Filer comment:  Asset value:  $3,278.34\nTotal income:  $0.32.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Brokerage Sweep Account, Filer comment:  Asset value:  $3,278.34\nTotal income:  $0.32.",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo(Idaho Falls, ID)Type: Brokerage Sweep Account, Filer comment:  Asset value:  $1,112.11\nTotal income:  $0.12.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Brokerage Sweep Account, Filer comment:  Asset value:  $1,112.11\nTotal income:  $0.12.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Residential homeDescription: Rowhouse (Washington, DC) Filer comment:  Total rental income: $30,600.",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Residential homeDescription: Rowhouse (Washington, DC) Filer comment:  Total rental income: $30,600.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings, Filer comment:  Asset balance/checking:  $72,678.16.\nAsset balance/savings:  $134,763.16.\nTotal income/checking:  $20.15.\nTotal income/savings:  $80.89.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, Savings, Filer comment:  Asset balance/checking:  $72,678.16.\nAsset balance/savings:  $134,763.16.\nTotal income/checking:  $20.15.\nTotal income/savings:  $80.89.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undivided minority interest in 359-acre ranch landDescription: Ranch land (Fremont County, ID)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undivided minority interest in 359-acre ranch landDescription: Ranch land (Fremont County, ID)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Parking spaceDescription: Parking space (Washington, DC) Filer comment:  Monthly rent collected on parking space.  Annual total:  $2,685.00.",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Parking spaceDescription: Parking space (Washington, DC) Filer comment:  Monthly rent collected on parking space.  Annual total:  $2,685.00.",
+          "asset-type": "Real EstateResidential",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Wells Fargo(Idaho Falls, ID)Type: Checking, Savings, Filer comment:  Asset value/checking:  $60,736.01.\nAsset value/savings:  $5,057.98.\nTotal interest income/checking:  $27.62.\nTotal interest income/savings:  $4.04.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Idaho Falls, ID)Type: Checking, Savings, Filer comment:  Asset value/checking:  $60,736.01.\nAsset value/savings:  $5,057.98.\nTotal interest income/checking:  $27.62.\nTotal interest income/savings:  $4.04.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PERSI Base PlanFiler comment:  Asset value:  $22,719.61.\nTotal interest income:  $1,410.39.",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "PERSI Base PlanFiler comment:  Asset value:  $22,719.61.\nTotal interest income:  $1,410.39.",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "3% of mineral rights leaseDescription: Subsurface mineral rights on 640 acres (McKenzie County, ND) Filer comment:  Total royalties received:  $45,053.33.",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Joint",
-          "Value": "Unascertainable",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "3% of mineral rights leaseDescription: Subsurface mineral rights on 640 acres (McKenzie County, ND) Filer comment:  Total royalties received:  $45,053.33.",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Joint",
+          "value": "Unascertainable",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "TOLIX - Deutsche Global Infrastructure Instl (NASDAQ)Filer comment:  Asset value:  $10,442.38.\nTotal income:  $101.62",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TOLIX - Deutsche Global Infrastructure Instl (NASDAQ)Filer comment:  Asset value:  $10,442.38.\nTotal income:  $101.62",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AMCFX - American Funds AMCAP F2 (NASDAQ)Filer comment:  Asset value:  $4,467.98.\nTotal income:  $10.55.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AMCFX - American Funds AMCAP F2 (NASDAQ)Filer comment:  Asset value:  $4,467.98.\nTotal income:  $10.55.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BSIIX - BlackRock Strategic Income Opps Instl (NASDAQ)Filer comment:  Asset value:  $10,451.88.\nTotal income:  $253.28.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "BSIIX - BlackRock Strategic Income Opps Instl (NASDAQ)Filer comment:  Asset value:  $10,451.88.\nTotal income:  $253.28.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "NFFFX - American Funds New World F2 (NASDAQ)Filer comment:  Asset value:  $4,298.65.\nTotal income:  $54.40.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "NFFFX - American Funds New World F2 (NASDAQ)Filer comment:  Asset value:  $4,298.65.\nTotal income:  $54.40.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SAGYX - ClearBridge Aggressive Growth I (NASDAQ)Filer comment:  Asset value:  $4,513.35.\nTotal income:  N/A (Unrealized gain/loss:  -$38.00).",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SAGYX - ClearBridge Aggressive Growth I (NASDAQ)Filer comment:  Asset value:  $4,513.35.\nTotal income:  N/A (Unrealized gain/loss:  -$38.00).",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MINIX - MFS International Value I (NASDAQ)Filer comment:  Asset value:  $7,460.57.\nTotal income:  $166.10.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MINIX - MFS International Value I (NASDAQ)Filer comment:  Asset value:  $7,460.57.\nTotal income:  $166.10.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IMLPX - MainGate MLP I (NASDAQ)Filer comment:  Asset value:  $10,158.47.\nAnnual income:  $478.67.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "IMLPX - MainGate MLP I (NASDAQ)Filer comment:  Asset value:  $10,158.47.\nAnnual income:  $478.67.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "JVAIX - JPMorgan Value Advantage Instl (NASDAQ)Filer comment:  Asset value:  $12,173.56.\nTotal income:  $154.36.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "JVAIX - JPMorgan Value Advantage Instl (NASDAQ)Filer comment:  Asset value:  $12,173.56.\nTotal income:  $154.36.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OOSYX - Oppenheimer Senior Floating Rate Y (NASDAQ)Filer comment:  Asset value:  $7,332.09.\nAnnual income:  $344.40.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "OOSYX - Oppenheimer Senior Floating Rate Y (NASDAQ)Filer comment:  Asset value:  $7,332.09.\nAnnual income:  $344.40.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PCBIX - Principal MidCap Institutional (NASDAQ)Filer comment:  Asset value:  $12,236.23.\nTotal income:  $43.33.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PCBIX - Principal MidCap Institutional (NASDAQ)Filer comment:  Asset value:  $12,236.23.\nTotal income:  $43.33.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OIGYX - Oppenheimer International Growth Y (NASDAQ)Filer comment:  Asset value:  $7,479.86.\nTotal income:  $86.99.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OIGYX - Oppenheimer International Growth Y (NASDAQ)Filer comment:  Asset value:  $7,479.86.\nTotal income:  $86.99.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PONPX - PIMCO Income P (NASDAQ)Filer comment:  Asset value:  $13,255.02.\nTotal income:  $705.21.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "PONPX - PIMCO Income P (NASDAQ)Filer comment:  Asset value:  $13,255.02.\nTotal income:  $705.21.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PXTIX - PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)Filer comment:  Asset value:  $16,566.82.\nTotal income:  $231.83.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "PXTIX - PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)Filer comment:  Asset value:  $16,566.82.\nTotal income:  $231.83.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VIMNX - Virtus Dynamic AlphaSector I (NASDAQ)Filer comment:  Asset value:  $7,488.96.\nTotal income:  NA (unrealized gain/loss: -$1,165.42).",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VIMNX - Virtus Dynamic AlphaSector I (NASDAQ)Filer comment:  Asset value:  $7,488.96.\nTotal income:  NA (unrealized gain/loss: -$1,165.42).",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TOLIX - Deutsche Global Infrastructure Instl (NASDAQ)Filer comment:  Asset value:  $1,876.87.\nTotal income:  $18.26.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TOLIX - Deutsche Global Infrastructure Instl (NASDAQ)Filer comment:  Asset value:  $1,876.87.\nTotal income:  $18.26.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AMCFX - American Funds AMCAP F2 (NASDAQ)Filer comment:  Asset value:  $802.43.\nTotal income:  $1.89.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AMCFX - American Funds AMCAP F2 (NASDAQ)Filer comment:  Asset value:  $802.43.\nTotal income:  $1.89.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BSIIX - BlackRock Strategic Income Opps Instl (NASDAQ)Filer comment:  Asset value:  $1,878.56.\nTotal income:  $45.52.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BSIIX - BlackRock Strategic Income Opps Instl (NASDAQ)Filer comment:  Asset value:  $1,878.56.\nTotal income:  $45.52.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GSZIX - Goldman Sachs Strategic Income Instl (NASDAQ)Filer comment:  Asset value:  $1,860.13.\nTotal income:  $49.03.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "GSZIX - Goldman Sachs Strategic Income Instl (NASDAQ)Filer comment:  Asset value:  $1,860.13.\nTotal income:  $49.03.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "NFFFX - American Funds New World F2 (NASDAQ)Filer comment:  Asset value:  $772.04.\nTotal income:  $9.77.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "NFFFX - American Funds New World F2 (NASDAQ)Filer comment:  Asset value:  $772.04.\nTotal income:  $9.77.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SAGYX - ClearBridge Aggressive Growth I (NASDAQ)Filer comment:  Asset value:  $810.59.\nTotal income:  N/A (unrealized gain/loss: -$6.83).",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SAGYX - ClearBridge Aggressive Growth I (NASDAQ)Filer comment:  Asset value:  $810.59.\nTotal income:  N/A (unrealized gain/loss: -$6.83).",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MINIX - MFS International Value I (NASDAQ)Filer comment:  Asset value:  $1,340.73.\nTotal income:  $29.85.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MINIX - MFS International Value I (NASDAQ)Filer comment:  Asset value:  $1,340.73.\nTotal income:  $29.85.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IMLPX - MainGate MLP I (NASDAQ)Filer comment:  Asset value:  $1,825.83.\nTotal income:  $86.03.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IMLPX - MainGate MLP I (NASDAQ)Filer comment:  Asset value:  $1,825.83.\nTotal income:  $86.03.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JVAIX - JPMorgan Value Advantage Instl (NASDAQ)Filer comment:  Asset value:  $2,188.02.\nTotal income:  $27.74.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "JVAIX - JPMorgan Value Advantage Instl (NASDAQ)Filer comment:  Asset value:  $2,188.02.\nTotal income:  $27.74.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OOSYX - Oppenheimer Senior Floating Rate Y (NASDAQ)Filer comment:  Asset value:  $1,317.61.\nTotal income:  $61.89.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OOSYX - Oppenheimer Senior Floating Rate Y (NASDAQ)Filer comment:  Asset value:  $1,317.61.\nTotal income:  $61.89.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PCBIX - Principal MidCap Institutional (NASDAQ)Filer comment:  Asset value:  $2,199.28.\nTotal income:  $7.78.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PCBIX - Principal MidCap Institutional (NASDAQ)Filer comment:  Asset value:  $2,199.28.\nTotal income:  $7.78.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OIGYX - Oppenheimer International Growth Y (NASDAQ)Filer comment:  Asset value:  $1,344.44.\nTotal income:  $15.63.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OIGYX - Oppenheimer International Growth Y (NASDAQ)Filer comment:  Asset value:  $1,344.44.\nTotal income:  $15.63.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PONPX - PIMCO Income P (NASDAQ)Filer comment:  Asset value:  $2,382.59.\nTotal income:  $126.76.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PONPX - PIMCO Income P (NASDAQ)Filer comment:  Asset value:  $2,382.59.\nTotal income:  $126.76.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PXTIX - PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)Filer comment:  Asset value:  $2,978.06.\nTotal income:  $41.67.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PXTIX - PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)Filer comment:  Asset value:  $2,978.06.\nTotal income:  $41.67.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FDSWX - SunAmerica Focused Dividend Strategy W (NASDAQ)Filer comment:  Asset value:  $1,346.65.\nTotal income:  $36.44.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FDSWX - SunAmerica Focused Dividend Strategy W (NASDAQ)Filer comment:  Asset value:  $1,346.65.\nTotal income:  $36.44.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VIMNX - Virtus Dynamic AlphaSector I (NASDAQ)Filer comment:  Asset value:  $1,321.42.\nTotal income:  N/A (unrealized gain/loss: -$209.44).",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VIMNX - Virtus Dynamic AlphaSector I (NASDAQ)Filer comment:  Asset value:  $1,321.42.\nTotal income:  N/A (unrealized gain/loss: -$209.44).",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "TOLIX",
-          "Asset Name": "Deutsche Global Infrastructure Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $10,432.00"
+          "owner": "Self",
+          "ticker": "TOLIX",
+          "asset-name": "Deutsche Global Infrastructure Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $10,432.00"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "AMCFX",
-          "Asset Name": "American Funds AMCAP F2 (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $4,471,00."
+          "owner": "Self",
+          "ticker": "AMCFX",
+          "asset-name": "American Funds AMCAP F2 (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $4,471,00."
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "BSIIX",
-          "Asset Name": "BlackRock Strategic Income Opps Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $10,432.00."
+          "owner": "Self",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opps Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $10,432.00."
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "NFFFX",
-          "Asset Name": "American Funds New World F2 (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $4,471.00."
+          "owner": "Self",
+          "ticker": "NFFFX",
+          "asset-name": "American Funds New World F2 (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $4,471.00."
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "SAGYX",
-          "Asset Name": "ClearBridge Aggressive Growth I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $4,471.00."
+          "owner": "Self",
+          "ticker": "SAGYX",
+          "asset-name": "ClearBridge Aggressive Growth I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $4,471.00."
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "MINIX",
-          "Asset Name": "MFS International Value I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $7,451.00."
+          "owner": "Self",
+          "ticker": "MINIX",
+          "asset-name": "MFS International Value I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $7,451.00."
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "IMLPX",
-          "Asset Name": "MainGate MLP I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $10,432.00."
+          "owner": "Self",
+          "ticker": "IMLPX",
+          "asset-name": "MainGate MLP I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $10,432.00."
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "JVAIX",
-          "Asset Name": "JPMorgan Value Advantage Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $11,923.00."
+          "owner": "Self",
+          "ticker": "JVAIX",
+          "asset-name": "JPMorgan Value Advantage Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $11,923.00."
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "OOSYX",
-          "Asset Name": "Oppenheimer Senior Floating Rate Y (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $7,451.00."
+          "owner": "Self",
+          "ticker": "OOSYX",
+          "asset-name": "Oppenheimer Senior Floating Rate Y (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $7,451.00."
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "PCBIX",
-          "Asset Name": "Principal MidCap Institutional (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $11,923.00."
+          "owner": "Self",
+          "ticker": "PCBIX",
+          "asset-name": "Principal MidCap Institutional (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $11,923.00."
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "OIGYX",
-          "Asset Name": "Oppenheimer International Growth Y (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $4,532.00."
+          "owner": "Self",
+          "ticker": "OIGYX",
+          "asset-name": "Oppenheimer International Growth Y (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $4,532.00."
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "PONPX",
-          "Asset Name": "PIMCO Income P (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $13,413.00."
+          "owner": "Self",
+          "ticker": "PONPX",
+          "asset-name": "PIMCO Income P (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $13,413.00."
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "PXTIX",
-          "Asset Name": "PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Purchase price:  $16,394.00."
+          "owner": "Self",
+          "ticker": "PXTIX",
+          "asset-name": "PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "Purchase price:  $16,394.00."
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "VIMNX",
-          "Asset Name": "Virtus Dynamic AlphaSector I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $7,451.00."
+          "owner": "Self",
+          "ticker": "VIMNX",
+          "asset-name": "Virtus Dynamic AlphaSector I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $7,451.00."
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "EIGMX",
-          "Asset Name": "Eaton Vance Glbl Macr Absolute Return I (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $11,185.63.  Capital loss:  -$656.66."
+          "owner": "Self",
+          "ticker": "EIGMX",
+          "asset-name": "Eaton Vance Glbl Macr Absolute Return I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $11,185.63.  Capital loss:  -$656.66."
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "GSZIX",
-          "Asset Name": "Goldman Sachs Strategic Income Instl (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $3,444.05. Capital loss:  -$62.45."
+          "owner": "Self",
+          "ticker": "GSZIX",
+          "asset-name": "Goldman Sachs Strategic Income Instl (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $3,444.05. Capital loss:  -$62.45."
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "OAKIX",
-          "Asset Name": "Oakmark International I (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $2,911.44."
+          "owner": "Self",
+          "ticker": "OAKIX",
+          "asset-name": "Oakmark International I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $2,911.44."
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "LDLFX",
-          "Asset Name": "Lord Abbett Short Duration Income F (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $7,010.17. Capital loss:  -92.37."
+          "owner": "Self",
+          "ticker": "LDLFX",
+          "asset-name": "Lord Abbett Short Duration Income F (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $7,010.17. Capital loss:  -92.37."
         },
         {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "WARDX",
-          "Asset Name": "Wells Fargo Advantage Absolute Ret Adm (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $14,456.94.  Capital gain:  $576.26."
+          "owner": "Self",
+          "ticker": "WARDX",
+          "asset-name": "Wells Fargo Advantage Absolute Ret Adm (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $14,456.94.  Capital gain:  $576.26."
         },
         {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "PAUPX",
-          "Asset Name": "PIMCO All Asset All Authority P (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $11,971.11.  Capital loss:  -$1,059.96."
+          "owner": "Self",
+          "ticker": "PAUPX",
+          "asset-name": "PIMCO All Asset All Authority P (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $11,971.11.  Capital loss:  -$1,059.96."
         },
         {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "UMBMX",
-          "Asset Name": "Scout Mid Cap (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $8,309.04.  Capital loss:  -$1,008.54."
+          "owner": "Self",
+          "ticker": "UMBMX",
+          "asset-name": "Scout Mid Cap (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $8,309.04.  Capital loss:  -$1,008.54."
         },
         {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "FDSAX",
-          "Asset Name": "SunAmerica Focused Dividend Strategy A (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $9,706.73.  Capital gain:  $1,931.42."
+          "owner": "Self",
+          "ticker": "FDSAX",
+          "asset-name": "SunAmerica Focused Dividend Strategy A (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $9,706.73.  Capital gain:  $1,931.42."
         },
         {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "TTRZX",
-          "Asset Name": "Templeton Global Total Return Adv (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $14,208.42.  Capital loss:  -$240.12."
+          "owner": "Self",
+          "ticker": "TTRZX",
+          "asset-name": "Templeton Global Total Return Adv (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $14,208.42.  Capital loss:  -$240.12."
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "VAPIX",
-          "Asset Name": "Virtus Premium AlphaSector I (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Sale amount:  $25,835.25.  Capital gain:  $6,104.86."
+          "owner": "Self",
+          "ticker": "VAPIX",
+          "asset-name": "Virtus Premium AlphaSector I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "Sale amount:  $25,835.25.  Capital gain:  $6,104.86."
         },
         {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "WFPDX",
-          "Asset Name": "Wells Fargo Advantage Prem Lg Co Gr Adm (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Sale amount:  $17,596.64.  Capital gain:  $4,573.64."
+          "owner": "Self",
+          "ticker": "WFPDX",
+          "asset-name": "Wells Fargo Advantage Prem Lg Co Gr Adm (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$15,001 - $50,000",
+          "comment": "Sale amount:  $17,596.64.  Capital gain:  $4,573.64."
         },
         {
-          "#": "26",
-          "Owner": "Spouse",
-          "Ticker": "TOLIX",
-          "Asset Name": "Deutsche Global Infrastructure Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $1,875.00."
+          "owner": "Spouse",
+          "ticker": "TOLIX",
+          "asset-name": "Deutsche Global Infrastructure Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $1,875.00."
         },
         {
-          "#": "27",
-          "Owner": "Spouse",
-          "Ticker": "BSIIX",
-          "Asset Name": "BlackRock Strategic Income Opps Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $1,875.00."
+          "owner": "Spouse",
+          "ticker": "BSIIX",
+          "asset-name": "BlackRock Strategic Income Opps Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $1,875.00."
         },
         {
-          "#": "28",
-          "Owner": "Spouse",
-          "Ticker": "MINIX",
-          "Asset Name": "MFS International Value I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $1,339.00."
+          "owner": "Spouse",
+          "ticker": "MINIX",
+          "asset-name": "MFS International Value I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $1,339.00."
         },
         {
-          "#": "29",
-          "Owner": "Spouse",
-          "Ticker": "IMLPX",
-          "Asset Name": "MainGate MLP I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $1,875.00."
+          "owner": "Spouse",
+          "ticker": "IMLPX",
+          "asset-name": "MainGate MLP I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $1,875.00."
         },
         {
-          "#": "30",
-          "Owner": "Spouse",
-          "Ticker": "JVAIX",
-          "Asset Name": "JPMorgan Value Advantage Instl (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $2,143.00."
+          "owner": "Spouse",
+          "ticker": "JVAIX",
+          "asset-name": "JPMorgan Value Advantage Instl (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $2,143.00."
         },
         {
-          "#": "31",
-          "Owner": "Spouse",
-          "Ticker": "OOSYX",
-          "Asset Name": "Oppenheimer Senior Floating Rate Y (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $1,339.00."
+          "owner": "Spouse",
+          "ticker": "OOSYX",
+          "asset-name": "Oppenheimer Senior Floating Rate Y (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $1,339.00."
         },
         {
-          "#": "32",
-          "Owner": "Spouse",
-          "Ticker": "PCBIX",
-          "Asset Name": "Principal MidCap Institutional (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $2,143.00."
+          "owner": "Spouse",
+          "ticker": "PCBIX",
+          "asset-name": "Principal MidCap Institutional (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $2,143.00."
         },
         {
-          "#": "33",
-          "Owner": "Spouse",
-          "Ticker": "PONPX",
-          "Asset Name": "PIMCO Income P (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $2,411.00."
+          "owner": "Spouse",
+          "ticker": "PONPX",
+          "asset-name": "PIMCO Income P (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $2,411.00."
         },
         {
-          "#": "34",
-          "Owner": "Spouse",
-          "Ticker": "PXTIX",
-          "Asset Name": "PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $2,947.00."
+          "owner": "Spouse",
+          "ticker": "PXTIX",
+          "asset-name": "PIMCO Fundamental IndexPLUS AR Inst (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $2,947.00."
         },
         {
-          "#": "35",
-          "Owner": "Spouse",
-          "Ticker": "VIMNX",
-          "Asset Name": "Virtus Dynamic AlphaSector I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase price:  $1,339.00."
+          "owner": "Spouse",
+          "ticker": "VIMNX",
+          "asset-name": "Virtus Dynamic AlphaSector I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase price:  $1,339.00."
         },
         {
-          "#": "36",
-          "Owner": "Spouse",
-          "Ticker": "EIGMX",
-          "Asset Name": "Eaton Vance Glbl Macr Absolute Return I (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $1,965.30.  Capital loss:  -86.08."
+          "owner": "Spouse",
+          "ticker": "EIGMX",
+          "asset-name": "Eaton Vance Glbl Macr Absolute Return I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $1,965.30.  Capital loss:  -86.08."
         },
         {
-          "#": "37",
-          "Owner": "Spouse",
-          "Ticker": "LDLFX",
-          "Asset Name": "Lord Abbett Short Duration Income F (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $1,252.40.  Capital loss:  -$16.49."
+          "owner": "Spouse",
+          "ticker": "LDLFX",
+          "asset-name": "Lord Abbett Short Duration Income F (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $1,252.40.  Capital loss:  -$16.49."
         },
         {
-          "#": "38",
-          "Owner": "Spouse",
-          "Ticker": "WARDX",
-          "Asset Name": "Wells Fargo Advantage Absolute Ret Adm (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $2,596.29.  Capital gain:  $86.68."
+          "owner": "Spouse",
+          "ticker": "WARDX",
+          "asset-name": "Wells Fargo Advantage Absolute Ret Adm (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $2,596.29.  Capital gain:  $86.68."
         },
         {
-          "#": "39",
-          "Owner": "Spouse",
-          "Ticker": "PAUPX",
-          "Asset Name": "PIMCO All Asset All Authority P (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $2,147.31.  Capital loss:  -$189.79."
+          "owner": "Spouse",
+          "ticker": "PAUPX",
+          "asset-name": "PIMCO All Asset All Authority P (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $2,147.31.  Capital loss:  -$189.79."
         },
         {
-          "#": "40",
-          "Owner": "Spouse",
-          "Ticker": "UMBMX",
-          "Asset Name": "Scout Mid Cap (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $1,484.43."
+          "owner": "Spouse",
+          "ticker": "UMBMX",
+          "asset-name": "Scout Mid Cap (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $1,484.43."
         },
         {
-          "#": "41",
-          "Owner": "Spouse",
-          "Ticker": "TTRZX",
-          "Asset Name": "Templeton Global Total Return Adv (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $2,548.80."
+          "owner": "Spouse",
+          "ticker": "TTRZX",
+          "asset-name": "Templeton Global Total Return Adv (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $2,548.80."
         },
         {
-          "#": "42",
-          "Owner": "Spouse",
-          "Ticker": "VAPIX",
-          "Asset Name": "Virtus Premium AlphaSector I (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $4,674.62."
+          "owner": "Spouse",
+          "ticker": "VAPIX",
+          "asset-name": "Virtus Premium AlphaSector I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $4,674.62."
         },
         {
-          "#": "43",
-          "Owner": "Spouse",
-          "Ticker": "WFPDX",
-          "Asset Name": "Wells Fargo Advantage Prem Lg Co Gr Adm (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/10/2014",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale amount:  $3,190.94."
+          "owner": "Spouse",
+          "ticker": "WFPDX",
+          "asset-name": "Wells Fargo Advantage Prem Lg Co Gr Adm (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/10/2014",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale amount:  $3,190.94."
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2009",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "1.97",
-          "Rate(Term)": "5.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Everhome Mortgage\n\t\t\t\t\t\t\t\tJacksonville, FL",
-          "Comments": "-"
+          "incurred": "2009",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "1.97",
+          "rate-term": "5.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Everhome Mortgage\n\t\t\t\t\t\t\t\tJacksonville, FL",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

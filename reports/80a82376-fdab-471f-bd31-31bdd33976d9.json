@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/19/2017",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 04/19/2017 @ 1:08 PM",
+  "filed-date": "04/19/2017",
+  "filed-time": "1:08 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "04/05/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "WESTBRAND, INC. BANK HOLDING COMPANY STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/05/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "WESTBRAND, INC. BANK HOLDING COMPANY STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/29/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "WESTBRAND, INC. BANK HOLDING COMPANY STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "WESTBRAND, INC. BANK HOLDING COMPANY STOCK\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: WESTBRAND, INC.\n                                                    \n                                                         (MINOT, NORTH DAKOTA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: BANK HOLDING COMPANY OF FIRST WESTERN BANK",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

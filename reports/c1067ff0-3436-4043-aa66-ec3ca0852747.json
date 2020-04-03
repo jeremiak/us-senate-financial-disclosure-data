@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/16/2015",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 12/16/2015 @ 11:18 AM",
+  "filed-date": "12/16/2015",
+  "filed-time": "11:18 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "12/02/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "NOG - Northern Oil & Gas, Inc. (AMEX)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/02/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "NOG - Northern Oil & Gas, Inc. (AMEX)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "12/07/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "CMI - Cummins Inc. (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "12/07/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CMI - Cummins Inc. (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/07/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "ADP - Automatic Data Processing, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "12/07/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "ADP - Automatic Data Processing, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/25/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "PFE - Pfizer Inc. (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "11/25/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PFE - Pfizer Inc. (NYSE)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

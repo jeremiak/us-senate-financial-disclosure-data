@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/19/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 09/19/2017 @ 11:47 AM",
+  "filed-date": "09/19/2017",
+  "filed-time": "11:47 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "09/18/2017",
-          "Owner": "Joint",
-          "Ticker": "Q",
-          "Asset Name": "Quintiles IMS Holdings, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Note: Transaction was less than $1,000."
+          "transaction-date": "09/18/2017",
+          "owner": "Joint",
+          "ticker": "Q",
+          "asset-name": "Quintiles IMS Holdings, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Note: Transaction was less than $1,000."
         },
         {
-          "#": "1",
-          "Transaction Date": "09/18/2017",
-          "Owner": "Self",
-          "Ticker": "Q",
-          "Asset Name": "Quintiles IMS Holdings, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/18/2017",
+          "owner": "Self",
+          "ticker": "Q",
+          "asset-name": "Quintiles IMS Holdings, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

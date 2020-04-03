@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 06/26/2014 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 04/14/2015 @ 2:45 PM",
+  "filed-date": "04/14/2015",
+  "filed-time": "2:45 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "06/24/2014",
-          "Owner": "Joint",
-          "Ticker": "AMLP",
-          "Asset Name": "ALPS Alerian MLP ETF",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/24/2014",
+          "owner": "Joint",
+          "ticker": "AMLP",
+          "asset-name": "ALPS Alerian MLP ETF",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

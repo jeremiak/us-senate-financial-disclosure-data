@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/02/2017",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 05/02/2017 @ 4:02 PM",
+  "filed-date": "05/02/2017",
+  "filed-time": "4:02 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/09/2017",
-          "Owner": "Self",
-          "Ticker": "SPY",
-          "Asset Name": "SPDR S&P 500 ETF\n                                        \n                                        \n                                        \n                                            Option Type: Put Strike price: $210.00\n                                                \n                                                Expires: 06/30/2017",
-          "Asset Type": "Stock Option",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/09/2017",
+          "owner": "Self",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF\n                                        \n                                        \n                                        \n                                            Option Type: Put Strike price: $210.00\n                                                \n                                                Expires: 06/30/2017",
+          "asset-type": "Stock Option",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/18/2014",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 11/18/2014 @ 7:25 PM",
+  "filed-date": "11/18/2014",
+  "filed-time": "7:25 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "11/06/2014",
-          "Owner": "Self",
-          "Ticker": "HON",
-          "Asset Name": "Honeywell International Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "11/06/2014",
+          "owner": "Self",
+          "ticker": "HON",
+          "asset-name": "Honeywell International Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/29/2014",
-          "Owner": "Self",
-          "Ticker": "CSCO",
-          "Asset Name": "Cisco Systems, Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "10/29/2014",
+          "owner": "Self",
+          "ticker": "CSCO",
+          "asset-name": "Cisco Systems, Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

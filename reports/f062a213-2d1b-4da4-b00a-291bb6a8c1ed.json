@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/03/2020",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 02/03/2020 @ 6:01 PM",
+  "filed-date": "02/03/2020",
+  "filed-time": "6:01 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "01/27/2020",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "BK OF NOVA SCOTIA NTS 02.500% 012927 DTD012920\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.500% Matures: 01/29/2027",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BK OF NOVA SCOTIA NTS 02.500% 012927 DTD012920\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.500% Matures: 01/29/2027",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "01/10/2020",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "COCA-COLA CO/THE B/E 02.125% 090629 DTD090619\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.125% Matures: 09/06/2029",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/10/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "COCA-COLA CO/THE B/E 02.125% 090629 DTD090619\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.125% Matures: 09/06/2029",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/10/2020",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "KINGS PARK N Y CENT SCH DIST BDS 2019 NEW YORK ST AID INTERCEPT PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.00% Matures: 09/01/2033",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/10/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "KINGS PARK N Y CENT SCH DIST BDS 2019 NEW YORK ST AID INTERCEPT PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.00% Matures: 09/01/2033",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

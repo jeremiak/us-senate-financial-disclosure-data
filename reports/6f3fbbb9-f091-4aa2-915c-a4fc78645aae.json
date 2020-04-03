@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/01/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 08/01/2019 @ 5:46 PM",
+  "filed-date": "08/01/2019",
+  "filed-time": "5:46 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/03/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "VERIZON COMM INC 03.700% 081529 DTD081717\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.700% Matures: 08/15/2029",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/03/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VERIZON COMM INC 03.700% 081529 DTD081717\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.700% Matures: 08/15/2029",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

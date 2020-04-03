@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/19/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 02/19/2019 @ 4:27 PM",
+  "filed-date": "02/19/2019",
+  "filed-time": "4:27 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "02/01/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "HONOLULU HAWAII CITY & CNTY GO BDS A DUE 10/01/2041\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 10/01/2041",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/01/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "HONOLULU HAWAII CITY & CNTY GO BDS A DUE 10/01/2041\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 10/01/2041",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

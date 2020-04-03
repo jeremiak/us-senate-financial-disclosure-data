@@ -1,886 +1,881 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2013",
   "filer": "The Honorable Joseph Manchin III (Manchin, Joe)",
-  "filedDate": "Filed 05/14/2014 @ 4:37 PM",
+  "filed-date": "05/14/2014",
+  "filed-time": "4:37 PM",
+  "calendar-year": "2013",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Pension",
-          "Who Paid": "WV Public Employees Retirement System\n\t\t\t\t\t\t\t\tCharleston, West Virginia",
-          "Amount Paid": "$48,282.00"
+          "who-was-paid": "Self",
+          "type": "Pension",
+          "who-paid": "WV Public Employees Retirement System\n\t\t\t\t\t\t\t\tCharleston, West Virginia",
+          "amount-paid": "$48,282.00"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Social Security)",
-          "Who Paid": "Social Security Administration\n\t\t\t\t\t\t\t\tPhiladelphia, Pennsylvania",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Social Security)",
+          "who-paid": "Social Security Administration\n\t\t\t\t\t\t\t\tPhiladelphia, Pennsylvania",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Huntington Banks(Fairmont, West Virginia)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Huntington Banks(Fairmont, West Virginia)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "Huntington Banks(Fairmont, West Virginia)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Huntington Banks(Fairmont, West Virginia)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "Branch Banking & Trust(Charleston, West Virginia)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Branch Banking & Trust(Charleston, West Virginia)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "PRU - Prudential Financial, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "Joseph Manchin III Qualified Blind Trust",
-          "Asset Type": "TrustBlind",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Qualified Blind Trust,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "TIAA-CREF - Traditional AnnuityProvider: TIAA-CREF",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "DGSIX - DFA Global Allocation 60/40 I (NASDAQ)",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "Fidelity Individual Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "DFCEX - DFA Emerging Markets Core Equity I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "DTMEX - DFA Tax-Managed US Eq (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Huntington Banks(Fairmont, West Virginia)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Huntington Banks(Fairmont, West Virginia)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Huntington Banks(Fairmont, West Virginia)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Huntington Banks(Fairmont, West Virginia)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Branch Banking & Trust(Charleston, West Virginia)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Branch Banking & Trust(Charleston, West Virginia)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PRU - Prudential Financial, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Joseph Manchin III Qualified Blind Trust",
+          "asset-type": "TrustBlind",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Qualified Blind Trust",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "TIAA-CREF - Traditional AnnuityProvider: TIAA-CREF",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DGSIX - DFA Global Allocation 60/40 I (NASDAQ)",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Fidelity Individual Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "DFCEX - DFA Emerging Markets Core Equity I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "DTMEX - DFA Tax-Managed US Eq (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "DTMIX - DFA Tax-Managed International Value (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DTMIX - DFA Tax-Managed International Value (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFTSX - DFA Tax-Managed US Small Cap (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFTSX - DFA Tax-Managed US Small Cap (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DTMVX - DFA Tax-Managed US Targeted Value (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "DTMVX - DFA Tax-Managed US Targeted Value (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "DFISX - DFA International Small Company I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "DFISX - DFA International Small Company I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "DISVX - DFA International Small Cap Value I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "DISVX - DFA International Small Cap Value I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "DFALX - DFA Large Cap International I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFALX - DFA Large Cap International I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFMVX - DFA Tax-Managed US Marketwide Value II (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "DFMVX - DFA Tax-Managed US Marketwide Value II (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Sallie Mae Bank CD 1.30% 10/24/16(Murray, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Sallie Mae Bank CD 1.30% 10/24/16(Murray, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Sallie Mae Bank CD 0.80% 11/20/15(Murray, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Sallie Mae Bank CD 0.80% 11/20/15(Murray, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FMOXX - Fidelity Tax-Free Money Market (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FMOXX - Fidelity Tax-Free Money Market (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DFTIX - DFA Intermediate-Term Municipal Bd I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFTIX - DFA Intermediate-Term Municipal Bd I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Fidelity SEP IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity SEP IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "TIP - iShares TIPS Bond",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "TIP - iShares TIPS Bond",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFCEX - DFA Emerging Markets Core Equity I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "DFCEX - DFA Emerging Markets Core Equity I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DFISX - DFA International Small Company I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFISX - DFA International Small Company I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DISVX - DFA International Small Cap Value I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DISVX - DFA International Small Cap Value I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFREX - DFA Real Estate Securities I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFREX - DFA Real Estate Securities I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFSTX - DFA US Small Cap I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFSTX - DFA US Small Cap I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFALX - DFA Large Cap International I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "DFALX - DFA Large Cap International I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DFVIX - DFA International Value III (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFVIX - DFA International Value III (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFUVX - DFA US Large Cap Value III (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFUVX - DFA US Large Cap Value III (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VIFSX - Vanguard 500 Index Signal (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VIFSX - Vanguard 500 Index Signal (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VYSVX - Vericimetry U.S. Small Cap Value (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VYSVX - Vericimetry U.S. Small Cap Value (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PCRIX - PIMCO Commodity Real Ret Strat Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "PCRIX - PIMCO Commodity Real Ret Strat Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GE Capital Bank CD 0.80% 05/27/2014(Salt Lake City, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "GE Capital Bank CD 0.80% 05/27/2014(Salt Lake City, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Goldman Sachs Bank CD 1.15% 9/28/2015(New York, New York)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Goldman Sachs Bank CD 1.15% 9/28/2015(New York, New York)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Goldman Sachs Bank CD 1.30% 5/31/2016(New York, New York)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Goldman Sachs Bank CD 1.30% 5/31/2016(New York, New York)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Goldman Sachs Bank CD 1.4% 7/11/2016(New York, New York)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Goldman Sachs Bank CD 1.4% 7/11/2016(New York, New York)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GE Capital Bank CD 1.8% 05/25/2017(Draper, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "GE Capital Bank CD 1.8% 05/25/2017(Draper, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Goldman Sachs Bank CD 1.8% 7/11/2017(New York, New York)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Goldman Sachs Bank CD 1.8% 7/11/2017(New York, New York)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GE Capital Bank CD 1.65% 08/24/2017(Draper, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "GE Capital Bank CD 1.65% 08/24/2017(Draper, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FDRXX - Fidelity Cash Reserves (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FDRXX - Fidelity Cash Reserves (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DFGFX - DFA Two-Year Global Fixed-Income I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "DFGFX - DFA Two-Year Global Fixed-Income I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fidelity Traditional IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "TIP - iShares TIPS Bond",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIP - iShares TIPS Bond",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DFCEX - DFA Emerging Markets Core Equity I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFCEX - DFA Emerging Markets Core Equity I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFISX - DFA International Small Company I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFISX - DFA International Small Company I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DISVX - DFA International Small Cap Value I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DISVX - DFA International Small Cap Value I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFREX - DFA Real Estate Securities I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFREX - DFA Real Estate Securities I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFSTX - DFA US Small Cap I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFSTX - DFA US Small Cap I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFALX - DFA Large Cap International I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFALX - DFA Large Cap International I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFVIX - DFA International Value III (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFVIX - DFA International Value III (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DFUVX - DFA US Large Cap Value III (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "DFUVX - DFA US Large Cap Value III (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VIFSX - Vanguard 500 Index Signal (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VIFSX - Vanguard 500 Index Signal (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VYSVX - Vericimetry U.S. Small Cap Value (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VYSVX - Vericimetry U.S. Small Cap Value (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PCRIX - PIMCO Commodity Real Ret Strat Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PCRIX - PIMCO Commodity Real Ret Strat Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GE Capital Bank CD 1.1% 05/26/2015(Salt Lake City, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "GE Capital Bank CD 1.1% 05/26/2015(Salt Lake City, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GE Capital Bank CD 1.8% 05/25/2017(Draper, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "GE Capital Bank CD 1.8% 05/25/2017(Draper, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FDRXX - Fidelity Cash Reserves (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FDRXX - Fidelity Cash Reserves (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Sallie Mae Bank CD 2.15% 10/30/2018(Murray, Utah)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Sallie Mae Bank CD 2.15% 10/30/2018(Murray, Utah)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WV National Company LLCCompany: WV National Company LLC (Morgantown, West Virginia) Description: Auto Insurance Provider",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (Ordinary Income)",
-          "Income": "Other $644.00"
+          "asset": "WV National Company LLCCompany: WV National Company LLC (Morgantown, West Virginia) Description: Auto Insurance Provider",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Ordinary Income)",
+          "income": "Other $644.00"
         },
         {
-          "Asset": "MPM PropertiesCompany: MPM Properties (Fairmont, West Virginia) Description: storage building in Fairmont, WV",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Undeveloped land in Fairmont, WVDescription: Undeveloped land in Fairmont, WV (Fairmont, West Virginia)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Undeveloped land in Glade Springs, WVDescription: Undeveloped land in Glade Springs, WV (Glade Springs, West Virginia)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Manchin EnterprisesCompany: Manchin Enterprises (Fairmont, West Virginia) Description: Commercial Rentals",
-          "Asset Type": "Business EntityGeneral Partnership",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
-        },
-        {
-          "Asset": "AA Properties, LLCCompany: AA Properties, LLC (Fairmont, West Virginia) Description: Property Management",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (Ordinary Income)",
-          "Income": "Other $15,000.00"
-        },
-        {
-          "Asset": "Northwestern Mutual Life Insurance Whole Life Policy Cash ValueProvider: Northwestern Mutual Life Insurance",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Prudential Life Insurance Whole Life Policy Cash ValueProvider: Prudential Life Insurance",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Prudential Life Insurance Whole Life Policy Cash ValueProvider: Prudential Life Insurance",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Modern Woodmen of the World Life Insurance Policy Cash ValueProvider: Modern Woodmen of the World",
-          "Asset Type": "Life InsuranceUniversal",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "MVBF - MVB Financial Corp. (OTC Markets)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "Farmington Resources, Inc. - Common Stock",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Farmington Resources, Inc. - Note ReceivableCompany: Farmington Resources, Inc. (Fairmont, West Virginia)",
-          "Asset Type": "Accounts ReceivableFrom a Business",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "Enersystems, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Other, (Operating Income)",
-          "Income": "Other $460,894.00"
+          "asset": "MPM PropertiesCompany: MPM Properties (Fairmont, West Virginia) Description: storage building in Fairmont, WV",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Undeveloped land in Fairmont, WVDescription: Undeveloped land in Fairmont, WV (Fairmont, West Virginia)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Undeveloped land in Glade Springs, WVDescription: Undeveloped land in Glade Springs, WV (Glade Springs, West Virginia)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Manchin EnterprisesCompany: Manchin Enterprises (Fairmont, West Virginia) Description: Commercial Rentals",
+          "asset-type": "Business EntityGeneral Partnership",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
+        },
+        {
+          "asset": "AA Properties, LLCCompany: AA Properties, LLC (Fairmont, West Virginia) Description: Property Management",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Ordinary Income)",
+          "income": "Other $15,000.00"
+        },
+        {
+          "asset": "Northwestern Mutual Life Insurance Whole Life Policy Cash ValueProvider: Northwestern Mutual Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prudential Life Insurance Whole Life Policy Cash ValueProvider: Prudential Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Prudential Life Insurance Whole Life Policy Cash ValueProvider: Prudential Life Insurance",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Modern Woodmen of the World Life Insurance Policy Cash ValueProvider: Modern Woodmen of the World",
+          "asset-type": "Life InsuranceUniversal",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "MVBF - MVB Financial Corp. (OTC Markets)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Farmington Resources, Inc. - Common Stock",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Farmington Resources, Inc. - Note ReceivableCompany: Farmington Resources, Inc. (Fairmont, West Virginia)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Enersystems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Other, (Operating Income)",
+          "income": "Other $460,894.00"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "DFTIX",
-          "Asset Name": "DFA Intermediate-Term Municipal Bd I (NASDAQ)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DFTIX",
+          "asset-name": "DFA Intermediate-Term Municipal Bd I (NASDAQ)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Sallie Mae Bank CD 0.80% 11/20/15",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/13/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sallie Mae Bank CD 0.80% 11/20/15",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/13/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Sallie Mae Bank CD 1.30% 10/24/16",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/13/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sallie Mae Bank CD 1.30% 10/24/16",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/13/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "DFGFX",
-          "Asset Name": "DFA Two-Year Global Fixed-Income I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DFGFX",
+          "asset-name": "DFA Two-Year Global Fixed-Income I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "DFCEX",
-          "Asset Name": "DFA Emerging Markets Core Equity I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DFCEX",
+          "asset-name": "DFA Emerging Markets Core Equity I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "DFREX",
-          "Asset Name": "DFA Real Estate Securities I (NASDAQ)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DFREX",
+          "asset-name": "DFA Real Estate Securities I (NASDAQ)",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "DFISX",
-          "Asset Name": "DFA International Small Company I (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DFISX",
+          "asset-name": "DFA International Small Company I (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "DISVX",
-          "Asset Name": "DFA International Small Cap Value I (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DISVX",
+          "asset-name": "DFA International Small Cap Value I (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "DFUVX",
-          "Asset Name": "DFA US Large Cap Value III (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DFUVX",
+          "asset-name": "DFA US Large Cap Value III (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "DFSTX",
-          "Asset Name": "DFA US Small Cap I (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DFSTX",
+          "asset-name": "DFA US Small Cap I (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "VIFSX",
-          "Asset Name": "Vanguard 500 Index Signal (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VIFSX",
+          "asset-name": "Vanguard 500 Index Signal (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2013",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "VYSVX",
-          "Asset Name": "Vericimetry U.S. Small Cap Value (NASDAQ)",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "11/04/2013",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VYSVX",
+          "asset-name": "Vericimetry U.S. Small Cap Value (NASDAQ)",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "11/04/2013",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Sallie Mae Bank CD 2.15% 10/30/18",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/13/2013",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Sallie Mae Bank CD 2.15% 10/30/18",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/13/2013",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date(s)": "01/13/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t01/14/2013",
-          "Traveler(s)": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
-          "Travel Type": "Outside activity",
-          "Itinerary": "No Labels - Meeting to Make America Work",
-          "Reimbursed For": "Round trip air Washington D.C. to New York, ground transportation, and hotel for informational gathering and meetings.",
-          "Who Paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
-          "Comment": ""
+          "date-s": "01/13/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t01/14/2013",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "No Labels - Meeting to Make America Work",
+          "reimbursed-for": "Round trip air Washington D.C. to New York, ground transportation, and hotel for informational gathering and meetings.",
+          "who-paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
+          "comment": ""
         },
         {
-          "#": "2",
-          "Date(s)": "03/17/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t03/18/2013",
-          "Traveler(s)": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
-          "Travel Type": "Outside activity",
-          "Itinerary": "No Labels - NYC Meetings",
-          "Reimbursed For": "Round trip air Washington D.C. to New York, ground transportation, and hotel for informational gathering and meetings.",
-          "Who Paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
-          "Comment": ""
+          "date-s": "03/17/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t03/18/2013",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "No Labels - NYC Meetings",
+          "reimbursed-for": "Round trip air Washington D.C. to New York, ground transportation, and hotel for informational gathering and meetings.",
+          "who-paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
+          "comment": ""
         },
         {
-          "#": "3",
-          "Date(s)": "04/05/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t04/06/2013",
-          "Traveler(s)": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
-          "Travel Type": "Outside activity",
-          "Itinerary": "No Labels - Dallas Meetings",
-          "Reimbursed For": "Round trip air Washington D.C. to Dallas, ground transportation, and hotel for informational gathering and meetings.",
-          "Who Paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
-          "Comment": ""
+          "date-s": "04/05/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t04/06/2013",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "No Labels - Dallas Meetings",
+          "reimbursed-for": "Round trip air Washington D.C. to Dallas, ground transportation, and hotel for informational gathering and meetings.",
+          "who-paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
+          "comment": ""
         },
         {
-          "#": "4",
-          "Date(s)": "12/08/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t12/09/2013",
-          "Traveler(s)": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
-          "Travel Type": "Outside activity",
-          "Itinerary": "No Labels - Meeting for our Nation's Future",
-          "Reimbursed For": "Round trip air Washington D.C. to New York, ground transportation, and hotel for informational gathering and meetings.",
-          "Who Paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
-          "Comment": ""
+          "date-s": "12/08/2013\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t12/09/2013",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "No Labels - Meeting for our Nation's Future",
+          "reimbursed-for": "Round trip air Washington D.C. to New York, ground transportation, and hotel for informational gathering and meetings.",
+          "who-paid": "No Labels\n\t\t\t\t\t\t\t\tWashington, D.C.",
+          "comment": ""
         }
       ]
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

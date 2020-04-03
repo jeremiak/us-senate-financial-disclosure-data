@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/11/2017",
   "filer": "The Honorable Ladda Tammy Duckworth (Duckworth, Tammy)",
-  "filedDate": "Filed 12/11/2017 @ 3:29 PM",
+  "filed-date": "12/11/2017",
+  "filed-time": "3:29 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "11/30/2017",
-          "Owner": "Joint",
-          "Ticker": "GS",
-          "Asset Name": "The Goldman Sachs Group, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/30/2017",
+          "owner": "Joint",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/01/2017",
-          "Owner": "Joint",
-          "Ticker": "SOUHY",
-          "Asset Name": "South32 Limited",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/01/2017",
+          "owner": "Joint",
+          "ticker": "SOUHY",
+          "asset-name": "South32 Limited",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

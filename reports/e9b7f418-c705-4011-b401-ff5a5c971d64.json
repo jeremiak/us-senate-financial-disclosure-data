@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/21/2015",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 05/21/2015 @ 5:21 PM",
+  "filed-date": "05/21/2015",
+  "filed-time": "5:21 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/11/2015",
-          "Owner": "Self",
-          "Ticker": "UTX",
-          "Asset Name": "United Technologies Corporation (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/11/2015",
+          "owner": "Self",
+          "ticker": "UTX",
+          "asset-name": "United Technologies Corporation (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/11/2015",
-          "Owner": "Self",
-          "Ticker": "SLY",
-          "Asset Name": "SPDR S&P 600 Small Cap ETF (NYSEArca)\n                                        \n                                        \n                                        \n                                            \n\n                                            \n                                                Description: ETF",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/11/2015",
+          "owner": "Self",
+          "ticker": "SLY",
+          "asset-name": "SPDR S&P 600 Small Cap ETF (NYSEArca)\n                                        \n                                        \n                                        \n                                            \n\n                                            \n                                                Description: ETF",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

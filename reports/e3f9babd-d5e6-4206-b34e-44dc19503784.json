@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/21/2014",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 07/21/2014 @ 5:51 PM",
+  "filed-date": "07/21/2014",
+  "filed-time": "5:51 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "06/30/2014",
-          "Owner": "Spouse",
-          "Ticker": "DVFAX",
-          "Asset Name": "Cohen & Steers Dividend Value A (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/30/2014",
+          "owner": "Spouse",
+          "ticker": "DVFAX",
+          "asset-name": "Cohen & Steers Dividend Value A (NASDAQ)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

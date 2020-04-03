@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/21/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 05/21/2019 @ 4:32 PM",
+  "filed-date": "05/21/2019",
+  "filed-time": "4:32 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "05/02/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "VIRGINIA COMWLTH TRANSN BRD TRANSN REV CAP PROJ REV BDS 2016\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/15/2040",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/02/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VIRGINIA COMWLTH TRANSN BRD TRANSN REV CAP PROJ REV BDS 2016\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/15/2040",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "04/25/2019",
-          "Owner": "Self",
-          "Ticker": "TOT",
-          "Asset Name": "TOTAL S.A.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/25/2019",
+          "owner": "Self",
+          "ticker": "TOT",
+          "asset-name": "TOTAL S.A.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/25/2019",
-          "Owner": "Self",
-          "Ticker": "SHW",
-          "Asset Name": "The Sherwin-Williams Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/25/2019",
+          "owner": "Self",
+          "ticker": "SHW",
+          "asset-name": "The Sherwin-Williams Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/25/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "OAK GROVE CALIF SCH DIST GO BDS C \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 08/01/2040",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/25/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "OAK GROVE CALIF SCH DIST GO BDS C \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 08/01/2040",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/24/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "LEGGETT & PLATT INC B/E \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.500% Matures: 11/15/2027",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/24/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "LEGGETT & PLATT INC B/E \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.500% Matures: 11/15/2027",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

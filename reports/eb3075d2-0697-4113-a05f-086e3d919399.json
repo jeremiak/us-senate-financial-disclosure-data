@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/02/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 07/02/2019 @ 5:09 PM",
+  "filed-date": "07/02/2019",
+  "filed-time": "5:09 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "06/06/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "BRIGHTHOUSE FINL INC NTS 03.700% 062227 DTD 122217\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.700% Matures: 06/22/2027",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/06/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BRIGHTHOUSE FINL INC NTS 03.700% 062227 DTD 122217\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.700% Matures: 06/22/2027",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/13/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "CLEVELAND OHIO GO VAR PURP BDS 2019A DUE 12/01/2043\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2043",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/13/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CLEVELAND OHIO GO VAR PURP BDS 2019A DUE 12/01/2043\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 12/01/2043",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 04/01/2015 (Amendment 2)",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 10/05/2015 @ 10:08 AM",
+  "filed-date": "10/05/2015",
+  "filed-time": "10:08 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "03/31/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MS Contingent Autocall Apple Computer\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.7% Matures: 12/29/2017",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/31/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MS Contingent Autocall Apple Computer\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.7% Matures: 12/29/2017",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/20/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MS Contingent Autocall Marathon Petroleum\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 9.5% Matures: 03/23/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/20/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MS Contingent Autocall Marathon Petroleum\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 9.5% Matures: 03/23/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/18/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "HSBC Contingent Autocall Valero Energy\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 9.3% Matures: 06/18/2015",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/18/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "HSBC Contingent Autocall Valero Energy\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 9.3% Matures: 06/18/2015",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/11/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "UBS Contingent Autocall Terex\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 11.2% Matures: 03/11/2015",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/11/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "UBS Contingent Autocall Terex\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 11.2% Matures: 03/11/2015",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

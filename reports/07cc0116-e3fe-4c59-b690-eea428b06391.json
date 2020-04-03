@@ -1,191 +1,199 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2017",
   "filer": "The Honorable Cory A Booker (Booker, Cory)",
-  "filedDate": "Filed 08/13/2018 @ 10 PM",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": "2017",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "05/22/2017",
-          "Activity": "Appearance",
-          "Amount": "$2,000.00",
-          "Who Paid?": "Ron Piervincenzi\n\t\t\t\t\t\t\t\tPotomac, MD",
-          "Who received payment?": "A Charity"
+          "date": "05/22/2017",
+          "activity": "Appearance",
+          "amount": "$2,000.00",
+          "who-paid": "Ron Piervincenzi\n\t\t\t\t\t\t\t\tPotomac, MD",
+          "who-received-payment": "A Charity"
         },
         {
-          "#": "2",
-          "Date": "05/22/2017",
-          "Activity": "Appearance",
-          "Amount": "$2,000.00",
-          "Who Paid?": "Lee Maschler\n\t\t\t\t\t\t\t\tPrinceton, NJ",
-          "Who received payment?": "A Charity"
+          "date": "05/22/2017",
+          "activity": "Appearance",
+          "amount": "$2,000.00",
+          "who-paid": "Lee Maschler\n\t\t\t\t\t\t\t\tPrinceton, NJ",
+          "who-received-payment": "A Charity"
         },
         {
-          "#": "3",
-          "Date": "05/22/2017",
-          "Activity": "Appearance",
-          "Amount": "$2,000.00",
-          "Who Paid?": "Erik Maschler\n\t\t\t\t\t\t\t\tCresskill, NJ",
-          "Who received payment?": "A Charity"
+          "date": "05/22/2017",
+          "activity": "Appearance",
+          "amount": "$2,000.00",
+          "who-paid": "Erik Maschler\n\t\t\t\t\t\t\t\tCresskill, NJ",
+          "who-received-payment": "A Charity"
         },
         {
-          "#": "4",
-          "Date": "05/22/2017",
-          "Activity": "Appearance",
-          "Amount": "$2,000.00",
-          "Who Paid?": "Sarah Kivlign\n\t\t\t\t\t\t\t\tPotomac, MD",
-          "Who received payment?": "A Charity"
+          "date": "05/22/2017",
+          "activity": "Appearance",
+          "amount": "$2,000.00",
+          "who-paid": "Sarah Kivlign\n\t\t\t\t\t\t\t\tPotomac, MD",
+          "who-received-payment": "A Charity"
         },
         {
-          "#": "5",
-          "Date": "05/22/2017",
-          "Activity": "Appearance",
-          "Amount": "$2,000.00",
-          "Who Paid?": "Brad Vaiana\n\t\t\t\t\t\t\t\tWyckoff, NJ",
-          "Who received payment?": "A Charity"
+          "date": "05/22/2017",
+          "activity": "Appearance",
+          "amount": "$2,000.00",
+          "who-paid": "Brad Vaiana\n\t\t\t\t\t\t\t\tWyckoff, NJ",
+          "who-received-payment": "A Charity"
         }
       ]
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance)",
-          "Who Paid": "Penguin Random House LLC\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "$325,000.00"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance)",
+          "who-paid": "Penguin Random House LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$325,000.00"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Bank of America(Charlotte, NC)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of America(Charlotte, NC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "New Jersey Public Employee Retirement System Pension",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "New Jersey Public Employee Retirement System Pension",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bank of America(Charlotte, NC)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of America(Charlotte, NC)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fidelity Brokerage Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Fidelity Money Market (SPAXX)(New York, NY)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "Fidelity Money Market (SPAXX)(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Fidelity SEP IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity SEP IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Fidelity - FDIC Insured Deposit At Citibank IRA(New York, NY)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Fidelity - FDIC Insured Deposit At Citibank IRA(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fidelity Traditional IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity Traditional IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Fidelity - FDIC Insured Deposit At Citibank IRA(New York, NY)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Fidelity - FDIC Insured Deposit At Citibank IRA(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Apr 2015",
-          "Parties Involved": "Penguin Random House LLC\n\t\t\t\t\t\t\t\tNew York, New York",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Advance and royalties based on customary and usual terms for book, \"United\". Royalties received in 2017."
+          "date": "Apr 2015",
+          "parties-involved": "Penguin Random House LLC\n\t\t\t\t\t\t\t\tNew York, New York",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance and royalties based on customary and usual terms for book, \"United\". Royalties received in 2017."
         },
         {
-          "#": "2",
-          "Date": "Oct 2013",
-          "Parties Involved": "New Jersey Public Employee Retirement System\n\t\t\t\t\t\t\t\tNewark, New Jersey",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Under terms of defined benefit state pension plan, filer will receive monthly payment of $2,627.74 beginning at age 60."
+          "date": "Oct 2013",
+          "parties-involved": "New Jersey Public Employee Retirement System\n\t\t\t\t\t\t\t\tNewark, New Jersey",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Under terms of defined benefit state pension plan, filer will receive monthly payment of $2,627.74 beginning at age 60."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

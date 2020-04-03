@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/16/2020",
   "filer": "The Honorable Jerry Moran (Moran, Jerry)",
-  "filedDate": "Filed 03/16/2020 @ 11:06 AM",
+  "filed-date": "03/16/2020",
+  "filed-time": "11:06 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "03/10/2020",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/10/2020",
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/10/2020",
-          "Owner": "Joint",
-          "Ticker": "HAL",
-          "Asset Name": "Halliburton Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/10/2020",
+          "owner": "Joint",
+          "ticker": "HAL",
+          "asset-name": "Halliburton Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/10/2020",
-          "Owner": "Self",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/10/2020",
+          "owner": "Self",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/10/2020",
-          "Owner": "Self",
-          "Ticker": "BRK-B",
-          "Asset Name": "Berkshire Hathaway Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/10/2020",
+          "owner": "Self",
+          "ticker": "BRK-B",
+          "asset-name": "Berkshire Hathaway Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

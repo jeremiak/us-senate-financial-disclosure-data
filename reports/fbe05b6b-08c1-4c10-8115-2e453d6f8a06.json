@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 03/07/2018 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 08/12/2019 @ 1:08 AM",
+  "filed-date": "08/12/2019",
+  "filed-time": "1:08 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/15/2018",
-          "Owner": "Self",
-          "Ticker": "NTRP",
-          "Asset Name": "Neurotrope, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/15/2018",
+          "owner": "Self",
+          "ticker": "NTRP",
+          "asset-name": "Neurotrope, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/08/2018",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/08/2018",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,387 +1,392 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Amy J Klobuchar (Klobuchar, Amy)",
-  "filedDate": "Filed 05/15/2019 @ 1:01 PM",
+  "filed-date": "05/15/2019",
+  "filed-time": "1:01 PM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "State of Maryland (University of Baltimore)\n\t\t\t\t\t\t\t\tAnnapolis, MD",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "State of Maryland (University of Baltimore)\n\t\t\t\t\t\t\t\tAnnapolis, MD",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Kelly & Berens, P.A. (now d/b/a Berens & Miller, P.A.)\n\t\t\t\t\t\t\t\tMinneapolis, MN",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Kelly & Berens, P.A. (now d/b/a Berens & Miller, P.A.)\n\t\t\t\t\t\t\t\tMinneapolis, MN",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Mandatory Annual Distribution from IRA of Rose Klobuchar (f/b/o Amy J. Klobuchar))",
-          "Who Paid": "Waddell & Reed (distribution from Ivy Wilshire Global Allocation Fund, managed by Waddell & Reed Financial Advisors)\n\t\t\t\t\t\t\t\tShawnee Mission, KS",
-          "Amount Paid": "$429.45"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Mandatory Annual Distribution from IRA of Rose Klobuchar (f/b/o Amy J. Klobuchar))",
+          "who-paid": "Waddell & Reed (distribution from Ivy Wilshire Global Allocation Fund, managed by Waddell & Reed Financial Advisors)\n\t\t\t\t\t\t\t\tShawnee Mission, KS",
+          "amount-paid": "$429.45"
         },
         {
-          "#": "4",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance against royalties)",
-          "Who Paid": "Penguin Random House LLC (book advance for an untitled book to be published by Knopf Doubleday, a division of Penguin Random House)\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "$27,000.00"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Advance against royalties)",
+          "who-paid": "Penguin Random House LLC (book advance for an untitled book to be published by Knopf Doubleday, a division of Penguin Random House)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "$27,000.00"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "QCBMIX - CREF Bond Market Account - R3",
-          "Asset Type": "Retirement PlansDeferred Compensation",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "QCBMIX - CREF Bond Market Account - R3",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TCLFX - TIAA-CREF Lifecycle 2025 Retirement",
-          "Asset Type": "Retirement PlansDeferred Compensation",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TCLFX - TIAA-CREF Lifecycle 2025 Retirement",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, IRA Cash Accounts, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking, IRA Cash Accounts, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Personal IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Personal IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "IWGAX - Ivy Wilshire Global Allocation Fund Class AFiler comment:  IRA of Rose Klobuchar (FBO Amy Klobuchar) - annual year-end distribution",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IWGAX - Ivy Wilshire Global Allocation Fund Class AFiler comment:  IRA of Rose Klobuchar (FBO Amy Klobuchar) - annual year-end distribution",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo(Minneapolis, MN)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Minneapolis, MN)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TruStone Financial(Minneapolis, MN)Type: Checking, IRA Cash Accounts, Money Market Account, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "TruStone Financial(Minneapolis, MN)Type: Checking, IRA Cash Accounts, Money Market Account, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Fidelity Investments IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity Investments IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FAIGX - Fidelity Adv Balanced",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FAIGX - Fidelity Adv Balanced",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FAGOX - Fidelity Adv Growth Opportunity",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FAGOX - Fidelity Adv Growth Opportunity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FAERX - Fidelity Adv Overseas",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FAERX - Fidelity Adv Overseas",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FEIRX - Fidelity Adv Equity Income",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FEIRX - Fidelity Adv Equity Income",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FAEGX - Fidelity Adv Equity Growth",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FAEGX - Fidelity Adv Equity Growth",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FTBRX - Fidelity Adv Limited Term Bond",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FTBRX - Fidelity Adv Limited Term Bond",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard(R) Small-Cap Index Fund-Institutional (457(b) Plan)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard(R) Small-Cap Index Fund-Institutional (457(b) Plan)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Vanguard(R) Small-Cap Index Fund-Institutional (401(k) Plan)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Vanguard(R) Small-Cap Index Fund-Institutional (401(k) Plan)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SIUSX - Guggenheim Investment Grade Bond Fund Class AFiler comment:  This was reported in 2017 as \"Guggenheim Investments - Investment Grade Bond-C\".",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SIUSX - Guggenheim Investment Grade Bond Fund Class AFiler comment:  This was reported in 2017 as \"Guggenheim Investments - Investment Grade Bond-C\".",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Northwestern Mutual Life Ins. - Variable Ins. Policies",
-          "Asset Type": "Life InsuranceVariable",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Northwestern Mutual Life Ins. - Variable Ins. Policies",
+          "asset-type": "Life InsuranceVariable",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Select Bond (MSA/Wells Capital Management Inc.)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Select Bond (MSA/Wells Capital Management Inc.)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "International Equity (MSA/Franklin Tmpl)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "International Equity (MSA/Franklin Tmpl)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Index 500 Stock (MSA)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Index 500 Stock (MSA)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mid Cap Growth Stock (MSA/Wellington Management)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Mid Cap Growth Stock (MSA/Wellington Management)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "High Yield Bond (MSA/Federated Invest. Mgmt. Co.)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "High Yield Bond (MSA/Federated Invest. Mgmt. Co.)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Small Cap Growth Stock (MSA/Wellington Management)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Small Cap Growth Stock (MSA/Wellington Management)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "U.S. Strategic Equity (Russell Invsts)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "U.S. Strategic Equity (Russell Invsts)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "International Developed Markets (Russell Invsts)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "International Developed Markets (Russell Invsts)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Small Cap Value (MSA/T Rowe Price)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Small Cap Value (MSA/T Rowe Price)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mid Cap Value (MSA/American Century)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Mid Cap Value (MSA/American Century)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "UNASX - WR Advisors Wilshire Global Allocation A (684)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/23/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "UNASX - WR Advisors Wilshire Global Allocation A (684)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/23/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "IWGAX",
-          "Asset Name": "Ivy Wilshire Global Allocation Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/23/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "IWGAX",
+          "asset-name": "Ivy Wilshire Global Allocation Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/23/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "SDICX",
-          "Asset Name": "Guggenheim Investment Grade Bond Fund Class C",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/10/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SDICX",
+          "asset-name": "Guggenheim Investment Grade Bond Fund Class C",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/10/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "SIUSX",
-          "Asset Name": "Guggenheim Investment Grade Bond Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/10/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SIUSX",
+          "asset-name": "Guggenheim Investment Grade Bond Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/10/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Apr 1986",
-          "Parties Involved": "Waveland Press, Inc.\n\t\t\t\t\t\t\t\tLong Grove, IL",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Publishing agreement with Waveland Press, Inc. to receive book royalties consistent with usual and customary publishing terms.  Waveland Press, Inc. periodically distributes royalties for the book \"Uncovering the Dome,\" written by Amy Klobuchar.  The royalty rate is 15% per copy for college and Amazon sales."
+          "date": "Apr 1986",
+          "parties-involved": "Waveland Press, Inc.\n\t\t\t\t\t\t\t\tLong Grove, IL",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with Waveland Press, Inc. to receive book royalties consistent with usual and customary publishing terms.  Waveland Press, Inc. periodically distributes royalties for the book \"Uncovering the Dome,\" written by Amy Klobuchar.  The royalty rate is 15% per copy for college and Amazon sales."
         },
         {
-          "#": "2",
-          "Date": "Feb 2015",
-          "Parties Involved": "Henry Holt and Company, LLC (Publisher) and N. S. Bienstock, Inc. (Author's Agent)\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Publishing agreement with Henry Holt and Company, LLC (Henry Holt) to receive book royalties consistent with usual and customary publishing terms. In August 2015 Henry Holt published “The Senator Next Door: A Memoir from the Heartland” by Amy Klobuchar. The payment/book royalties were reported in the 2015 annual report.  The University of Minnesota Press has acquired certain paperback rights to this book.  The University of Minnesota Press issued a new edition of \"The Senator Next Door\" in 2019."
+          "date": "Feb 2015",
+          "parties-involved": "Henry Holt and Company, LLC (Publisher) and N. S. Bienstock, Inc. (Author's Agent)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with Henry Holt and Company, LLC (Henry Holt) to receive book royalties consistent with usual and customary publishing terms. In August 2015 Henry Holt published “The Senator Next Door: A Memoir from the Heartland” by Amy Klobuchar. The payment/book royalties were reported in the 2015 annual report.  The University of Minnesota Press has acquired certain paperback rights to this book.  The University of Minnesota Press issued a new edition of \"The Senator Next Door\" in 2019."
         },
         {
-          "#": "3",
-          "Date": "Feb 2018",
-          "Parties Involved": "The Knopf Doubleday Publishing Group (Publisher) (Author's Agent: United Talent Agency LLC/Paul Fedorko)\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Publishing agreement with The Knopf Doubleday Publishing Group (Publisher), a division of Penguin Random House, LLC, to receive book royalties consistent with usual and customary publishing terms.  Author's agent: United Talent Agency LLC, 888 Seventh Avenue, 7th Floor, New York, NY 10106/Paul Fedorko (The Paul Fedorko Agency, 85 East End Avenue, New York, NY 10028).  The contract pertains to an untitled book to be published, with the advance reported in Part 2."
+          "date": "Feb 2018",
+          "parties-involved": "The Knopf Doubleday Publishing Group (Publisher) (Author's Agent: United Talent Agency LLC/Paul Fedorko)\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Publishing agreement with The Knopf Doubleday Publishing Group (Publisher), a division of Penguin Random House, LLC, to receive book royalties consistent with usual and customary publishing terms.  Author's agent: United Talent Agency LLC, 888 Seventh Avenue, 7th Floor, New York, NY 10106/Paul Fedorko (The Paul Fedorko Agency, 85 East End Avenue, New York, NY 10028).  The contract pertains to an untitled book to be published, with the advance reported in Part 2."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": [
         {
-          "Document Title": "2018 Report_Amy Klobuchar Supplement to Report (Spouse 457(B)) Plan Contributions).pdf",
-          "Date/Time Added": "04/12/2019 @ 6:11 PM"
+          "document-title": "2018 Report_Amy Klobuchar Supplement to Report (Spouse 457(B)) Plan Contributions).pdf",
+          "date-time-added": "04/12/2019 @ 6:11 PM"
         },
         {
-          "Document Title": "2018 Report_Amy Klobuchar Supplement to Report (Spouse 401(k) Plan Contributions).pdf",
-          "Date/Time Added": "04/12/2019 @ 6:11 PM"
+          "document-title": "2018 Report_Amy Klobuchar Supplement to Report (Spouse 401(k) Plan Contributions).pdf",
+          "date-time-added": "04/12/2019 @ 6:11 PM"
         },
         {
-          "Document Title": "2018 Report_Amy Klobuchar Supplement to Report (Northwestern Mutual Variable Life Insurance Contributions).pdf",
-          "Date/Time Added": "04/12/2019 @ 6 PM"
+          "document-title": "2018 Report_Amy Klobuchar Supplement to Report (Northwestern Mutual Variable Life Insurance Contributions).pdf",
+          "date-time-added": "04/12/2019 @ 6 PM"
         },
         {
-          "Document Title": "2018 Report_Amy Klobuchar Supplement to Report (MD Optional Retirement Plan Contributions).pdf",
-          "Date/Time Added": "04/12/2019 @ 5:51 PM"
+          "document-title": "2018 Report_Amy Klobuchar Supplement to Report (MD Optional Retirement Plan Contributions).pdf",
+          "date-time-added": "04/12/2019 @ 5:51 PM"
         }
       ]
     }

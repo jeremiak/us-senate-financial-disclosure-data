@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/15/2016",
   "filer": "The Honorable Lamar Alexander (Alexander, Lamar)",
-  "filedDate": "Filed 06/15/2016 @ 12:16 PM",
+  "filed-date": "06/15/2016",
+  "filed-time": "12:16 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "12/15/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Custom Foods of America Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Custom Foods of America Inc.\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Wholesale Food",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$250,001 - $500,000",
-          "Comment": "Sold to Leslee B  Alexander Family Trust"
+          "transaction-date": "12/15/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Custom Foods of America Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Custom Foods of America Inc.\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Wholesale Food",
+          "asset-type": "Non-Public Stock",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "Sold to Leslee B  Alexander Family Trust"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/15/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "3600 Management LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: 3600 Management LLC\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Commercial Rental",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$1,000,001 - $5,000,000",
-          "Comment": "Sold to Lamar Alexander Family Trust"
+          "transaction-date": "12/15/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "3600 Management LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: 3600 Management LLC\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Commercial Rental",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "Sold to Lamar Alexander Family Trust"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/15/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Custom Foods of America Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Custom Foods of America Inc.\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Wholesale food",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$250,001 - $500,000",
-          "Comment": "Sold to Lamar Alexander Family Trust"
+          "transaction-date": "12/15/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Custom Foods of America Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Custom Foods of America Inc.\n                                                    \n                                                         (Knoxville, Tennessee)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Wholesale food",
+          "asset-type": "Non-Public Stock",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "Sold to Lamar Alexander Family Trust"
         }
       ]
     }

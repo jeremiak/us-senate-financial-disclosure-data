@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/31/2018",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 01/31/2018 @ 10:08 AM",
+  "filed-date": "01/31/2018",
+  "filed-time": "10:08 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/24/2018",
-          "Owner": "Self",
-          "Ticker": "JETS",
-          "Asset Name": "US Global Jets ETF",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/24/2018",
+          "owner": "Self",
+          "ticker": "JETS",
+          "asset-name": "US Global Jets ETF",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

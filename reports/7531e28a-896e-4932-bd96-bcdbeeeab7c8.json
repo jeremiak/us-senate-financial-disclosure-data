@@ -1,1077 +1,1054 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2017 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 11/02/2018 @ 5:04 PM",
+  "filed-date": "11/02/2018",
+  "filed-time": "5:04 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": []
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "Morgan Stanley Traditional IRA 223",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "RSP-Guggenheim S&P 500 Equal Weight",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IWF-iShares Russell 1000 Growth",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IJK-iShares S&P MidCap 400 Growth",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IJJ-iShares S&P Mid-Cap 400 Value",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IJT-iShares S&P Small-Cap 600 Growth",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IJR-iShares Core S&P Small-Cap",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "QQQ-PowerShares QQQ Trust, Series 1 (NASDAQ)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SPY-SPDR S&P 500 ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IJH-iShares Core S&P Mid-Cap",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "IJS-iShares S&P Small-Cap 600 Value",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Morgan Stanley Traditional IRA 544",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Morgan Stanley Traditional IRA 223",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "RSP-Guggenheim S&P 500 Equal Weight",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IWF-iShares Russell 1000 Growth",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJK-iShares S&P MidCap 400 Growth",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJJ-iShares S&P Mid-Cap 400 Value",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJT-iShares S&P Small-Cap 600 Growth",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJR-iShares Core S&P Small-Cap",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "QQQ-PowerShares QQQ Trust, Series 1 (NASDAQ)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SPY-SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJH-iShares Core S&P Mid-Cap",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "IJS-iShares S&P Small-Cap 600 Value",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Morgan Stanley Traditional IRA 544",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "AIV-Apartment Investment and Management Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AIV-Apartment Investment and Management Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AMLP-Alerian MLP ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AMLP-Alerian MLP ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLV-Health Care Select Sector SPDR",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLV-Health Care Select Sector SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AIA-iShares Asia 50",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "AIA-iShares Asia 50",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ILF-iShares Latin America 40",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ILF-iShares Latin America 40",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IBB-iShares Nasdaq Biotechnology",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IBB-iShares Nasdaq Biotechnology",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DBP - PowerShares DB Precious Metals",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "DBP - PowerShares DB Precious Metals",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PSP-PowerShares Global Listed Private Eq",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PSP-PowerShares Global Listed Private Eq",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GLD - SPDR Gold Shares",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "GLD - SPDR Gold Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XES-SPDR S&P Oil & Gas Equipment & Svcs ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XES-SPDR S&P Oil & Gas Equipment & Svcs ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SPY-SPDR S&P 500 ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SPY-SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CAPL-CrossAmerica Partners LP (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CAPL-CrossAmerica Partners LP (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "United States Treasury Note - Inflation Indexed Rate/Coupon: None  Matures: NoneFiler comment:  Rate/Coupon: 1.375%. Matures: 07/15/2018.",
-          "Asset Type": "Government SecuritiesUS Treasury/Agency Security",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "United States Treasury Note - Inflation Indexed Rate/Coupon: None  Matures: NoneFiler comment:  Rate/Coupon: 1.375%. Matures: 07/15/2018.",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ETP-Energy Transfer Partners, L.P.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "ETP-Energy Transfer Partners, L.P.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MPLX-MPLX LP",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "MPLX-MPLX LP",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GE-General Electric Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "GE-General Electric Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley Traditional IRA K Toomey",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Morgan Stanley Traditional IRA K Toomey",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "IWF-iShares Russell 1000 Growth (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IWF-iShares Russell 1000 Growth (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IJK - iShares S&P Mid-Cap 400 Growth (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IJK - iShares S&P Mid-Cap 400 Growth (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QQQ-PowerShares QQQ Trust, Ser 1 (NASDAQ)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "QQQ-PowerShares QQQ Trust, Ser 1 (NASDAQ)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SPY - SPDR S&P 500 ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SPY - SPDR S&P 500 ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MTUM-iShares MSCI USA Momentum Factor",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MTUM-iShares MSCI USA Momentum Factor",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EEM-iShares MSCI Emerging Markets",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EEM-iShares MSCI Emerging Markets",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IJR-iShares Core S&P Small-Cap",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IJR-iShares Core S&P Small-Cap",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RSP-GUGGENHEIM S&P 500 EQU WIGHT",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "RSP-GUGGENHEIM S&P 500 EQU WIGHT",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VEA - Vanguard FTSE Developed Markets ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VEA - Vanguard FTSE Developed Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Portfolio Management Active Assets Account 389",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Portfolio Management Active Assets Account 389",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "VYM-Vanguard High Dividend Yield ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VYM-Vanguard High Dividend Yield ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "TRV - The Travelers Companies, Inc.Rate/Coupon: 5.8%  Matures: 05/15/2018",
-          "Asset Type": "Corporate SecuritiesCorporate Bond",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "TRV - The Travelers Companies, Inc.Rate/Coupon: 5.8%  Matures: 05/15/2018",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DD - E.I. du Pont de Nemours & Co Rate/Coupon: 6%  Matures: 07/15/2018",
-          "Asset Type": "Corporate SecuritiesCorporate Bond",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "DD - E.I. du Pont de Nemours & Co Rate/Coupon: 6%  Matures: 07/15/2018",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Public Service Company of ColoradoRate/Coupon: 5.8%  Matures: 08/01/2018",
-          "Asset Type": "Corporate SecuritiesCorporate Bond",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Public Service Company of ColoradoRate/Coupon: 5.8%  Matures: 08/01/2018",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "BAC - Bank of America Corp. Rate/Coupon: 5.5%  Matures: 03/15/2018",
-          "Asset Type": "Corporate SecuritiesCorporate Bond",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "BAC - Bank of America Corp. Rate/Coupon: 5.5%  Matures: 03/15/2018",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "T - AT&T Inc.Rate/Coupon: 5.8%  Matures: 02/15/2019Filer comment:  Asset sold in full on 08/07/2017.",
-          "Asset Type": "Corporate SecuritiesCorporate Bond",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "T - AT&T Inc.Rate/Coupon: 5.8%  Matures: 02/15/2019Filer comment:  Asset sold in full on 08/07/2017.",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "FPL Group Capital Inc. Rate/Coupon: 6.0%  Matures: 03/01/2019Filer comment:  Asset called by issuer and then redeemed in full by issuer on 12/28/2017.",
-          "Asset Type": "Corporate SecuritiesCorporate Bond",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Interest,",
-          "Income": "$2,501 - $5,000"
+          "asset": "FPL Group Capital Inc. Rate/Coupon: 6.0%  Matures: 03/01/2019Filer comment:  Asset called by issuer and then redeemed in full by issuer on 12/28/2017.",
+          "asset-type": "Corporate SecuritiesCorporate Bond",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley Bank N.A.(Salt Lake City, UT)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Scottrade Joint Account 965",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Scottrade Joint Account 965",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "CAPL-CrossAmerica Partners LP (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "CAPL-CrossAmerica Partners LP (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "PFS-Provident Financial Services, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "PFS-Provident Financial Services, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PG-The Procter & Gamble Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "PG-The Procter & Gamble Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GLD-SPDR Gold Shares",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "GLD-SPDR Gold Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TBT - ProShares UltraShort 20+ Year Treasury",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TBT - ProShares UltraShort 20+ Year Treasury",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GE-General Electric Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "GE-General Electric Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "REVB-Revere BankFiler comment:  Asset previously listed as stand-alone asset. Asset transferred into Scottrade Joint Account 965 in 2017.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Capital Gains,",
-          "Income": "$15,001 - $50,000"
+          "asset": "REVB-Revere BankFiler comment:  Asset previously listed as stand-alone asset. Asset transferred into Scottrade Joint Account 965 in 2017.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Capital Gains",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "VZ-Verizon Communications Inc.Filer comment:  Asset sold in full on 01/27/2017.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VZ-Verizon Communications Inc.Filer comment:  Asset sold in full on 01/27/2017.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "U.S. Bank, NA(St. Paul, MN)Type: Brokerage Sweep Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "U.S. Bank, NA(St. Paul, MN)Type: Brokerage Sweep Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PEY - PowerShares High Yield Eq Div Achiev ETFFiler comment:  Asset sold in full on 07/25/2017.",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "PEY - PowerShares High Yield Eq Div Achiev ETFFiler comment:  Asset sold in full on 07/25/2017.",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "BRIGHT DIRECTIONS 529 COLLEGE SAVINGS PLAN Institution: IllinoisFiler comment:  Account converted from Bright Start account to Bright Directions account by Illinois on 11/06/2017.",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "BRIGHT DIRECTIONS 529 COLLEGE SAVINGS PLAN Institution: IllinoisFiler comment:  Account converted from Bright Start account to Bright Directions account by Illinois on 11/06/2017.",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Child #1 Bright Directions MOD AGE BSD 17-18Filer comment:  Asset converted from Bright Start AGBSD 15-17 to Bright Directions MOD AGE BSD 17-18 by Illinois on 11/06/2017.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Child #1 Bright Directions MOD AGE BSD 17-18Filer comment:  Asset converted from Bright Start AGBSD 15-17 to Bright Directions MOD AGE BSD 17-18 by Illinois on 11/06/2017.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BRIGHT DIRECTIONS 529 COLLEGE SAVINGS PLANInstitution: IllinoisFiler comment:  Account converted from Bright Start account to Bright Directions account by Illinois on 11/06/2017.",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "BRIGHT DIRECTIONS 529 COLLEGE SAVINGS PLANInstitution: IllinoisFiler comment:  Account converted from Bright Start account to Bright Directions account by Illinois on 11/06/2017.",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Child #2 Bright Directions MOD AGE BSD 15-16Filer comment:  Asset converted from Bright Start AGBSD 15-17 to Bright Directions MOD AGE BSD 15-16 by Illinois on 11/06/2017.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Child #2 Bright Directions MOD AGE BSD 15-16Filer comment:  Asset converted from Bright Start AGBSD 15-17 to Bright Directions MOD AGE BSD 15-16 by Illinois on 11/06/2017.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Personal Loan to S. ToomeyDebtor: Steve Toomey",
-          "Asset Type": "Accounts ReceivableFrom an Individual",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Personal Loan to S. ToomeyDebtor: Steve Toomey",
+          "asset-type": "Accounts ReceivableFrom an Individual",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "N-35727, Inc.Company: N-35727, Inc. (Allentown, PA) Description: S-corporation holding 50% ownership interest in N-35580, LLC (Allentown, PA), an aircraft leasing company",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (Distributions)",
-          "Income": "Other $17,500.00"
-        },
-        {
-          "Asset": "BPG Investment Partnership IX, L.P. (Fund IX)Company: Equus Capital Partners, Ltd. (Philadelphia, PA) Description: Closed end private equity real estate fund",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "BPG Multifamily Partnership, LPCompany: Equus Capital Partners, Ltd. (Philadelphia, PA) Description: Closed end private equity real estate fund",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$100,001 - $1,000,000"
-        },
-        {
-          "Asset": "Equus Investment Partnership X, L.P.Company: Equus Capital Partners, Ltd. (Philadelphia, PA) Description: Closed end private equity real estate fund",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "Patriot Financial Partners IICompany: Patriot Financial Partners, L.P. (Philadelphia, PA) Description: A closed private equity fund which invests in small banks",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "Old Mill PartnersCompany: Old Mill Partners (Allentown, PA) Description: Real estate limited partnership. Through this partnership, Sen. Toomey and his wife are sole owners of plot of undeveloped land in Block Island, RI.",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "Block Island PropertyDescription: Undeveloped Land (Block Island, RI)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "PHLD - Phillips Edison Grocery Center REIT I",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
-        },
-        {
-          "Asset": "Child #1 Scottrade Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "SPY-SPDR S&P 500 ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Child #2 Scottrade Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "SPY-SPDR S&P 500 ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Provident Bank(Allentown, PA)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "N-35727, Inc.Company: N-35727, Inc. (Allentown, PA) Description: S-corporation holding 50% ownership interest in N-35580, LLC (Allentown, PA), an aircraft leasing company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Distributions)",
+          "income": "Other $17,500.00"
+        },
+        {
+          "asset": "BPG Investment Partnership IX, L.P. (Fund IX)Company: Equus Capital Partners, Ltd. (Philadelphia, PA) Description: Closed end private equity real estate fund",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "BPG Multifamily Partnership, LPCompany: Equus Capital Partners, Ltd. (Philadelphia, PA) Description: Closed end private equity real estate fund",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$100,001 - $1,000,000"
+        },
+        {
+          "asset": "Equus Investment Partnership X, L.P.Company: Equus Capital Partners, Ltd. (Philadelphia, PA) Description: Closed end private equity real estate fund",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "Patriot Financial Partners IICompany: Patriot Financial Partners, L.P. (Philadelphia, PA) Description: A closed private equity fund which invests in small banks",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Old Mill PartnersCompany: Old Mill Partners (Allentown, PA) Description: Real estate limited partnership. Through this partnership, Sen. Toomey and his wife are sole owners of plot of undeveloped land in Block Island, RI.",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Block Island PropertyDescription: Undeveloped Land (Block Island, RI)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "PHLD - Phillips Edison Grocery Center REIT I",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
+        },
+        {
+          "asset": "Child #1 Scottrade Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPY-SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Child #2 Scottrade Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SPY-SPDR S&P 500 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Provident Bank(Allentown, PA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/25/2017",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "FPL Group Capital Inc. \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 6.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/01/2019",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of FPL Group stock."
+          "transaction-date": "01/25/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "FPL Group Capital Inc. \n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 6.0%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/01/2019",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of FPL Group stock."
         },
         {
-          "#": "2",
-          "Transaction Date": "01/25/2017",
-          "Owner": "Joint",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.5%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/15/2018",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of Bank of America stock."
+          "transaction-date": "01/25/2017",
+          "owner": "Joint",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.5%\n\t\t\t\t\t\t\t\t\t\tMatures: 03/15/2018",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of Bank of America stock."
         },
         {
-          "#": "3",
-          "Transaction Date": "01/25/2017",
-          "Owner": "Joint",
-          "Ticker": "T",
-          "Asset Name": "AT&T Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/2019",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of AT&T stock."
+          "transaction-date": "01/25/2017",
+          "owner": "Joint",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/2019",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of AT&T stock."
         },
         {
-          "#": "4",
-          "Transaction Date": "01/27/2017",
-          "Owner": "Joint",
-          "Ticker": "VZ",
-          "Asset Name": "Verizon Communications Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2017",
+          "owner": "Joint",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc.",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "02/13/2017",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/13/2017",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "DD",
-          "Asset Name": "E. I. du Pont de Nemours and Company\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 6%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2018",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of DD stock."
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "DD",
+          "asset-name": "E. I. du Pont de Nemours and Company\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 6%\n\t\t\t\t\t\t\t\t\t\tMatures: 07/15/2018",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of DD stock."
         },
         {
-          "#": "7",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "TRV",
-          "Asset Name": "The Travelers Companies, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/2018",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of TRV stock."
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "TRV",
+          "asset-name": "The Travelers Companies, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 05/15/2018",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of TRV stock."
         },
         {
-          "#": "8",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Public Service Company of Colorado\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2018",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Public Service Co. of CO is XEL subsidiary. Originally, inadvertently listed as XEL stock purchase."
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Public Service Company of Colorado\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 08/01/2018",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Public Service Co. of CO is XEL subsidiary. Originally, inadvertently listed as XEL stock purchase."
         },
         {
-          "#": "9",
-          "Transaction Date": "03/08/2017",
-          "Owner": "Joint",
-          "Ticker": "SPY",
-          "Asset Name": "SPDR S&P 500 ETF\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOption Type: Put\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tStrike price: $210.00\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tExpires: 06/30/2017",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Option was not sold or exercised. Option expired on 06/30/2017."
+          "transaction-date": "03/08/2017",
+          "owner": "Joint",
+          "ticker": "SPY",
+          "asset-name": "SPDR S&P 500 ETF\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOption Type: Put\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tStrike price: $210.00\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tExpires: 06/30/2017",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Option was not sold or exercised. Option expired on 06/30/2017."
         },
         {
-          "#": "10",
-          "Transaction Date": "05/18/2017",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/18/2017",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Transaction Date": "08/03/2017",
-          "Owner": "Self",
-          "Ticker": "PHLD",
-          "Asset Name": "PHILLIPS EDISON GR",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/03/2017",
+          "owner": "Self",
+          "ticker": "PHLD",
+          "asset-name": "PHILLIPS EDISON GR",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Transaction Date": "08/07/2017",
-          "Owner": "Joint",
-          "Ticker": "T",
-          "Asset Name": "AT&T Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/2019",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a sale of T stock."
+          "transaction-date": "08/07/2017",
+          "owner": "Joint",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tRate/Coupon: 5.8%\n\t\t\t\t\t\t\t\t\t\tMatures: 02/15/2019",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a sale of T stock."
         },
         {
-          "#": "13",
-          "Transaction Date": "11/15/2017",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/15/2017",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Transaction Date": "11/17/2017",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/17/2017",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Transaction Date": "11/30/2017",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/30/2017",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Transaction Date": "12/06/2017",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2017",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Transaction Date": "12/07/2017",
-          "Owner": "Self",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/07/2017",
+          "owner": "Self",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Transaction Date": "12/07/2017",
-          "Owner": "Joint",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/07/2017",
+          "owner": "Joint",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
-      "heading": "Part 4b. Transactions\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 4b. Transactions",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "FPL Group Capital Inc. (Corporate Bond - Rate/Coupon: 6.0%. Matures: 03/01/2019)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Asset called by issuer and then redeemed in full by issuer on 12/28/2017."
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "FPL Group Capital Inc. (Corporate Bond - Rate/Coupon: 6.0%. Matures: 03/01/2019)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "Asset called by issuer and then redeemed in full by issuer on 12/28/2017."
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "RSP - GUGGENHEIM S&P 500 EQU WEIGHT",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "RSP - GUGGENHEIM S&P 500 EQU WEIGHT",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "SPY - SPDR S&P 500 ETF TRUST",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "SPY - SPDR S&P 500 ETF TRUST",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "IJJ - ISHARES S&P MID-CAP 400 V ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IJJ - ISHARES S&P MID-CAP 400 V ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "IJT - ISHARES SMALL CAP 600 G ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IJT - ISHARES SMALL CAP 600 G ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "IJS - ISHARES S&P SMLL-CAP 600 V ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "IJS - ISHARES S&P SMLL-CAP 600 V ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SPY - SPDR S&P 500 ETF TRUST",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/16/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SPY - SPDR S&P 500 ETF TRUST",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/16/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "RSP - GUGGENHEIM S&P 500 EQU WEIGHT",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/02/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "RSP - GUGGENHEIM S&P 500 EQU WEIGHT",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/02/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "VEA - VANGUARD FTSE DEVELOPED MKTS E",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/01/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "VEA - VANGUARD FTSE DEVELOPED MKTS E",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/01/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SPY - SPDR S&P 500 ETF TRUST",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "03/01/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SPY - SPDR S&P 500 ETF TRUST",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/01/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "United States Treasury Note (Rate/Coupon: 1%. Matures: 05/15/2018)",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "01/06/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "United States Treasury Note (Rate/Coupon: 1%. Matures: 05/15/2018)",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/06/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "PEY - PowerShares High Yield Eq Div Achiev ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "07/25/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "PEY - PowerShares High Yield Eq Div Achiev ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "07/25/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Child #1 Bright Start College Savings Plan AGBSD 15-17",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/06/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Asset converted to Child #1 Bright Directions MOD AGE BSD 17-18 by Illinois."
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Child #1 Bright Start College Savings Plan AGBSD 15-17",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/06/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset converted to Child #1 Bright Directions MOD AGE BSD 17-18 by Illinois."
         },
         {
-          "#": "14",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Child #1 Bright Directions MOD AGE BSD 17-18",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/06/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Asset converted from Child #1 Bright Start College Savings Plan AGBSD 15-17 by Illinois."
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Child #1 Bright Directions MOD AGE BSD 17-18",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/06/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset converted from Child #1 Bright Start College Savings Plan AGBSD 15-17 by Illinois."
         },
         {
-          "#": "15",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Child #2 Bright Start College Savings Plan AGBSD 15-17",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/06/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Asset converted to Child #2 Bright Directions MOD AGE BSD 15-16 by Illinois"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Child #2 Bright Start College Savings Plan AGBSD 15-17",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/06/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset converted to Child #2 Bright Directions MOD AGE BSD 15-16 by Illinois"
         },
         {
-          "#": "16",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Child #2 Bright Directions MOD AGE BSD 15-16",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/06/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Asset converted from Child #2 Bright Start College Savings Plan AGBSD 15-17 by Illinois"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Child #2 Bright Directions MOD AGE BSD 15-16",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/06/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset converted from Child #2 Bright Start College Savings Plan AGBSD 15-17 by Illinois"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Cole Taylor Bank\n\t\t\t\t\t\t\t\tAnn Arbor, MI",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Cole Taylor Bank\n\t\t\t\t\t\t\t\tAnn Arbor, MI",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2017",
-          "Debtor": "Joint",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(3 years, on demand)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Embassy Bank\n\t\t\t\t\t\t\t\tBethlehem, PA",
-          "Comments": "-"
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(3 years, on demand)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Embassy Bank\n\t\t\t\t\t\t\t\tBethlehem, PA",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 2017 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(General Partner)",
-          "Entity": "Old Mill Partners\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAllentown, PA",
-          "Entity Type": "Partnership",
-          "Comments": "Real estate limited partnership. Through this partnership, Sen. Toomey and his wife are sole owners of plot of undeveloped land in Block Island, RI."
+          "position-dates": "Jan 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(General Partner)",
+          "entity": "Old Mill Partners\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAllentown, PA",
+          "entity-type": "Partnership",
+          "comments": "Real estate limited partnership. Through this partnership, Sen. Toomey and his wife are sole owners of plot of undeveloped land in Block Island, RI."
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 2017 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Director & President)",
-          "Entity": "N-35727, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAllentown, PA",
-          "Entity Type": "Corporation",
-          "Comments": "S-corporation holding 50% ownership interest in N-35580, LLC (Allentown, PA), an aircraft leasing company"
+          "position-dates": "Jan 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Director & President)",
+          "entity": "N-35727, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAllentown, PA",
+          "entity-type": "Corporation",
+          "comments": "S-corporation holding 50% ownership interest in N-35580, LLC (Allentown, PA), an aircraft leasing company"
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jul 2009",
-          "Parties Involved": "John Wiley & Sons, Inc., \n\t\t\t\t\t\t\t\tHoboken, NJ",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Contract with Book Publisher (Royalties to Be Paid Contingent Upon Book Sales)"
+          "date": "Jul 2009",
+          "parties-involved": "John Wiley & Sons, Inc., \n\t\t\t\t\t\t\t\tHoboken, NJ",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Contract with Book Publisher (Royalties to Be Paid Contingent Upon Book Sales)"
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

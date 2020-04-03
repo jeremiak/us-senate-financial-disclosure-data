@@ -1,653 +1,650 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2017 (Amendment 1)",
   "filer": "Mr. Doug Jones (Jones, Doug)",
-  "filedDate": "Filed 08/13/2019 @ 10:25 AM",
+  "filed-date": "08/13/2019",
+  "filed-time": "10:25 AM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Wages",
-          "Who Paid": "Jones & Hawley PC\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Amount Paid": "$269,998.00"
+          "who-was-paid": "Self",
+          "type": "Wages",
+          "who-paid": "Jones & Hawley PC\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "amount-paid": "$269,998.00"
         }
       ]
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "Lexco Capital Partners LLCCompany: Lexco Capital Partners LLC (Birmingham, AL) Description: Legal claims processing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (Membership Income)",
-          "Income": "Other $4.00"
+          "asset": "Lexco Capital Partners LLCCompany: Lexco Capital Partners LLC (Birmingham, AL) Description: Legal claims processing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Membership Income)",
+          "income": "Other $4.00"
         },
         {
-          "Asset": "Lake Wedowee LotDescription: lake property (Wedowee, AL)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Lake Wedowee LotDescription: lake property (Wedowee, AL)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Lexco Consulting LLCCompany: Lexco Consutling LLC (Birmingham, AL) Description: legal claims administration",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Lexco Consulting LLCCompany: Lexco Consutling LLC (Birmingham, AL) Description: legal claims administration",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JKD Holdings LLCCompany: JKD Holdings LLC (Birmignham, AL) Description: Legal claims processing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "JKD Holdings LLCCompany: JKD Holdings LLC (Birmignham, AL) Description: Legal claims processing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Class Action Capital Holdings LLCCompany: Class Action Capital Holdings LLC (New York, NY) Description: Holding company",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Class Action Capital Holdings LLCCompany: Class Action Capital Holdings LLC (New York, NY) Description: Holding company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Class Action Capital Recovery LLCCompany: Class Action Capital Recovery LLC (New York, NY) Description: Claims processing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Other, (Membership income)",
-          "Income": "Other $85,684.00"
+          "asset": "Class Action Capital Recovery LLCCompany: Class Action Capital Recovery LLC (New York, NY) Description: Claims processing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Other, (Membership income)",
+          "income": "Other $85,684.00"
         },
         {
-          "Asset": "Class Action Capital Finance LLCCompany: Class Action Capital Finance LLC (New York, NY) Description: Claims purchasing",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Class Action Capital Finance LLCCompany: Class Action Capital Finance LLC (New York, NY) Description: Claims purchasing",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Class Action Capital Recovery Fund I, LPCompany: Class Action Capital Recovery Fund I, LP (New York, NY) Description: Claims purchasing",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Class Action Capital Recovery Fund I, LPCompany: Class Action Capital Recovery Fund I, LP (New York, NY) Description: Claims purchasing",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Synovus (formerly First Commercial Bank)(Birmingham, AL)Type: Checking, Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Synovus (formerly First Commercial Bank)(Birmingham, AL)Type: Checking, Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Jones & Hawley PCCompany: Jones & Hawley PC (Birmingham, AL) Description: law firm",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Other, (Partnership Income)",
-          "Income": "Other $47,600.00"
+          "asset": "Jones & Hawley PCCompany: Jones & Hawley PC (Birmingham, AL) Description: law firm",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Other, (Partnership Income)",
+          "income": "Other $47,600.00"
         },
         {
-          "Asset": "Bluebird Holdings LLCCompany: Bluebird Holdings LLC (Birmingham, AL) Description: holder of a debt obligation",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Bluebird Holdings LLCCompany: Bluebird Holdings LLC (Birmingham, AL) Description: holder of a debt obligation",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "debt obligationCompany: Haskell Slaughter (Birmignham, AL)",
-          "Asset Type": "Accounts ReceivableFrom a Business",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "debt obligationCompany: Haskell Slaughter (Birmignham, AL)",
+          "asset-type": "Accounts ReceivableFrom a Business",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MET - MetLife, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "MET - MetLife, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Wells Fargo & Company IRA 1",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Wells Fargo & Company IRA 1",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FEDYLX",
-          "Asset Type": "Mutual FundsStable Value Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "FEDYLX",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FGJDOX",
-          "Asset Type": "Mutual FundsStable Value Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "FGJDOX",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo(Birmingham, AL)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Birmingham, AL)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FQLMPX",
-          "Asset Type": "Mutual FundsStable Value Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "FQLMPX",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FJLYTX",
-          "Asset Type": "Mutual FundsStable Value Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "FJLYTX",
+          "asset-type": "Mutual FundsStable Value Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo & Company IRA 2",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Wells Fargo & Company IRA 2",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "FTIXX-Financial Square Treasury Instr",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "FTIXX-Financial Square Treasury Instr",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JLPSX-JPMorgan US Large Cap Core Plus I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "JLPSX-JPMorgan US Large Cap Core Plus I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MEIIX-MFS Value I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "MEIIX-MFS Value I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ACBPX - American Century Diversified Bond I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "ACBPX - American Century Diversified Bond I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AEPFX-American Funds Europacific Growth F2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "AEPFX-American Funds Europacific Growth F2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PHYTX - Principal High Yield Inst",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "PHYTX - Principal High Yield Inst",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MEDIX-MFS Emerging Markets Debt I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "MEDIX-MFS Emerging Markets Debt I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VSOIX-Victory Sycamore Small Company Opp I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "VSOIX-Victory Sycamore Small Company Opp I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ODVYX - Oppenheimer Developing Markets Y",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "ODVYX - Oppenheimer Developing Markets Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EGRIX-Eaton Vance Glbl Macro Abs Ret Advtg I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "EGRIX-Eaton Vance Glbl Macro Abs Ret Advtg I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PSMIX-Principal Global Multi-Strategy Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "PSMIX-Principal Global Multi-Strategy Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JHAIX - JHancock Global Absolute Ret Strats I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "JHAIX - JHancock Global Absolute Ret Strats I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "NLSIX-Neuberger Berman Long Short Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "NLSIX-Neuberger Berman Long Short Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JCUIX-JHancock Absolute Return Currency I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "JCUIX-JHancock Absolute Return Currency I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OIBYX - Oppenheimer International Bond Y",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "OIBYX - Oppenheimer International Bond Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SKIRX - Deutsche Enhanced Commodity Strat Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "SKIRX - Deutsche Enhanced Commodity Strat Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AQMIX",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "AQMIX",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MISGX - Meridian Small Cap Growth Fund Investor Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "MISGX - Meridian Small Cap Growth Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MLAIX - MainStay Large Cap Growth Fund Class I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "MLAIX - MainStay Large Cap Growth Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "POSIX - Principal Global Real Estate Securities Fund Insti",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "POSIX - Principal Global Real Estate Securities Fund Insti",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PCBIX - Principal MidCap Fund Institutional Class",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "PCBIX - Principal MidCap Fund Institutional Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "FARCX - Nuveen Real Estate Securities Fund Class I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "FARCX - Nuveen Real Estate Securities Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mass MutualProvider: Mass Mutual",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Mass MutualProvider: Mass Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Cullman County, AL propertyDescription: Cullman County Property (Cullman, AL)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Cullman County, AL propertyDescription: Cullman County Property (Cullman, AL)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Jones & Hawley 401K",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Jones & Hawley 401K",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "American Bar Association 2030 Retirement Date Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "American Bar Association 2030 Retirement Date Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "American Bar Association 2040 Retirement Date Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "American Bar Association 2040 Retirement Date Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Wells Fargo IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Wells Fargo(Birmingham, AL)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Birmingham, AL)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Wells Fargo Clearing Services Investment Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Wells Fargo Clearing Services Investment Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "RF - Regions Financial Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "RF - Regions Financial Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ANCFX - American Funds Fundamental Invs A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "ANCFX - American Funds Fundamental Invs A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "AWSHX - American Funds Washington Mutual A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "AWSHX - American Funds Washington Mutual A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Wells Fargo(Birmingham, AL)Type: Checking, Money Market Account, Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Birmingham, AL)Type: Checking, Money Market Account, Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
-      "heading": "Part 7. Liabilities\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 7. Liabilities",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2017",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "5.69%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Synovus (formerly First Commercial Bank)\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Comments": "-"
+          "incurred": "2017",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "5.69%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(5 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Synovus (formerly First Commercial Bank)\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2014",
-          "Debtor": "Self",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "5.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Wells Fargo Advisors\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Comments": "-"
+          "incurred": "2014",
+          "debtor": "Self",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "5.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(on demand)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo Advisors\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2010",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Year Fixed)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Bank of America\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Comments": "-"
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 Year Fixed)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Bank of America\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "comments": "-"
         },
         {
-          "#": "4",
-          "Incurred": "2010",
-          "Debtor": "Joint",
-          "Type": "Home Equity Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "5.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Synovus (formerly First Commercial Bank)\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Comments": "Variable interest rate."
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "5.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Synovus (formerly First Commercial Bank)\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "comments": "Variable interest rate."
         },
         {
-          "#": "5",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "3.88%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
-          "Amount": "$500,001 - $1,000,000",
-          "Creditor": "Service First Bank\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Comments": "Debt from former law firm.  My percentage of the debt was approximately 4%.  Paid off in 2017."
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "3.88%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(On Demand)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "Service First Bank\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "comments": "Debt from former law firm.  My percentage of the debt was approximately 4%.  Paid off in 2017."
         }
       ]
     },
     {
-      "heading": "Part 8. Positions\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 8. Positions",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jun 2013 to\n\t\t\t\t\t\t\t\tDec 2017",
-          "Position Held": "Partner",
-          "Entity": "Jones & Hawley PC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Corporation",
-          "Comments": "None"
+          "position-dates": "Jun 2013 to\n\t\t\t\t\t\t\t\tDec 2017",
+          "position-held": "Partner",
+          "entity": "Jones & Hawley PC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Corporation",
+          "comments": "None"
         },
         {
-          "#": "2",
-          "Position Dates": "Oct 2015 to\n\t\t\t\t\t\t\t\tMay 2017",
-          "Position Held": "Officer",
-          "Entity": "Birmingham Civil Rights Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": ""
+          "position-dates": "Oct 2015 to\n\t\t\t\t\t\t\t\tMay 2017",
+          "position-held": "Officer",
+          "entity": "Birmingham Civil Rights Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Nonprofit Organization",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Oct 2016 to\n\t\t\t\t\t\t\t\tFeb 2018",
-          "Position Held": "Director",
-          "Entity": "Birmingham Zoo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": "None"
+          "position-dates": "Oct 2016 to\n\t\t\t\t\t\t\t\tFeb 2018",
+          "position-held": "Director",
+          "entity": "Birmingham Zoo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Nonprofit Organization",
+          "comments": "None"
         },
         {
-          "#": "4",
-          "Position Dates": "Oct 2013 to\n\t\t\t\t\t\t\t\tMay 2017",
-          "Position Held": "Officer",
-          "Entity": "National Association of Former United States Attorneys\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": ""
+          "position-dates": "Oct 2013 to\n\t\t\t\t\t\t\t\tMay 2017",
+          "position-held": "Officer",
+          "entity": "National Association of Former United States Attorneys\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": ""
         },
         {
-          "#": "5",
-          "Position Dates": "Nov 2015 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "JKD Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
-          "Comments": "None"
+          "position-dates": "Nov 2015 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "JKD Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
+          "comments": "None"
         },
         {
-          "#": "6",
-          "Position Dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Bluebird Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
-          "Comments": "None"
+          "position-dates": "Jul 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Bluebird Holdings LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
+          "comments": "None"
         },
         {
-          "#": "7",
-          "Position Dates": "Aug 2012 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Lexco Capital Partners LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
-          "Comments": "None"
+          "position-dates": "Aug 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Lexco Capital Partners LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
+          "comments": "None"
         },
         {
-          "#": "8",
-          "Position Dates": "Jan 2017 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Alabama Sports Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": "None"
+          "position-dates": "Jan 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Alabama Sports Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Nonprofit Organization",
+          "comments": "None"
         },
         {
-          "#": "9",
-          "Position Dates": "Jan 2012 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Lexco Consulting LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
-          "Comments": "None"
+          "position-dates": "Jan 2012 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Lexco Consulting LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBirmingham, AL",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(LLC)",
+          "comments": "None"
         }
       ]
     },
     {
-      "heading": "Part 9. Agreements\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 9. Agreements",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jun 2013",
-          "Parties Involved": "Jones & Hawley PC\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "No contributions made by former employer or me since 12/31/17."
+          "date": "Jun 2013",
+          "parties-involved": "Jones & Hawley PC\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "No contributions made by former employer or me since 12/31/17."
         },
         {
-          "#": "2",
-          "Date": "Jun 2016",
-          "Parties Involved": "Cordell Jigsaw Productions Pty Ltd.\n\t\t\t\t\t\t\t\tChippendale, Australia",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Assignment of exclusive license of rights to TV Media and ancillary TV rights."
+          "date": "Jun 2016",
+          "parties-involved": "Cordell Jigsaw Productions Pty Ltd.\n\t\t\t\t\t\t\t\tChippendale, Australia",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Assignment of exclusive license of rights to TV Media and ancillary TV rights."
         },
         {
-          "#": "3",
-          "Date": "Feb 2018",
-          "Parties Involved": "St. Martin's Press/All Points Books\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Advance on royalties for \"Bending Toward Justice: The Birmingham Church Bombing that Changed the Course of Civil Rights\"."
+          "date": "Feb 2018",
+          "parties-involved": "St. Martin's Press/All Points Books\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Advance on royalties for \"Bending Toward Justice: The Birmingham Church Bombing that Changed the Course of Civil Rights\"."
         },
         {
-          "#": "4",
-          "Date": "Dec 2017",
-          "Parties Involved": "Jones & Hawley PC\n\t\t\t\t\t\t\t\tBirmingham, AL",
-          "Type": "Continuation of payments by former employer",
-          "Status and Terms": "Agreement to payment of 2017 receivables payable in 2018."
+          "date": "Dec 2017",
+          "parties-involved": "Jones & Hawley PC\n\t\t\t\t\t\t\t\tBirmingham, AL",
+          "type": "Continuation of payments by former employer",
+          "status-and-terms": "Agreement to payment of 2017 receivables payable in 2018."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

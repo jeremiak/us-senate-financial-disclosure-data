@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/10/2019",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 09/10/2019 @ 5:11 PM",
+  "filed-date": "09/10/2019",
+  "filed-time": "5:11 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "08/15/2019",
-          "Owner": "Spouse",
-          "Ticker": "CVET",
-          "Asset Name": "Covetrus, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/15/2019",
+          "owner": "Spouse",
+          "ticker": "CVET",
+          "asset-name": "Covetrus, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "08/20/2019",
-          "Owner": "Spouse",
-          "Ticker": "AKAM",
-          "Asset Name": "Akamai Technologies, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "08/20/2019",
+          "owner": "Spouse",
+          "ticker": "AKAM",
+          "asset-name": "Akamai Technologies, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

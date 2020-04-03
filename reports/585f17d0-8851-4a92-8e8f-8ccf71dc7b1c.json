@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/26/2019",
   "filer": "The Honorable Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 08/26/2019 @ 7:41 AM",
+  "filed-date": "08/26/2019",
+  "filed-time": "7:41 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "07/23/2019",
-          "Owner": "Spouse",
-          "Ticker": "WAT",
-          "Asset Name": "Waters Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/23/2019",
+          "owner": "Spouse",
+          "ticker": "WAT",
+          "asset-name": "Waters Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/23/2019",
-          "Owner": "Spouse",
-          "Ticker": "CMCSA",
-          "Asset Name": "Comcast Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/23/2019",
+          "owner": "Spouse",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

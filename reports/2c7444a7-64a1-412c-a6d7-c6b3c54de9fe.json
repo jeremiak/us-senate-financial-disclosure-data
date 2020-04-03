@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/25/2019",
   "filer": "Ms. Tina Smith (Smith, Tina)",
-  "filedDate": "Filed 10/25/2019 @ 12:30 PM",
+  "filed-date": "10/25/2019",
+  "filed-time": "12:30 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/16/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Surgical Information Sciences\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Surgical Information Sciences\n                                                    \n                                                         (Alpharetta, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Health Management Systems",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/16/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Surgical Information Sciences\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Surgical Information Sciences\n                                                    \n                                                         (Alpharetta, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Health Management Systems",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

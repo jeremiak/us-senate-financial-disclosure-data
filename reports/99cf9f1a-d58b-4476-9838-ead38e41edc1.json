@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/12/2016",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 07/12/2016 @ 10:21 AM",
+  "filed-date": "07/12/2016",
+  "filed-time": "10:21 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "06/28/2016",
-          "Owner": "Self",
-          "Ticker": "PRU",
-          "Asset Name": "Prudential Financial, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2016",
+          "owner": "Self",
+          "ticker": "PRU",
+          "asset-name": "Prudential Financial, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "06/28/2016",
-          "Owner": "Self",
-          "Ticker": "MCD",
-          "Asset Name": "McDonald's Corp.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2016",
+          "owner": "Self",
+          "ticker": "MCD",
+          "asset-name": "McDonald's Corp.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/28/2016",
-          "Owner": "Self",
-          "Ticker": "IVZ",
-          "Asset Name": "Invesco Ltd.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2016",
+          "owner": "Self",
+          "ticker": "IVZ",
+          "asset-name": "Invesco Ltd.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/28/2016",
-          "Owner": "Self",
-          "Ticker": "UA-C",
-          "Asset Name": "Under Armour, Inc. Class C Comm",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "06/28/2016",
+          "owner": "Self",
+          "ticker": "UA-C",
+          "asset-name": "Under Armour, Inc. Class C Comm",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

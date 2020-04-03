@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/09/2015",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 04/09/2015 @ 12:26 PM",
+  "filed-date": "04/09/2015",
+  "filed-time": "12:26 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "03/02/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Augusta ME 12/01/2016 4.00%\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.00% Matures: 12/01/2016",
-          "Asset Type": "Municipal Security",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "\"Called\" Redemption"
+          "transaction-date": "03/02/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Augusta ME 12/01/2016 4.00%\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.00% Matures: 12/01/2016",
+          "asset-type": "Municipal Security",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "\"Called\" Redemption"
         }
       ]
     }

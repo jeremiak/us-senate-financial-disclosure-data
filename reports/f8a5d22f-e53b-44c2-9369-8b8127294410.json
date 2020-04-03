@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/07/2017",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 08/07/2017 @ 4:38 PM",
+  "filed-date": "08/07/2017",
+  "filed-time": "4:38 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "08/04/2017",
-          "Owner": "Self",
-          "Ticker": "FLR",
-          "Asset Name": "Fluor Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/04/2017",
+          "owner": "Self",
+          "ticker": "FLR",
+          "asset-name": "Fluor Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "07/26/2017",
-          "Owner": "Self",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/26/2017",
+          "owner": "Self",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "07/20/2017",
-          "Owner": "Self",
-          "Ticker": "MSFT",
-          "Asset Name": "Microsoft Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "07/20/2017",
+          "owner": "Self",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/07/2017",
-          "Owner": "Self",
-          "Ticker": "C",
-          "Asset Name": "Citigroup Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "07/07/2017",
+          "owner": "Self",
+          "ticker": "C",
+          "asset-name": "Citigroup Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

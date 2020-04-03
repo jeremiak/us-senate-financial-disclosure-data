@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/04/2016",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 10/04/2016 @ 11:58 AM",
+  "filed-date": "10/04/2016",
+  "filed-time": "11:58 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "09/26/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Owens & Minor Inc",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/26/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Owens & Minor Inc",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "09/26/2016",
-          "Owner": "Spouse",
-          "Ticker": "MDT",
-          "Asset Name": "Medtronic plc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/26/2016",
+          "owner": "Spouse",
+          "ticker": "MDT",
+          "asset-name": "Medtronic plc",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "09/09/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "JPM Contingent Autocall on Amgen\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 10.15% Matures: 12/7/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/09/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JPM Contingent Autocall on Amgen\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 10.15% Matures: 12/7/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "09/08/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Spectra Energy",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/08/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Spectra Energy",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

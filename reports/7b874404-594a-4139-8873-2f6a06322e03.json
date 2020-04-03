@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/30/2016",
   "filer": "Mr. Mike Rounds (Rounds, Mike)",
-  "filedDate": "Filed 06/30/2016 @ 2:09 PM",
+  "filed-date": "06/30/2016",
+  "filed-time": "2:09 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/20/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Bird Dog LLU, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog LLU, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Marketing Company",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/20/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Bird Dog LLU, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Bird Dog LLU, LLC\n                                                    \n                                                         (Sioux Falls, SD)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Marketing Company",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

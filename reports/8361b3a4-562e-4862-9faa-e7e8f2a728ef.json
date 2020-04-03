@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/03/2019",
   "filer": "The Honorable Ron L Wyden (Wyden, Ron)",
-  "filedDate": "Filed 01/03/2019 @ 4:52 PM",
+  "filed-date": "01/03/2019",
+  "filed-time": "4:52 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/24/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Fitz Frames, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Fitz Frames, Inc.\n                                                    \n                                                         (Santa Monica, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Custom eyeglass wear",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/24/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fitz Frames, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Fitz Frames, Inc.\n                                                    \n                                                         (Santa Monica, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Custom eyeglass wear",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

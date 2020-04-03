@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/07/2017",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 06/07/2017 @ 1:49 PM",
+  "filed-date": "06/07/2017",
+  "filed-time": "1:49 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "05/30/2017",
-          "Owner": "Self",
-          "Ticker": "BFAM",
-          "Asset Name": "Bright Horizons Family Solutions Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/30/2017",
+          "owner": "Self",
+          "ticker": "BFAM",
+          "asset-name": "Bright Horizons Family Solutions Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/30/2017",
-          "Owner": "Self",
-          "Ticker": "AMGN",
-          "Asset Name": "Amgen Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/30/2017",
+          "owner": "Self",
+          "ticker": "AMGN",
+          "asset-name": "Amgen Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/09/2017",
-          "Owner": "Self",
-          "Ticker": "UL",
-          "Asset Name": "Unilever PLC",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "05/09/2017",
+          "owner": "Self",
+          "ticker": "UL",
+          "asset-name": "Unilever PLC",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

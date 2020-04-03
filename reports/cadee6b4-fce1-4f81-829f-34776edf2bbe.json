@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/11/2018",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 10/11/2018 @ 10:18 AM",
+  "filed-date": "10/11/2018",
+  "filed-time": "10:18 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "10/10/2018",
-          "Owner": "Self",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "10/10/2018",
+          "owner": "Self",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "10/09/2018",
-          "Owner": "Self",
-          "Ticker": "GOOGL",
-          "Asset Name": "Alphabet Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/09/2018",
+          "owner": "Self",
+          "ticker": "GOOGL",
+          "asset-name": "Alphabet Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "10/08/2018",
-          "Owner": "Self",
-          "Ticker": "LEA",
-          "Asset Name": "Lear Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/08/2018",
+          "owner": "Self",
+          "ticker": "LEA",
+          "asset-name": "Lear Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/08/2018",
-          "Owner": "Self",
-          "Ticker": "APTV",
-          "Asset Name": "Aptiv PLC",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/08/2018",
+          "owner": "Self",
+          "ticker": "APTV",
+          "asset-name": "Aptiv PLC",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "09/28/2018",
-          "Owner": "Self",
-          "Ticker": "XPO",
-          "Asset Name": "XPO Logistics, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "09/28/2018",
+          "owner": "Self",
+          "ticker": "XPO",
+          "asset-name": "XPO Logistics, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

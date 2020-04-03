@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/02/2016",
   "filer": "The Honorable Christopher A Coons (Coons, Chris)",
-  "filedDate": "Filed 05/02/2016 @ 12 PM",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/30/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "W.L. Gore & Associates Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: W.L. Gore & Associates Inc.\n                                                    \n                                                         (Newark, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Manufacturing",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "transaction-date": "01/30/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "W.L. Gore & Associates Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: W.L. Gore & Associates Inc.\n                                                    \n                                                         (Newark, DE)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Manufacturing",
+          "asset-type": "Non-Public Stock",
+          "type": "Sale (Partial)",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         }
       ]
     }

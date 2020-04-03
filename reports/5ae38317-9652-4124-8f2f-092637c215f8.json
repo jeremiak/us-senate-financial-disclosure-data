@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/14/2015",
   "filer": "The Honorable Benjamin L Cardin (Cardin, Benjamin L.)",
-  "filedDate": "Filed 03/14/2015 @ 3:53 PM",
+  "filed-date": "03/14/2015",
+  "filed-time": "3:53 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/27/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Ventur BG, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Venture BG, LLC\n                                                    \n                                                         (Baltimore, Maryland)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Gifted from Self to Spouse"
+          "transaction-date": "02/27/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Ventur BG, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Venture BG, LLC\n                                                    \n                                                         (Baltimore, Maryland)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Gifted from Self to Spouse"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/27/2015",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Venture BG, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Venture BG, LLC\n                                                    \n                                                         (Baltimore, Maryland)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Gifted from Self to Spouse"
+          "transaction-date": "02/27/2015",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Venture BG, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Venture BG, LLC\n                                                    \n                                                         (Baltimore, Maryland)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Real Estate",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "Gifted from Self to Spouse"
         }
       ]
     }

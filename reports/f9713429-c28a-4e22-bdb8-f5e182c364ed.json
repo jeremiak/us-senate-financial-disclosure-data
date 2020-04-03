@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/20/2019",
   "filer": "The Honorable Jacklyn S Rosen (Rosen, Jacky)",
-  "filedDate": "Filed 06/20/2019 @ 3:48 PM",
+  "filed-date": "06/20/2019",
+  "filed-time": "3:48 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/23/2019",
-          "Owner": "Joint",
-          "Ticker": "VFC\n                                        \n                                        \n                                            \n                                            KTB",
-          "Asset Name": "V.F. Corporation (Exchanged)\n                                            \n                                            Kontoor Brands, Inc. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/23/2019",
+          "owner": "Joint",
+          "ticker": "VFC\n                                        \n                                        \n                                            \n                                            KTB",
+          "asset-name": "V.F. Corporation (Exchanged)\n                                            \n                                            Kontoor Brands, Inc. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/09/2019",
   "filer": "The Honorable Jacklyn S Rosen (Rosen, Jacky)",
-  "filedDate": "Filed 05/09/2019 @ 1:54 PM",
+  "filed-date": "05/09/2019",
+  "filed-time": "1:54 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "04/15/2019",
-          "Owner": "Joint",
-          "Ticker": "APC",
-          "Asset Name": "Anadarko Petroleum Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/15/2019",
+          "owner": "Joint",
+          "ticker": "APC",
+          "asset-name": "Anadarko Petroleum Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/08/2019",
-          "Owner": "Joint",
-          "Ticker": "NVS\n                                        \n                                        \n                                            \n                                            ALC",
-          "Asset Name": "Novartis AG (Exchanged)\n                                            \n                                            Alcon Inc. (Received)",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Alcon Inc. (ALC) shares received in exchange for Novartis AG (NVS) shares as a result of spin-off."
+          "transaction-date": "04/08/2019",
+          "owner": "Joint",
+          "ticker": "NVS\n                                        \n                                        \n                                            \n                                            ALC",
+          "asset-name": "Novartis AG (Exchanged)\n                                            \n                                            Alcon Inc. (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Alcon Inc. (ALC) shares received in exchange for Novartis AG (NVS) shares as a result of spin-off."
         }
       ]
     }

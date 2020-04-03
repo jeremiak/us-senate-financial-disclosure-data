@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/18/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 12/18/2019 @ 2:31 PM",
+  "filed-date": "12/18/2019",
+  "filed-time": "2:31 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/19/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "SIMON PPTY GROUP LP B/E 02.450% 091329 DTD091319\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.450% Matures: 09/13/29",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/19/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "SIMON PPTY GROUP LP B/E 02.450% 091329 DTD091319\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 02.450% Matures: 09/13/29",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/01/2015",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 12/01/2015 @ 10:42 AM",
+  "filed-date": "12/01/2015",
+  "filed-time": "10:42 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "11/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Xerox Corp\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.5% Matures: 08/20/2020",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Xerox Corp\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.5% Matures: 08/20/2020",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "11/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Senior Housing Properties Tr\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.3% Matures: 01/15/2016",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Senior Housing Properties Tr\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.3% Matures: 01/15/2016",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "11/18/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Conagra Foods Inc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/18/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Conagra Foods Inc",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/18/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Tyson Foods Inc Cl A",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/18/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Tyson Foods Inc Cl A",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "New Jersey Resources Cp",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "New Jersey Resources Cp",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/04/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Northwest Natural Gas Co",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/04/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Northwest Natural Gas Co",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

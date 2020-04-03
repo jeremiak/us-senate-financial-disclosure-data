@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/03/2016",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 05/03/2016 @ 6:15 PM",
+  "filed-date": "05/03/2016",
+  "filed-time": "6:15 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "04/11/2016",
-          "Owner": "Spouse",
-          "Ticker": "DD",
-          "Asset Name": "E. I. du Pont de Nemours and Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/11/2016",
+          "owner": "Spouse",
+          "ticker": "DD",
+          "asset-name": "E. I. du Pont de Nemours and Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/11/2016",
-          "Owner": "Spouse",
-          "Ticker": "PX",
-          "Asset Name": "Praxair Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/11/2016",
+          "owner": "Spouse",
+          "ticker": "PX",
+          "asset-name": "Praxair Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

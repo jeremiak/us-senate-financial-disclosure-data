@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/26/2016",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 04/26/2016 @ 5:01 PM",
+  "filed-date": "04/26/2016",
+  "filed-time": "5:01 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "04/21/2016",
-          "Owner": "Self",
-          "Ticker": "SYF",
-          "Asset Name": "Synchrony Financial",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/21/2016",
+          "owner": "Self",
+          "ticker": "SYF",
+          "asset-name": "Synchrony Financial",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/13/2016",
-          "Owner": "Self",
-          "Ticker": "C",
-          "Asset Name": "Citigroup Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/13/2016",
+          "owner": "Self",
+          "ticker": "C",
+          "asset-name": "Citigroup Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/24/2016",
-          "Owner": "Self",
-          "Ticker": "RRC",
-          "Asset Name": "Range Resources Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "03/24/2016",
+          "owner": "Self",
+          "ticker": "RRC",
+          "asset-name": "Range Resources Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/24/2016",
-          "Owner": "Self",
-          "Ticker": "NFX",
-          "Asset Name": "Newfield Exploration Co.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "03/24/2016",
+          "owner": "Self",
+          "ticker": "NFX",
+          "asset-name": "Newfield Exploration Co.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

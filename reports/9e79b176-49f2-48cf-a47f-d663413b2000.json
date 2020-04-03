@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/07/2016",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 01/07/2016 @ 3:27 PM",
+  "filed-date": "01/07/2016",
+  "filed-time": "3:27 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Potash Corp of Saskatchewan Inc POT",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Potash Corp of Saskatchewan Inc POT",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "NCR Corp New NCR",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "NCR Corp New NCR",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Fireeye Inc FEYE",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Fireeye Inc FEYE",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Claymore Trust 2 Guggenheim Shipping SEA",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Claymore Trust 2 Guggenheim Shipping SEA",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/23/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Affiliated Managers Group AMG",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/23/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Affiliated Managers Group AMG",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

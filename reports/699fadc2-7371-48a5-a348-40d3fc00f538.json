@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/16/2018",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 01/16/2018 @ 11:51 AM",
+  "filed-date": "01/16/2018",
+  "filed-time": "11:51 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "01/12/2018",
-          "Owner": "Self",
-          "Ticker": "LSCC",
-          "Asset Name": "Lattice Semiconductor Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/12/2018",
+          "owner": "Self",
+          "ticker": "LSCC",
+          "asset-name": "Lattice Semiconductor Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "01/11/2018",
-          "Owner": "Joint",
-          "Ticker": "HACK",
-          "Asset Name": "ETFMG Prime Cyber Security ETF",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/11/2018",
+          "owner": "Joint",
+          "ticker": "HACK",
+          "asset-name": "ETFMG Prime Cyber Security ETF",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/11/2018",
-          "Owner": "Joint",
-          "Ticker": "PEP",
-          "Asset Name": "Pepsico, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Transaction was less than $1000."
+          "transaction-date": "01/11/2018",
+          "owner": "Joint",
+          "ticker": "PEP",
+          "asset-name": "Pepsico, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Transaction was less than $1000."
         },
         {
-          "#": "2",
-          "Transaction Date": "01/11/2018",
-          "Owner": "Joint",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/11/2018",
+          "owner": "Joint",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/11/2018",
-          "Owner": "Joint",
-          "Ticker": "UNFI",
-          "Asset Name": "United Natural Foods, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Transaction was less than $1000"
+          "transaction-date": "01/11/2018",
+          "owner": "Joint",
+          "ticker": "UNFI",
+          "asset-name": "United Natural Foods, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Transaction was less than $1000"
         }
       ]
     }

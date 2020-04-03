@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/22/2016",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 06/22/2016 @ 4:17 PM",
+  "filed-date": "06/22/2016",
+  "filed-time": "4:17 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "05/24/2016",
-          "Owner": "Self",
-          "Ticker": "CPGX",
-          "Asset Name": "Columbia Pipeline Group, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/24/2016",
+          "owner": "Self",
+          "ticker": "CPGX",
+          "asset-name": "Columbia Pipeline Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/24/2016",
-          "Owner": "Self",
-          "Ticker": "IVZ",
-          "Asset Name": "Invesco Ltd.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/24/2016",
+          "owner": "Self",
+          "ticker": "IVZ",
+          "asset-name": "Invesco Ltd.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

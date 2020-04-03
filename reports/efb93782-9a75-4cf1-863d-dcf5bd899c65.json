@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/08/2017",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 12/08/2017 @ 4:39 PM",
+  "filed-date": "12/08/2017",
+  "filed-time": "4:39 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "11/15/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "PACIFIC GAS & ELEC B/E 02.950% 030126 DTD030116 \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.950% Matures: 03/01/2026",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/15/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "PACIFIC GAS & ELEC B/E 02.950% 030126 DTD030116 \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.950% Matures: 03/01/2026",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/13/2017",
-          "Owner": "Self",
-          "Ticker": "MAT",
-          "Asset Name": "Mattel, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/13/2017",
+          "owner": "Self",
+          "ticker": "MAT",
+          "asset-name": "Mattel, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/13/2017",
-          "Owner": "Self",
-          "Ticker": "ARCC",
-          "Asset Name": "Ares Capital Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/13/2017",
+          "owner": "Self",
+          "ticker": "ARCC",
+          "asset-name": "Ares Capital Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

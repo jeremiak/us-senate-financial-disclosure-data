@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/12/2018",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 12/12/2018 @ 4:35 PM",
+  "filed-date": "12/12/2018",
+  "filed-time": "4:35 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "11/28/2018",
-          "Owner": "Self",
-          "Ticker": "HOLX",
-          "Asset Name": "Hologic, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/28/2018",
+          "owner": "Self",
+          "ticker": "HOLX",
+          "asset-name": "Hologic, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/28/2018",
-          "Owner": "Self",
-          "Ticker": "AGN",
-          "Asset Name": "Allergan plc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/28/2018",
+          "owner": "Self",
+          "ticker": "AGN",
+          "asset-name": "Allergan plc",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

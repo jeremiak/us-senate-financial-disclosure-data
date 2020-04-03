@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/21/2017",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 12/21/2017 @ 4:40 PM",
+  "filed-date": "12/21/2017",
+  "filed-time": "4:40 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "12/06/2017",
-          "Owner": "Self",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2017",
+          "owner": "Self",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "11/30/2017",
-          "Owner": "Self",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/30/2017",
+          "owner": "Self",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/17/2017",
-          "Owner": "Self",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/17/2017",
+          "owner": "Self",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/15/2017",
-          "Owner": "Self",
-          "Ticker": "REVB",
-          "Asset Name": "Revere Bank",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/15/2017",
+          "owner": "Self",
+          "ticker": "REVB",
+          "asset-name": "Revere Bank",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "08/03/2017",
-          "Owner": "Self",
-          "Ticker": "PHLD",
-          "Asset Name": "PHILLIPS EDISON GR",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/03/2017",
+          "owner": "Self",
+          "ticker": "PHLD",
+          "asset-name": "PHILLIPS EDISON GR",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

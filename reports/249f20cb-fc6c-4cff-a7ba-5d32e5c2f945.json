@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/28/2017",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 08/28/2017 @ 6:44 AM",
+  "filed-date": "08/28/2017",
+  "filed-time": "6:44 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "07/07/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MAINE HEALTH & HIGH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.50% Matures: 07/01/2022",
-          "Asset Type": "Municipal Security",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "CALLED"
+          "transaction-date": "07/07/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MAINE HEALTH & HIGH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.50% Matures: 07/01/2022",
+          "asset-type": "Municipal Security",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "CALLED"
         },
         {
-          "#": "2",
-          "Transaction Date": "07/01/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MAINE HEALTH & HIGH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.50% Matures: 07/01/2022",
-          "Asset Type": "Municipal Security",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "PARTIAL CALL"
+          "transaction-date": "07/01/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MAINE HEALTH & HIGH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.50% Matures: 07/01/2022",
+          "asset-type": "Municipal Security",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "PARTIAL CALL"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/20/2017",
-          "Owner": "Spouse",
-          "Ticker": "IBM",
-          "Asset Name": "International Business Machines Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/20/2017",
+          "owner": "Spouse",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

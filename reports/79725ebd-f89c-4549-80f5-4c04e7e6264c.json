@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/15/2019",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 10/15/2019 @ 2:50 PM",
+  "filed-date": "10/15/2019",
+  "filed-time": "2:50 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "09/16/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Federal Farm Credit Bk 3133EGU94\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.300% Matures: 12/14/2022",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "09/16/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Federal Farm Credit Bk 3133EGU94\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.300% Matures: 12/14/2022",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "09/18/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Federal Farm Credit Bk 3133EKQ90\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.000% Matures: 09/23/2022",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "09/18/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Federal Farm Credit Bk 3133EKQ90\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.000% Matures: 09/23/2022",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

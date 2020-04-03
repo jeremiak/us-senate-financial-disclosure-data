@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/10/2019",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 12/10/2019 @ 2:33 PM",
+  "filed-date": "12/10/2019",
+  "filed-time": "2:33 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/05/2019",
-          "Owner": "Self",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/05/2019",
+          "owner": "Self",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "11/06/2019",
-          "Owner": "Self",
-          "Ticker": "ET",
-          "Asset Name": "Energy Transfer LP",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/06/2019",
+          "owner": "Self",
+          "ticker": "ET",
+          "asset-name": "Energy Transfer LP",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "11/19/2019",
-          "Owner": "Child",
-          "Ticker": "NDAQ",
-          "Asset Name": "Nasdaq, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Child #1"
+          "transaction-date": "11/19/2019",
+          "owner": "Child",
+          "ticker": "NDAQ",
+          "asset-name": "Nasdaq, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Child #1"
         },
         {
-          "#": "4",
-          "Transaction Date": "11/19/2019",
-          "Owner": "Child",
-          "Ticker": "NDAQ",
-          "Asset Name": "Nasdaq, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Child #1"
+          "transaction-date": "11/19/2019",
+          "owner": "Child",
+          "ticker": "NDAQ",
+          "asset-name": "Nasdaq, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Child #1"
         }
       ]
     }

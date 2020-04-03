@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/02/2019",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 04/02/2019 @ 9:32 AM",
+  "filed-date": "04/02/2019",
+  "filed-time": "9:32 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "03/29/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MS Contingent Autocall on Boeing\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.35% Matures: 04/01/2022",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MS Contingent Autocall on Boeing\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.35% Matures: 04/01/2022",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "03/29/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MS Contingent Autocall on Boeing \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.35% Matures: 04/01/2022",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/29/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MS Contingent Autocall on Boeing \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 8.35% Matures: 04/01/2022",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "03/28/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "RBC Contingent Autocall on Nvidia\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.65% Matures: 07/30/219",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/28/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "RBC Contingent Autocall on Nvidia\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.65% Matures: 07/30/219",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/28/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "RBC Contingent Autocall on Nvidia\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.65% Matures: 07/30/2019",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/28/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "RBC Contingent Autocall on Nvidia\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 12.65% Matures: 07/30/2019",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/20/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Quest Diagnostics",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/20/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Quest Diagnostics",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/20/2019",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Fedex Corp",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/20/2019",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fedex Corp",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

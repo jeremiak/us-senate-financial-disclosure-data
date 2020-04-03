@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/13/2017",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 07/13/2017 @ 4:53 PM",
+  "filed-date": "07/13/2017",
+  "filed-time": "4:53 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "06/27/2017",
-          "Owner": "Self",
-          "Ticker": "VSM",
-          "Asset Name": "Versum Materials, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/27/2017",
+          "owner": "Self",
+          "ticker": "VSM",
+          "asset-name": "Versum Materials, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/27/2017",
-          "Owner": "Self",
-          "Ticker": "MCC",
-          "Asset Name": "Medley Capital Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/27/2017",
+          "owner": "Self",
+          "ticker": "MCC",
+          "asset-name": "Medley Capital Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/27/2017",
-          "Owner": "Self",
-          "Ticker": "ARCC",
-          "Asset Name": "Ares Capital Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/27/2017",
+          "owner": "Self",
+          "ticker": "ARCC",
+          "asset-name": "Ares Capital Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

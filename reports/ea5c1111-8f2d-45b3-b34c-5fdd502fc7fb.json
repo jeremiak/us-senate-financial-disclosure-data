@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/21/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 02/21/2017 @ 1:24 PM",
+  "filed-date": "02/21/2017",
+  "filed-time": "1:24 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/30/2017",
-          "Owner": "Joint",
-          "Ticker": "EMR",
-          "Asset Name": "Emerson Electric Co.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/30/2017",
+          "owner": "Joint",
+          "ticker": "EMR",
+          "asset-name": "Emerson Electric Co.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/30/2017",
-          "Owner": "Joint",
-          "Ticker": "HON",
-          "Asset Name": "Honeywell International Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/30/2017",
+          "owner": "Joint",
+          "ticker": "HON",
+          "asset-name": "Honeywell International Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

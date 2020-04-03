@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/03/2017",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 03/03/2017 @ 8:54 AM",
+  "filed-date": "03/03/2017",
+  "filed-time": "8:54 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "02/13/2017",
-          "Owner": "Joint",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/13/2017",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "01/27/2017",
-          "Owner": "Joint",
-          "Ticker": "VZ",
-          "Asset Name": "Verizon Communications Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2017",
+          "owner": "Joint",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "XEL",
-          "Asset Name": "Xcel Energy Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "XEL",
+          "asset-name": "Xcel Energy Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "TRV",
-          "Asset Name": "The Travelers Companies, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "TRV",
+          "asset-name": "The Travelers Companies, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/22/2017",
-          "Owner": "Joint",
-          "Ticker": "DD",
-          "Asset Name": "E. I. du Pont de Nemours and Company",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/22/2017",
+          "owner": "Joint",
+          "ticker": "DD",
+          "asset-name": "E. I. du Pont de Nemours and Company",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

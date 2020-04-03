@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/27/2016",
   "filer": "The Honorable William Cassidy (Cassidy, Bill)",
-  "filedDate": "Filed 07/27/2016 @ 5:04 PM",
+  "filed-date": "07/27/2016",
+  "filed-time": "5:04 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "07/15/2016",
-          "Owner": "Spouse",
-          "Ticker": "WMT",
-          "Asset Name": "Wal-Mart Stores Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/15/2016",
+          "owner": "Spouse",
+          "ticker": "WMT",
+          "asset-name": "Wal-Mart Stores Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "07/15/2016",
-          "Owner": "Spouse",
-          "Ticker": "SO",
-          "Asset Name": "Southern Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/15/2016",
+          "owner": "Spouse",
+          "ticker": "SO",
+          "asset-name": "Southern Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "07/15/2016",
-          "Owner": "Spouse",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/15/2016",
+          "owner": "Spouse",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/15/2016",
-          "Owner": "Spouse",
-          "Ticker": "T",
-          "Asset Name": "AT&T, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/15/2016",
+          "owner": "Spouse",
+          "ticker": "T",
+          "asset-name": "AT&T, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

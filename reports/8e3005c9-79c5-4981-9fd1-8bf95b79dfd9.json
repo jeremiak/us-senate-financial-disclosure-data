@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/03/2019",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 05/03/2019 @ 12:20 PM",
+  "filed-date": "05/03/2019",
+  "filed-time": "12:20 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "05/01/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "GOOG - Alphabet Inc. C",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/01/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GOOG - Alphabet Inc. C",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "05/01/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "GOOGL - Alphabet Inc. A",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/01/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GOOGL - Alphabet Inc. A",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/26/2019",
-          "Owner": "Self",
-          "Ticker": "TEL",
-          "Asset Name": "TE Connectivity Ltd.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/26/2019",
+          "owner": "Self",
+          "ticker": "TEL",
+          "asset-name": "TE Connectivity Ltd.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/26/2019",
-          "Owner": "Self",
-          "Ticker": "LH",
-          "Asset Name": "Laboratory Corporation of America Holdings",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/26/2019",
+          "owner": "Self",
+          "ticker": "LH",
+          "asset-name": "Laboratory Corporation of America Holdings",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/16/2019",
-          "Owner": "Self",
-          "Ticker": "CLR",
-          "Asset Name": "Continental Resources, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/16/2019",
+          "owner": "Self",
+          "ticker": "CLR",
+          "asset-name": "Continental Resources, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

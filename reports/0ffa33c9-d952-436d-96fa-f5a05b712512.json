@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/17/2016",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 10/17/2016 @ 2:56 PM",
+  "filed-date": "10/17/2016",
+  "filed-time": "2:56 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/06/2016",
-          "Owner": "Self",
-          "Ticker": "IYT",
-          "Asset Name": "iShares Transportation Average",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/06/2016",
+          "owner": "Self",
+          "ticker": "IYT",
+          "asset-name": "iShares Transportation Average",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

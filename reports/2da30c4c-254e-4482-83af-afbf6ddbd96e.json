@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/14/2015",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 12/14/2015 @ 5:09 PM",
+  "filed-date": "12/14/2015",
+  "filed-time": "5:09 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "11/18/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SIAL - Sigma Aldrich Corp",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Mandatory Cash Merger"
+          "transaction-date": "11/18/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SIAL - Sigma Aldrich Corp",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "Mandatory Cash Merger"
         },
         {
-          "#": "1",
-          "Transaction Date": "11/05/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "QCOM - Qualcomm Inc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "11/05/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "QCOM - Qualcomm Inc",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

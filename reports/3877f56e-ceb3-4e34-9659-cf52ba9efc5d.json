@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/19/2020",
   "filer": "The Honorable Ron Johnson (Johnson, Ron)",
-  "filedDate": "Filed 03/19/2020 @ 11:15 AM",
+  "filed-date": "03/19/2020",
+  "filed-time": "11:15 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "03/02/2020",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Pacur, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Pacur, LLC\n                                                    \n                                                         (Oshkosh, WI)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Manufacturing - Plastic Extrusion",
-          "Asset Type": "Other Securities",
-          "Type": "Sale (Full)",
-          "Amount": "$5,000,001 - $25,000,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Pacur, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Pacur, LLC\n                                                    \n                                                         (Oshkosh, WI)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Manufacturing - Plastic Extrusion",
+          "asset-type": "Other Securities",
+          "type": "Sale (Full)",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/07/2018",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 08/07/2018 @ 2:14 PM",
+  "filed-date": "08/07/2018",
+  "filed-time": "2:14 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "07/09/2018",
-          "Owner": "Joint",
-          "Ticker": "MCHP",
-          "Asset Name": "Microchip Technology Incorporated",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/09/2018",
+          "owner": "Joint",
+          "ticker": "MCHP",
+          "asset-name": "Microchip Technology Incorporated",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/09/2018",
-          "Owner": "Self",
-          "Ticker": "MCHP",
-          "Asset Name": "Microchip Technology Incorporated",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/09/2018",
+          "owner": "Self",
+          "ticker": "MCHP",
+          "asset-name": "Microchip Technology Incorporated",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

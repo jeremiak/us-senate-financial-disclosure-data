@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/04/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 05/04/2017 @ 4:54 PM",
+  "filed-date": "05/04/2017",
+  "filed-time": "4:54 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "09/07/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "EMC Corp. Mass EMC",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/07/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "EMC Corp. Mass EMC",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

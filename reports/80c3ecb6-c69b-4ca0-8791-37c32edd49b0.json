@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 03/28/2016 (Amendment 1)",
   "filer": "The Honorable Rafael E Cruz (Cruz, Ted)",
-  "filedDate": "Filed 08/13/2017 @ 10:23 PM",
+  "filed-date": "08/13/2017",
+  "filed-time": "10:23 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/25/2016",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "GS-The Goldman Sachs Group, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/25/2016",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "GS-The Goldman Sachs Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/25/2016",
-          "Owner": "Joint",
-          "Ticker": "OKE",
-          "Asset Name": "ONEOK Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/25/2016",
+          "owner": "Joint",
+          "ticker": "OKE",
+          "asset-name": "ONEOK Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

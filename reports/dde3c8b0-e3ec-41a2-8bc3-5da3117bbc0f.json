@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/08/2016",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 11/08/2016 @ 3:29 PM",
+  "filed-date": "11/08/2016",
+  "filed-time": "3:29 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "10/25/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Philadelphia PA WTR & WASTEWTR\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125 Matures: 10/01/2035",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/25/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Philadelphia PA WTR & WASTEWTR\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125 Matures: 10/01/2035",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "10/25/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Maricopa County Ariz INDL DEV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25 Matures: 01/01/2037",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/25/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Maricopa County Ariz INDL DEV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25 Matures: 01/01/2037",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "10/20/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Connecticut St For Issues\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375 Matures: 10/15/2036",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/20/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Connecticut St For Issues\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375 Matures: 10/15/2036",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/17/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "VICTORIA TX ISD 2016 PERMA OID97.488 BE/R/ \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125 Matures: 02/15/2038",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/17/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "VICTORIA TX ISD 2016 PERMA OID97.488 BE/R/ \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.125 Matures: 02/15/2038",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/17/2016",
-          "Owner": "Self",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Health Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/17/2016",
+          "owner": "Self",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

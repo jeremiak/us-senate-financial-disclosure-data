@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 12/06/2017",
   "filer": "The Honorable Michael D Crapo (Crapo, Michael D.)",
-  "filedDate": "Filed 12/06/2017 @ 5:30 PM",
+  "filed-date": "12/06/2017",
+  "filed-time": "5:30 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/27/2017",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Pharma Partners, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Pharma Partners, LLC\n                                                    \n                                                         (Englewood, CO)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: The LLC funds research and clinical trials on a new class of drugs, metalloporphyrins. The lead drugs are BMX-010 and BMX-001.",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "Investment in LLC."
+          "transaction-date": "11/27/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Pharma Partners, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Pharma Partners, LLC\n                                                    \n                                                         (Englewood, CO)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: The LLC funds research and clinical trials on a new class of drugs, metalloporphyrins. The lead drugs are BMX-010 and BMX-001.",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "Investment in LLC."
         }
       ]
     }

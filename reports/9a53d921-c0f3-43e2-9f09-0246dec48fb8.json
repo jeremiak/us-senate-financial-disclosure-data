@@ -1,980 +1,954 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Ron L Wyden (Wyden, Ron)",
-  "filedDate": "Filed 05/15/2019 @ 11:36 AM",
+  "filed-date": "05/15/2019",
+  "filed-time": "11:36 AM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Partnership Distributions",
-          "Who Paid": "Bass Book Trading, Inc\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Partnership Distributions",
+          "who-paid": "Bass Book Trading, Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Bass Real Estate LLC\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Bass Real Estate LLC\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Strand Book Store Inc\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Strand Book Store Inc\n\t\t\t\t\t\t\t\tNew York, NY",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "4",
-          "Who Was Paid": "Self",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Inherited IRA distribution)",
-          "Who Paid": "TIAA/CREF\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Amount Paid": "$15,780.07"
+          "who-was-paid": "Self",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Inherited IRA distribution)",
+          "who-paid": "TIAA/CREF\n\t\t\t\t\t\t\t\tWashington, DC",
+          "amount-paid": "$15,780.07"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "US Senate FCU(Washington, DC)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "US Senate FCU(Washington, DC)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "US Savings Bond Series IDescription: US Savings Bond (Washington, DC)",
-          "Asset Type": "Other Securities",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "US Savings Bond Series IDescription: US Savings Bond (Washington, DC)",
+          "asset-type": "Other Securities",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "US Senate FCU(Washington, DC)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "US Senate FCU(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Rights to the literary works of Peter WydenDescription: Rights to the literary works of Peter Wyden",
-          "Asset Type": "Intellectual PropertyCopyrights",
-          "Owner": "Self",
-          "Value": "Unascertainable",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Rights to the literary works of Peter WydenDescription: Rights to the literary works of Peter Wyden",
+          "asset-type": "Intellectual PropertyCopyrights",
+          "owner": "Self",
+          "value": "Unascertainable",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Merrill Lynch Deposit Program(New York, NY)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Merrill Lynch Deposit Program(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIAA/CREF(Washington, DC)Type: IRA Cash Accounts, Filer comment:  inherited IRA",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TIAA/CREF(Washington, DC)Type: IRA Cash Accounts, Filer comment:  inherited IRA",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Edith Wyden Trust FBO Ronald L. Wyden TrustFiler comment:  inherited trust",
-          "Asset Type": "TrustGeneral Trust",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Edith Wyden Trust FBO Ronald L. Wyden TrustFiler comment:  inherited trust",
+          "asset-type": "TrustGeneral Trust",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "GICIX-Goldman Sachs Intl Sm Cp Insghts Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "GICIX-Goldman Sachs Intl Sm Cp Insghts Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JP Morgan Emerging Markets Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "JP Morgan Emerging Markets Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JUSRX - JPMorgan US Equity R5",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "JUSRX - JPMorgan US Equity R5",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "MIEIX-MFS Instl International Equity",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MIEIX-MFS Instl International Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PCBIX-Principal MidCap Institutional",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "PCBIX-Principal MidCap Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "OTCFX - T. Rowe Price Small-Cap Stock",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "OTCFX - T. Rowe Price Small-Cap Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "POSIX - Principal Global Real Estate Sec Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "POSIX - Principal Global Real Estate Sec Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "VWSUX - Vanguard Short-Term Tx-Ex Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VWLUX-Vanguard Long-Term Tax-Exempt Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VWLUX-Vanguard Long-Term Tax-Exempt Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "VWIUX-Vanguard Interm-Term Tx-Ex Adm",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VWIUX-Vanguard Interm-Term Tx-Ex Adm",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Chemeketa CLG-ARate/Coupon: 5.25  Matures: 6/15/2024",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Chemeketa CLG-ARate/Coupon: 5.25  Matures: 6/15/2024",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Oregon St For Previous Issues GO BdsRate/Coupon: 5  Matures: 8/01/2041",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Oregon St For Previous Issues GO BdsRate/Coupon: 5  Matures: 8/01/2041",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Tri-Co Metro Transp-ARate/Coupon: 5  Matures: 10/1/2023",
-          "Asset Type": "Government SecuritiesMunicipal Security",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Tri-Co Metro Transp-ARate/Coupon: 5  Matures: 10/1/2023",
+          "asset-type": "Government SecuritiesMunicipal Security",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Bank of the West Advantage Account(San Francisco, California)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "Bank of the West Advantage Account(San Francisco, California)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "NVHIX-Nuveen Short Duration Hi Yld Muni Bd I",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "NVHIX-Nuveen Short Duration Hi Yld Muni Bd I",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "FM - iShares MSCI Frontier 100 ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "FM - iShares MSCI Frontier 100 ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MFMIX - Morgan Stanley Inst Frontier Mkts I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MFMIX - Morgan Stanley Inst Frontier Mkts I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PPSAX - Principal Preferred Securities A",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "PPSAX - Principal Preferred Securities A",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Transamerica Enhanced Municipal Fund CL I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Transamerica Enhanced Municipal Fund CL I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ASFYX - Natixis ASG Managed Futures Strategy Y",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "ASFYX - Natixis ASG Managed Futures Strategy Y",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SHRIX - Stone Ridge High Yield Reinsura",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "SHRIX - Stone Ridge High Yield Reinsura",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IJR - iShares Core S&P Small-Cap ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "IJR - iShares Core S&P Small-Cap ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VEIPX - Vanguard Equity-Income Fund Investor Shares",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "VEIPX - Vanguard Equity-Income Fund Investor Shares",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BGCIX - BlackRock Global Long/Short Credit Fund Institutio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "BGCIX - BlackRock Global Long/Short Credit Fund Institutio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "PXF - Invesco FTSE RAFI Developed Markets ex-U.S. ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PXF - Invesco FTSE RAFI Developed Markets ex-U.S. ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EFA - iShares MSCI EAFE ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EFA - iShares MSCI EAFE ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Oregon College Savings Plan - William Peter WydenInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Oregon College Savings Plan - William Peter WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Oregon College Savings Plan Age 9-10 Age Based PortfolioInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 Prepaid Tuition",
-          "Owner": "Child",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Oregon College Savings Plan Age 9-10 Age Based PortfolioInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Oregon College Savings Plan - College Enrollment Year 2026 PortfolioInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 Prepaid Tuition",
-          "Owner": "Child",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Oregon College Savings Plan - College Enrollment Year 2026 PortfolioInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Oregon College Savings Plan - Ava Rose WydenInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 College Savings Plan",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Oregon College Savings Plan - Ava Rose WydenInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 College Savings Plan",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Oregon College Savings Plan Age 9-10 Age Based PortfolioInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 Prepaid Tuition",
-          "Owner": "Child",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Oregon College Savings Plan Age 9-10 Age Based PortfolioInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Child",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Oregon College Savings Plan - College Enrollment Year 2026 PortfolioInstitution: Oregon",
-          "Asset Type": "Education Savings Plans529 Prepaid Tuition",
-          "Owner": "Child",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Oregon College Savings Plan - College Enrollment Year 2026 PortfolioInstitution: Oregon",
+          "asset-type": "Education Savings Plans529 Prepaid Tuition",
+          "owner": "Child",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Strand Book Store Inc.  (S-Corp)Description: Book Store (New York, NY)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "Dividends, Rent/Royalties, Interest, Capital Gains,",
-          "Income": "Over $1,000,000 and held independently by spouse or dependent child"
+          "asset": "Strand Book Store Inc.  (S-Corp)Description: Book Store (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Rent/Royalties, Interest, Capital Gains",
+          "income": "Over $1,000,000 and held independently by spouse or dependent child"
         },
         {
-          "Asset": "The Strand II Corp.  (S-Corp)Description: Book Store (New York, NY) Filer comment:  As of 12/31/18 entity dissolved",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "The Strand II Corp.  (S-Corp)Description: Book Store (New York, NY) Filer comment:  As of 12/31/18 entity dissolved",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bass Book Trading, Inc  (S-corp)Description: Book Trading (New York, NY)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "Dividends, Rent/Royalties,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "Bass Book Trading, Inc  (S-corp)Description: Book Trading (New York, NY)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "Dividends, Rent/Royalties",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "Bass Real Estate LLCCompany: Bass Real Estate LLC (New York, NY) Description: Commercial Real Estate holding Filer comment:  Holdings: 826 Broadway, New York, NY 10003",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bass Real Estate LLCCompany: Bass Real Estate LLC (New York, NY) Description: Commercial Real Estate holding Filer comment:  Holdings: 826 Broadway, New York, NY 10003",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Leveque Parking Partners LLCCompany: Leveque Parking Partners LLC (New York, NY) Description: Commercial Real Estate Filer comment:  Formerly reported as Ranger Asset Management LLC",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Leveque Parking Partners LLCCompany: Leveque Parking Partners LLC (New York, NY) Description: Commercial Real Estate Filer comment:  Formerly reported as Ranger Asset Management LLC",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Leveque GarageDescription: Leveque Garage (Columbus, OH)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Spouse",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Other, (Ordinary business income)",
-          "Income": "Other $49,979.00"
+          "asset": "Leveque GarageDescription: Leveque Garage (Columbus, OH)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Other, (Ordinary business income)",
+          "income": "Other $49,979.00"
         },
         {
-          "Asset": "Fitz Frames, Inc.Description: Custom eyeglass wear (Santa Monica, CA)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Fitz Frames, Inc.Description: Custom eyeglass wear (Santa Monica, CA)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Coolidge Oakleigh LLCDescription: Residential Real Estate Investment (Baton Rouge, LA)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Coolidge Oakleigh LLCDescription: Residential Real Estate Investment (Baton Rouge, LA)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Coolidge Evaston LLCDescription: Residential Real Estate Investment (Chicago, IL)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Coolidge Evaston LLCDescription: Residential Real Estate Investment (Chicago, IL)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Merrill Lynch - CMA Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Merrill Lynch - CMA Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Bank of America, N.A.(Garden City, NY)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Bank of America, N.A.(Garden City, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "U.S. Treasury BillRate/Coupon: None  Matures: None",
-          "Asset Type": "Government SecuritiesUS Treasury/Agency Security",
-          "Owner": "Spouse",
-          "Value": "Over $1,000,000 and held independently by spouse or dependent child",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "U.S. Treasury BillRate/Coupon: None  Matures: None",
+          "asset-type": "Government SecuritiesUS Treasury/Agency Security",
+          "owner": "Spouse",
+          "value": "Over $1,000,000 and held independently by spouse or dependent child",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Merrill Lynch - IRA Account",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Merrill Lynch - IRA Account",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Bank of America(Garden City, NY)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of America(Garden City, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "C - Citigroup Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "C - Citigroup Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XOM - Exxon Mobil Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "XOM - Exxon Mobil Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GE - General Electric Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "GE - General Electric Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "INTC - Intel Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JCI - Johnson Controls International plc",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "JCI - Johnson Controls International plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MDT - Medtronic plc",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "MDT - Medtronic plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PFE - Pfizer Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "PFE - Pfizer Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TEL - TE Connectivity Ltd.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TEL - TE Connectivity Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TRV - The Travelers Companies, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "TRV - The Travelers Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MDFGX - BlackRock Capital Appreciation Fund Investor A Sha",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "MDFGX - BlackRock Capital Appreciation Fund Investor A Sha",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "11/24/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Fitz Frames, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Fitz Frames, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Custom eyeglass wear",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "11/24/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Fitz Frames, Inc.\n                                \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tCompany: Fitz Frames, Inc.\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDescription: Custom eyeglass wear",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Coolidge Oakleigh LLC",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "07/16/2018",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Coolidge Oakleigh LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "07/16/2018",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Coolidge Easton LLC",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/17/2018",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Coolidge Easton LLC",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/17/2018",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "PXF",
-          "Asset Name": "Invesco FTSE RAFI Developed Markets ex-U.S. ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PXF",
+          "asset-name": "Invesco FTSE RAFI Developed Markets ex-U.S. ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "EFA",
-          "Asset Name": "iShares MSCI EAFE ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "EFA",
+          "asset-name": "iShares MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "IJR",
-          "Asset Name": "iShares Core S&P Small-Cap ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/09/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "IJR",
+          "asset-name": "iShares Core S&P Small-Cap ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/09/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "VEIPX",
-          "Asset Name": "Vanguard Equity-Income Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VEIPX",
+          "asset-name": "Vanguard Equity-Income Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "VEIPX",
-          "Asset Name": "Vanguard Equity-Income Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/28/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VEIPX",
+          "asset-name": "Vanguard Equity-Income Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "BGCIX",
-          "Asset Name": "BlackRock Global Long/Short Credit Fund Institutio",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/09/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "BGCIX",
+          "asset-name": "BlackRock Global Long/Short Credit Fund Institutio",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/09/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "BGCIX",
-          "Asset Name": "BlackRock Global Long/Short Credit Fund Institutio",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/18/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "BGCIX",
+          "asset-name": "BlackRock Global Long/Short Credit Fund Institutio",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/18/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "GICIX",
-          "Asset Name": "Goldman Sachs International Small Cap Insights Fun",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "GICIX",
+          "asset-name": "Goldman Sachs International Small Cap Insights Fun",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "FM",
-          "Asset Name": "iShares MSCI Frontier 100 ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "FM",
+          "asset-name": "iShares MSCI Frontier 100 ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "JPMorgan Emerging Markets Equity",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JPMorgan Emerging Markets Equity",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "JUSRX",
-          "Asset Name": "JPMorgan U.S. Equity Fund Class R5",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/28/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "JUSRX",
+          "asset-name": "JPMorgan U.S. Equity Fund Class R5",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/28/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "MIEIX",
-          "Asset Name": "MFS Institutional International Equity Fund",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MIEIX",
+          "asset-name": "MFS Institutional International Equity Fund",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "PPSAX",
-          "Asset Name": "Principal Preferred Securities Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PPSAX",
+          "asset-name": "Principal Preferred Securities Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "PCBIX",
-          "Asset Name": "Principal MidCap Fund Institutional Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PCBIX",
+          "asset-name": "Principal MidCap Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/08/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "VWSUX",
-          "Asset Name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/05/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWSUX",
+          "asset-name": "Vanguard Short-Term Tax-Exempt Fund Class Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/05/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "GICIX",
-          "Asset Name": "Goldman Sachs International Small Cap Insights Fun",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/17/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "GICIX",
+          "asset-name": "Goldman Sachs International Small Cap Insights Fun",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/17/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "JPMorgan Emerging Markets Equity Fund CI L",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/17/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JPMorgan Emerging Markets Equity Fund CI L",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/17/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "JPMorgan Emerging Markets Equity Fund CI L",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "08/28/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "JPMorgan Emerging Markets Equity Fund CI L",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "JUSRX",
-          "Asset Name": "JPMorgan U.S. Equity Fund Class R5",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/14/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "JUSRX",
+          "asset-name": "JPMorgan U.S. Equity Fund Class R5",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/14/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "MIEIX",
-          "Asset Name": "MFS Institutional International Equity Fund",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/17/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MIEIX",
+          "asset-name": "MFS Institutional International Equity Fund",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/17/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "MFMIX",
-          "Asset Name": "Morgan Stanley Institutional Fund, Inc. Frontier M",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/17/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MFMIX",
+          "asset-name": "Morgan Stanley Institutional Fund, Inc. Frontier M",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/17/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Owner": "Spouse",
-          "Ticker": "ASFYX",
-          "Asset Name": "Natixis ASG Managed Futures Strategy Fund Class Y",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/17/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "ASFYX",
+          "asset-name": "Natixis ASG Managed Futures Strategy Fund Class Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/17/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "26",
-          "Owner": "Self",
-          "Ticker": "NVHIX",
-          "Asset Name": "Nuveen Short Duration High Yield Municipal Bond Fu",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "NVHIX",
+          "asset-name": "Nuveen Short Duration High Yield Municipal Bond Fu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "03/08/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "27",
-          "Owner": "Self",
-          "Ticker": "NVHIX",
-          "Asset Name": "Nuveen Short Duration High Yield Municipal Bond Fu",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "08/28/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "NVHIX",
+          "asset-name": "Nuveen Short Duration High Yield Municipal Bond Fu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "08/28/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "28",
-          "Owner": "Self",
-          "Ticker": "NVHIX",
-          "Asset Name": "Nuveen Short Duration High Yield Municipal Bond Fu",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/05/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "NVHIX",
+          "asset-name": "Nuveen Short Duration High Yield Municipal Bond Fu",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/05/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "29",
-          "Owner": "Self",
-          "Ticker": "PCBIX",
-          "Asset Name": "Principal MidCap Fund Institutional Class",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/20/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PCBIX",
+          "asset-name": "Principal MidCap Fund Institutional Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/20/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "30",
-          "Owner": "Self",
-          "Ticker": "POSIX",
-          "Asset Name": "Principal Global Real Estate Securities Fund Insti",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/09/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "POSIX",
+          "asset-name": "Principal Global Real Estate Securities Fund Insti",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/09/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "31",
-          "Owner": "Self",
-          "Ticker": "OTCFX",
-          "Asset Name": "T. Rowe Price Small-Cap Stock Fund",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "OTCFX",
+          "asset-name": "T. Rowe Price Small-Cap Stock Fund",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/08/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "32",
-          "Owner": "Self",
-          "Ticker": "VWIUX",
-          "Asset Name": "Vanguard Intermediate-Term Tax-Exempt Fund Admiral",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/08/2018",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWIUX",
+          "asset-name": "Vanguard Intermediate-Term Tax-Exempt Fund Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/08/2018",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "33",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Oregon College Savings Plan Age 9-10 Age Based Portfolio",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/07/2018",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Oregon College Savings Plan Age 9-10 Age Based Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/07/2018",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "34",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Oregon College Savings Plan - College Enrollment Year 2026 Portfolio",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/07/2018",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Oregon College Savings Plan - College Enrollment Year 2026 Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/07/2018",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "35",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Oregon College Savings Plan Age 9-10 Age Based Portfolio",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "09/07/2018",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Oregon College Savings Plan Age 9-10 Age Based Portfolio",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "09/07/2018",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "36",
-          "Owner": "Child",
-          "Ticker": "--",
-          "Asset Name": "Oregon College Savings Plan - College Enrollment Year 2026 Portfolio",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "09/07/2018",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Child",
+          "ticker": "--",
+          "asset-name": "Oregon College Savings Plan - College Enrollment Year 2026 Portfolio",
+          "transaction-type": "Purchase",
+          "transaction-date": "09/07/2018",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Self",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

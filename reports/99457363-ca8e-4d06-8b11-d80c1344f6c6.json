@@ -1,423 +1,430 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2017",
   "filer": "The Honorable Maggie Hassan (Hassan, Maggie)",
-  "filedDate": "Filed 05/15/2018 @ 2:11 PM",
+  "filed-date": "05/15/2018",
+  "filed-time": "2:11 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "State of New Hampshire\n\t\t\t\t\t\t\t\tConcord, NH",
-          "Amount Paid": "$12,320.00"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "State of New Hampshire\n\t\t\t\t\t\t\t\tConcord, NH",
+          "amount-paid": "$12,320.00"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "School Year Abroad, Inc.\n\t\t\t\t\t\t\t\tNorth Andover, MA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "School Year Abroad, Inc.\n\t\t\t\t\t\t\t\tNorth Andover, MA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "The Provident Bank(Amesbury, MA)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "The Provident Bank(Amesbury, MA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Voya Financial 401(k)",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Voya Financial 401(k)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "VTXVX - Vanguard Target Retirement 2015 Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTXVX - Vanguard Target Retirement 2015 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTENX - Vanguard Target Retirement 2010 Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTENX - Vanguard Target Retirement 2010 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTHRX - Vanguard Target Retirement 2030 Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTHRX - Vanguard Target Retirement 2030 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Fidelity 401(k)",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Fidelity 401(k)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "VTTVX - Vanguard Target Retirement 2025 Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTTVX - Vanguard Target Retirement 2025 Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIAA-CREF/Partners Healthcare System, Inc Retirement Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "TIAA-CREF/Partners Healthcare System, Inc Retirement Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "QCSCPX - CREF Social Choice Account - R2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "QCSCPX - CREF Social Choice Account - R2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIAA-CREF Retirement Plan- Phillips Exeter Academy",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "TIAA-CREF Retirement Plan- Phillips Exeter Academy",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "TIAA TraditionalProvider: TIAA-CREF",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Spouse",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIAA TraditionalProvider: TIAA-CREF",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QCSTPX - CREF Stock Account - R2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "QCSTPX - CREF Stock Account - R2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIAA-CREF Money Market R1(New York, NY)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIAA-CREF Money Market R1(New York, NY)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Northwestern Mutual Adjustable Comp LifeProvider: Northwestern Mutual",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Northwestern Mutual Adjustable Comp LifeProvider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Northwestern Mutual Whole LifeProvider: Northwestern Mutual",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "Northwestern Mutual Whole LifeProvider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Northwestern Mutual Whole Life Policy Provider: Northwestern Mutual",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "Northwestern Mutual Whole Life Policy Provider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Northwestern Mutual Adjustable Comp Life Provider: Northwestern Mutual",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Northwestern Mutual Adjustable Comp Life Provider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Northwestern Mutual Adjustable Comp LifeProvider: Northwestern Mutual",
-          "Asset Type": "Life InsuranceWhole",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "Northwestern Mutual Adjustable Comp LifeProvider: Northwestern Mutual",
+          "asset-type": "Life InsuranceWhole",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Citizens Bank(Medford, MA)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None, Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Citizens Bank(Medford, MA)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None, Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Citizens Bank IRA CD",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Citizens Bank IRA CD",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Citizens Bank(Medford, MA)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Citizens Bank(Medford, MA)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Citizens Bank IRA CD",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Citizens Bank IRA CD",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Citizens Bank(Medford, MA)Type: Certificate of Deposit,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Citizens Bank(Medford, MA)Type: Certificate of Deposit",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bank of America Fixed Term IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Bank of America Fixed Term IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Bank of America(Wilmington, DE)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of America(Wilmington, DE)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Bank of America Fixed Term IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Bank of America Fixed Term IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Bank of America(Wilmington, DE)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Bank of America(Wilmington, DE)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Onadune, LLCCompany: Onadune, LLC (Boston, MA) Description: Shared ownership of rental property in RI",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Onadune, LLCCompany: Onadune, LLC (Boston, MA) Description: Shared ownership of rental property in RI",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "OnaduneDescription: Vacation/Rental Property (Little Compton, RI)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$1,001 - $2,500"
+          "asset": "OnaduneDescription: Vacation/Rental Property (Little Compton, RI)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Rent/Royalties",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Onadune, LLCCompany: Onadune, LLC (Boston, MA) Description: Shared ownership of rental property in RI",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Onadune, LLCCompany: Onadune, LLC (Boston, MA) Description: Shared ownership of rental property in RI",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "OnaduneDescription: Vacation/Rental Property (Little Compton, RI)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "OnaduneDescription: Vacation/Rental Property (Little Compton, RI)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TIAA-CREF Retirement Plan- Wesleyan University",
-          "Asset Type": "Deferred CompensationDeferred Compensation - Other",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "TIAA-CREF Retirement Plan- Wesleyan University",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "TIAA TraditionalProvider: TIAA-CREF",
-          "Asset Type": "AnnuityFixed",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIAA TraditionalProvider: TIAA-CREF",
+          "asset-type": "AnnuityFixed",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QCSTPX-CREF Stock Account - R2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "QCSTPX-CREF Stock Account - R2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIAA-CREF Retirement Plan - School Year Abroad 403(b) DC Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "TIAA-CREF Retirement Plan - School Year Abroad 403(b) DC Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "QCMMRX - CREF Money Market Account - R1",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "QCMMRX - CREF Money Market Account - R1",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date(s)": "06/02/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t06/04/2017",
-          "Traveler(s)": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
-          "Travel Type": "Personal friendship",
-          "Itinerary": "Whitefield, NH",
-          "Reimbursed For": "Lodging in connection with wedding Senator Hassan officiated\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $418.00",
-          "Who Paid": "Joseph Rolfe\n\t\t\t\t\t\t\t\tBelmont, NH",
-          "Comment": "Senator Hassan officiated a wedding"
+          "date-s": "06/02/2017\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t06/04/2017",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Personal friendship",
+          "itinerary": "Whitefield, NH",
+          "reimbursed-for": "Lodging in connection with wedding Senator Hassan officiated\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t                               Amount: $418.00",
+          "who-paid": "Joseph Rolfe\n\t\t\t\t\t\t\t\tBelmont, NH",
+          "comment": "Senator Hassan officiated a wedding"
         }
       ]
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2015",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "2.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "CENLAR\n\t\t\t\t\t\t\t\tEwing Township, NJ",
-          "Comments": "-"
+          "incurred": "2015",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.99%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "CENLAR\n\t\t\t\t\t\t\t\tEwing Township, NJ",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2010",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Bank of America\n\t\t\t\t\t\t\t\tTampa, FL",
-          "Comments": "-"
+          "incurred": "2010",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Bank of America\n\t\t\t\t\t\t\t\tTampa, FL",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Dec 1995 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "Onadune, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoston, MA",
-          "Entity Type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
-          "Comments": ""
+          "position-dates": "Dec 1995 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "Onadune, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBoston, MA",
+          "entity-type": "Other\n\t\t\t\t\t\t\t\t(Limited Liability Company)",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Mar 2005",
-          "Parties Involved": "Hirsch Roberts Weinstein\n\t\t\t\t\t\t\t\tBoston, MA",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Management of 401(k), which vested during employment. Hirsch Roberts Weinstein no longer makes a contribution to the account."
+          "date": "Mar 2005",
+          "parties-involved": "Hirsch Roberts Weinstein\n\t\t\t\t\t\t\t\tBoston, MA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Management of 401(k), which vested during employment. Hirsch Roberts Weinstein no longer makes a contribution to the account."
         },
         {
-          "#": "2",
-          "Date": "Sep 1996",
-          "Parties Involved": "Partners Healthcare\n\t\t\t\t\t\t\t\tBoston, MA",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Management of Fidelity 401(k) plan, no contributions made any longer by Partners"
+          "date": "Sep 1996",
+          "parties-involved": "Partners Healthcare\n\t\t\t\t\t\t\t\tBoston, MA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Management of Fidelity 401(k) plan, no contributions made any longer by Partners"
         },
         {
-          "#": "3",
-          "Date": "Sep 1996",
-          "Parties Involved": "Partners Healthcare\n\t\t\t\t\t\t\t\tBoston, MA",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Management of TIAA CREF retirement account, no contributions made any longer by Partners"
+          "date": "Sep 1996",
+          "parties-involved": "Partners Healthcare\n\t\t\t\t\t\t\t\tBoston, MA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Management of TIAA CREF retirement account, no contributions made any longer by Partners"
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

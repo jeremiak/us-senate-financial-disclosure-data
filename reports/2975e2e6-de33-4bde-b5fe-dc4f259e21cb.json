@@ -1,1818 +1,1721 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Jerry Moran (Moran, Jerry)",
-  "filedDate": "Filed 05/15/2019 @ 10:44 PM",
+  "filed-date": "05/15/2019",
+  "filed-time": "10:44 PM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Hanston Insurance AgencyCompany: Hanston Insurance Agency (Hays, KS) Description: Bank Holding Company",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
-        },
-        {
-          "Asset": "Mainstar Trust(Onaga, KS)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Astra Bank(Plainville, KS)Type: Money Market Account, Filer comment:  Midwest Community Bank changed names and is now Astra Bank.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "Bank of Hays(Hays, KS)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Landmark Bank(Manhattan, KS)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Bank of Hays(Hays, KS)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Bank of Hays(Hays, KS)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "ABBV - AbbVie Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "ALL - The Allstate Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "GOOG - Alphabet Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "AAPL - Apple Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "BAC - Bank of America Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "BRK-B - Berkshire Hathaway Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "Hanston Insurance AgencyCompany: Hanston Insurance Agency (Hays, KS) Description: Bank Holding Company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
+        },
+        {
+          "asset": "Mainstar Trust(Onaga, KS)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Astra Bank(Plainville, KS)Type: Money Market Account, Filer comment:  Midwest Community Bank changed names and is now Astra Bank.",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "Bank of Hays(Hays, KS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Landmark Bank(Manhattan, KS)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of Hays(Hays, KS)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Bank of Hays(Hays, KS)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ABBV - AbbVie Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "ALL - The Allstate Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GOOG - Alphabet Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BAC - Bank of America Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BRK-B - Berkshire Hathaway Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "COST - Costco Wholesale Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "COST - Costco Wholesale Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CVS - CVS Health Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CVS - CVS Health Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DVA - DaVita Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "DVA - DaVita Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DIS - The Walt Disney Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XOM - Exxon Mobil Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "XOM - Exxon Mobil Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GIS - General Mills, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "GIS - General Mills, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JPM - JPMorgan Chase & Co.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "JPM - JPMorgan Chase & Co.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MSFT - Microsoft Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "MSFT - Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RDS-B - Royal Dutch Shell plc",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "RDS-B - Royal Dutch Shell plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JNK - SPDR Bloomberg Barclays High Yield Bond ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "JNK - SPDR Bloomberg Barclays High Yield Bond ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USB - U.S. Bancorp",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "USB - U.S. Bancorp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VZ - Verizon Communications Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VZ - Verizon Communications Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WFC - Wells Fargo & Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "WFC - Wells Fargo & Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CAIFX - American Funds Capital Income Builder Class F-2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "CAIFX - American Funds Capital Income Builder Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WGIFX - American Funds Capital World Growth and Income Fun",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "WGIFX - American Funds Capital World Growth and Income Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AEPFX - American Funds EuroPacific Growth Fund Class F-2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "AEPFX - American Funds EuroPacific Growth Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GFFFX - American Funds The Growth Fund of America Class F-",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "GFFFX - American Funds The Growth Fund of America Class F-",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AMEFX - American Funds The Income Fund of America Class F-",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "AMEFX - American Funds The Income Fund of America Class F-",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ICAFX - American Funds Investment Company of America Class",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "ICAFX - American Funds Investment Company of America Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ASBAX - American Funds Short-Term Bond Fund of America Cla",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "ASBAX - American Funds Short-Term Bond Fund of America Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "WMFFX - American Funds Washington Mutual Investors Fund Cl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "WMFFX - American Funds Washington Mutual Investors Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DBLSX - DoubleLine Low Duration Bond Fund Class I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "DBLSX - DoubleLine Low Duration Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Raymond James Deposit Program(St. Petersburg, FL)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Raymond James Deposit Program(St. Petersburg, FL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BA - The Boeing Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "BA - The Boeing Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "CVX - Chevron Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "CVX - Chevron Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "XOM - Exxon Mobil Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$5,001 - $15,000"
+          "asset": "XOM - Exxon Mobil Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "HAL - Halliburton Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "HAL - Halliburton Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AVT - Avnet, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AVT - Avnet, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OXY - Occidental Petroleum Corporation (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "OXY - Occidental Petroleum Corporation (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PG - The Procter & Gamble Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "PG - The Procter & Gamble Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WMB - Williams Companies, Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "WMB - Williams Companies, Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SLB - Schlumberger Limited (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SLB - Schlumberger Limited (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "S-Sprint Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "S-Sprint Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VVI-Viad Corp",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VVI-Viad Corp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Raymond James Deposit Program(St. Petersburg, FL)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Raymond James Deposit Program(St. Petersburg, FL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ABBV - AbbVie Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "ABBV - AbbVie Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "ALL - The Allstate Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "ALL - The Allstate Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GOOG - Alphabet Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "GOOG - Alphabet Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AAPL - Apple Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BAC - Bank of America Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "BAC - Bank of America Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BRK-B - Berkshire Hathaway Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "BRK-B - Berkshire Hathaway Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "COST - Costco Wholesale Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "COST - Costco Wholesale Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CVS - CVS Health Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CVS - CVS Health Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DVA - DaVita Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "DVA - DaVita Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DIS - The Walt Disney Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "DIS - The Walt Disney Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XOM - Exxon Mobil Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "XOM - Exxon Mobil Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GIS - General Mills, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "GIS - General Mills, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JPM - JPMorgan Chase & Co.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "JPM - JPMorgan Chase & Co.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MSFT - Microsoft Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "MSFT - Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RDS-B - Royal Dutch Shell plc",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "RDS-B - Royal Dutch Shell plc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JNK - SPDR Bloomberg Barclays High Yield Bond ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "JNK - SPDR Bloomberg Barclays High Yield Bond ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "USB - U.S. Bancorp",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "USB - U.S. Bancorp",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "VZ - Verizon Communications Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "WFC - Wells Fargo & Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "CAIFX - American Funds Capital Income Builder Class F-2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "WGIFX - American Funds Capital World Growth and Income Fun",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "AEPFX - American Funds EuroPacific Growth Fund Class F-2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "GFFFX - American Funds The Growth Fund of America Class F-",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "AMEFX - American Funds The Income Fund of America Class F-",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "ICAFX - American Funds Investment Company of America Class",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "ASBAX - American Funds Short-Term Bond Fund of America Cla",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "WMFFX - American Funds Washington Mutual Investors Fund Cl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "DBLSX - DoubleLine Low Duration Bond Fund Class I",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Raymond James Deposit Program(St. Petersburg, FL)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO - Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VZ - Verizon Communications Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WFC - Wells Fargo & Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CAIFX - American Funds Capital Income Builder Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WGIFX - American Funds Capital World Growth and Income Fun",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "AEPFX - American Funds EuroPacific Growth Fund Class F-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "GFFFX - American Funds The Growth Fund of America Class F-",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "AMEFX - American Funds The Income Fund of America Class F-",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ICAFX - American Funds Investment Company of America Class",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "ASBAX - American Funds Short-Term Bond Fund of America Cla",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "WMFFX - American Funds Washington Mutual Investors Fund Cl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DBLSX - DoubleLine Low Duration Bond Fund Class I",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Raymond James Deposit Program(St. Petersburg, FL)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "GS",
-          "Asset Name": "The Goldman Sachs Group, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "DIS",
-          "Asset Name": "The Walt Disney Company",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "DVA",
-          "Asset Name": "DaVita Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "DVA",
+          "asset-name": "DaVita Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "PFE",
-          "Asset Name": "Pfizer Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "PFE",
+          "asset-name": "Pfizer Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "WY",
-          "Asset Name": "Weyerhaeuser Company",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "WY",
+          "asset-name": "Weyerhaeuser Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Verizon Communications Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Verizon Communications Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "USB",
-          "Asset Name": "U.S. Bancorp",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "USB",
+          "asset-name": "U.S. Bancorp",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "RDS-B",
-          "Asset Name": "Royal Dutch Shell plc",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "RDS-B",
+          "asset-name": "Royal Dutch Shell plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "MSFT",
-          "Asset Name": "Microsoft Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "LM09.SG",
-          "Asset Name": "Liberty Media Corp. Reg.Sh.C FO",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "LM09.SG",
+          "asset-name": "Liberty Media Corp. Reg.Sh.C FO",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "JPM",
-          "Asset Name": "JPMorgan Chase & Co.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "GS",
-          "Asset Name": "The Goldman Sachs Group, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "DIS",
-          "Asset Name": "The Walt Disney Company",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "DIS",
+          "asset-name": "The Walt Disney Company",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "DVA",
-          "Asset Name": "DaVita Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "DVA",
+          "asset-name": "DaVita Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "BRKB",
-          "Asset Name": "Berkshire Hathaway Inc.",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "BRKB",
+          "asset-name": "Berkshire Hathaway Inc.",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "GOOG",
-          "Asset Name": "Alphabet Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "GOOG",
+          "asset-name": "Alphabet Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Self",
-          "Ticker": "ABBV",
-          "Asset Name": "AbbVie Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Self",
+          "ticker": "ABBV",
+          "asset-name": "AbbVie Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "BRK-B",
-          "Asset Name": "Berkshire Hathaway Inc.",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "BRK-B",
+          "asset-name": "Berkshire Hathaway Inc.",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "26",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "GOOG",
-          "Asset Name": "Alphabet Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "GOOG",
+          "asset-name": "Alphabet Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "27",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "ABBV",
-          "Asset Name": "AbbVie Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "ABBV",
+          "asset-name": "AbbVie Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "28",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "WY",
-          "Asset Name": "Weyerhaeuser Company",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "WY",
+          "asset-name": "Weyerhaeuser Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "29",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "30",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "VZ",
-          "Asset Name": "Verizon Communications Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "31",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "USB",
-          "Asset Name": "U.S. Bancorp",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "USB",
+          "asset-name": "U.S. Bancorp",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "32",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "RDS-B",
-          "Asset Name": "Royal Dutch Shell plc",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "RDS-B",
+          "asset-name": "Royal Dutch Shell plc",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "33",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "MSFT",
-          "Asset Name": "Microsoft Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "MSFT",
+          "asset-name": "Microsoft Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "34",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "LM09.SG",
-          "Asset Name": "Liberty Media Corp. Reg.Sh.C FO",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "LM09.SG",
+          "asset-name": "Liberty Media Corp. Reg.Sh.C FO",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "35",
-          "Transaction Date": "12/06/2018",
-          "Owner": "Spouse",
-          "Ticker": "JPM",
-          "Asset Name": "JPMorgan Chase & Co.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2018",
+          "owner": "Spouse",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "36",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "37",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "LM09.SG",
-          "Asset Name": "Liberty Media Corp. Reg.Sh.C FO",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "LM09.SG",
+          "asset-name": "Liberty Media Corp. Reg.Sh.C FO",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "38",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "GS",
-          "Asset Name": "The Goldman Sachs Group, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "39",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "GOOG",
-          "Asset Name": "Alphabet Inc.",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "GOOG",
+          "asset-name": "Alphabet Inc.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "40",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "GIS",
-          "Asset Name": "General Mills, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "GIS",
+          "asset-name": "General Mills, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "41",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Health Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "42",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "COST",
-          "Asset Name": "Costco Wholesale Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "43",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "44",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "45",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "ALL",
-          "Asset Name": "The Allstate Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "ALL",
+          "asset-name": "The Allstate Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "46",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "WY",
-          "Asset Name": "Weyerhaeuser Company",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "WY",
+          "asset-name": "Weyerhaeuser Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "47",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "48",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "RDS-B",
-          "Asset Name": "Royal Dutch Shell plc",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "RDS-B",
+          "asset-name": "Royal Dutch Shell plc",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "49",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "LM09.SG",
-          "Asset Name": "Liberty Media Corp. Reg.Sh.C FO",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "LM09.SG",
+          "asset-name": "Liberty Media Corp. Reg.Sh.C FO",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "50",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "JPM",
-          "Asset Name": "JPMorgan Chase & Co.",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "51",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "GS",
-          "Asset Name": "The Goldman Sachs Group, Inc.",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "52",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "XOM",
-          "Asset Name": "Exxon Mobil Corporation",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "XOM",
+          "asset-name": "Exxon Mobil Corporation",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "53",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "GIS",
-          "Asset Name": "General Mills, Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "GIS",
+          "asset-name": "General Mills, Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "54",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Health Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "55",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Spouse",
-          "Ticker": "WY",
-          "Asset Name": "Weyerhaeuser Company",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Spouse",
+          "ticker": "WY",
+          "asset-name": "Weyerhaeuser Company",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "56",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "57",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc.",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "58",
-          "Transaction Date": "12/19/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "The Allstate Corporation",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/19/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "The Allstate Corporation",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "CAIFX",
-          "Asset Name": "American Funds Capital Income Builder Class F-2",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "CAIFX",
+          "asset-name": "American Funds Capital Income Builder Class F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "WGIFX",
-          "Asset Name": "American Funds Capital World Growth and Income Fun",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "WGIFX",
+          "asset-name": "American Funds Capital World Growth and Income Fun",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "AEPFX",
-          "Asset Name": "American Funds EuroPacific Growth Fund Class F-2",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds EuroPacific Growth Fund Class F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "GFFFX",
-          "Asset Name": "American Funds The Growth Fund of America Class F-",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "GFFFX",
+          "asset-name": "American Funds The Growth Fund of America Class F-",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "AMEFX",
-          "Asset Name": "American Funds The Income Fund of America Class F-",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AMEFX",
+          "asset-name": "American Funds The Income Fund of America Class F-",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "IGFFX",
-          "Asset Name": "American Funds International Growth and Income Fun",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "IGFFX",
+          "asset-name": "American Funds International Growth and Income Fun",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "ICAFX",
-          "Asset Name": "American Funds Investment Company of America Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ICAFX",
+          "asset-name": "American Funds Investment Company of America Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "ASBAX",
-          "Asset Name": "American Funds Short-Term Bond Fund of America Cla",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ASBAX",
+          "asset-name": "American Funds Short-Term Bond Fund of America Cla",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "SMCWX",
-          "Asset Name": "American Funds SMALLCAP World Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds SMALLCAP World Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "DBLSX",
-          "Asset Name": "DoubleLine Low Duration Bond Fund Class I",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Bloomberg Barclays High Yield Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "JNK",
+          "asset-name": "SPDR Bloomberg Barclays High Yield Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "CAIBX",
-          "Asset Name": "American Funds Capital Income Builder Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "CAIBX",
+          "asset-name": "American Funds Capital Income Builder Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "AMECX",
-          "Asset Name": "American Funds The Income Fund of America Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AMECX",
+          "asset-name": "American Funds The Income Fund of America Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "14",
-          "Owner": "Self",
-          "Ticker": "AIVSX",
-          "Asset Name": "American Funds Investment Company of America Class",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AIVSX",
+          "asset-name": "American Funds Investment Company of America Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "15",
-          "Owner": "Self",
-          "Ticker": "FAGOX",
-          "Asset Name": "Fidelity Advisor Growth Opportunities Fund Class M",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "FAGOX",
+          "asset-name": "Fidelity Advisor Growth Opportunities Fund Class M",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "16",
-          "Owner": "Self",
-          "Ticker": "CAIFX",
-          "Asset Name": "American Funds Capital Income Builder Class F-2",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "CAIFX",
+          "asset-name": "American Funds Capital Income Builder Class F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "17",
-          "Owner": "Self",
-          "Ticker": "AMEFX",
-          "Asset Name": "American Funds The Income Fund of America Class F-",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AMEFX",
+          "asset-name": "American Funds The Income Fund of America Class F-",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "18",
-          "Owner": "Self",
-          "Ticker": "WMFFX",
-          "Asset Name": "American Funds Washington Mutual Investors Fund Cl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "WMFFX",
+          "asset-name": "American Funds Washington Mutual Investors Fund Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "19",
-          "Owner": "Self",
-          "Ticker": "CAIFX",
-          "Asset Name": "American Funds Capital Income Builder Class F-2",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "CAIFX",
+          "asset-name": "American Funds Capital Income Builder Class F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "20",
-          "Owner": "Self",
-          "Ticker": "AMEFX",
-          "Asset Name": "American Funds The Income Fund of America Class F-",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "AMEFX",
+          "asset-name": "American Funds The Income Fund of America Class F-",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "21",
-          "Owner": "Self",
-          "Ticker": "IGFFX",
-          "Asset Name": "American Funds International Growth and Income Fun",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "IGFFX",
+          "asset-name": "American Funds International Growth and Income Fun",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "22",
-          "Owner": "Self",
-          "Ticker": "ICAFX",
-          "Asset Name": "American Funds Investment Company of America Class",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "ICAFX",
+          "asset-name": "American Funds Investment Company of America Class",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "23",
-          "Owner": "Self",
-          "Ticker": "SMCWX",
-          "Asset Name": "American Funds SMALLCAP World Fund Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds SMALLCAP World Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "24",
-          "Owner": "Self",
-          "Ticker": "DBLSX",
-          "Asset Name": "DoubleLine Low Duration Bond Fund Class I",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "25",
-          "Owner": "Self",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Bloomberg Barclays High Yield Bond ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "JNK",
+          "asset-name": "SPDR Bloomberg Barclays High Yield Bond ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "26",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "27",
-          "Owner": "Spouse",
-          "Ticker": "CAIBX",
-          "Asset Name": "American Funds Capital Income Builder Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "CAIBX",
+          "asset-name": "American Funds Capital Income Builder Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "28",
-          "Owner": "Spouse",
-          "Ticker": "WGIFX",
-          "Asset Name": "American Funds Capital World Growth and Income Fun",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "WGIFX",
+          "asset-name": "American Funds Capital World Growth and Income Fun",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "29",
-          "Owner": "Spouse",
-          "Ticker": "AEPFX",
-          "Asset Name": "American Funds EuroPacific Growth Fund Class F-2",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds EuroPacific Growth Fund Class F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "30",
-          "Owner": "Spouse",
-          "Ticker": "GFFFX",
-          "Asset Name": "American Funds The Growth Fund of America Class F-",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "GFFFX",
+          "asset-name": "American Funds The Growth Fund of America Class F-",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "31",
-          "Owner": "Spouse",
-          "Ticker": "AMEFX",
-          "Asset Name": "American Funds The Income Fund of America Class F-",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AMEFX",
+          "asset-name": "American Funds The Income Fund of America Class F-",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "32",
-          "Owner": "Spouse",
-          "Ticker": "IGFFX",
-          "Asset Name": "American Funds International Growth and Income Fun",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "IGFFX",
+          "asset-name": "American Funds International Growth and Income Fun",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "33",
-          "Owner": "Spouse",
-          "Ticker": "ICAFX",
-          "Asset Name": "American Funds Investment Company of America Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "ICAFX",
+          "asset-name": "American Funds Investment Company of America Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "34",
-          "Owner": "Spouse",
-          "Ticker": "ASBAX",
-          "Asset Name": "American Funds Short-Term Bond Fund of America Cla",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "ASBAX",
+          "asset-name": "American Funds Short-Term Bond Fund of America Cla",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "35",
-          "Owner": "Spouse",
-          "Ticker": "SMCWX",
-          "Asset Name": "American Funds SMALLCAP World Fund Class A",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds SMALLCAP World Fund Class A",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "36",
-          "Owner": "Spouse",
-          "Ticker": "DBLSX",
-          "Asset Name": "DoubleLine Low Duration Bond Fund Class I",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "37",
-          "Owner": "Spouse",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Bloomberg Barclays High Yield Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "JNK",
+          "asset-name": "SPDR Bloomberg Barclays High Yield Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "38",
-          "Owner": "Spouse",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "39",
-          "Owner": "Spouse",
-          "Ticker": "CAIBX",
-          "Asset Name": "American Funds Capital Income Builder Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "CAIBX",
+          "asset-name": "American Funds Capital Income Builder Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "40",
-          "Owner": "Spouse",
-          "Ticker": "AMECX",
-          "Asset Name": "American Funds The Income Fund of America Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AMECX",
+          "asset-name": "American Funds The Income Fund of America Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "41",
-          "Owner": "Spouse",
-          "Ticker": "AIVSX",
-          "Asset Name": "American Funds Investment Company of America Class",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AIVSX",
+          "asset-name": "American Funds Investment Company of America Class",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "42",
-          "Owner": "Spouse",
-          "Ticker": "FAGOX",
-          "Asset Name": "Fidelity Advisor Growth Opportunities Fund Class M",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "FAGOX",
+          "asset-name": "Fidelity Advisor Growth Opportunities Fund Class M",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "43",
-          "Owner": "Spouse",
-          "Ticker": "MITTX",
-          "Asset Name": "MFS Massachusetts Investors Trust Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "MITTX",
+          "asset-name": "MFS Massachusetts Investors Trust Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/06/2018",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "44",
-          "Owner": "Spouse",
-          "Ticker": "CAIFX",
-          "Asset Name": "American Funds Capital Income Builder Class F-2",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "CAIFX",
+          "asset-name": "American Funds Capital Income Builder Class F-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "45",
-          "Owner": "Spouse",
-          "Ticker": "AMEFX",
-          "Asset Name": "American Funds The Income Fund of America Class F-",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "AMEFX",
+          "asset-name": "American Funds The Income Fund of America Class F-",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "46",
-          "Owner": "Spouse",
-          "Ticker": "WMFFX",
-          "Asset Name": "American Funds Washington Mutual Investors Fund Cl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "WMFFX",
+          "asset-name": "American Funds Washington Mutual Investors Fund Cl",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "47",
-          "Owner": "Spouse",
-          "Ticker": "CAIFX",
-          "Asset Name": "American Funds Capital Income Builder Class F-2",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "CAIFX",
+          "asset-name": "American Funds Capital Income Builder Class F-2",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "48",
-          "Owner": "Spouse",
-          "Ticker": "IGFFX",
-          "Asset Name": "American Funds International Growth and Income Fun",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "IGFFX",
+          "asset-name": "American Funds International Growth and Income Fun",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "49",
-          "Owner": "Spouse",
-          "Ticker": "SMCWX",
-          "Asset Name": "American Funds SMALLCAP World Fund Class A",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "SMCWX",
+          "asset-name": "American Funds SMALLCAP World Fund Class A",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "50",
-          "Owner": "Spouse",
-          "Ticker": "DBLSX",
-          "Asset Name": "DoubleLine Low Duration Bond Fund Class I",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "DBLSX",
+          "asset-name": "DoubleLine Low Duration Bond Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "51",
-          "Owner": "Spouse",
-          "Ticker": "JNK",
-          "Asset Name": "SPDR Bloomberg Barclays High Yield Bond ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "JNK",
+          "asset-name": "SPDR Bloomberg Barclays High Yield Bond ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "52",
-          "Owner": "Self",
-          "Ticker": "VWO",
-          "Asset Name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/06/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWO",
+          "asset-name": "Vanguard FTSE Emerging Markets Index Fund ETF Shar",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/06/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2012",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "2.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "U.S. Bank Home Mortgage\n\t\t\t\t\t\t\t\tOwensboro, KY",
-          "Comments": "-"
+          "incurred": "2012",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(10 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "U.S. Bank Home Mortgage\n\t\t\t\t\t\t\t\tOwensboro, KY",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 1987 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "Fort Hays State University Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHays, KS",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": "Non-profit fundraising arm of a state university."
+          "position-dates": "Jan 1987 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Fort Hays State University Foundation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tHays, KS",
+          "entity-type": "Nonprofit Organization",
+          "comments": "Non-profit fundraising arm of a state university."
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 1990 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Governor)",
-          "Entity": "University of Kansas School of Law, Board of Governors\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLawrence, KS",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jan 1990 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Governor)",
+          "entity": "University of Kansas School of Law, Board of Governors\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLawrence, KS",
+          "entity-type": "Educational Organization",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

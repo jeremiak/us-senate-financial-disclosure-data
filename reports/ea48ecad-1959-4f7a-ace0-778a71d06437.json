@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/11/2017",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 04/11/2017 @ 5:41 PM",
+  "filed-date": "04/11/2017",
+  "filed-time": "5:41 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "03/02/2017",
-          "Owner": "Spouse",
-          "Ticker": "RHHBY",
-          "Asset Name": "Roche Holding AG",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2017",
+          "owner": "Spouse",
+          "ticker": "RHHBY",
+          "asset-name": "Roche Holding AG",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/02/2017",
-          "Owner": "Spouse",
-          "Ticker": "GILD",
-          "Asset Name": "Gilead Sciences, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2017",
+          "owner": "Spouse",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/02/2017",
-          "Owner": "Spouse",
-          "Ticker": "DHR",
-          "Asset Name": "Danaher Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2017",
+          "owner": "Spouse",
+          "ticker": "DHR",
+          "asset-name": "Danaher Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/02/2017",
-          "Owner": "Spouse",
-          "Ticker": "BRKB",
-          "Asset Name": "Berkshire Hathaway Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/02/2017",
+          "owner": "Spouse",
+          "ticker": "BRKB",
+          "asset-name": "Berkshire Hathaway Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/06/2017",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 09/06/2017 @ 3:45 PM",
+  "filed-date": "09/06/2017",
+  "filed-time": "3:45 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "07/25/2017",
-          "Owner": "Self",
-          "Ticker": "PEY",
-          "Asset Name": "PowerShares Exchange-Traded Fund Trust - PowerShar",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "07/25/2017",
+          "owner": "Self",
+          "ticker": "PEY",
+          "asset-name": "PowerShares Exchange-Traded Fund Trust - PowerShar",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "08/07/2017",
-          "Owner": "Self",
-          "Ticker": "T",
-          "Asset Name": "AT&T Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "08/07/2017",
+          "owner": "Self",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

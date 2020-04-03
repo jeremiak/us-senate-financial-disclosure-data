@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/12/2016",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/12/2016 @ 3:47 PM",
+  "filed-date": "05/12/2016",
+  "filed-time": "3:47 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "04/28/2016",
-          "Owner": "Self",
-          "Ticker": "IRET",
-          "Asset Name": "Investors Real Estate Trust",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/28/2016",
+          "owner": "Self",
+          "ticker": "IRET",
+          "asset-name": "Investors Real Estate Trust",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/27/2016",
-          "Owner": "Self",
-          "Ticker": "IRET",
-          "Asset Name": "Investors Real Estate Trust",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/27/2016",
+          "owner": "Self",
+          "ticker": "IRET",
+          "asset-name": "Investors Real Estate Trust",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/22/2016",
-          "Owner": "Self",
-          "Ticker": "VLO",
-          "Asset Name": "Valero Energy Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/22/2016",
+          "owner": "Self",
+          "ticker": "VLO",
+          "asset-name": "Valero Energy Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/22/2016",
-          "Owner": "Self",
-          "Ticker": "MCD",
-          "Asset Name": "McDonald's Corp.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/22/2016",
+          "owner": "Self",
+          "ticker": "MCD",
+          "asset-name": "McDonald's Corp.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

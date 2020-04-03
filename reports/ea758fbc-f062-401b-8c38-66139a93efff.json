@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/25/2016",
   "filer": "The Honorable William Cassidy (Cassidy, Bill)",
-  "filedDate": "Filed 02/25/2016 @ 5:39 PM",
+  "filed-date": "02/25/2016",
+  "filed-time": "5:39 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/09/2016",
-          "Owner": "Spouse",
-          "Ticker": "COP",
-          "Asset Name": "ConocoPhillips",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/09/2016",
+          "owner": "Spouse",
+          "ticker": "COP",
+          "asset-name": "ConocoPhillips",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/09/2016",
-          "Owner": "Spouse",
-          "Ticker": "SLB",
-          "Asset Name": "Schlumberger Limited",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/09/2016",
+          "owner": "Spouse",
+          "ticker": "SLB",
+          "asset-name": "Schlumberger Limited",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

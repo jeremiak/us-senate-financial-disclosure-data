@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/14/2018",
   "filer": "The Honorable Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 09/14/2018 @ 4:15 PM",
+  "filed-date": "09/14/2018",
+  "filed-time": "4:15 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "08/28/2018",
-          "Owner": "Spouse",
-          "Ticker": "NKE",
-          "Asset Name": "NIKE, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/28/2018",
+          "owner": "Spouse",
+          "ticker": "NKE",
+          "asset-name": "NIKE, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "08/28/2018",
-          "Owner": "Spouse",
-          "Ticker": "CB",
-          "Asset Name": "Chubb Limited",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/28/2018",
+          "owner": "Spouse",
+          "ticker": "CB",
+          "asset-name": "Chubb Limited",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

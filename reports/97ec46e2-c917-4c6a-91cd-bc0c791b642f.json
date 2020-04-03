@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/04/2015",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 09/04/2015 @ 1:09 PM",
+  "filed-date": "09/04/2015",
+  "filed-time": "1:09 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "08/07/2015",
-          "Owner": "Self",
-          "Ticker": "DISCK",
-          "Asset Name": "Discovery Communications, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "08/07/2015",
+          "owner": "Self",
+          "ticker": "DISCK",
+          "asset-name": "Discovery Communications, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 04/06/2015 (Amendment 1)",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/16/2016 @ 11:06 AM",
+  "filed-date": "05/16/2016",
+  "filed-time": "11:06 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "03/18/2015",
-          "Owner": "Self",
-          "Ticker": "PRPFX",
-          "Asset Name": "Permanent Portfolio (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/18/2015",
+          "owner": "Self",
+          "ticker": "PRPFX",
+          "asset-name": "Permanent Portfolio (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/20/2015",
-          "Owner": "Self",
-          "Ticker": "MDU",
-          "Asset Name": "MDU Resources Group Inc. (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "03/20/2015",
+          "owner": "Self",
+          "ticker": "MDU",
+          "asset-name": "MDU Resources Group Inc. (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,208 +1,211 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2016",
   "filer": "The Honorable Sherrod Brown (Brown, Sherrod)",
-  "filedDate": "Filed 05/15/2017 @ 12:20 PM",
+  "filed-date": "05/15/2017",
+  "filed-time": "12:20 PM",
+  "calendar-year": "2016",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "06/14/2016",
-          "Activity": "Speech",
-          "Amount": "$6,800.00",
-          "Who Paid?": "Kansas Women's Attorney's Association\n\t\t\t\t\t\t\t\tTopeka, KS",
-          "Who received payment?": "Spouse"
+          "date": "06/14/2016",
+          "activity": "Speech",
+          "amount": "$6,800.00",
+          "who-paid": "Kansas Women's Attorney's Association\n\t\t\t\t\t\t\t\tTopeka, KS",
+          "who-received-payment": "Spouse"
         },
         {
-          "#": "2",
-          "Date": "12/02/2016",
-          "Activity": "Speech",
-          "Amount": "$6,000.00",
-          "Who Paid?": "Texas Freedom Network\n\t\t\t\t\t\t\t\tAustin, TX",
-          "Who received payment?": "Spouse"
+          "date": "12/02/2016",
+          "activity": "Speech",
+          "amount": "$6,000.00",
+          "who-paid": "Texas Freedom Network\n\t\t\t\t\t\t\t\tAustin, TX",
+          "who-received-payment": "Spouse"
         },
         {
-          "#": "3",
-          "Date": "02/26/2016",
-          "Activity": "Article",
-          "Amount": "$350.00",
-          "Who Paid?": "Washington Post\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Who received payment?": "Spouse"
+          "date": "02/26/2016",
+          "activity": "Article",
+          "amount": "$350.00",
+          "who-paid": "Washington Post\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "Spouse"
         },
         {
-          "#": "4",
-          "Date": "08/07/2016",
-          "Activity": "Article",
-          "Amount": "$350.00",
-          "Who Paid?": "Washington Post\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Who received payment?": "Spouse"
+          "date": "08/07/2016",
+          "activity": "Article",
+          "amount": "$350.00",
+          "who-paid": "Washington Post\n\t\t\t\t\t\t\t\tWashington, DC",
+          "who-received-payment": "Spouse"
         }
       ]
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Kent State University\n\t\t\t\t\t\t\t\tKent, OH",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Kent State University\n\t\t\t\t\t\t\t\tKent, OH",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Writing Fees)",
-          "Who Paid": "Creator's Syndicate\n\t\t\t\t\t\t\t\tLos Angelas, CA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Writing Fees)",
+          "who-paid": "Creator's Syndicate\n\t\t\t\t\t\t\t\tLos Angelas, CA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Ohio Public Employee Retirement System",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Ohio Public Employee Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Huntington National Bank(Columbus , Ohio)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Huntington National Bank(Columbus , Ohio)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Plain Dealer Credit Union(Cleveland, Ohio)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Plain Dealer Credit Union(Cleveland, Ohio)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Northwest Bank(Lorain, Ohio)Type: Checking, Filer comment:  This was Lorain National Bank, they were purchased by Northwest Bank.",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Northwest Bank(Lorain, Ohio)Type: Checking, Filer comment:  This was Lorain National Bank, they were purchased by Northwest Bank.",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Huntington Bank(Columbus, OH)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Huntington Bank(Columbus, OH)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$1,001 - $2,500"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Brownlea Farm, LLA",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/30/2016",
-          "Amount": "$250,001 - $500,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Brownlea Farm, LLA",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/30/2016",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "2.44%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Third Federal Savings & Loan\n\t\t\t\t\t\t\t\tCleveland, Ohio",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.44%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Third Federal Savings & Loan\n\t\t\t\t\t\t\t\tCleveland, Ohio",
+          "comments": "-"
         },
         {
-          "#": "2",
-          "Incurred": "2014",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Franklin American Mortgage Company\n\t\t\t\t\t\t\t\tEwing, NJ",
-          "Comments": "-"
+          "incurred": "2014",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Franklin American Mortgage Company\n\t\t\t\t\t\t\t\tEwing, NJ",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jun 2008 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "Gallaudet University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jun 2008 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "Gallaudet University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Educational Organization",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Nov 2000",
-          "Parties Involved": "New Press\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Remains in effect.  Royalties from \"Myths of Free Trade\" to be donated to two charities, Cleveland Jobs with Justice and Results."
+          "date": "Nov 2000",
+          "parties-involved": "New Press\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Remains in effect.  Royalties from \"Myths of Free Trade\" to be donated to two charities, Cleveland Jobs with Justice and Results."
         },
         {
-          "#": "2",
-          "Date": "Dec 1997",
-          "Parties Involved": "Kent State University Press\n\t\t\t\t\t\t\t\tKent, Ohio",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Remains in effect.  Author entitled to 10% of net income from sales of \"Congress from the Inside.\""
+          "date": "Dec 1997",
+          "parties-involved": "Kent State University Press\n\t\t\t\t\t\t\t\tKent, Ohio",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Remains in effect.  Author entitled to 10% of net income from sales of \"Congress from the Inside.\""
         },
         {
-          "#": "3",
-          "Date": "Jan 1991",
-          "Parties Involved": "State of Ohio\n\t\t\t\t\t\t\t\tColumbus, OH",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "As a participant in the Ohio Public Employee Retirement System, at age 65 I will become eligible to receive an unreduced retirement benefit for my service in state government.  I do not plan to draw state retirement benefits so long as I am employed by the federal government."
+          "date": "Jan 1991",
+          "parties-involved": "State of Ohio\n\t\t\t\t\t\t\t\tColumbus, OH",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "As a participant in the Ohio Public Employee Retirement System, at age 65 I will become eligible to receive an unreduced retirement benefit for my service in state government.  I do not plan to draw state retirement benefits so long as I am employed by the federal government."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

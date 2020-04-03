@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/10/2020",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 02/10/2020 @ 12:08 PM",
+  "filed-date": "02/10/2020",
+  "filed-time": "12:08 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "01/16/2020",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Revival LOC, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Revival LOC, LLC\n                                                    \n                                                         (Springfield, NJ)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Line of Credit - Manufacturer",
-          "Asset Type": "Other Securities",
-          "Type": "Purchase",
-          "Amount": "$500,001 - $1,000,000",
-          "Comment": "--"
+          "transaction-date": "01/16/2020",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Revival LOC, LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Revival LOC, LLC\n                                                    \n                                                         (Springfield, NJ)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Line of Credit - Manufacturer",
+          "asset-type": "Other Securities",
+          "type": "Purchase",
+          "amount": "$500,001 - $1,000,000",
+          "comment": "--"
         }
       ]
     }

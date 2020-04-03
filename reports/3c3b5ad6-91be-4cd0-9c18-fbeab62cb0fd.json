@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/24/2017",
   "filer": "The Honorable John Cornyn (Cornyn, John)",
-  "filedDate": "Filed 02/24/2017 @ 5:36 PM",
+  "filed-date": "02/24/2017",
+  "filed-time": "5:36 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "02/01/2017",
-          "Owner": "Self",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "02/01/2017",
+          "owner": "Self",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

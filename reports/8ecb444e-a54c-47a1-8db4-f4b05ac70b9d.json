@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/06/2017",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 10/06/2017 @ 2:45 PM",
+  "filed-date": "10/06/2017",
+  "filed-time": "2:45 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "04/04/2017",
-          "Owner": "Self",
-          "Ticker": "ANCX",
-          "Asset Name": "Access National Corporation",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Middleburg Financial Corp merged with Access National Bank in a stock for stock exchange"
+          "transaction-date": "04/04/2017",
+          "owner": "Self",
+          "ticker": "ANCX",
+          "asset-name": "Access National Corporation",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Middleburg Financial Corp merged with Access National Bank in a stock for stock exchange"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/04/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "MBRG - Middleberg Financial corp",
-          "Asset Type": "Stock",
-          "Type": "Exchange",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Middleburg Financial Corp merged with Access National Bank in a stock for stock exchange"
+          "transaction-date": "04/04/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MBRG - Middleberg Financial corp",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$1,001 - $15,000",
+          "comment": "Middleburg Financial Corp merged with Access National Bank in a stock for stock exchange"
         }
       ]
     }

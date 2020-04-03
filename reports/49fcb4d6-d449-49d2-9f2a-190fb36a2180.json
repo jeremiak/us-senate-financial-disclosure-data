@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/30/2015",
   "filer": "The Honorable William Cassidy (Cassidy, Bill)",
-  "filedDate": "Filed 09/30/2015 @ 5:18 PM",
+  "filed-date": "09/30/2015",
+  "filed-time": "5:18 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "09/18/2015",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "Green Tree 95-10 B2 Financial Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 7.400 Matures: 01/15/2027",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/18/2015",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "Green Tree 95-10 B2 Financial Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 7.400 Matures: 01/15/2027",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

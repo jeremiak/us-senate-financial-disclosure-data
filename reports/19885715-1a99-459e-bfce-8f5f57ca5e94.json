@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 01/12/2016 (Amendment 1)",
   "filer": "The Honorable William Cassidy (Cassidy, Bill)",
-  "filedDate": "Filed 10/07/2016 @ 5:10 PM",
+  "filed-date": "10/07/2016",
+  "filed-time": "5:10 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "12/30/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "INTC-Intel Corporation (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/30/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "INTC-Intel Corporation (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/30/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "CMI-Cummins Inc. (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/30/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "CMI-Cummins Inc. (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/30/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "AAPL-Apple Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/30/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "AAPL-Apple Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

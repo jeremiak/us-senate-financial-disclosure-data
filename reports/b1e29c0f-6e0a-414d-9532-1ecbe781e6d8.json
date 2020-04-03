@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/21/2019",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 02/21/2019 @ 11:16 AM",
+  "filed-date": "02/21/2019",
+  "filed-time": "11:16 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/28/2019",
-          "Owner": "Joint",
-          "Ticker": "AX",
-          "Asset Name": "Axos Financial, Inc.\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.3% Matures: 01/28/2019",
-          "Asset Type": "Corporate Bond",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "Asset called by issuer and then redeemed in full by issuer on 01/28/2019."
+          "transaction-date": "01/28/2019",
+          "owner": "Joint",
+          "ticker": "AX",
+          "asset-name": "Axos Financial, Inc.\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.3% Matures: 01/28/2019",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset called by issuer and then redeemed in full by issuer on 01/28/2019."
         },
         {
-          "#": "1",
-          "Transaction Date": "01/31/2019",
-          "Owner": "Joint",
-          "Ticker": "TNTOF",
-          "Asset Name": "The Toronto-Dominion Bank\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25 Matures: 06/11/2021",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/31/2019",
+          "owner": "Joint",
+          "ticker": "TNTOF",
+          "asset-name": "The Toronto-Dominion Bank\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.25 Matures: 06/11/2021",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

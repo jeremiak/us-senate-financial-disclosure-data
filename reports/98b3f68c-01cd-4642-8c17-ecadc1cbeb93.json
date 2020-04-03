@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/20/2015",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 05/20/2015 @ 2:32 PM",
+  "filed-date": "05/20/2015",
+  "filed-time": "2:32 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "05/07/2015",
-          "Owner": "Joint",
-          "Ticker": "IBKC",
-          "Asset Name": "IberiaBank Corp. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/07/2015",
+          "owner": "Joint",
+          "ticker": "IBKC",
+          "asset-name": "IberiaBank Corp. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/06/2015",
-          "Owner": "Joint",
-          "Ticker": "IBKC",
-          "Asset Name": "IberiaBank Corp. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/06/2015",
+          "owner": "Joint",
+          "ticker": "IBKC",
+          "asset-name": "IberiaBank Corp. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/27/2015",
-          "Owner": "Joint",
-          "Ticker": "PG",
-          "Asset Name": "The Procter & Gamble Company (NYSE)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/27/2015",
+          "owner": "Joint",
+          "ticker": "PG",
+          "asset-name": "The Procter & Gamble Company (NYSE)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

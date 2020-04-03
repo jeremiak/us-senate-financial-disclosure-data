@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/10/2018",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 10/10/2018 @ 10:48 AM",
+  "filed-date": "10/10/2018",
+  "filed-time": "10:48 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "09/07/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Snap + Style, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Snap + Style, Inc.\n                                                    \n                                                         (Washington, DC)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Online Fashion Advisory & Shopping Website",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "09/07/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Snap + Style, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Snap + Style, Inc.\n                                                    \n                                                         (Washington, DC)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Online Fashion Advisory & Shopping Website",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

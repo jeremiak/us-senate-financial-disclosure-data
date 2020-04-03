@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/23/2015",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 08/23/2015 @ 1:07 PM",
+  "filed-date": "08/23/2015",
+  "filed-time": "1:07 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "07/27/2015",
-          "Owner": "Spouse",
-          "Ticker": "BIDU",
-          "Asset Name": "Baidu, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/27/2015",
+          "owner": "Spouse",
+          "ticker": "BIDU",
+          "asset-name": "Baidu, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "4",
-          "Transaction Date": "07/27/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/27/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "3",
-          "Transaction Date": "07/24/2015",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/24/2015",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "2",
-          "Transaction Date": "07/13/2015",
-          "Owner": "Spouse",
-          "Ticker": "SBUX.SW",
-          "Asset Name": "STARBUCKS (Swiss)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/13/2015",
+          "owner": "Spouse",
+          "ticker": "SBUX.SW",
+          "asset-name": "STARBUCKS (Swiss)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/02/2015",
-          "Owner": "Spouse",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "roth"
+          "transaction-date": "07/02/2015",
+          "owner": "Spouse",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "roth"
         }
       ]
     }

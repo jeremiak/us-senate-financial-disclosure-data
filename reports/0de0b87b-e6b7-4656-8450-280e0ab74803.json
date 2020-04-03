@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/09/2018",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 06/09/2018 @ 8:48 AM",
+  "filed-date": "06/09/2018",
+  "filed-time": "8:48 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "05/17/2018",
-          "Owner": "Spouse",
-          "Ticker": "RCL",
-          "Asset Name": "Royal Caribbean Cruises Ltd.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/17/2018",
+          "owner": "Spouse",
+          "ticker": "RCL",
+          "asset-name": "Royal Caribbean Cruises Ltd.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "05/18/2018",
-          "Owner": "Spouse",
-          "Ticker": "BNPQY",
-          "Asset Name": "BNP Paribas SA",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/18/2018",
+          "owner": "Spouse",
+          "ticker": "BNPQY",
+          "asset-name": "BNP Paribas SA",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/18/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Amadeus IT Group, S.A.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/18/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Amadeus IT Group, S.A.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/17/2018",
-          "Owner": "Self",
-          "Ticker": "DWDP",
-          "Asset Name": "DowDuPont Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/17/2018",
+          "owner": "Self",
+          "ticker": "DWDP",
+          "asset-name": "DowDuPont Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

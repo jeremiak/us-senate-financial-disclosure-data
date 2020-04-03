@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/10/2016",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 11/10/2016 @ 7:01 AM",
+  "filed-date": "11/10/2016",
+  "filed-time": "7:01 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "10/19/2016",
-          "Owner": "Spouse",
-          "Ticker": "TEVA",
-          "Asset Name": "Teva Pharmaceutical Industries Limited",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/19/2016",
+          "owner": "Spouse",
+          "ticker": "TEVA",
+          "asset-name": "Teva Pharmaceutical Industries Limited",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/19/2016",
-          "Owner": "Spouse",
-          "Ticker": "GE",
-          "Asset Name": "General Electric Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/19/2016",
+          "owner": "Spouse",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

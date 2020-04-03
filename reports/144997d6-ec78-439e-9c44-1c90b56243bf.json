@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/27/2017",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 01/27/2017 @ 4:24 PM",
+  "filed-date": "01/27/2017",
+  "filed-time": "4:24 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "01/26/2017",
-          "Owner": "Self",
-          "Ticker": "CHKP",
-          "Asset Name": "Check Point Software Technologies Ltd.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/26/2017",
+          "owner": "Self",
+          "ticker": "CHKP",
+          "asset-name": "Check Point Software Technologies Ltd.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "01/19/2017",
-          "Owner": "Self",
-          "Ticker": "WFC",
-          "Asset Name": "Wells Fargo & Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/19/2017",
+          "owner": "Self",
+          "ticker": "WFC",
+          "asset-name": "Wells Fargo & Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/19/2017",
-          "Owner": "Self",
-          "Ticker": "UL",
-          "Asset Name": "Unilever PLC",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/19/2017",
+          "owner": "Self",
+          "ticker": "UL",
+          "asset-name": "Unilever PLC",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "01/11/2017",
-          "Owner": "Self",
-          "Ticker": "ARW",
-          "Asset Name": "Arrow Electronics, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/11/2017",
+          "owner": "Self",
+          "ticker": "ARW",
+          "asset-name": "Arrow Electronics, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "01/11/2017",
-          "Owner": "Self",
-          "Ticker": "BUD",
-          "Asset Name": "Anheuser-Busch InBev SA/NV",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "01/11/2017",
+          "owner": "Self",
+          "ticker": "BUD",
+          "asset-name": "Anheuser-Busch InBev SA/NV",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

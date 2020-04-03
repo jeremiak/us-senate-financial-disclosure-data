@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/25/2019",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 09/25/2019 @ 4:47 PM",
+  "filed-date": "09/25/2019",
+  "filed-time": "4:47 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "09/24/2019",
-          "Owner": "Self",
-          "Ticker": "NFLX",
-          "Asset Name": "Netflix, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "09/24/2019",
+          "owner": "Self",
+          "ticker": "NFLX",
+          "asset-name": "Netflix, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "09/24/2019",
-          "Owner": "Self",
-          "Ticker": "KTB",
-          "Asset Name": "Kontoor Brands, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "09/24/2019",
+          "owner": "Self",
+          "ticker": "KTB",
+          "asset-name": "Kontoor Brands, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

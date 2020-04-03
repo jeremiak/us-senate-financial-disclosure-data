@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/23/2016",
   "filer": "The Honorable Jeanne Shaheen (Shaheen, Jeanne)",
-  "filedDate": "Filed 05/23/2016 @ 5:31 PM",
+  "filed-date": "05/23/2016",
+  "filed-time": "5:31 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "12/01/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "The Salon LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: The Salon LLC\n                                                    \n                                                         (Dover, NH )\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hair salon",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/01/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "The Salon LLC\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: The Salon LLC\n                                                    \n                                                         (Dover, NH )\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Hair salon",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

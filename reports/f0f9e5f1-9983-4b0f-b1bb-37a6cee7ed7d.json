@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 09/03/2019",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 09/03/2019 @ 4:37 PM",
+  "filed-date": "09/03/2019",
+  "filed-time": "4:37 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "08/21/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "COOK CNTY ILL SCH DIST NO 157 GO REF BDS 2019\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.875% Matures: 05/01/2039",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "08/21/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "COOK CNTY ILL SCH DIST NO 157 GO REF BDS 2019\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.875% Matures: 05/01/2039",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/29/2019",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "BROOKHAVEN GA DEV AUTH REV BDS CHILDRENS HLTHCARE OF ATLANTA 2019 A\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 07/01/2046",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/29/2019",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "BROOKHAVEN GA DEV AUTH REV BDS CHILDRENS HLTHCARE OF ATLANTA 2019 A\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 07/01/2046",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

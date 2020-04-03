@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/07/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 03/07/2017 @ 12:32 PM",
+  "filed-date": "03/07/2017",
+  "filed-time": "12:32 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "TMO",
-          "Asset Name": "Thermo Fisher Scientific Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "TMO",
+          "asset-name": "Thermo Fisher Scientific Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "XBI",
-          "Asset Name": "SPDR S&P Biotech ETF",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "XBI",
+          "asset-name": "SPDR S&P Biotech ETF",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "FDX",
-          "Asset Name": "FedEx Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "FDX",
+          "asset-name": "FedEx Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "ADI",
-          "Asset Name": "Analog Devices, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "ADI",
+          "asset-name": "Analog Devices, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/06/2017",
-          "Owner": "Joint",
-          "Ticker": "AGN",
-          "Asset Name": "Allergan plc",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/06/2017",
+          "owner": "Joint",
+          "ticker": "AGN",
+          "asset-name": "Allergan plc",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

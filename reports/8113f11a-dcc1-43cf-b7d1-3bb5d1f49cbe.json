@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/21/2016",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 03/21/2016 @ 3:40 PM",
+  "filed-date": "03/21/2016",
+  "filed-time": "3:40 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "02/22/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MAINE ST HSG AUTH M\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.45% Matures: 11/15/2017",
-          "Asset Type": "Municipal Security",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "\"CALLED\" REDEMPTION"
+          "transaction-date": "02/22/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MAINE ST HSG AUTH M\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.45% Matures: 11/15/2017",
+          "asset-type": "Municipal Security",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "\"CALLED\" REDEMPTION"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/11/2016",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MAINE STATE HSG AUTH REV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.95% Matures: 11/15/2023",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "SETTLE: 3/21/16"
+          "transaction-date": "02/11/2016",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MAINE STATE HSG AUTH REV\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 1.95% Matures: 11/15/2023",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "SETTLE: 3/21/16"
         }
       ]
     }

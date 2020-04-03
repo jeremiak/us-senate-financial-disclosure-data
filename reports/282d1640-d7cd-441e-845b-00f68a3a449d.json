@@ -1,32 +1,35 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 02/21/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 02/21/2017 @ 11:06 AM",
+  "filed-date": "02/21/2017",
+  "filed-time": "11:06 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "2",
-          "Transaction Date": "01/31/2017",
-          "Owner": "Joint",
-          "Ticker": "PEP",
-          "Asset Name": "Pepsico, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Less than $1001."
+          "transaction-date": "01/31/2017",
+          "owner": "Joint",
+          "ticker": "PEP",
+          "asset-name": "Pepsico, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Less than $1001."
         },
         {
-          "#": "1",
-          "Transaction Date": "01/31/2017",
-          "Owner": "Self",
-          "Ticker": "PEP",
-          "Asset Name": "Pepsico, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "01/31/2017",
+          "owner": "Self",
+          "ticker": "PEP",
+          "asset-name": "Pepsico, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

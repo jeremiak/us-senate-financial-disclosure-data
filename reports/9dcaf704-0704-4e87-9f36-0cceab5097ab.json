@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/08/2016",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 01/08/2016 @ 4:16 PM",
+  "filed-date": "01/08/2016",
+  "filed-time": "4:16 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "12/17/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "aapl",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "12/17/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "aapl",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "2",
-          "Transaction Date": "12/10/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "nflx",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "12/10/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "nflx",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/08/2015",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "nflx",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "12/08/2015",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "nflx",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         }
       ]
     }

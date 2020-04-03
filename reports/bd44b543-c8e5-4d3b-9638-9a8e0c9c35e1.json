@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction amendment",
   "title": "Periodic Transaction Report for 02/09/2017 (Amendment 1)",
   "filer": "The Honorable Patrick J Toomey (Toomey, Pat)",
-  "filedDate": "Filed 08/13/2018 @ 8:10 AM",
+  "filed-date": "08/13/2018",
+  "filed-time": "8:10 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "01/27/2017",
-          "Owner": "Joint",
-          "Ticker": "VZ",
-          "Asset Name": "Verizon Communications Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "01/27/2017",
+          "owner": "Joint",
+          "ticker": "VZ",
+          "asset-name": "Verizon Communications Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "01/25/2017",
-          "Owner": "Joint",
-          "Ticker": "--",
-          "Asset Name": "FPL Group Capital Inc. \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.0% Matures: 03/01/2019",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of FPL Group stock."
+          "transaction-date": "01/25/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "FPL Group Capital Inc. \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 6.0% Matures: 03/01/2019",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of FPL Group stock."
         },
         {
-          "#": "2",
-          "Transaction Date": "01/25/2017",
-          "Owner": "Joint",
-          "Ticker": "T",
-          "Asset Name": "AT&T Inc.\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.8% Matures: 02/15/2019",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of AT&T stock."
+          "transaction-date": "01/25/2017",
+          "owner": "Joint",
+          "ticker": "T",
+          "asset-name": "AT&T Inc.\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.8% Matures: 02/15/2019",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of AT&T stock."
         },
         {
-          "#": "1",
-          "Transaction Date": "01/25/2017",
-          "Owner": "Joint",
-          "Ticker": "BAC",
-          "Asset Name": "Bank of America Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.5% Matures: 03/15/2018",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Originally, this transaction was inadvertently listed as a purchase of Bank of America stock."
+          "transaction-date": "01/25/2017",
+          "owner": "Joint",
+          "ticker": "BAC",
+          "asset-name": "Bank of America Corporation\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.5% Matures: 03/15/2018",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "Originally, this transaction was inadvertently listed as a purchase of Bank of America stock."
         }
       ]
     }

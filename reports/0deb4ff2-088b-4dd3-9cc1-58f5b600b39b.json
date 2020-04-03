@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/12/2014",
   "filer": "The Honorable Pat Roberts (Roberts, Pat)",
-  "filedDate": "Filed 08/12/2014 @ 11:24 AM",
+  "filed-date": "08/12/2014",
+  "filed-time": "11:24 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "07/30/2014",
-          "Owner": "Spouse",
-          "Ticker": "BIDU",
-          "Asset Name": "Baidu, Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "R"
+          "transaction-date": "07/30/2014",
+          "owner": "Spouse",
+          "ticker": "BIDU",
+          "asset-name": "Baidu, Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "R"
         },
         {
-          "#": "3",
-          "Transaction Date": "08/01/2014",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "08/01/2014",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "2",
-          "Transaction Date": "07/30/2014",
-          "Owner": "Spouse",
-          "Ticker": "AAPL",
-          "Asset Name": "Apple Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "R"
+          "transaction-date": "07/30/2014",
+          "owner": "Spouse",
+          "ticker": "AAPL",
+          "asset-name": "Apple Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "R"
         },
         {
-          "#": "1",
-          "Transaction Date": "07/23/2014",
-          "Owner": "Spouse",
-          "Ticker": "FB",
-          "Asset Name": "Facebook, Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "sep"
+          "transaction-date": "07/23/2014",
+          "owner": "Spouse",
+          "ticker": "FB",
+          "asset-name": "Facebook, Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "sep"
         }
       ]
     }

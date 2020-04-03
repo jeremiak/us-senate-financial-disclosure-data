@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/03/2017",
   "filer": "The Honorable John Hoeven (Hoeven, John)",
-  "filedDate": "Filed 05/03/2017 @ 11:15 AM",
+  "filed-date": "05/03/2017",
+  "filed-time": "11:15 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "04/24/2017",
-          "Owner": "Self",
-          "Ticker": "IBM",
-          "Asset Name": "International Business Machines Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/24/2017",
+          "owner": "Self",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "04/24/2017",
-          "Owner": "Self",
-          "Ticker": "MDLZ",
-          "Asset Name": "Mondelez International, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/24/2017",
+          "owner": "Self",
+          "ticker": "MDLZ",
+          "asset-name": "Mondelez International, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "04/21/2017",
-          "Owner": "Self",
-          "Ticker": "GIS",
-          "Asset Name": "General Mills, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/21/2017",
+          "owner": "Self",
+          "ticker": "GIS",
+          "asset-name": "General Mills, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/21/2017",
-          "Owner": "Self",
-          "Ticker": "SBUX",
-          "Asset Name": "Starbucks Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/21/2017",
+          "owner": "Self",
+          "ticker": "SBUX",
+          "asset-name": "Starbucks Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/20/2017",
-          "Owner": "Self",
-          "Ticker": "SPG",
-          "Asset Name": "Simon Property Group, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "04/20/2017",
+          "owner": "Self",
+          "ticker": "SPG",
+          "asset-name": "Simon Property Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/20/2017",
-          "Owner": "Self",
-          "Ticker": "KSS",
-          "Asset Name": "Kohl's Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "04/20/2017",
+          "owner": "Self",
+          "ticker": "KSS",
+          "asset-name": "Kohl's Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/24/2017",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 10/24/2017 @ 1:20 PM",
+  "filed-date": "10/24/2017",
+  "filed-time": "1:20 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "10/23/2017",
-          "Owner": "Joint",
-          "Ticker": "XSD",
-          "Asset Name": "SPDR S&P Semiconductor ETF",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/23/2017",
+          "owner": "Joint",
+          "ticker": "XSD",
+          "asset-name": "SPDR S&P Semiconductor ETF",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/23/2017",
-          "Owner": "Joint",
-          "Ticker": "LSCC",
-          "Asset Name": "Lattice Semiconductor Corporation",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/23/2017",
+          "owner": "Joint",
+          "ticker": "LSCC",
+          "asset-name": "Lattice Semiconductor Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/23/2017",
-          "Owner": "Joint",
-          "Ticker": "AGN",
-          "Asset Name": "Allergan plc",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/23/2017",
+          "owner": "Joint",
+          "ticker": "AGN",
+          "asset-name": "Allergan plc",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

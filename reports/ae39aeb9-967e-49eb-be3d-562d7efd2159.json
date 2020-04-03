@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 10/18/2018",
   "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
-  "filedDate": "Filed 10/18/2018 @ 4:14 PM",
+  "filed-date": "10/18/2018",
+  "filed-time": "4:14 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "09/25/2018",
-          "Owner": "Self",
-          "Ticker": "GILD",
-          "Asset Name": "Gilead Sciences, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/25/2018",
+          "owner": "Self",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "09/27/2018",
-          "Owner": "Spouse",
-          "Ticker": "QCOM",
-          "Asset Name": "QUALCOMM Incorporated",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/27/2018",
+          "owner": "Spouse",
+          "ticker": "QCOM",
+          "asset-name": "QUALCOMM Incorporated",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "09/27/2018",
-          "Owner": "Spouse",
-          "Ticker": "WAB",
-          "Asset Name": "Westinghouse Air Brake Technologies Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "09/27/2018",
+          "owner": "Spouse",
+          "ticker": "WAB",
+          "asset-name": "Westinghouse Air Brake Technologies Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

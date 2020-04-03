@@ -1,54 +1,55 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/02/2015",
   "filer": "The Honorable John F Reed (Reed, John F.)",
-  "filedDate": "Filed 03/02/2015 @ 6:20 PM",
+  "filed-date": "03/02/2015",
+  "filed-time": "6:20 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "4",
-          "Transaction Date": "02/20/2015",
-          "Owner": "Joint",
-          "Ticker": "MYL",
-          "Asset Name": "Mylan, Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/20/2015",
+          "owner": "Joint",
+          "ticker": "MYL",
+          "asset-name": "Mylan, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "02/20/2015",
-          "Owner": "Joint",
-          "Ticker": "CELG",
-          "Asset Name": "Celgene Corporation (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Note: This purchase was less than $1,000."
+          "transaction-date": "02/20/2015",
+          "owner": "Joint",
+          "ticker": "CELG",
+          "asset-name": "Celgene Corporation (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Note: This purchase was less than $1,000."
         },
         {
-          "#": "2",
-          "Transaction Date": "02/20/2015",
-          "Owner": "Joint",
-          "Ticker": "AMGN",
-          "Asset Name": "Amgen Inc. (NASDAQ)",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/20/2015",
+          "owner": "Joint",
+          "ticker": "AMGN",
+          "asset-name": "Amgen Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "02/20/2015",
-          "Owner": "Joint",
-          "Ticker": "IYT",
-          "Asset Name": "iShares Transportation Average (NYSEArca)",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "02/20/2015",
+          "owner": "Joint",
+          "ticker": "IYT",
+          "asset-name": "iShares Transportation Average (NYSEArca)",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

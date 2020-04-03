@@ -1,466 +1,461 @@
 {
+  "type": "annual report",
   "title": "Annual Report for Calendar 2018",
   "filer": "The Honorable Timothy M Kaine (Kaine, Tim)",
-  "filedDate": "Filed 05/14/2019 @ 9:49 AM",
+  "filed-date": "05/14/2019",
+  "filed-time": "9:49 AM",
+  "calendar-year": "2018",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Teaching)",
-          "Who Paid": "George Mason University\n\t\t\t\t\t\t\t\tFairfax, VA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Teaching)",
+          "who-paid": "George Mason University\n\t\t\t\t\t\t\t\tFairfax, VA",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Self-Employment Income",
-          "Who Paid": "Self-Employed Consultant\n\t\t\t\t\t\t\t\tRichmond, VA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Self-Employment Income",
+          "who-paid": "Self-Employed Consultant\n\t\t\t\t\t\t\t\tRichmond, VA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "IRA Managed by Morgan Stanley",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA Managed by Morgan Stanley",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "SGENX - First Eagle Global A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SGENX - First Eagle Global A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley Consultant Advisor Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Morgan Stanley Consultant Advisor Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "OAKBX-Oakmark Equity & Income I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "OAKBX-Oakmark Equity & Income I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley - MSPBNA Savings(Rochester, NY)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley - MSPBNA Savings(Rochester, NY)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "GE - General Electric Company (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "GE - General Electric Company (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Wells Fargo(Richmond, VA)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Richmond, VA)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IRA managed by Morgan Stanley",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "IRA managed by Morgan Stanley",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "SGIIX - First Eagle Global I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SGIIX - First Eagle Global I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MDISX - Franklin Mutual Global Discovery Z (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MDISX - Franklin Mutual Global Discovery Z (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LSBDX - Loomis Sayles Bond Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "LSBDX - Loomis Sayles Bond Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWINX - Vanguard Wellesley Income Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VWINX - Vanguard Wellesley Income Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VO - Vanguard Mid-Cap Index Fund ETF Shares",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VO - Vanguard Mid-Cap Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VB - Vanguard Small-Cap Index Fund ETF Shares",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VB - Vanguard Small-Cap Index Fund ETF Shares",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Morgan Stanley Bank N.A.(New York, NY)Type: IRA Cash Accounts,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Morgan Stanley Bank N.A.(New York, NY)Type: IRA Cash Accounts",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QQQ - Invesco QQQ TrustFiler comment:  Formerly reported as PowerShares QQQ ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "QQQ - Invesco QQQ TrustFiler comment:  Formerly reported as PowerShares QQQ ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SDY - SPDR S&P Dividend ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "SDY - SPDR S&P Dividend ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VDE - Vanguard Energy ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VDE - Vanguard Energy ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PFBPX - PIMCO Foreign Bond (USD-Hedged) P",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PFBPX - PIMCO Foreign Bond (USD-Hedged) P",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PONPX - PIMCO Income Fund Class I-2",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PONPX - PIMCO Income Fund Class I-2",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Virginia Retirement System",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Virginia Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Virginia Retirement System",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Virginia Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Commonwealth of Virginia 457 Deferred Compensation Plan",
-          "Asset Type": "Deferred CompensationDeferred Compensation - Other",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Commonwealth of Virginia 457 Deferred Compensation Plan",
+          "asset-type": "Deferred CompensationDeferred Compensation - Other",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Target Date 2030 Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Target Date 2030 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Commonwealth of Virginia Cash Match Plan- 401(a)",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Commonwealth of Virginia Cash Match Plan- 401(a)",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Target Date 2030 Portfolio",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Target Date 2030 Portfolio",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Self",
-          "Ticker": "SGIIX",
-          "Asset Name": "First Eagle Global Fund Class I",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Owner": "Self",
-          "Ticker": "VWINX",
-          "Asset Name": "Vanguard Wellesley Income Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/19/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWINX",
+          "asset-name": "Vanguard Wellesley Income Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/19/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Owner": "Self",
-          "Ticker": "MDISX",
-          "Asset Name": "Franklin Mutual Global Discovery Fund Class Z",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/27/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MDISX",
+          "asset-name": "Franklin Mutual Global Discovery Fund Class Z",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/27/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Owner": "Self",
-          "Ticker": "VWINX",
-          "Asset Name": "Vanguard Wellesley Income Fund Investor Shares",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VWINX",
+          "asset-name": "Vanguard Wellesley Income Fund Investor Shares",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Owner": "Self",
-          "Ticker": "SGIIX",
-          "Asset Name": "First Eagle Global Fund Class I",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SGIIX",
+          "asset-name": "First Eagle Global Fund Class I",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "6",
-          "Owner": "Self",
-          "Ticker": "LSBDX",
-          "Asset Name": "Loomis Sayles Bond Fund Institutional Class",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "LSBDX",
+          "asset-name": "Loomis Sayles Bond Fund Institutional Class",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "7",
-          "Owner": "Self",
-          "Ticker": "MDISX",
-          "Asset Name": "Franklin Mutual Global Discovery Fund Class Z",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "MDISX",
+          "asset-name": "Franklin Mutual Global Discovery Fund Class Z",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "8",
-          "Owner": "Self",
-          "Ticker": "PFBPX",
-          "Asset Name": "PIMCO International Bond Fund (U.S. Dollar-Hedged)",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PFBPX",
+          "asset-name": "PIMCO International Bond Fund (U.S. Dollar-Hedged)",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "9",
-          "Owner": "Self",
-          "Ticker": "PONPX",
-          "Asset Name": "PIMCO Income Fund Class I-2",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "PONPX",
+          "asset-name": "PIMCO Income Fund Class I-2",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/18/2018",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         },
         {
-          "#": "10",
-          "Owner": "Self",
-          "Ticker": "SDY",
-          "Asset Name": "SPDR S&P Dividend ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "SDY",
+          "asset-name": "SPDR S&P Dividend ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2018",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "11",
-          "Owner": "Self",
-          "Ticker": "VDE",
-          "Asset Name": "Vanguard Energy Index Fund ETF Shares",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VDE",
+          "asset-name": "Vanguard Energy Index Fund ETF Shares",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "01/18/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "12",
-          "Owner": "Self",
-          "Ticker": "QQQ",
-          "Asset Name": "Invesco QQQ Trust",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/18/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "Formerly reported as Powershares QQQ ETF"
+          "owner": "Self",
+          "ticker": "QQQ",
+          "asset-name": "Invesco QQQ Trust",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/18/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "Formerly reported as Powershares QQQ ETF"
         },
         {
-          "#": "13",
-          "Owner": "Self",
-          "Ticker": "VDE",
-          "Asset Name": "Vanguard Energy Index Fund ETF Shares",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/12/2018",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "owner": "Self",
+          "ticker": "VDE",
+          "asset-name": "Vanguard Energy Index Fund ETF Shares",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/12/2018",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "02/27/2018",
-          "Recipient": "Self",
-          "Gift": "Grand Cross of the Order of Isabella the Catholic(Grand Order).\n(exact value unascertainable)",
-          "Value": "$1,000.00",
-          "From": "Spanish Embassy\n\t\t\t\t\t\t\tWashington, DC"
+          "date": "02/27/2018",
+          "recipient": "Self",
+          "gift": "Grand Cross of the Order of Isabella the Catholic(Grand Order).\n(exact value unascertainable)",
+          "value": "$1,000.00",
+          "from": "Spanish Embassy\n\t\t\t\t\t\t\tWashington, DC"
         }
       ]
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date(s)": "11/08/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t11/11/2018",
-          "Traveler(s)": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
-          "Travel Type": "Outside activity",
-          "Itinerary": "DC to Philadelphia to Spain and return",
-          "Reimbursed For": "Lodging, flights, and meals",
-          "Who Paid": "United States - Spain Council\n\t\t\t\t\t\t\t\tFalls Church, VA",
-          "Comment": "None"
+          "date-s": "11/08/2018\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tto\n\t\t\t\t\t\t\t\t\t11/11/2018",
+          "traveler-s": "Self\n\t\t\t\t\t\t\t\t\t, \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSpouse",
+          "travel-type": "Outside activity",
+          "itinerary": "DC to Philadelphia to Spain and return",
+          "reimbursed-for": "Lodging, flights, and meals",
+          "who-paid": "United States - Spain Council\n\t\t\t\t\t\t\t\tFalls Church, VA",
+          "comment": "None"
         }
       ]
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$50,001 - $100,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-          "Comments": "Mortgage on personal residence"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "4%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$50,001 - $100,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+          "comments": "Mortgage on personal residence"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Nov 2013 to\n\t\t\t\t\t\t\t\tJan 2019",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Honorary Chairman)",
-          "Entity": "United States Spain Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFalls Church, VA",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": "None"
+          "position-dates": "Nov 2013 to\n\t\t\t\t\t\t\t\tJan 2019",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Honorary Chairman)",
+          "entity": "United States Spain Council\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFalls Church, VA",
+          "entity-type": "Nonprofit Organization",
+          "comments": "None"
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 2019 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
-          "Entity": "National Endowment for Democracy\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
-          "Entity Type": "Nonprofit Organization",
-          "Comments": "None"
+          "position-dates": "Jan 2019 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "National Endowment for Democracy\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tWashington, DC",
+          "entity-type": "Nonprofit Organization",
+          "comments": "None"
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2010",
-          "Parties Involved": "Virginia Retirement System\n\t\t\t\t\t\t\t\tRichmond, VA",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Defined benefit retirement plan"
+          "date": "Jan 2010",
+          "parties-involved": "Virginia Retirement System\n\t\t\t\t\t\t\t\tRichmond, VA",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Defined benefit retirement plan"
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

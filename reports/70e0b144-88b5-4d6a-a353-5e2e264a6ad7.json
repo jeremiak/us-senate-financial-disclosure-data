@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/10/2018",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 05/10/2018 @ 12:43 PM",
+  "filed-date": "05/10/2018",
+  "filed-time": "12:43 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "04/26/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "WP CAREY INC B/E 04.250% 100126 DTD091216\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.250% Matures: 10/01/2026",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/26/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "WP CAREY INC B/E 04.250% 100126 DTD091216\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.250% Matures: 10/01/2026",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "04/26/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "GENL MILLS INC NTS B/E 04.000% 041725 DTD041718\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.000% Matures: 04/17/2025",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/26/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GENL MILLS INC NTS B/E 04.000% 041725 DTD041718\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.000% Matures: 04/17/2025",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/26/2018",
-          "Owner": "Self",
-          "Ticker": "CVS",
-          "Asset Name": "CVS Health Corporation",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/26/2018",
+          "owner": "Self",
+          "ticker": "CVS",
+          "asset-name": "CVS Health Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/30/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "MILLTOWN NJ GO BDS 2018 A B C\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/01/2028",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "04/30/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MILLTOWN NJ GO BDS 2018 A B C\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 05/01/2028",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/30/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "MEMPHIS TENN GEN IMPT BDS 2018 \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 06/01/2037",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/30/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MEMPHIS TENN GEN IMPT BDS 2018 \n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 06/01/2037",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,65 +1,65 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/15/2014",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 04/15/2014 @ 11:10 AM",
+  "filed-date": "04/15/2014",
+  "filed-time": "11:10 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "5",
-          "Transaction Date": "04/08/2014",
-          "Owner": "Spouse",
-          "Ticker": "CAT",
-          "Asset Name": "Caterpillar Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/08/2014",
+          "owner": "Spouse",
+          "ticker": "CAT",
+          "asset-name": "Caterpillar Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "04/09/2014",
-          "Owner": "Spouse",
-          "Ticker": "AMZN",
-          "Asset Name": "Amazon.com Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/09/2014",
+          "owner": "Spouse",
+          "ticker": "AMZN",
+          "asset-name": "Amazon.com Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "04/09/2014",
-          "Owner": "Spouse",
-          "Ticker": "FB",
-          "Asset Name": "Facebook, Inc. (NASDAQ)",
-          "Asset Type": "",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/09/2014",
+          "owner": "Spouse",
+          "ticker": "FB",
+          "asset-name": "Facebook, Inc. (NASDAQ)",
+          "asset-type": "",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "04/07/2014",
-          "Owner": "Spouse",
-          "Ticker": "M",
-          "Asset Name": "Macy's, Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/07/2014",
+          "owner": "Spouse",
+          "ticker": "M",
+          "asset-name": "Macy's, Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "04/07/2014",
-          "Owner": "Spouse",
-          "Ticker": "HON",
-          "Asset Name": "Honeywell International Inc. (NYSE)",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "04/07/2014",
+          "owner": "Spouse",
+          "ticker": "HON",
+          "asset-name": "Honeywell International Inc. (NYSE)",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

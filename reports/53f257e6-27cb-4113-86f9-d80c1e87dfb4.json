@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/03/2014",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 11/03/2014 @ 3:20 PM",
+  "filed-date": "11/03/2014",
+  "filed-time": "3:20 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "10/31/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "JPM Contingent Autocall Baker Hughes 9.75% due 10/31/2016",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/31/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "JPM Contingent Autocall Baker Hughes 9.75% due 10/31/2016",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "10/30/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MS Contingent Autocall Lowes Companies 8.15% due 10/31/2016",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/30/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MS Contingent Autocall Lowes Companies 8.15% due 10/31/2016",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "10/30/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Block Financial 5.125% due 10/30/2014",
-          "Asset Type": "",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/30/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Block Financial 5.125% due 10/30/2014",
+          "asset-type": "",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "10/29/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Icahn Enterprises 4.875% due 3/15/19",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "10/29/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Icahn Enterprises 4.875% due 3/15/19",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "10/14/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Powershares NASDAQ Internet",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/14/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Powershares NASDAQ Internet",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "10/14/2014",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Nike Inc B",
-          "Asset Type": "",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "10/14/2014",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Nike Inc B",
+          "asset-type": "",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

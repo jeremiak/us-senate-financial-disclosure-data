@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 08/09/2016",
   "filer": "The Honorable James M Inhofe (Inhofe, James M.)",
-  "filedDate": "Filed 08/09/2016 @ 11:33 AM",
+  "filed-date": "08/09/2016",
+  "filed-time": "11:33 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "07/12/2016",
-          "Owner": "Self",
-          "Ticker": "BBU",
-          "Asset Name": "Brookfield Business Partners L.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "07/12/2016",
+          "owner": "Self",
+          "ticker": "BBU",
+          "asset-name": "Brookfield Business Partners L.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

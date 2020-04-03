@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/12/2018",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 06/12/2018 @ 11:48 AM",
+  "filed-date": "06/12/2018",
+  "filed-time": "11:48 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "05/08/2018",
-          "Owner": "Spouse",
-          "Ticker": "JPM",
-          "Asset Name": "JPMorgan Chase & Co.",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "(IRA)"
+          "transaction-date": "05/08/2018",
+          "owner": "Spouse",
+          "ticker": "JPM",
+          "asset-name": "JPMorgan Chase & Co.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "(IRA)"
         },
         {
-          "#": "2",
-          "Transaction Date": "05/08/2018",
-          "Owner": "Spouse",
-          "Ticker": "USB",
-          "Asset Name": "U.S. Bancorp",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "(IRA)"
+          "transaction-date": "05/08/2018",
+          "owner": "Spouse",
+          "ticker": "USB",
+          "asset-name": "U.S. Bancorp",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "(IRA)"
         },
         {
-          "#": "1",
-          "Transaction Date": "05/04/2018",
-          "Owner": "Spouse",
-          "Ticker": "HOLX",
-          "Asset Name": "Hologic, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "05/04/2018",
+          "owner": "Spouse",
+          "ticker": "HOLX",
+          "asset-name": "Hologic, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

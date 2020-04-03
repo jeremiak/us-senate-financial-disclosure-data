@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 01/05/2018",
   "filer": "The Honorable Thomas R Carper (Carper, Thomas R.)",
-  "filedDate": "Filed 01/05/2018 @ 4:19 PM",
+  "filed-date": "01/05/2018",
+  "filed-time": "4:19 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "12/29/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Seagate Technology",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Purchase occurred when JPM Contingent Autocall on STX matured."
+          "transaction-date": "12/29/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Seagate Technology",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "Purchase occurred when JPM Contingent Autocall on STX matured."
         },
         {
-          "#": "2",
-          "Transaction Date": "12/12/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Iron Mountain",
-          "Asset Type": "Stock",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "12/12/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Iron Mountain",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "12/06/2017",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Owens & Minor\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.875% Matures: 09/15/2021",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "12/06/2017",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Owens & Minor\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.875% Matures: 09/15/2021",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

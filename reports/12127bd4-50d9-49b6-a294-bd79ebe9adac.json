@@ -1,76 +1,75 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 07/03/2018",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 07/03/2018 @ 3:39 PM",
+  "filed-date": "07/03/2018",
+  "filed-time": "3:39 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "6",
-          "Transaction Date": "06/05/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "NORDSTROM INC B/E 04.000% 031527 DTD030917\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.000% Matures: 03/15/27",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/05/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "NORDSTROM INC B/E 04.000% 031527 DTD030917\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.000% Matures: 03/15/27",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "5",
-          "Transaction Date": "05/23/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "GENERAL ELEC CAP CORP 04.050% 021527 DTD022412\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.050% Matures: 02/15/27",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/23/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "GENERAL ELEC CAP CORP 04.050% 021527 DTD022412\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 04.050% Matures: 02/15/27",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "4",
-          "Transaction Date": "05/21/2018",
-          "Owner": "Self",
-          "Ticker": "SHW",
-          "Asset Name": "The Sherwin-Williams Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/21/2018",
+          "owner": "Self",
+          "ticker": "SHW",
+          "asset-name": "The Sherwin-Williams Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "3",
-          "Transaction Date": "05/23/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "MASON MICH PUB SCHS DIST SCH BLDG AND SITE BDS 2018-1 MICHIGAN SCHOOL BOND LOAN FUND (Q-SBLF) DUE 05/01/2038\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375% Matures: 05/01/2038",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/23/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "MASON MICH PUB SCHS DIST SCH BLDG AND SITE BDS 2018-1 MICHIGAN SCHOOL BOND LOAN FUND (Q-SBLF) DUE 05/01/2038\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.375% Matures: 05/01/2038",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "06/27/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "AMARILLO TEX GO BDS2018\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 02/15/2039",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/27/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "AMARILLO TEX GO BDS2018\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.50% Matures: 02/15/2039",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "06/05/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "HUMANA INC NTS B/E 03.950% 031527 DTD031617\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.950% Matures: 03/15/2027",
-          "Asset Type": "Corporate Bond",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "06/05/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "HUMANA INC NTS B/E 03.950% 031527 DTD031617\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 03.950% Matures: 03/15/2027",
+          "asset-type": "Corporate Bond",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }

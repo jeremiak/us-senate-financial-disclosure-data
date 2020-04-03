@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/11/2016",
   "filer": "The Honorable Maria Cantwell (Cantwell, Maria)",
-  "filedDate": "Filed 05/11/2016 @ 3:30 PM",
+  "filed-date": "05/11/2016",
+  "filed-time": "3:30 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "04/28/2016",
-          "Owner": "Self",
-          "Ticker": "RNWK",
-          "Asset Name": "RealNetworks Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Partial)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Sale of two blocks"
+          "transaction-date": "04/28/2016",
+          "owner": "Self",
+          "ticker": "RNWK",
+          "asset-name": "RealNetworks Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "Sale of two blocks"
         }
       ]
     }

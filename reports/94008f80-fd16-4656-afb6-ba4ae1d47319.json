@@ -1,43 +1,45 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/17/2019",
   "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
-  "filedDate": "Filed 04/17/2019 @ 3:35 PM",
+  "filed-date": "04/17/2019",
+  "filed-time": "3:35 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "3",
-          "Transaction Date": "03/15/2019",
-          "Owner": "Spouse",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/15/2019",
+          "owner": "Spouse",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "2",
-          "Transaction Date": "03/22/2019",
-          "Owner": "Spouse",
-          "Ticker": "BIIB",
-          "Asset Name": "Biogen Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "03/22/2019",
+          "owner": "Spouse",
+          "ticker": "BIIB",
+          "asset-name": "Biogen Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         },
         {
-          "#": "1",
-          "Transaction Date": "03/15/2019",
-          "Owner": "Joint",
-          "Ticker": "BA",
-          "Asset Name": "The Boeing Company",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "03/15/2019",
+          "owner": "Joint",
+          "ticker": "BA",
+          "asset-name": "The Boeing Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

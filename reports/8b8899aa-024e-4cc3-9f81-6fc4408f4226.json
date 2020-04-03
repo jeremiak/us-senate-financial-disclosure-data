@@ -1,1857 +1,1852 @@
 {
+  "type": "periodic transaction",
   "title": "Candidate Report (Amendment 2)",
   "filer": "The Honorable John N Kennedy",
-  "filedDate": "State of Candidacy: LA | Candidacy Commenced:",
+  "filed-date": null,
+  "filed-time": null,
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "04/27/2015",
-          "Activity": "Speech",
-          "Amount": "$5,000.00",
-          "Who Paid?": "Noel Foundation (Noel Memorial Library) donated money in my honor to the Family Promise of St. Tammany for this speech\n\t\t\t\t\t\t\t\tShreveport, Louisiana",
-          "Who received payment?": "Self"
+          "date": "04/27/2015",
+          "activity": "Speech",
+          "amount": "$5,000.00",
+          "who-paid": "Noel Foundation (Noel Memorial Library) donated money in my honor to the Family Promise of St. Tammany for this speech\n\t\t\t\t\t\t\t\tShreveport, Louisiana",
+          "who-received-payment": "Self"
         }
       ]
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "State of Louisiana\n\t\t\t\t\t\t\t\tBaton Rouge, LA",
-          "Amount Paid": "$115,260.20"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "State of Louisiana\n\t\t\t\t\t\t\t\tBaton Rouge, LA",
+          "amount-paid": "$115,260.20"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "LSU Law School\n\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
-          "Amount Paid": "$3,501.96"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "LSU Law School\n\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
+          "amount-paid": "$3,501.96"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Self",
-          "Type": "Board Compensation",
-          "Who Paid": "Louisiana Workers' Compensation Corporation\n\t\t\t\t\t\t\t\tBaton Rouge, LA",
-          "Amount Paid": "$18,677.12"
+          "who-was-paid": "Self",
+          "type": "Board Compensation",
+          "who-paid": "Louisiana Workers' Compensation Corporation\n\t\t\t\t\t\t\t\tBaton Rouge, LA",
+          "amount-paid": "$18,677.12"
         },
         {
-          "#": "4",
-          "Who Was Paid": "Self",
-          "Type": "Wages",
-          "Who Paid": "John Neely Kennedy, APLC\n\t\t\t\t\t\t\t\tMadisonville, LA",
-          "Amount Paid": "$10,324.00"
+          "who-was-paid": "Self",
+          "type": "Wages",
+          "who-paid": "John Neely Kennedy, APLC\n\t\t\t\t\t\t\t\tMadisonville, LA",
+          "amount-paid": "$10,324.00"
         },
         {
-          "#": "5",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "22nd Judicial District Court\n\t\t\t\t\t\t\t\tCovington, LA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "22nd Judicial District Court\n\t\t\t\t\t\t\t\tCovington, LA",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "First Louisiana Investment Properties LLC - 1/3 interestCompany: First Louisiana Investment Properties LLC (Madisonville, Louisiana) Description: Investment Company",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "JKD-iShares Morningstar Large-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "DODGX - Dodge & Cox Stock",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "MRK - Merck & Co. Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "CAMAX - Cambiar Unconstrained Equity Investor",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "WWNPX - Kinetics Paradigm Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "RNCOX - RiverNorth Core Opportunity R",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Chase Bank(Baton Rouge, Louisiana)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "5037 Main St.Description: 5037 Main Street (Zachary, Louisiana) Filer comment:  Commercial office space; this represents gross rent (John Kennedy share)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "5005 Main StDescription: 5005 Main Street (Zachary, Louisiana) Filer comment:  Commercial office space; this is gross rent (John Kennedy share)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "4454 39th St.Description: 4454 39th Street (Zachary, Louisiana) Filer comment:  Rental home; this is gross rent (John Kennedy share)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
-        },
-        {
-          "Asset": "4312 Marshall StreetDescription: 4312 Marshall Street (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Capital One Bank(Baton Rouge, Louisiana)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "First Louisiana Investment Properties LLC - 1/3 interestCompany: First Louisiana Investment Properties LLC (Madisonville, Louisiana) Description: Investment Company",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "JKD-iShares Morningstar Large-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "DODGX - Dodge & Cox Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "MRK - Merck & Co. Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "CAMAX - Cambiar Unconstrained Equity Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "WWNPX - Kinetics Paradigm Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "RNCOX - RiverNorth Core Opportunity R",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Chase Bank(Baton Rouge, Louisiana)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "5037 Main St.Description: 5037 Main Street (Zachary, Louisiana) Filer comment:  Commercial office space; this represents gross rent (John Kennedy share)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "5005 Main StDescription: 5005 Main Street (Zachary, Louisiana) Filer comment:  Commercial office space; this is gross rent (John Kennedy share)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "4454 39th St.Description: 4454 39th Street (Zachary, Louisiana) Filer comment:  Rental home; this is gross rent (John Kennedy share)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
+        },
+        {
+          "asset": "4312 Marshall StreetDescription: 4312 Marshall Street (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Capital One Bank(Baton Rouge, Louisiana)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Capital One Bank(Baton Rouge, Louisiana)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Capital One Bank(Baton Rouge, Louisiana)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Mineral royalty interest, Livingston Parish, LADescription: Mineral royalty interest (Livingston Parish, Louisiana)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "Mineral royalty interest, Livingston Parish, LADescription: Mineral royalty interest (Livingston Parish, Louisiana)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "APK Minerals LLC - 1/3 interestCompany: APK Minerals LLC (Olympia, Washington) Description: LLC",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Joint",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "APK Minerals LLC - 1/3 interestCompany: APK Minerals LLC (Olympia, Washington) Description: LLC",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Joint",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Minerals, Wilkinson & Amite County, MSDescription: Minerals (Wilkinson, Amite County, Mississippi)",
-          "Asset Type": "Real EstateMineral Rights",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Minerals, Wilkinson & Amite County, MSDescription: Minerals (Wilkinson, Amite County, Mississippi)",
+          "asset-type": "Real EstateMineral Rights",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RiverNorth Institutional Partners, LPCompany: RiverNorth Institutional Partners, LP (Chicago, IL) Description: Limited Partnership Filer comment:  This is a hedge fund that meets the definition",
-          "Asset Type": "Business EntityLimited Partnership (LP)",
-          "Owner": "Self",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Dividends, Interest, Capital Gains,",
-          "Income": "$15,001 - $50,000"
+          "asset": "RiverNorth Institutional Partners, LPCompany: RiverNorth Institutional Partners, LP (Chicago, IL) Description: Limited Partnership Filer comment:  This is a hedge fund that meets the definition",
+          "asset-type": "Business EntityLimited Partnership (LP)",
+          "owner": "Self",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Dividends, Interest, Capital Gains",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Louisiana Public Employees Deferred Compensation Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Louisiana Public Employees Deferred Compensation Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "PRGFX - T. Rowe Price Growth Stock",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "PRGFX - T. Rowe Price Growth Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "APHMX - Artisan Mid Cap Institutional",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "APHMX - Artisan Mid Cap Institutional",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SCHM - Schwab US Mid-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "SCHM - Schwab US Mid-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "SCHF - Schwab International Equity ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "SCHF - Schwab International Equity ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QQQ - PowerShares QQQ ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "QQQ - PowerShares QQQ ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "WAEMX - Wasatch Emerging Markets Small Cap Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$15,001 - $50,000"
+          "asset": "WAEMX - Wasatch Emerging Markets Small Cap Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Charles Schwab Keogh Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Keogh Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "SCHF-Schwab Strategic Trust - Schwab International Equity ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SCHF-Schwab Strategic Trust - Schwab International Equity ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PDP - PowerShares DWA Momentum ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "PDP - PowerShares DWA Momentum ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab Keogh Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Keogh Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "PDP - PowerShares DWA Momentum ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "PDP - PowerShares DWA Momentum ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WAEMX - Wasatch Emerging Markets Small Cap Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "WAEMX - Wasatch Emerging Markets Small Cap Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Charles Schwab Brokerage Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IVV - iShares Trust - iShares S&P 500 ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "IVV - iShares Trust - iShares S&P 500 ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IP - International Paper Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "IP - International Paper Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RPG-Rydex ETF Trust - Guggenheim S&P 500 Pure Growth ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "RPG-Rydex ETF Trust - Guggenheim S&P 500 Pure Growth ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "RYH-Rydex ETF Trust - Guggenheim S&P 500 Equal Weight Health Care ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "RYH-Rydex ETF Trust - Guggenheim S&P 500 Equal Weight Health Care ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DODFX - Dodge & Cox International Stock",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "DODFX - Dodge & Cox International Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "JAGLX-Janus Global Life Sciences Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "JAGLX-Janus Global Life Sciences Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "XOM - Exxon Mobil Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "XOM - Exxon Mobil Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AA - Alcoa Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AA - Alcoa Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab Brokerage Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Child",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Child",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "MSFT - Microsoft Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "MSFT - Microsoft Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "INTC - Intel Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "INTC - Intel Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CSCO - Cisco Systems, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CSCO - Cisco Systems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DODGX - Dodge & Cox Stock",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Child",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "DODGX - Dodge & Cox Stock",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Child",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Charles Schwab Brokerage Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "PR4 - Prudential Financial",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "PR4 - Prudential Financial",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PDP - Powershares DWA Momentum ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "PDP - Powershares DWA Momentum ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JNPR - Juniper Networks, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "JNPR - Juniper Networks, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JPM - JPMorgan Chase & Co.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "JPM - JPMorgan Chase & Co.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "GNC - GNC Holdings Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "GNC - GNC Holdings Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "CVG - Convergys Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "CVG - Convergys Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DODGX-Dodge & Cox Stock Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "DODGX-Dodge & Cox Stock Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "HDSMX-Hodges Small-Mid Cap Retail Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "HDSMX-Hodges Small-Mid Cap Retail Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SWXXX - Schwab Muni Money Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "SWXXX - Schwab Muni Money Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab Brokerage Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "WAEMX-Wasatch Emerging Markets Small Cap Inv Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "WAEMX-Wasatch Emerging Markets Small Cap Inv Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "CAMAX - Cambiar Unconstrained Equity Investor",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "CAMAX - Cambiar Unconstrained Equity Investor",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "SGSCX-Deutsche Global Small Cap Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "SGSCX-Deutsche Global Small Cap Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "SWXXX - Schwab Muni Money Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SWXXX - Schwab Muni Money Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Charles Schwab Brokerage Account",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Charles Schwab Brokerage Account",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "DXJ-WisdomTree Trust - WisdomTree Japan Hedged Equity Fund",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "DXJ-WisdomTree Trust - WisdomTree Japan Hedged Equity Fund",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TTFS - AdvisorShares Trim Tabs Float Shrink ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "TTFS - AdvisorShares Trim Tabs Float Shrink ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "QQQ - PowerShares QQQ Trust, Series 1",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "QQQ - PowerShares QQQ Trust, Series 1",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PDP - PowerShares DWA Momentum ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "PDP - PowerShares DWA Momentum ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "JKD - iShares Trust - iShares Morningstar Large-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "IJH - iShares Trust - iShares S&P Mid-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "IJH - iShares Trust - iShares S&P Mid-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SCHM - Schwab Strategic Trust - Schwab U.S. Mid-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$2,501 - $5,000"
+          "asset": "SCHM - Schwab Strategic Trust - Schwab U.S. Mid-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "DBJP-DBX ETF Trust - Deutsche X-trackers MSCI Japan Hedged Equity ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "DBJP-DBX ETF Trust - Deutsche X-trackers MSCI Japan Hedged Equity ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "HUSIX - Huber Capital Small Cap Value Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "HUSIX - Huber Capital Small Cap Value Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "WWNPX-Kinetics Paradigm Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$100,001 - $1,000,000"
+          "asset": "WWNPX-Kinetics Paradigm Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$100,001 - $1,000,000"
         },
         {
-          "Asset": "SWXXX - Schwab Muni Money Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SWXXX - Schwab Muni Money Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TESIX-Franklin Mutual Shares A Fund",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "TESIX-Franklin Mutual Shares A Fund",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SCHF - Schwab International Equity ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "SCHF - Schwab International Equity ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Greenwave Property LLC - 1/3 interestCompany: Greenwave Property LLC (Madisonville, Louisiana) Description: LLC Filer comment:  Real estate holding company; this represents gross income (wife's share)",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Greenwave Property LLC - 1/3 interestCompany: Greenwave Property LLC (Madisonville, Louisiana) Description: LLC Filer comment:  Real estate holding company; this represents gross income (wife's share)",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "89 Fort Panic Road, Santa Rosa Beach, Florida 32459Description: 89 Fort Panic Road (Santa Rosa Beach, Florida) Filer comment:  Rental house; this represents gross rent (wife's share)",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Spouse",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$5,001 - $15,000"
+          "asset": "89 Fort Panic Road, Santa Rosa Beach, Florida 32459Description: 89 Fort Panic Road (Santa Rosa Beach, Florida) Filer comment:  Rental house; this represents gross rent (wife's share)",
+          "asset-type": "Real EstateResidential",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "Chase Bank(Baton Rouge, Louisiana)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Chase Bank(Baton Rouge, Louisiana)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Tchoupitoulas Property LLC - 1/2 interestCompany: Tchoupitoulas Property LLC (Metairie, LA) Description: LLC Filer comment:  Real estate holding company; this represents gross income (wife's share)",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Tchoupitoulas Property LLC - 1/2 interestCompany: Tchoupitoulas Property LLC (Metairie, LA) Description: LLC Filer comment:  Real estate holding company; this represents gross income (wife's share)",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "3983 Tchoupitoulas St.Description: 3983 Tchoupitoulas St. (New Orleans, Louisiana) Filer comment:  Commercial office/business space; gross rent (wife's share)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$1,001 - $2,500"
+          "asset": "3983 Tchoupitoulas St.Description: 3983 Tchoupitoulas St. (New Orleans, Louisiana) Filer comment:  Commercial office/business space; gross rent (wife's share)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Capital One(Baton Rouge, Louisiana)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Capital One(Baton Rouge, Louisiana)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "OXY - Occidental Petroleum Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "OXY - Occidental Petroleum Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "A.P. Kennedy Family Securities LLC - 1/3 interestCompany: A.P. Kennedy Family Securities LLC (Madisonville, LA) Description: LLC Filer comment:  Investment company/LLC",
-          "Asset Type": "Business EntityLimited Liability Company (LLC)",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "A.P. Kennedy Family Securities LLC - 1/3 interestCompany: A.P. Kennedy Family Securities LLC (Madisonville, LA) Description: LLC Filer comment:  Investment company/LLC",
+          "asset-type": "Business EntityLimited Liability Company (LLC)",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "3150 Church Street, Zachary, LA 70791Description: 3150 Church Street (Zachary, Louisiana) Filer comment:  Rental home; this represents gross income (wife's share)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$5,001 - $15,000"
+          "asset": "3150 Church Street, Zachary, LA 70791Description: 3150 Church Street (Zachary, Louisiana) Filer comment:  Rental home; this represents gross income (wife's share)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "Wells Fargo Bank(Baton Route, Louisiana)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo Bank(Baton Route, Louisiana)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Central Square Capital LPDescription: LP (Naperville, Illinois) Filer comment:  Hedge fund. The amount is correct.",
-          "Asset Type": "Investment FundHedge Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "None (or less than $201)"
+          "asset": "Central Square Capital LPDescription: LP (Naperville, Illinois) Filer comment:  Hedge fund. The amount is correct.",
+          "asset-type": "Investment FundHedge Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends, Capital Gains",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "DHI - DR Horton Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "DHI - DR Horton Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IJH - iShares Trust - iShares S&P Mid-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "IJH - iShares Trust - iShares S&P Mid-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IVV - iShares Trust - iShares S&P 500 ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "IVV - iShares Trust - iShares S&P 500 ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "QQQ - PowerShares QQQ Trust, Series 1",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "QQQ - PowerShares QQQ Trust, Series 1",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "RYH-Rydex ETF Trust - Guggenheim S&P 500 Equal Weight Health Care ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "RYH-Rydex ETF Trust - Guggenheim S&P 500 Equal Weight Health Care ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SPLV - PowerShares S&P Low Volatility Portfolio",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "SPLV - PowerShares S&P Low Volatility Portfolio",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VDE - Vanguard World Fund - Vanguard Energy ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "VDE - Vanguard World Fund - Vanguard Energy ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Schwab BankFiler comment:  This is a bank; money is a deposit with the bank.",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "Schwab BankFiler comment:  This is a bank; money is a deposit with the bank.",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Cantex Pharmaceuticals Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Cantex Pharmaceuticals Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Scottrade",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Scottrade",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "IJH - iShares Trust - iShares S&P Mid-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "IJH - iShares Trust - iShares S&P Mid-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IJR - iShares Trust - iShares S&P Small-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "IJR - iShares Trust - iShares S&P Small-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "QQQ - PowerShares QQQ Trust, Series 1",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "QQQ - PowerShares QQQ Trust, Series 1",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VEA-Vanguard Tax-Managed Funds - Vanguard FTSE Developed Markets ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VEA-Vanguard Tax-Managed Funds - Vanguard FTSE Developed Markets ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VWO - Vanguard FTSE Emerging Markets Index Funds ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "VWO - Vanguard FTSE Emerging Markets Index Funds ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "SCHM - Schwab Strategic Trust - Schwab U.S. Mid-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SCHM - Schwab Strategic Trust - Schwab U.S. Mid-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SCHA - Schwab Strategic Trust - Schwab U.S. Small-Cap ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "SCHA - Schwab Strategic Trust - Schwab U.S. Small-Cap ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SCHE-Schwab Strategic Trust - Schwab Emerging Markets ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "SCHE-Schwab Strategic Trust - Schwab Emerging Markets ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SCHF-Schwab Strategic Trust - Schwab International Equity ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$1,001 - $2,500"
+          "asset": "SCHF-Schwab Strategic Trust - Schwab International Equity ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "KING - King Digital Entertainment",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Dividends,",
-          "Income": "$201 - $1,000"
+          "asset": "KING - King Digital Entertainment",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Dividends",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AEL - American Equity Investment Life Holding Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "AEL - American Equity Investment Life Holding Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AAPL - Apple Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "AAPL - Apple Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AAWW - Atlas Air Worldwide Holdings, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "AAWW - Atlas Air Worldwide Holdings, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "BANC - Banc of California, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "BANC - Banc of California, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "BSFT - BroadSoft, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "BSFT - BroadSoft, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "CSIQ - Canadian Solar Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "CSIQ - Canadian Solar Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "CENT - Central Garden & Pet Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "CENT - Central Garden & Pet Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "CBI - Chicago Bridge & Iron Company N.V.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "CBI - Chicago Bridge & Iron Company N.V.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "CRUS - Cirrus Logic Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "CRUS - Cirrus Logic Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "COT - Cott Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "COT - Cott Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "DDC - Dominion Diamond Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "DDC - Dominion Diamond Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "HILL - Dot Hill Systems Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "HILL - Dot Hill Systems Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "EIX - Edison International",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "EIX - Edison International",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "EPAM - EPAM Systems, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "EPAM - EPAM Systems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "GIII - G-III Apparel Group, Ltd.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "GIII - G-III Apparel Group, Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "BRSS - Global Brass and Copper Holdings, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "BRSS - Global Brass and Copper Holdings, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GT - The Goodyear Tire & Rubber Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "GT - The Goodyear Tire & Rubber Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "GBX - The Greenbrier Companies, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "GBX - The Greenbrier Companies, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "JASO - JA Solar Holdings Co., Ltd.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "JASO - JA Solar Holdings Co., Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "JBL - Jabil Circuit Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "JBL - Jabil Circuit Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "JLL - Jones Lang LaSalle Incorporated",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "JLL - Jones Lang LaSalle Incorporated",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "KGC - Kinross Gold Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "KGC - Kinross Gold Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "MKSI - MKS Instruments, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "MKSI - MKS Instruments, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "MDVN - Medivation, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "MDVN - Medivation, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "MRGE - Merge Healthcare Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MRGE - Merge Healthcare Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MMSI - Merit Medical Systems, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MMSI - Merit Medical Systems, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "MEI - Methode Electronics, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "MEI - Methode Electronics, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "MOH - Molina Healthcare, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "MOH - Molina Healthcare, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "MFLX - Multi-Fineline Electronix, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "MFLX - Multi-Fineline Electronix, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "NAVG - The Navigators Group, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "NAVG - The Navigators Group, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "NEO - Neogenomics Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "NEO - Neogenomics Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "OME - Omega Protein Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "OME - Omega Protein Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "OSK - Oshkosh Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "OSK - Oshkosh Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "PBF - PBF Energy Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "PBF - PBF Energy Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "QLGC - QLogic Corp.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "QLGC - QLogic Corp.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "RGA - Reinsurance Group of America Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "RGA - Reinsurance Group of America Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "RAD - Rite Aid Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "RAD - Rite Aid Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "RUBI - the Rubicon Project, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "RUBI - the Rubicon Project, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "SKYW - SkyWest Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "SKYW - SkyWest Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "SWKS - Skyworks Solutions Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "SWKS - Skyworks Solutions Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "SCMP - Sucampo Pharmaceuticals, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "SCMP - Sucampo Pharmaceuticals, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "SURG - Synergetics USA",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "SURG - Synergetics USA",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "TSO - Tesoro Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "TSO - Tesoro Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "TLYS - Tilly's, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "TLYS - Tilly's, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "VG - Vonage Holdings Corporation",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VG - Vonage Holdings Corporation",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "WCIC - WCI Communities Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "WCIC - WCI Communities Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WNC - Wabash National Corp.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "WNC - Wabash National Corp.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WD - Walker & Dunlop, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "WD - Walker & Dunlop, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "ZAGG - ZAGG Inc",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "ZAGG - ZAGG Inc",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "AMBA - Ambarella, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "AMBA - Ambarella, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "HELE - Helen of Troy Limited",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "HELE - Helen of Troy Limited",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "LXFT - Luxoft Holding, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "LXFT - Luxoft Holding, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "MNK - Mallinckrodt Public Limited Company",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "MNK - Mallinckrodt Public Limited Company",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "MRH - Montpelier Holdings",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "MRH - Montpelier Holdings",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "RNR - RenaissanceRe Holdings Ltd.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "RNR - RenaissanceRe Holdings Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "VR - Validus Holdings, Ltd.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "VR - Validus Holdings, Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "NVMI - Nova Measuring Instruments Ltd.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$201 - $1,000"
+          "asset": "NVMI - Nova Measuring Instruments Ltd.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "AFSI - AmTrust Financial Services, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "AFSI - AmTrust Financial Services, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "PLOW - Douglas Dynamics, Inc.",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "PLOW - Douglas Dynamics, Inc.",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Undiv. 1/3 int., 4140 Hwy. 19, Zachary, LADescription: Undiv. 1/3 int., 4140 Hwy. 19, Zachary, LA (Zachary, LA) Filer comment:  Commercial office/business space; gross rent (John Kennedy share)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$2,501 - $5,000"
+          "asset": "Undiv. 1/3 int., 4140 Hwy. 19, Zachary, LADescription: Undiv. 1/3 int., 4140 Hwy. 19, Zachary, LA (Zachary, LA) Filer comment:  Commercial office/business space; gross rent (John Kennedy share)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "Undiv. 1/3 int., 1520 Main Street, Baker, LADescription: Undiv. 1/3 int., 1520 Main Street, Baker, LA (Baker, LA) Filer comment:  Commercial office/business space; gross rent (John Kennedy share)",
-          "Asset Type": "Real EstateCommercial",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$1,001 - $2,500"
+          "asset": "Undiv. 1/3 int., 1520 Main Street, Baker, LADescription: Undiv. 1/3 int., 1520 Main Street, Baker, LA (Baker, LA) Filer comment:  Commercial office/business space; gross rent (John Kennedy share)",
+          "asset-type": "Real EstateCommercial",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Undiv. 1/2 interest, 26 Del Oaks, Madisonville, LADescription: 26 Del Oaks, Madisonville, LA (Madisonville, LA) Filer comment:  This is the Kennedy personal residence",
-          "Asset Type": "Real EstateResidential",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/2 interest, 26 Del Oaks, Madisonville, LADescription: 26 Del Oaks, Madisonville, LA (Madisonville, LA) Filer comment:  This is the Kennedy personal residence",
+          "asset-type": "Real EstateResidential",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "The Presken CorporationCompany: The Presken Corporation (Madisonville, LA) Description: The Presken Corporation Filer comment:  Investment holding company",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends, Capital Gains,",
-          "Income": "$2,501 - $5,000"
+          "asset": "The Presken CorporationCompany: The Presken Corporation (Madisonville, LA) Description: The Presken Corporation Filer comment:  Investment holding company",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends, Capital Gains",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "North Parish Development CorporationCompany: North Parish Development Corporation (Madisonville, LA) Description: North Parish Development Corporation Filer comment:  Investment holding company/LLC",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Joint",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Dividends, Rent/Royalties, Capital Gains,",
-          "Income": "$5,001 - $15,000"
+          "asset": "North Parish Development CorporationCompany: North Parish Development Corporation (Madisonville, LA) Description: North Parish Development Corporation Filer comment:  Investment holding company/LLC",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Joint",
+          "value": "$100,001 - $250,000",
+          "income-type": "Dividends, Rent/Royalties, Capital Gains",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "The Oxvirvand CorporationCompany: The Oxvirvand Corporation (Madisonville, LA) Description: The Oxvirvand Corporation Filer comment:  Investment holding company; royalties and rent",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Rent/Royalties, Capital Gains,",
-          "Income": "$1,001 - $2,500"
+          "asset": "The Oxvirvand CorporationCompany: The Oxvirvand Corporation (Madisonville, LA) Description: The Oxvirvand Corporation Filer comment:  Investment holding company; royalties and rent",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Rent/Royalties, Capital Gains",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Undiv. 1/3 interest, 102 acres, Church StreetDescription: Undiv. 1/3 interest, 102 acres, Church Street (Zachary, LA) Filer comment:  Rent for cattle-raising",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,000,001 - $5,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "Undiv. 1/3 interest, 102 acres, Church StreetDescription: Undiv. 1/3 interest, 102 acres, Church Street (Zachary, LA) Filer comment:  Rent for cattle-raising",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,000,001 - $5,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Undiv. 1/3 interest, 132 acres, Greensburg, LADescription: Undiv. 1/3 interest, 132 acres, Greensburg, LA (Greensburg, LA) Filer comment:  Rent from a hunting lease",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "Undiv. 1/3 interest, 132 acres, Greensburg, LADescription: Undiv. 1/3 interest, 132 acres, Greensburg, LA (Greensburg, LA) Filer comment:  Rent from a hunting lease",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Undiv. 1/2 interest, 65 acres, Greensburg, LADescription: Undiv. 1/2 interest, 65 acres, Greensburg, LA (Greensburg, LA) Filer comment:  Rent from a hunting lease",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$201 - $1,000"
+          "asset": "Undiv. 1/2 interest, 65 acres, Greensburg, LADescription: Undiv. 1/2 interest, 65 acres, Greensburg, LA (Greensburg, LA) Filer comment:  Rent from a hunting lease",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Rent/Royalties",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "Undiv. 1/3 interest, 60 acres, Pine Grove, LADescription: Undiv. 1/3 interest, 60 acres, Pine Grove, LA (Pine Grove, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 interest, 60 acres, Pine Grove, LADescription: Undiv. 1/3 interest, 60 acres, Pine Grove, LA (Pine Grove, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Rent/Royalties",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., 57 acres, Centreville, MSDescription: Undiv. 1/3 int., 57 acres, Centreville, MS (Centreville, MS)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., 57 acres, Centreville, MSDescription: Undiv. 1/3 int., 57 acres, Centreville, MS (Centreville, MS)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., lot, Centreville, MSDescription: Undiv. 1/3 int., lot, Centreville, MS (Centreville, MS)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., lot, Centreville, MSDescription: Undiv. 1/3 int., lot, Centreville, MS (Centreville, MS)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot A, Zachary Heights, Zachary, LADescription: Undiv. 1/3 int., Lot A, Zachary Heights, Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot A, Zachary Heights, Zachary, LADescription: Undiv. 1/3 int., Lot A, Zachary Heights, Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 133, Zachary Heights, Zachary, LADescription: Undiv. 1/3 int., Lot 133, Zachary Heights, Zachary, LA  (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 133, Zachary Heights, Zachary, LADescription: Undiv. 1/3 int., Lot 133, Zachary Heights, Zachary, LA  (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 3, 38th St. Zachary, LADescription: Undiv. 1/3 int., Lot 3, 38th St. Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 3, 38th St. Zachary, LADescription: Undiv. 1/3 int., Lot 3, 38th St. Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 4, 38th St., Zachary, LADescription: Undiv. 1/3 int., Lot 4, 38th St., Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 4, 38th St., Zachary, LADescription: Undiv. 1/3 int., Lot 4, 38th St., Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 2, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 2, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 2, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 2, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 3, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 3, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 3, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 3, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 4, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 4, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 4, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 4, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 5, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 5, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 5, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 5, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 6, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 6, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 6, Creech sub., Old Weis, Rd., Zachary, LADescription: Undiv. 1/3 int., Lot 6, Creech sub., Old Weis, Rd., Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Undiv. 1/3 int., Lot 42, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 42, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Undiv. 1/3 int., Lot 43, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 43, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Undiv. 1/3 int., Lot 50, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 50, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Undiv. 1/3 int., Lot 115, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 115, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Undiv. 1/3 int., 6 acres, Slaughter, LADescription: Undiv. 1/3 int., 6 acres, Slaughter, LA (Slaughter, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Undiv. 29.3% int., Lots 12 & 13, Main Street, Zachary, LADescription: Undiv. 29.3% int., Main Street, Zachary, LA (Zachary, LA)",
-          "Asset Type": "Real EstateUnimproved Land",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Charles Schwab IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "PDP - PowerShares DWA Momentum ETF",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "John Neely Kennedy, APLCCompany: John Neely Kennedy, APLC (Madisonville, LA) Description: John Neely Kennedy, APLC Filer comment:  A professional law corporation; legal fees",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Other, (Income)",
-          "Income": "Other $10,324.00"
-        },
-        {
-          "Asset": "Allied Builders Supply, Inc.Company: Allied Builders Supply, Inc. (Madisonville, LA) Description: Allied Builders Supply, Inc. Filer comment:  Investment holding company. Has no income.",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Fidelity IRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "HUSIX - Huber Capital Small Cap Value Inv",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Fidelity Government Cash Reserves",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Undiv. 1/3 int., Lot 42, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 42, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Undiv. 1/3 int., Lot 43, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 43, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Undiv. 1/3 int., Lot 50, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 50, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Undiv. 1/3 int., Lot 115, Meadowood Hills Sub., Slaughter, LADescription: Undiv. 1/3 int., Lot 115, Meadowood Hills Sub., Slaughter, LA (Slaughter, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Undiv. 1/3 int., 6 acres, Slaughter, LADescription: Undiv. 1/3 int., 6 acres, Slaughter, LA (Slaughter, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Undiv. 29.3% int., Lots 12 & 13, Main Street, Zachary, LADescription: Undiv. 29.3% int., Main Street, Zachary, LA (Zachary, LA)",
+          "asset-type": "Real EstateUnimproved Land",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "PDP - PowerShares DWA Momentum ETF",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "John Neely Kennedy, APLCCompany: John Neely Kennedy, APLC (Madisonville, LA) Description: John Neely Kennedy, APLC Filer comment:  A professional law corporation; legal fees",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Other, (Income)",
+          "income": "Other $10,324.00"
+        },
+        {
+          "asset": "Allied Builders Supply, Inc.Company: Allied Builders Supply, Inc. (Madisonville, LA) Description: Allied Builders Supply, Inc. Filer comment:  Investment holding company. Has no income.",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity IRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "HUSIX - Huber Capital Small Cap Value Inv",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Fidelity Government Cash Reserves",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "None (or less than $1,001)",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2011",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "",
-          "Rate(Term)": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tSan Francisco, California",
-          "Comments": "-"
+          "incurred": "2011",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "",
+          "rate-term": "3.375%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(15 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tSan Francisco, California",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 2002 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Adjunct Professor)",
-          "Entity": "LSU Law School\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
-          "Entity Type": "Educational Organization",
-          "Comments": ""
+          "position-dates": "Jan 2002 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Adjunct Professor)",
+          "entity": "LSU Law School\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
+          "entity-type": "Educational Organization",
+          "comments": ""
         },
         {
-          "#": "2",
-          "Position Dates": "Jan 2000 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
-          "Entity": "Louisiana Workers' Compensation Corporation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 2000 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Board Member)",
+          "entity": "Louisiana Workers' Compensation Corporation \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "3",
-          "Position Dates": "Jan 1993 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(President)",
-          "Entity": "John Neely Kennedy APLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 1993 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(President)",
+          "entity": "John Neely Kennedy APLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "4",
-          "Position Dates": "Jan 1983 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "First Louisiana Investment Properties, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 1983 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "First Louisiana Investment Properties, LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "5",
-          "Position Dates": "Jan 1984 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(President)",
-          "Entity": "The Oxvirvand Corporation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 1984 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(President)",
+          "entity": "The Oxvirvand Corporation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "6",
-          "Position Dates": "Jan 1985 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(President)",
-          "Entity": "The Presken Corporation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 1985 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(President)",
+          "entity": "The Presken Corporation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "7",
-          "Position Dates": "Jan 1998 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Vice-President)",
-          "Entity": "North Parish Development Corporation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 1998 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Vice-President)",
+          "entity": "North Parish Development Corporation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "8",
-          "Position Dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "APK Minerals LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 2014 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "APK Minerals LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "9",
-          "Position Dates": "Jan 1980 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(President)",
-          "Entity": "Allied Builders Supply Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 1980 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(President)",
+          "entity": "Allied Builders Supply Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "10",
-          "Position Dates": "May 1999 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "A.P. Kennedy Family Securities LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "May 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "A.P. Kennedy Family Securities LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         },
         {
-          "#": "11",
-          "Position Dates": "May 1999 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Other\n\t\t\t\t\t\t\t\t(Member)",
-          "Entity": "A.P. Kennedy Real Estate LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "May 1999 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Other\n\t\t\t\t\t\t\t\t(Member)",
+          "entity": "A.P. Kennedy Real Estate LLC\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "entity-type": "Corporation",
+          "comments": ""
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Source": "Treasurer, State of Louisiana\n\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
-          "Duties": "Treasurer"
+          "source": "Treasurer, State of Louisiana\n\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
+          "duties": "Treasurer"
         },
         {
-          "#": "2",
-          "Source": "John Neely Kennedy APLC\n\t\t\t\t\t\t\t\tMadisonville, Louisiana",
-          "Duties": "1st LA Invest. Prop. professional law corp. Income is legal fees. Client: LA Workers Comp Corp, BR"
+          "source": "John Neely Kennedy APLC\n\t\t\t\t\t\t\t\tMadisonville, Louisiana",
+          "duties": "1st LA Invest. Prop. professional law corp. Income is legal fees. Client: LA Workers Comp Corp, BR"
         },
         {
-          "#": "3",
-          "Source": "Louisiana Workers Compensation Corporation\n\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
-          "Duties": "Board member of private insurance company"
+          "source": "Louisiana Workers Compensation Corporation\n\t\t\t\t\t\t\t\tBaton Rouge, Louisiana",
+          "duties": "Board member of private insurance company"
         }
       ]
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

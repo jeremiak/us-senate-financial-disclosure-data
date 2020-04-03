@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 06/01/2017",
   "filer": "The Honorable Steve Daines (Daines, Steve)",
-  "filedDate": "Filed 06/01/2017 @ 9:51 AM",
+  "filed-date": "06/01/2017",
+  "filed-time": "9:51 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "06/02/2017",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Bridger Technologies, Inc.",
-          "Asset Type": "Stock",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
+          "transaction-date": "06/02/2017",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Bridger Technologies, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
         }
       ]
     }

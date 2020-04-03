@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 04/16/2018",
   "filer": "Mr. Angus S King Jr. (King, Angus)",
-  "filedDate": "Filed 04/16/2018 @ 8:41 AM",
+  "filed-date": "04/16/2018",
+  "filed-time": "8:41 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "03/12/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "MAINE ST HSG AUTH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.0% Matures: 11/15/2028",
-          "Asset Type": "Municipal Security",
-          "Type": "Sale (Full)",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "REDEMPTION \"CALLED\""
+          "transaction-date": "03/12/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "MAINE ST HSG AUTH BOND\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 4.0% Matures: 11/15/2028",
+          "asset-type": "Municipal Security",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "REDEMPTION \"CALLED\""
         }
       ]
     }

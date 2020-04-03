@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 11/08/2018",
   "filer": "The Honorable Mark R Warner (Warner, Mark)",
-  "filedDate": "Filed 11/08/2018 @ 1:21 PM",
+  "filed-date": "11/08/2018",
+  "filed-time": "1:21 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "10/19/2018",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "Acumen Pharmaceutical, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Acumen Pharmaceutical, Inc.\n                                                    \n                                                         (Livermore, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Drug Discovery",
-          "Asset Type": "Non-Public Stock",
-          "Type": "Purchase",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
+          "transaction-date": "10/19/2018",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "Acumen Pharmaceutical, Inc.\n                                        \n                                        \n                                        \n                                            \n                                                \n                                                    Company: Acumen Pharmaceutical, Inc.\n                                                    \n                                                         (Livermore, CA)\n                                                    \n                                                \n                                            \n\n                                            \n                                                Description: Drug Discovery",
+          "asset-type": "Non-Public Stock",
+          "type": "Purchase",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
         }
       ]
     }

@@ -1,170 +1,180 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2014 (Amendment 1)",
   "filer": "The Honorable Raymond J Tester (Tester, Jon)",
-  "filedDate": "Filed 02/28/2018 @ 4:33 PM",
+  "filed-date": "02/28/2018",
+  "filed-time": "4:33 PM",
+  "calendar-year": "2014",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
-      "heading": "Part 2. Earned and Non-Investment Income\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\tBig Sandy, MT",
-          "Amount Paid": "$2,500.00"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\tBig Sandy, MT",
+          "amount-paid": "$2,500.00"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\tBig Sandy, MT",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\tBig Sandy, MT",
+          "amount-paid": "> $1,000"
         }
       ]
     },
     {
-      "heading": "Part 3. Assets\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 3. Assets",
+      "amended": true,
       "rows": [
         {
-          "Asset": "Wells Fargo Bank(Big Sandy, MT)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo Bank(Big Sandy, MT)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$50,001 - $100,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "United States Senate Federal Credit Union(Washington, DC)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "AEP-American Electric Power Co., Inc. (NYSE)",
-          "Asset Type": "Corporate SecuritiesStock",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Dividends,",
-          "Income": "None (or less than $201)"
+          "asset": "AEP-American Electric Power Co., Inc. (NYSE)",
+          "asset-type": "Corporate SecuritiesStock",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Dividends",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "KUSAX - DWS Strategic Government Securities A (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "KUSAX - DWS Strategic Government Securities A (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "FarmlandDescription: Family Farm Land (Big Sandy, MT)",
-          "Asset Type": "Farm",
-          "Owner": "Joint",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$15,001 - $50,000"
+          "asset": "FarmlandDescription: Family Farm Land (Big Sandy, MT)",
+          "asset-type": "Farm",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "T-Bone Farms, Inc.Company: T-Bone Farms, Inc. (Big Sandy, MT) Description: Farm equipment and house.",
-          "Asset Type": "Corporate SecuritiesNon-Public Stock",
-          "Owner": "Joint",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Rent/Royalties,",
-          "Income": "$5,001 - $15,000"
+          "asset": "T-Bone Farms, Inc.Company: T-Bone Farms, Inc. (Big Sandy, MT) Description: Farm equipment and house.",
+          "asset-type": "Corporate SecuritiesNon-Public Stock",
+          "owner": "Joint",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Rent/Royalties",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "Montana Retirement System",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Montana Retirement System",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "D.A. Davidson(Great Falls, MT)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Joint",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
+          "asset": "D.A. Davidson(Great Falls, MT)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Joint",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2013",
-          "Debtor": "Joint",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Thirty years)",
-          "Amount": "$500,001 - $1,000,000",
-          "Creditor": "J.P. Morgan Chase\n\t\t\t\t\t\t\t\tWashington, DC",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Joint",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.875%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Thirty years)",
+          "amount": "$500,001 - $1,000,000",
+          "creditor": "J.P. Morgan Chase\n\t\t\t\t\t\t\t\tWashington, DC",
+          "comments": "-"
         }
       ]
     },
     {
       "heading": "Part 8. Positions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Jan 1989 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Officer",
-          "Entity": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBig Sandy, MT",
-          "Entity Type": "Corporation",
-          "Comments": ""
+          "position-dates": "Jan 1989 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Officer",
+          "entity": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBig Sandy, MT",
+          "entity-type": "Corporation",
+          "comments": ""
         }
       ]
     },
     {
-      "heading": "Part 9. Agreements\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 9. Agreements",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Date": "Jan 2006",
-          "Parties Involved": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\tBig Sandy, M",
-          "Type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Employment agreement with farm corporation.)",
-          "Status and Terms": "The Senator receives wages, housing, and equipment rental and the terms are updated annually."
+          "date": "Jan 2006",
+          "parties-involved": "T-Bone Farms, Inc.\n\t\t\t\t\t\t\t\tBig Sandy, M",
+          "type": "Other\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t(Employment agreement with farm corporation.)",
+          "status-and-terms": "The Senator receives wages, housing, and equipment rental and the terms are updated annually."
         },
         {
-          "#": "2",
-          "Date": "Jan 2007",
-          "Parties Involved": "Montana Public Employee Retirement Administration\n\t\t\t\t\t\t\t\tHelena, MT",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Under the terms of defined benefit state pension, filer will receive a monthly payment at age 60."
+          "date": "Jan 2007",
+          "parties-involved": "Montana Public Employee Retirement Administration\n\t\t\t\t\t\t\t\tHelena, MT",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Under the terms of defined benefit state pension, filer will receive a monthly payment at age 60."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

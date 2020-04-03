@@ -1,2706 +1,2525 @@
 {
+  "type": "annual report amendment",
   "title": "Annual Report for Calendar 2017 (Amendment 1)",
   "filer": "Ms. Kamala D Harris (Harris, Kamala)",
-  "filedDate": "Filed 06/12/2019 @ 12:35 PM",
+  "filed-date": "06/12/2019",
+  "filed-time": "12:35 PM",
+  "calendar-year": "2017",
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 2. Earned and Non-Investment Income",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "Venable LLP\n\t\t\t\t\t\t\t\tLos Angeles, California",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "Venable LLP\n\t\t\t\t\t\t\t\tLos Angeles, California",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "2",
-          "Who Was Paid": "Spouse",
-          "Type": "Salary",
-          "Who Paid": "DLA Piper LLP\n\t\t\t\t\t\t\t\tLos Angeles, CA",
-          "Amount Paid": "> $1,000"
+          "who-was-paid": "Spouse",
+          "type": "Salary",
+          "who-paid": "DLA Piper LLP\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "amount-paid": "> $1,000"
         },
         {
-          "#": "3",
-          "Who Was Paid": "Self",
-          "Type": "Salary",
-          "Who Paid": "State of California\n\t\t\t\t\t\t\t\tSacramento, CA",
-          "Amount Paid": "$14,511.89"
+          "who-was-paid": "Self",
+          "type": "Salary",
+          "who-paid": "State of California\n\t\t\t\t\t\t\t\tSacramento, CA",
+          "amount-paid": "$14,511.89"
         }
       ]
     },
     {
       "heading": "Part 3. Assets",
+      "amended": false,
       "rows": [
         {
-          "Asset": "Wells Fargo(Los Angeles, California)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Wells Fargo(Los Angeles, California)Type: Savings,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
-        },
-        {
-          "Asset": "First Republic Bank(San Francisco, California)Type: Checking,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Wells Fargo(Los Angeles, California)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "State of California Savings Plus 457(b) Plan",
-          "Asset Type": "Retirement PlansDeferred Compensation",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "Target Date Fund 2025",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "City & County of San Francisco 457(b) Deferred Compensation Plan",
-          "Asset Type": "Retirement PlansDeferred Compensation",
-          "Owner": "Self",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "SFDCP Target Date 2025",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SFDCP Large Cap Growth Eq",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SFDCP Lg Cap Eq - S&P 500",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SFDCP Mid Cap Core",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SFDCP International Equity",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SFDCP Real Estate",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Self",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "Wells Fargo(Los Angeles, California)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Los Angeles, California)Type: Savings",
+          "asset-type": "Bank Deposit",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
+        },
+        {
+          "asset": "First Republic Bank(San Francisco, California)Type: Checking",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Wells Fargo(Los Angeles, California)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "State of California Savings Plus 457(b) Plan",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "Target Date Fund 2025",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "City & County of San Francisco 457(b) Deferred Compensation Plan",
+          "asset-type": "Retirement PlansDeferred Compensation",
+          "owner": "Self",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "SFDCP Target Date 2025",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SFDCP Large Cap Growth Eq",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SFDCP Lg Cap Eq - S&P 500",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SFDCP Mid Cap Core",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SFDCP International Equity",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SFDCP Real Estate",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Self",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Venable LLP Capital AccountDescription: Partner Capital Account (Los Angeles, California)",
-          "Asset Type": "Other Securities",
-          "Owner": "Spouse",
-          "Value": "$500,001 - $1,000,000",
-          "Income Type": "Interest,",
-          "Income": "$15,001 - $50,000"
+          "asset": "Venable LLP Capital AccountDescription: Partner Capital Account (Los Angeles, California)",
+          "asset-type": "Other Securities",
+          "owner": "Spouse",
+          "value": "$500,001 - $1,000,000",
+          "income-type": "Interest",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "Merrill Lynch - Emhoff Family Trust",
-          "Asset Type": "Brokerage/Managed Account",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Merrill Lynch - Emhoff Family Trust",
+          "asset-type": "Brokerage/Managed Account",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "ANOIX-American Century Small Cap Growth Inv (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "ANOIX-American Century Small Cap Growth Inv (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "AEPFX-American Funds Europacific Growth F2 (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "AEPFX-American Funds Europacific Growth F2 (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "HGOIX-Hartford Growth Opportunities I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "HGOIX-Hartford Growth Opportunities I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "IWD-iShares Russell 1000 Value (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "IWD-iShares Russell 1000 Value (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "UBVSX-Undiscovered Mgrs Behavioral Value Sel (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "UBVSX-Undiscovered Mgrs Behavioral Value Sel (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "MTLIX-MFS Municipal Limited Maturity I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "MTLIX-MFS Municipal Limited Maturity I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "MEIIX-MFS Value I (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$5,001 - $15,000"
+          "asset": "MEIIX-MFS Value I (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$5,001 - $15,000"
         },
         {
-          "Asset": "ML Bank Deposit Program(Century City, California)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Interest,",
-          "Income": "$201 - $1,000"
+          "asset": "ML Bank Deposit Program(Century City, California)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Interest",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "WEMIX-Wells Fargo Advantage Emerging Gr Instl (NASDAQ)",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "WEMIX-Wells Fargo Advantage Emerging Gr Instl (NASDAQ)",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IWF-iShares Russell 1000 Growth (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$15,001 - $50,000"
+          "asset": "IWF-iShares Russell 1000 Growth (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$15,001 - $50,000"
         },
         {
-          "Asset": "EFA - iShares MSCI EAFE ETFFiler comment:  2017 purchase and sale",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$2,501 - $5,000"
+          "asset": "EFA - iShares MSCI EAFE ETFFiler comment:  2017 purchase and sale",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$2,501 - $5,000"
         },
         {
-          "Asset": "VUG - Vanguard Growth ETFFiler comment:  2017 purchase and sale",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "VUG - Vanguard Growth ETFFiler comment:  2017 purchase and sale",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "ITM - VanEck Vectors AMT-Free Interm Muni ETFFiler comment:  2017 purchase and sale",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$201 - $1,000"
+          "asset": "ITM - VanEck Vectors AMT-Free Interm Muni ETFFiler comment:  2017 purchase and sale",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$201 - $1,000"
         },
         {
-          "Asset": "IEMG - iShares Core MSCI Emerging Markets ETFFiler comment:  2017 purchase and sale",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "$1,001 - $2,500"
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETFFiler comment:  2017 purchase and sale",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "$1,001 - $2,500"
         },
         {
-          "Asset": "Merrill Lynch - IRRA",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Merrill Lynch - IRRA",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "Merrill Lynch-Bank of America N/A(Century City, California)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Merrill Lynch-Bank of America N/A(Century City, California)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EWC - iShares MSCI Canada ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EWC - iShares MSCI Canada ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EWL - iShares MSCI Switzerland Capped ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EWL - iShares MSCI Switzerland Capped ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EWD - iShares MSCI Sweden Capped ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EWD - iShares MSCI Sweden Capped ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EPP - iShares MSCI Pacific ex Japan ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EPP - iShares MSCI Pacific ex Japan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LQD - iShares iBoxx $ Invmt Grade Corp Bd ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "LQD - iShares iBoxx $ Invmt Grade Corp Bd ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIP - iShares TIPS Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIP - iShares TIPS Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IEI - iShares 3-7 Year Treasury Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IEI - iShares 3-7 Year Treasury Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MBB - iShares MBS ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MBB - iShares MBS ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "HYG - iShares iBoxx $ High Yield Corp Bd ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "HYG - iShares iBoxx $ High Yield Corp Bd ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EZU - iShares MSCI Eurozone ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EZU - iShares MSCI Eurozone ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EWJ - iShares MSCI Japan ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EWJ - iShares MSCI Japan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EWU - iShares MSCI United Kingdom ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EWU - iShares MSCI United Kingdom ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IEMG - iShares Core MSCI Emerging Markets ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PCY - PowerShares Emerging Markets Sov Dbt ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PCY - PowerShares Emerging Markets Sov Dbt ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PGX - PowerShares Preferred ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PGX - PowerShares Preferred ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EMLC - VanEck Vectors JP Morgan EM LC Bd ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EMLC - VanEck Vectors JP Morgan EM LC Bd ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VBR - Vanguard Small-Cap Value ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VBR - Vanguard Small-Cap Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VBK - Vanguard Small-Cap Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VBK - Vanguard Small-Cap Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VTV - Vanguard Value ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VTV - Vanguard Value ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VUG - Vanguard Growth ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$100,001 - $250,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VUG - Vanguard Growth ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$100,001 - $250,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BIV - Vanguard Interm-Term Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$50,001 - $100,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BIV - Vanguard Interm-Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$50,001 - $100,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "BSV - Vanguard Short-Term Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$15,001 - $50,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BSV - Vanguard Short-Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$15,001 - $50,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Whitwell Jacoby Emhoff LLP SEP",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
+          "asset": "Whitwell Jacoby Emhoff LLP SEP",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
         },
         {
-          "Asset": "BIV - Vanguard Intermediate-Term Bond ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "BIV - Vanguard Intermediate-Term Bond ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IBB - iShares Nasdaq Biotechnology (NASDAQ)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IBB - iShares Nasdaq Biotechnology (NASDAQ)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IEI - iShares 3-7 Year Treasury Bond (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IEI - iShares 3-7 Year Treasury Bond (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "IEMG - iShares Core MSCI Emerging Markets (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "IEMG - iShares Core MSCI Emerging Markets (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "Merrill Lynch-Bank of America N/A(Century City, California)Type: Money Market Account,",
-          "Asset Type": "Bank Deposit",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "None,",
-          "Income": "None (or less than $201)"
+          "asset": "Merrill Lynch-Bank of America N/A(Century City, California)Type: Money Market Account",
+          "asset-type": "Bank Deposit",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "None",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "LQD - iShares iBoxx $ Invst Grade Crp Bond (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "LQD - iShares iBoxx $ Invst Grade Crp Bond (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "MBB - iShares MBS (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "MBB - iShares MBS (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VAW - Vanguard Materials ETFFiler comment:  Below the reporting threshold - no transaction to report.",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VAW - Vanguard Materials ETFFiler comment:  Below the reporting threshold - no transaction to report.",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VDC - Vanguard Consumer Staples ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VDC - Vanguard Consumer Staples ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VGT - Vanguard Information Technology ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VGT - Vanguard Information Technology ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "VIS - Vanguard Industrials ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "VIS - Vanguard Industrials ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLF - Financial Select Sector SPDR ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLF - Financial Select Sector SPDR ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLV - Health Care Select Sector SPDR ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLV - Health Care Select Sector SPDR ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLY - Consumer Discret Sel Sect SPDR ETF (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLY - Consumer Discret Sel Sect SPDR ETF (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EWU - iShares MSCI United Kingdom (NYSEArca)",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EWU - iShares MSCI United Kingdom (NYSEArca)",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EWJ - iShares, Inc. - iShares MSCI Japan ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EWJ - iShares, Inc. - iShares MSCI Japan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "PCY - PowerShares Exchange-Traded Fund Trust II - PowerS",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "PCY - PowerShares Exchange-Traded Fund Trust II - PowerS",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "TIP - iShares Trust - iShares TIPS Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "TIP - iShares Trust - iShares TIPS Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLE - Energy Select Sector SPDR ETFFiler comment:  Full sale in CY 2017;  two sale transactions less than $1,000",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "None (or less than $1,001)",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLE - Energy Select Sector SPDR ETFFiler comment:  Full sale in CY 2017;  two sale transactions less than $1,000",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "None (or less than $1,001)",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "EPP - iShares MSCI Pacific ex Japan ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "EPP - iShares MSCI Pacific ex Japan ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         },
         {
-          "Asset": "XLRE - Real Estate Select Sector SPDR",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "BSV - Vanguard Short-Term Bond ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "EWC - iShares MSCI Canada ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "EWL - iShares MSCI Switzerland Capped ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "EZU - iShares MSCI Eurozone ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "FDN - First Trust Dow Jones Internet ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "SKYY - First Trust Cloud Computing ETF",
-          "Asset Type": "Mutual FundsExchange Traded Fund/Note",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "San Francisco Employees Retirement System (SFERS) Plan",
-          "Asset Type": "Retirement PlansDefined Benefit Pension Plan",
-          "Owner": "Self",
-          "Value": "$250,001 - $500,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "DLA Piper LLP Retirement Plan",
-          "Asset Type": "Retirement PlansDefined Contribution Pension Plan",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "VRIVX - Vanguard Instl Trgt Retire 2025 Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "Charles Schwab IRA Rollover",
-          "Asset Type": "Retirement PlansIRA",
-          "Owner": "Spouse",
-          "Value": "",
-          "Income Type": "",
-          "Income": ""
-        },
-        {
-          "Asset": "TPLGX - T. Rowe Price Instl Large Cap Core Gr",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
-        },
-        {
-          "Asset": "VIEIX-Vanguard Extended Market Index Instl",
-          "Asset Type": "Mutual FundsMutual Fund",
-          "Owner": "Spouse",
-          "Value": "$1,001 - $15,000",
-          "Income Type": "Excepted Investment Fund,",
-          "Income": "None (or less than $201)"
+          "asset": "XLRE - Real Estate Select Sector SPDR",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "BSV - Vanguard Short-Term Bond ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EWC - iShares MSCI Canada ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EWL - iShares MSCI Switzerland Capped ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "EZU - iShares MSCI Eurozone ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "FDN - First Trust Dow Jones Internet ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "SKYY - First Trust Cloud Computing ETF",
+          "asset-type": "Mutual FundsExchange Traded Fund/Note",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "San Francisco Employees Retirement System (SFERS) Plan",
+          "asset-type": "Retirement PlansDefined Benefit Pension Plan",
+          "owner": "Self",
+          "value": "$250,001 - $500,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "DLA Piper LLP Retirement Plan",
+          "asset-type": "Retirement PlansDefined Contribution Pension Plan",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "VRIVX - Vanguard Instl Trgt Retire 2025 Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "Charles Schwab IRA Rollover",
+          "asset-type": "Retirement PlansIRA",
+          "owner": "Spouse",
+          "value": "",
+          "income-type": "",
+          "income": ""
+        },
+        {
+          "asset": "TPLGX - T. Rowe Price Instl Large Cap Core Gr",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
+        },
+        {
+          "asset": "VIEIX-Vanguard Extended Market Index Instl",
+          "asset-type": "Mutual FundsMutual Fund",
+          "owner": "Spouse",
+          "value": "$1,001 - $15,000",
+          "income-type": "Excepted Investment Fund",
+          "income": "None (or less than $201)"
         }
       ]
     },
     {
       "heading": "Part 4a. Periodic Transaction Report Summary",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 4b. Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Owner": "Spouse",
-          "Ticker": "IEMG",
-          "Asset Name": "iShares Core MSCI Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "2",
-          "Owner": "Spouse",
-          "Ticker": "EWU",
-          "Asset Name": "iShares MSCI United Kingdom ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "3",
-          "Owner": "Spouse",
-          "Ticker": "EWJ",
-          "Asset Name": "iShares MSCI Japan ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "4",
-          "Owner": "Spouse",
-          "Ticker": "EZU",
-          "Asset Name": "iShares MSCI Eurozone ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "5",
-          "Owner": "Spouse",
-          "Ticker": "MBB",
-          "Asset Name": "iShares MBS ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "6",
-          "Owner": "Spouse",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "7",
-          "Owner": "Spouse",
-          "Ticker": "VBK",
-          "Asset Name": "Vanguard Small-Cap Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "8",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "9",
-          "Owner": "Spouse",
-          "Ticker": "VBR",
-          "Asset Name": "Vanguard Small-Cap Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "10",
-          "Owner": "Spouse",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Short-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "11",
-          "Owner": "Spouse",
-          "Ticker": "PCY",
-          "Asset Name": "PowerShares Emerging Markets Sov Dbt ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "12",
-          "Owner": "Spouse",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "13",
-          "Owner": "Spouse",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "14",
-          "Owner": "Spouse",
-          "Ticker": "IEI",
-          "Asset Name": "iShares 3-7 Year Treasury Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "15",
-          "Owner": "Spouse",
-          "Ticker": "HYG",
-          "Asset Name": "iShares iBoxx $ High Yield Corp Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "16",
-          "Owner": "Spouse",
-          "Ticker": "LQD",
-          "Asset Name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "17",
-          "Owner": "Spouse",
-          "Ticker": "EWL",
-          "Asset Name": "iShares MSCI Switzerland Capped ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "18",
-          "Owner": "Spouse",
-          "Ticker": "EPP",
-          "Asset Name": "iShares MSCI Pacific ex Japan ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "19",
-          "Owner": "Spouse",
-          "Ticker": "EWC",
-          "Asset Name": "iShares MSCI Canada ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "20",
-          "Owner": "Spouse",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "21",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "22",
-          "Owner": "Spouse",
-          "Ticker": "HYG",
-          "Asset Name": "iShares iBoxx $ High Yield Corp Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "23",
-          "Owner": "Spouse",
-          "Ticker": "IEMG",
-          "Asset Name": "iShares Core MSCI Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "24",
-          "Owner": "Spouse",
-          "Ticker": "PGX",
-          "Asset Name": "PowerShares Preferred ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "25",
-          "Owner": "Spouse",
-          "Ticker": "EMLC",
-          "Asset Name": "VanEck Vectors JP Morgan EM LC Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "26",
-          "Owner": "Spouse",
-          "Ticker": "EWU",
-          "Asset Name": "iShares MSCI United Kingdom ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "27",
-          "Owner": "Spouse",
-          "Ticker": "IEI",
-          "Asset Name": "iShares 3-7 Year Treasury Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "28",
-          "Owner": "Spouse",
-          "Ticker": "PCY",
-          "Asset Name": "PowerShares Emerging Markets Sov Dbt ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "29",
-          "Owner": "Spouse",
-          "Ticker": "MBB",
-          "Asset Name": "iShares MBS ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "30",
-          "Owner": "Spouse",
-          "Ticker": "EZU",
-          "Asset Name": "iShares MSCI Eurozone ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "31",
-          "Owner": "Spouse",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "32",
-          "Owner": "Spouse",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Short-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "33",
-          "Owner": "Spouse",
-          "Ticker": "LQD",
-          "Asset Name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "34",
-          "Owner": "Spouse",
-          "Ticker": "EWJ",
-          "Asset Name": "iShares MSCI Japan ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "35",
-          "Owner": "Spouse",
-          "Ticker": "EWD",
-          "Asset Name": "iShares MSCI Sweden Capped ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "36",
-          "Owner": "Spouse",
-          "Ticker": "EWC",
-          "Asset Name": "iShares MSCI Canada ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "37",
-          "Owner": "Spouse",
-          "Ticker": "EPP",
-          "Asset Name": "iShares MSCI Pacific ex Japan ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "38",
-          "Owner": "Spouse",
-          "Ticker": "EWL",
-          "Asset Name": "iShares MSCI Switzerland Capped ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "39",
-          "Owner": "Spouse",
-          "Ticker": "VBK",
-          "Asset Name": "Vanguard Small-Cap Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "40",
-          "Owner": "Spouse",
-          "Ticker": "VBR",
-          "Asset Name": "Vanguard Small-Cap Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "41",
-          "Owner": "Spouse",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "42",
-          "Owner": "Spouse",
-          "Ticker": "CRISX",
-          "Asset Name": "CRM Small Cap Value Instl",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Transfer from Venable LLP Retirement Plan and then sold"
-        },
-        {
-          "#": "43",
-          "Owner": "Spouse",
-          "Ticker": "DODGX",
-          "Asset Name": "Dodge & Cox Stock",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Transfer from Venable LLP Retirement Plan and then sold"
-        },
-        {
-          "#": "44",
-          "Owner": "Spouse",
-          "Ticker": "WEMIX",
-          "Asset Name": "Wells Fargo Emerging Growth Inst",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Transfer from Venable LLP Retirement Plan and then sold"
-        },
-        {
-          "#": "45",
-          "Owner": "Spouse",
-          "Ticker": "VMGRX",
-          "Asset Name": "Vanguard Mid Cap Growth Inv",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/13/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "Transfer from Venable LLP Retirement Plan and then sold"
-        },
-        {
-          "#": "46",
-          "Owner": "Spouse",
-          "Ticker": "HEDJ",
-          "Asset Name": "WisdomTree Europe Hedged Equity ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/05/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "47",
-          "Owner": "Spouse",
-          "Ticker": "EZU",
-          "Asset Name": "iShares MSCI Eurozone ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/05/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "48",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/24/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "49",
-          "Owner": "Spouse",
-          "Ticker": "HEDJ",
-          "Asset Name": "WisdomTree Europe Hedged Equity ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/24/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "50",
-          "Owner": "Spouse",
-          "Ticker": "EZU",
-          "Asset Name": "iShares MSCI Eurozone ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/24/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "51",
-          "Owner": "Spouse",
-          "Ticker": "IEMG",
-          "Asset Name": "iShares Core MSCI Emerging Markets ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "05/17/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "52",
-          "Owner": "Spouse",
-          "Ticker": "HEDJ",
-          "Asset Name": "WisdomTree Europe Hedged Equity ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "05/17/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "53",
-          "Owner": "Spouse",
-          "Ticker": "VBK",
-          "Asset Name": "Vanguard Small-Cap Growth ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "05/17/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "54",
-          "Owner": "Spouse",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "55",
-          "Owner": "Spouse",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "56",
-          "Owner": "Spouse",
-          "Ticker": "LQD",
-          "Asset Name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "57",
-          "Owner": "Spouse",
-          "Ticker": "IEI",
-          "Asset Name": "iShares 3-7 Year Treasury Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "58",
-          "Owner": "Spouse",
-          "Ticker": "HYG",
-          "Asset Name": "iShares iBoxx $ High Yield Corp Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "59",
-          "Owner": "Spouse",
-          "Ticker": "PCY",
-          "Asset Name": "PowerShares Emerging Markets Sov Dbt ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "60",
-          "Owner": "Spouse",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Short-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "61",
-          "Owner": "Spouse",
-          "Ticker": "MBB",
-          "Asset Name": "iShares MBS ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "62",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "63",
-          "Owner": "Spouse",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "64",
-          "Owner": "Spouse",
-          "Ticker": "EPP",
-          "Asset Name": "iShares MSCI Pacific ex Japan ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "65",
-          "Owner": "Spouse",
-          "Ticker": "EWU",
-          "Asset Name": "iShares MSCI United Kingdom ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "66",
-          "Owner": "Spouse",
-          "Ticker": "EWC",
-          "Asset Name": "iShares MSCI Canada ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "67",
-          "Owner": "Spouse",
-          "Ticker": "EWL",
-          "Asset Name": "iShares MSCI Switzerland Capped ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "68",
-          "Owner": "Spouse",
-          "Ticker": "EWJ",
-          "Asset Name": "iShares MSCI Japan ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "69",
-          "Owner": "Spouse",
-          "Ticker": "EMLC",
-          "Asset Name": "VanEck Vectors JP Morgan EM LC Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "70",
-          "Owner": "Spouse",
-          "Ticker": "HEDJ",
-          "Asset Name": "WisdomTree Europe Hedged Equity ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "71",
-          "Owner": "Spouse",
-          "Ticker": "IEMG",
-          "Asset Name": "iShares Core MSCI Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "72",
-          "Owner": "Spouse",
-          "Ticker": "VBK",
-          "Asset Name": "Vanguard Small-Cap Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "73",
-          "Owner": "Spouse",
-          "Ticker": "VBR",
-          "Asset Name": "Vanguard Small-Cap Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "74",
-          "Owner": "Spouse",
-          "Ticker": "PGX",
-          "Asset Name": "PowerShares Preferred ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "75",
-          "Owner": "Spouse",
-          "Ticker": "DOMIX",
-          "Asset Name": "Domini Impact International Equity Inv",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "76",
-          "Owner": "Spouse",
-          "Ticker": "PXSIX",
-          "Asset Name": "Pax Small Cap Institutional",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "77",
-          "Owner": "Spouse",
-          "Ticker": "PRILX",
-          "Asset Name": "Parnassus Core Equity Institutional",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "78",
-          "Owner": "Spouse",
-          "Ticker": "PARWX",
-          "Asset Name": "Parnassus Endeavor Investor",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "79",
-          "Owner": "Spouse",
-          "Ticker": "PARMX",
-          "Asset Name": "Parnassus Mid-Cap",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "80",
-          "Owner": "Spouse",
-          "Ticker": "CSDYX",
-          "Asset Name": "Calvert Short Duration Income Y",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "81",
-          "Owner": "Spouse",
-          "Ticker": "CIEYX",
-          "Asset Name": "Calvert Equity Y",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "82",
-          "Owner": "Spouse",
-          "Ticker": "CBAYX",
-          "Asset Name": "Calvert Balanced Y",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "83",
-          "Owner": "Spouse",
-          "Ticker": "AVEDX",
-          "Asset Name": "Ave Maria Rising Dividend",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "84",
-          "Owner": "Spouse",
-          "Ticker": "PARNX",
-          "Asset Name": "Parnassus",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "02/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "85",
-          "Owner": "Spouse",
-          "Ticker": "PARWX",
-          "Asset Name": "Parnassus Endeavor Investor",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "02/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "86",
-          "Owner": "Spouse",
-          "Ticker": "CSDYX",
-          "Asset Name": "Calvert Short Duration Income Y",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "87",
-          "Owner": "Spouse",
-          "Ticker": "CIEYX",
-          "Asset Name": "Calvert Equity Y",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "88",
-          "Owner": "Spouse",
-          "Ticker": "CBAYX",
-          "Asset Name": "Calvert Balanced Y",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "89",
-          "Owner": "Spouse",
-          "Ticker": "HEDJ",
-          "Asset Name": "WisdomTree Europe Hedged Equity ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "12/05/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "90",
-          "Owner": "Spouse",
-          "Ticker": "EZU",
-          "Asset Name": "iShares MSCI Eurozone ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "12/05/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "91",
-          "Owner": "Spouse",
-          "Ticker": "HEDJ",
-          "Asset Name": "WisdomTree Europe Hedged Equity ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "10/24/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "92",
-          "Owner": "Spouse",
-          "Ticker": "EZU",
-          "Asset Name": "iShares MSCI Eurozone ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "10/24/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "93",
-          "Owner": "Spouse",
-          "Ticker": "XLV",
-          "Asset Name": "Health Care Select Sector SPDR ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "09/25/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "94",
-          "Owner": "Spouse",
-          "Ticker": "XLY",
-          "Asset Name": "Consumer Discret Sel Sect SPDR ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "09/25/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "95",
-          "Owner": "Spouse",
-          "Ticker": "IEMG",
-          "Asset Name": "iShares Core MSCI Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/24/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "96",
-          "Owner": "Spouse",
-          "Ticker": "EWU",
-          "Asset Name": "iShares MSCI United Kingdom ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/23/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "97",
-          "Owner": "Spouse",
-          "Ticker": "VIS",
-          "Asset Name": "Vanguard Industrials ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/23/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "98",
-          "Owner": "Spouse",
-          "Ticker": "VGT",
-          "Asset Name": "Vanguard Information Technology ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/23/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "99",
-          "Owner": "Spouse",
-          "Ticker": "XLY",
-          "Asset Name": "Consumer Discret Sel Sect SPDR ETF",
-          "Transaction Type": "Sale (Partial)",
-          "Transaction Date": "01/23/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "100",
-          "Owner": "Spouse",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Short-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/23/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "101",
-          "Owner": "Spouse",
-          "Ticker": "LQD",
-          "Asset Name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "102",
-          "Owner": "Spouse",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "103",
-          "Owner": "Spouse",
-          "Ticker": "VBR",
-          "Asset Name": "Vanguard Small-Cap Value ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "104",
-          "Owner": "Spouse",
-          "Ticker": "EFA",
-          "Asset Name": "iShares MSCI EAFE ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "105",
-          "Owner": "Spouse",
-          "Ticker": "SHM",
-          "Asset Name": "SPDR Nuveen Blmbg Barclays ST MunBd ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "106",
-          "Owner": "Spouse",
-          "Ticker": "IEI",
-          "Asset Name": "iShares 3-7 Year Treasury Bond ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "107",
-          "Owner": "Spouse",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "108",
-          "Owner": "Spouse",
-          "Ticker": "MBB",
-          "Asset Name": "iShares MBS ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "109",
-          "Owner": "Spouse",
-          "Ticker": "HYD",
-          "Asset Name": "VanEck Vectors High-Yield Municipal ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "110",
-          "Owner": "Spouse",
-          "Ticker": "IEMG",
-          "Asset Name": "iShares Core MSCI Emerging Markets ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "111",
-          "Owner": "Spouse",
-          "Ticker": "EMLC",
-          "Asset Name": "VanEck Vectors JP Morgan EM LC Bd ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "112",
-          "Owner": "Spouse",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Short-Term Bond ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "113",
-          "Owner": "Spouse",
-          "Ticker": "ITM",
-          "Asset Name": "VanEck Vectors AMT-Free Interm Muni ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "114",
-          "Owner": "Spouse",
-          "Ticker": "PZA",
-          "Asset Name": "PowerShares National AMT-Free MuniBd ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "115",
-          "Owner": "Spouse",
-          "Ticker": "PCY",
-          "Asset Name": "PowerShares Emerging Markets Sov Dbt ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "116",
-          "Owner": "Spouse",
-          "Ticker": "VBK",
-          "Asset Name": "Vanguard Small-Cap Growth ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "117",
-          "Owner": "Spouse",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "118",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "04/28/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "119",
-          "Owner": "Spouse",
-          "Ticker": "BSV",
-          "Asset Name": "Vanguard Short-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "120",
-          "Owner": "Spouse",
-          "Ticker": "MBB",
-          "Asset Name": "iShares MBS ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "121",
-          "Owner": "Spouse",
-          "Ticker": "TIP",
-          "Asset Name": "iShares TIPS Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "122",
-          "Owner": "Spouse",
-          "Ticker": "EFA",
-          "Asset Name": "iShares MSCI EAFE ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "123",
-          "Owner": "Spouse",
-          "Ticker": "PCY",
-          "Asset Name": "PowerShares Emerging Markets Sov Dbt ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "124",
-          "Owner": "Spouse",
-          "Ticker": "SHM",
-          "Asset Name": "SPDR Nuveen Blmbg Barclays ST MunBd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "125",
-          "Owner": "Spouse",
-          "Ticker": "PZA",
-          "Asset Name": "PowerShares National AMT-Free MuniBd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "126",
-          "Owner": "Spouse",
-          "Ticker": "HYD",
-          "Asset Name": "VanEck Vectors High-Yield Municipal ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "127",
-          "Owner": "Spouse",
-          "Ticker": "VBK",
-          "Asset Name": "Vanguard Small-Cap Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "128",
-          "Owner": "Spouse",
-          "Ticker": "VBR",
-          "Asset Name": "Vanguard Small-Cap Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "129",
-          "Owner": "Spouse",
-          "Ticker": "VTV",
-          "Asset Name": "Vanguard Value ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "130",
-          "Owner": "Spouse",
-          "Ticker": "VUG",
-          "Asset Name": "Vanguard Growth ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "131",
-          "Owner": "Spouse",
-          "Ticker": "LQD",
-          "Asset Name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "132",
-          "Owner": "Spouse",
-          "Ticker": "BIV",
-          "Asset Name": "Vanguard Interm-Term Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "133",
-          "Owner": "Spouse",
-          "Ticker": "IWD",
-          "Asset Name": "iShares Russell 1000 Value ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "134",
-          "Owner": "Spouse",
-          "Ticker": "ITM",
-          "Asset Name": "VanEck Vectors AMT-Free Interm Muni ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "135",
-          "Owner": "Spouse",
-          "Ticker": "IWF",
-          "Asset Name": "iShares Russell 1000 Growth ETF",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "136",
-          "Owner": "Spouse",
-          "Ticker": "IEI",
-          "Asset Name": "iShares 3-7 Year Treasury Bond ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "137",
-          "Owner": "Spouse",
-          "Ticker": "IEMG",
-          "Asset Name": "iShares Core MSCI Emerging Markets ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "138",
-          "Owner": "Spouse",
-          "Ticker": "EMLC",
-          "Asset Name": "VanEck Vectors JP Morgan EM LC Bd ETF",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "139",
-          "Owner": "Spouse",
-          "Ticker": "WEMIX",
-          "Asset Name": "Wells Fargo Emerging Growth Inst",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "140",
-          "Owner": "Spouse",
-          "Ticker": "TWWIX",
-          "Asset Name": "Thomas White International I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "141",
-          "Owner": "Spouse",
-          "Ticker": "HHDTX",
-          "Asset Name": "Hancock Horizon Diversified Intl Instl",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "142",
-          "Owner": "Spouse",
-          "Ticker": "DUSIX",
-          "Asset Name": "Delaware Tax-Free USA Intermediate Instl",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "143",
-          "Owner": "Spouse",
-          "Ticker": "AEPFX",
-          "Asset Name": "American Funds Europacific Growth F2",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "144",
-          "Owner": "Spouse",
-          "Ticker": "UBVSX",
-          "Asset Name": "Undiscovered Managers Behavioral Val I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "145",
-          "Owner": "Spouse",
-          "Ticker": "ASVIX",
-          "Asset Name": "American Century Small Cap Value Inv",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "146",
-          "Owner": "Spouse",
-          "Ticker": "ANOIX",
-          "Asset Name": "American Century Small Cap Growth Inv",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "147",
-          "Owner": "Spouse",
-          "Ticker": "MTLIX",
-          "Asset Name": "MFS Municipal Limited Maturity I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "148",
-          "Owner": "Spouse",
-          "Ticker": "MEIIX",
-          "Asset Name": "MFS Value I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "149",
-          "Owner": "Spouse",
-          "Ticker": "EILVX",
-          "Asset Name": "Eaton Vance Large-Cap Value I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "150",
-          "Owner": "Spouse",
-          "Ticker": "HGOIX",
-          "Asset Name": "Hartford Growth Opportunities I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "151",
-          "Owner": "Spouse",
-          "Ticker": "DGAGX",
-          "Asset Name": "Dreyfus Appreciation Investor",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "03/03/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "152",
-          "Owner": "Spouse",
-          "Ticker": "HGOIX",
-          "Asset Name": "Hartford Growth Opportunities I",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "153",
-          "Owner": "Spouse",
-          "Ticker": "DGAGX",
-          "Asset Name": "Dreyfus Appreciation Investor",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "154",
-          "Owner": "Spouse",
-          "Ticker": "DUSIX",
-          "Asset Name": "Delaware Tax-Free USA Intermediate Instl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "155",
-          "Owner": "Spouse",
-          "Ticker": "MTLIX",
-          "Asset Name": "MFS Municipal Limited Maturity I",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "01/31/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "156",
-          "Owner": "Spouse",
-          "Ticker": "VRIVX",
-          "Asset Name": "Vanguard Instl Trgt Retire 2025 Instl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "11/01/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "157",
-          "Owner": "Spouse",
-          "Ticker": "WEMIX",
-          "Asset Name": "Wells Fargo Emerging Growth Inst",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "158",
-          "Owner": "Spouse",
-          "Ticker": "VMGRX",
-          "Asset Name": "Vanguard Mid Cap Growth Inv",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "159",
-          "Owner": "Spouse",
-          "Ticker": "VINIX",
-          "Asset Name": "Vanguard Institutional Index I",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "160",
-          "Owner": "Spouse",
-          "Ticker": "VEXAX",
-          "Asset Name": "Vanguard Extended Market Index Admiral",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "161",
-          "Owner": "Spouse",
-          "Ticker": "TPLGX",
-          "Asset Name": "T. Rowe Price Instl Large Cap Core Gr",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "162",
-          "Owner": "Spouse",
-          "Ticker": "DODGX",
-          "Asset Name": "Dodge & Cox Stock",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "163",
-          "Owner": "Spouse",
-          "Ticker": "CRISX",
-          "Asset Name": "CRM Small Cap Value Instl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "164",
-          "Owner": "Spouse",
-          "Ticker": "VEXAX",
-          "Asset Name": "Vanguard Extended Market Index Admiral",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/02/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "165",
-          "Owner": "Spouse",
-          "Ticker": "VIEIX",
-          "Asset Name": "Vanguard Extended Market Index Instl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/02/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "166",
-          "Owner": "Spouse",
-          "Ticker": "VINIX",
-          "Asset Name": "Vanguard Institutional Index I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/16/2017",
-          "Amount": "$15,001 - $50,000",
-          "Comment": "--"
-        },
-        {
-          "#": "167",
-          "Owner": "Spouse",
-          "Ticker": "VBMFX",
-          "Asset Name": "Vanguard Total Bond Market Index Inv",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/16/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "168",
-          "Owner": "Spouse",
-          "Ticker": "NRFYX",
-          "Asset Name": "Natixis AEW Real Estate Y",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/16/2017",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
-        },
-        {
-          "#": "169",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SSgA Target Retirement 2025 Fund NL",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/16/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "170",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SSgA Target Retirement 2030 Fund NL",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/16/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "171",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SSgA Target Retirement 2035 Fund NL",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/16/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "172",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "SSgA Target Retirement 2040 Fund NL",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/16/2017",
-          "Amount": "$100,001 - $250,000",
-          "Comment": "--"
-        },
-        {
-          "#": "173",
-          "Owner": "Spouse",
-          "Ticker": "WEMIX",
-          "Asset Name": "Wells Fargo Emerging Growth Inst",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "174",
-          "Owner": "Spouse",
-          "Ticker": "VMGRX",
-          "Asset Name": "Vanguard Mid Cap Growth Inv",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "175",
-          "Owner": "Spouse",
-          "Ticker": "VINIX",
-          "Asset Name": "Vanguard Institutional Index I",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "176",
-          "Owner": "Spouse",
-          "Ticker": "VEXAX",
-          "Asset Name": "Vanguard Extended Market Index Admiral",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "177",
-          "Owner": "Spouse",
-          "Ticker": "TPLGX",
-          "Asset Name": "T. Rowe Price Instl Large Cap Core Gr",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "178",
-          "Owner": "Spouse",
-          "Ticker": "DODGX",
-          "Asset Name": "Dodge & Cox Stock",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "179",
-          "Owner": "Spouse",
-          "Ticker": "CRISX",
-          "Asset Name": "CRM Small Cap Value Instl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "06/28/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "180",
-          "Owner": "Spouse",
-          "Ticker": "VEXAX",
-          "Asset Name": "Vanguard Extended Market Index Admiral",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "08/02/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "181",
-          "Owner": "Spouse",
-          "Ticker": "VIEIX",
-          "Asset Name": "Vanguard Extended Market Index Instl",
-          "Transaction Type": "Purchase",
-          "Transaction Date": "08/02/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
-        },
-        {
-          "#": "182",
-          "Owner": "Spouse",
-          "Ticker": "VINIX",
-          "Asset Name": "Vanguard Institutional Index I",
-          "Transaction Type": "Sale (Full)",
-          "Transaction Date": "11/22/2017",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "owner": "Spouse",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWU",
+          "asset-name": "iShares MSCI United Kingdom ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWJ",
+          "asset-name": "iShares MSCI Japan ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EZU",
+          "asset-name": "iShares MSCI Eurozone ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MBB",
+          "asset-name": "iShares MBS ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBK",
+          "asset-name": "Vanguard Small-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBR",
+          "asset-name": "Vanguard Small-Cap Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Short-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PCY",
+          "asset-name": "PowerShares Emerging Markets Sov Dbt ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEI",
+          "asset-name": "iShares 3-7 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corp Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LQD",
+          "asset-name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWL",
+          "asset-name": "iShares MSCI Switzerland Capped ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EPP",
+          "asset-name": "iShares MSCI Pacific ex Japan ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWC",
+          "asset-name": "iShares MSCI Canada ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corp Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PGX",
+          "asset-name": "PowerShares Preferred ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EMLC",
+          "asset-name": "VanEck Vectors JP Morgan EM LC Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWU",
+          "asset-name": "iShares MSCI United Kingdom ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEI",
+          "asset-name": "iShares 3-7 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PCY",
+          "asset-name": "PowerShares Emerging Markets Sov Dbt ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MBB",
+          "asset-name": "iShares MBS ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EZU",
+          "asset-name": "iShares MSCI Eurozone ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Short-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LQD",
+          "asset-name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWJ",
+          "asset-name": "iShares MSCI Japan ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWD",
+          "asset-name": "iShares MSCI Sweden Capped ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWC",
+          "asset-name": "iShares MSCI Canada ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EPP",
+          "asset-name": "iShares MSCI Pacific ex Japan ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWL",
+          "asset-name": "iShares MSCI Switzerland Capped ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBK",
+          "asset-name": "Vanguard Small-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBR",
+          "asset-name": "Vanguard Small-Cap Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CRISX",
+          "asset-name": "CRM Small Cap Value Instl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "Transfer from Venable LLP Retirement Plan and then sold"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DODGX",
+          "asset-name": "Dodge & Cox Stock",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "Transfer from Venable LLP Retirement Plan and then sold"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WEMIX",
+          "asset-name": "Wells Fargo Emerging Growth Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "Transfer from Venable LLP Retirement Plan and then sold"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMGRX",
+          "asset-name": "Vanguard Mid Cap Growth Inv",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/13/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "Transfer from Venable LLP Retirement Plan and then sold"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/05/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EZU",
+          "asset-name": "iShares MSCI Eurozone ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/05/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/24/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/24/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EZU",
+          "asset-name": "iShares MSCI Eurozone ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/24/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "05/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBK",
+          "asset-name": "Vanguard Small-Cap Growth ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "05/17/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LQD",
+          "asset-name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEI",
+          "asset-name": "iShares 3-7 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HYG",
+          "asset-name": "iShares iBoxx $ High Yield Corp Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PCY",
+          "asset-name": "PowerShares Emerging Markets Sov Dbt ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Short-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MBB",
+          "asset-name": "iShares MBS ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EPP",
+          "asset-name": "iShares MSCI Pacific ex Japan ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWU",
+          "asset-name": "iShares MSCI United Kingdom ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWC",
+          "asset-name": "iShares MSCI Canada ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWL",
+          "asset-name": "iShares MSCI Switzerland Capped ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWJ",
+          "asset-name": "iShares MSCI Japan ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EMLC",
+          "asset-name": "VanEck Vectors JP Morgan EM LC Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBK",
+          "asset-name": "Vanguard Small-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBR",
+          "asset-name": "Vanguard Small-Cap Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PGX",
+          "asset-name": "PowerShares Preferred ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DOMIX",
+          "asset-name": "Domini Impact International Equity Inv",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PXSIX",
+          "asset-name": "Pax Small Cap Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PRILX",
+          "asset-name": "Parnassus Core Equity Institutional",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PARWX",
+          "asset-name": "Parnassus Endeavor Investor",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PARMX",
+          "asset-name": "Parnassus Mid-Cap",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CSDYX",
+          "asset-name": "Calvert Short Duration Income Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CIEYX",
+          "asset-name": "Calvert Equity Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CBAYX",
+          "asset-name": "Calvert Balanced Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AVEDX",
+          "asset-name": "Ave Maria Rising Dividend",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PARNX",
+          "asset-name": "Parnassus",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "02/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PARWX",
+          "asset-name": "Parnassus Endeavor Investor",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "02/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CSDYX",
+          "asset-name": "Calvert Short Duration Income Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CIEYX",
+          "asset-name": "Calvert Equity Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CBAYX",
+          "asset-name": "Calvert Balanced Y",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "12/05/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EZU",
+          "asset-name": "iShares MSCI Eurozone ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "12/05/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HEDJ",
+          "asset-name": "WisdomTree Europe Hedged Equity ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "10/24/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EZU",
+          "asset-name": "iShares MSCI Eurozone ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "10/24/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "XLV",
+          "asset-name": "Health Care Select Sector SPDR ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "XLY",
+          "asset-name": "Consumer Discret Sel Sect SPDR ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "09/25/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/24/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EWU",
+          "asset-name": "iShares MSCI United Kingdom ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/23/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VIS",
+          "asset-name": "Vanguard Industrials ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/23/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VGT",
+          "asset-name": "Vanguard Information Technology ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/23/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "XLY",
+          "asset-name": "Consumer Discret Sel Sect SPDR ETF",
+          "transaction-type": "Sale (Partial)",
+          "transaction-date": "01/23/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Short-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/23/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LQD",
+          "asset-name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBR",
+          "asset-name": "Vanguard Small-Cap Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EFA",
+          "asset-name": "iShares MSCI EAFE ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SHM",
+          "asset-name": "SPDR Nuveen Blmbg Barclays ST MunBd ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEI",
+          "asset-name": "iShares 3-7 Year Treasury Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MBB",
+          "asset-name": "iShares MBS ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HYD",
+          "asset-name": "VanEck Vectors High-Yield Municipal ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EMLC",
+          "asset-name": "VanEck Vectors JP Morgan EM LC Bd ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Short-Term Bond ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ITM",
+          "asset-name": "VanEck Vectors AMT-Free Interm Muni ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PZA",
+          "asset-name": "PowerShares National AMT-Free MuniBd ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PCY",
+          "asset-name": "PowerShares Emerging Markets Sov Dbt ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBK",
+          "asset-name": "Vanguard Small-Cap Growth ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "04/28/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BSV",
+          "asset-name": "Vanguard Short-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MBB",
+          "asset-name": "iShares MBS ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TIP",
+          "asset-name": "iShares TIPS Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EFA",
+          "asset-name": "iShares MSCI EAFE ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PCY",
+          "asset-name": "PowerShares Emerging Markets Sov Dbt ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "SHM",
+          "asset-name": "SPDR Nuveen Blmbg Barclays ST MunBd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "PZA",
+          "asset-name": "PowerShares National AMT-Free MuniBd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HYD",
+          "asset-name": "VanEck Vectors High-Yield Municipal ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBK",
+          "asset-name": "Vanguard Small-Cap Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBR",
+          "asset-name": "Vanguard Small-Cap Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VTV",
+          "asset-name": "Vanguard Value ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VUG",
+          "asset-name": "Vanguard Growth ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "LQD",
+          "asset-name": "iShares iBoxx $ Invmt Grade Corp Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "BIV",
+          "asset-name": "Vanguard Interm-Term Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IWD",
+          "asset-name": "iShares Russell 1000 Value ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ITM",
+          "asset-name": "VanEck Vectors AMT-Free Interm Muni ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IWF",
+          "asset-name": "iShares Russell 1000 Growth ETF",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEI",
+          "asset-name": "iShares 3-7 Year Treasury Bond ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "IEMG",
+          "asset-name": "iShares Core MSCI Emerging Markets ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EMLC",
+          "asset-name": "VanEck Vectors JP Morgan EM LC Bd ETF",
+          "transaction-type": "Purchase",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WEMIX",
+          "asset-name": "Wells Fargo Emerging Growth Inst",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TWWIX",
+          "asset-name": "Thomas White International I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HHDTX",
+          "asset-name": "Hancock Horizon Diversified Intl Instl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DUSIX",
+          "asset-name": "Delaware Tax-Free USA Intermediate Instl",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "AEPFX",
+          "asset-name": "American Funds Europacific Growth F2",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "UBVSX",
+          "asset-name": "Undiscovered Managers Behavioral Val I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ASVIX",
+          "asset-name": "American Century Small Cap Value Inv",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "ANOIX",
+          "asset-name": "American Century Small Cap Growth Inv",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MTLIX",
+          "asset-name": "MFS Municipal Limited Maturity I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MEIIX",
+          "asset-name": "MFS Value I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "EILVX",
+          "asset-name": "Eaton Vance Large-Cap Value I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HGOIX",
+          "asset-name": "Hartford Growth Opportunities I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DGAGX",
+          "asset-name": "Dreyfus Appreciation Investor",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "03/03/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "HGOIX",
+          "asset-name": "Hartford Growth Opportunities I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DGAGX",
+          "asset-name": "Dreyfus Appreciation Investor",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DUSIX",
+          "asset-name": "Delaware Tax-Free USA Intermediate Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "MTLIX",
+          "asset-name": "MFS Municipal Limited Maturity I",
+          "transaction-type": "Purchase",
+          "transaction-date": "01/31/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VRIVX",
+          "asset-name": "Vanguard Instl Trgt Retire 2025 Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "11/01/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WEMIX",
+          "asset-name": "Wells Fargo Emerging Growth Inst",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMGRX",
+          "asset-name": "Vanguard Mid Cap Growth Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VINIX",
+          "asset-name": "Vanguard Institutional Index I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VEXAX",
+          "asset-name": "Vanguard Extended Market Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TPLGX",
+          "asset-name": "T. Rowe Price Instl Large Cap Core Gr",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DODGX",
+          "asset-name": "Dodge & Cox Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CRISX",
+          "asset-name": "CRM Small Cap Value Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VEXAX",
+          "asset-name": "Vanguard Extended Market Index Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/02/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VIEIX",
+          "asset-name": "Vanguard Extended Market Index Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/02/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VINIX",
+          "asset-name": "Vanguard Institutional Index I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2017",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VBMFX",
+          "asset-name": "Vanguard Total Bond Market Index Inv",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "NRFYX",
+          "asset-name": "Natixis AEW Real Estate Y",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2017",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SSgA Target Retirement 2025 Fund NL",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SSgA Target Retirement 2030 Fund NL",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SSgA Target Retirement 2035 Fund NL",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "SSgA Target Retirement 2040 Fund NL",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/16/2017",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "WEMIX",
+          "asset-name": "Wells Fargo Emerging Growth Inst",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VMGRX",
+          "asset-name": "Vanguard Mid Cap Growth Inv",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VINIX",
+          "asset-name": "Vanguard Institutional Index I",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VEXAX",
+          "asset-name": "Vanguard Extended Market Index Admiral",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "TPLGX",
+          "asset-name": "T. Rowe Price Instl Large Cap Core Gr",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "DODGX",
+          "asset-name": "Dodge & Cox Stock",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "CRISX",
+          "asset-name": "CRM Small Cap Value Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "06/28/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VEXAX",
+          "asset-name": "Vanguard Extended Market Index Admiral",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "08/02/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VIEIX",
+          "asset-name": "Vanguard Extended Market Index Instl",
+          "transaction-type": "Purchase",
+          "transaction-date": "08/02/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "owner": "Spouse",
+          "ticker": "VINIX",
+          "asset-name": "Vanguard Institutional Index I",
+          "transaction-type": "Sale (Full)",
+          "transaction-date": "11/22/2017",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     },
     {
       "heading": "Part 5. Gifts",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 6. Travel",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Part 7. Liabilities",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Incurred": "2014",
-          "Debtor": "Spouse",
-          "Type": "Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(1 year)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "City National Bank\n\t\t\t\t\t\t\t\tLos Angeles, California",
-          "Comments": "The line of credit has a $0 balance as of 5/15/18."
+          "incurred": "2014",
+          "debtor": "Spouse",
+          "type": "Line of Credit",
+          "points": "-",
+          "rate-term": "3.5%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(1 year)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "City National Bank\n\t\t\t\t\t\t\t\tLos Angeles, California",
+          "comments": "The line of credit has a $0 balance as of 5/15/18."
         },
         {
-          "#": "2",
-          "Incurred": "2013",
-          "Debtor": "Self",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$100,001 - $250,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Self",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$100,001 - $250,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
+          "comments": "-"
         },
         {
-          "#": "3",
-          "Incurred": "2013",
-          "Debtor": "Self",
-          "Type": "Home Equity Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 years)",
-          "Amount": "$15,001 - $50,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
-          "Comments": "-"
+          "incurred": "2013",
+          "debtor": "Self",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "4.75%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(20 years)",
+          "amount": "$15,001 - $50,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
+          "comments": "-"
         },
         {
-          "#": "4",
-          "Incurred": "2016",
-          "Debtor": "Spouse",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "2.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "Over $1,000,000 (asset held independently by spouse or dependent child)",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
-          "Comments": "-"
+          "incurred": "2016",
+          "debtor": "Spouse",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "2.625%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "Over $1,000,000 (asset held independently by spouse or dependent child)",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
+          "comments": "-"
         },
         {
-          "#": "5",
-          "Incurred": "2016",
-          "Debtor": "Spouse",
-          "Type": "Home Equity Line of Credit",
-          "Points": "-",
-          "Rate(Term)": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "$250,001 - $500,000",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
-          "Comments": "The HELOC has a $0 balance as of 5/15/18."
+          "incurred": "2016",
+          "debtor": "Spouse",
+          "type": "Home Equity Line of Credit",
+          "points": "-",
+          "rate-term": "4.25%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "$250,001 - $500,000",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, California",
+          "comments": "The HELOC has a $0 balance as of 5/15/18."
         },
         {
-          "#": "6",
-          "Incurred": "2017",
-          "Debtor": "Spouse",
-          "Type": "Mortgage",
-          "Points": "0",
-          "Rate(Term)": "3.50%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
-          "Amount": "Over $1,000,000 (asset held independently by spouse or dependent child)",
-          "Creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, CA",
-          "Comments": "-"
+          "incurred": "2017",
+          "debtor": "Spouse",
+          "type": "Mortgage",
+          "points": "0",
+          "rate-term": "3.50%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t(30 years)",
+          "amount": "Over $1,000,000 (asset held independently by spouse or dependent child)",
+          "creditor": "Wells Fargo\n\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "comments": "-"
         }
       ]
     },
     {
-      "heading": "Part 8. Positions\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t Amended",
+      "heading": "Part 8. Positions",
+      "amended": true,
       "rows": [
         {
-          "#": "1",
-          "Position Dates": "Oct 2017 to\n\t\t\t\t\t\t\t\tpresent",
-          "Position Held": "Trustee",
-          "Entity": "The KDH/DCE Family Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLos Angeles, CA",
-          "Entity Type": "Trust",
-          "Comments": "None"
+          "position-dates": "Oct 2017 to\n\t\t\t\t\t\t\t\tpresent",
+          "position-held": "Trustee",
+          "entity": "The KDH/DCE Family Trust\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tLos Angeles, CA",
+          "entity-type": "Trust",
+          "comments": "None"
         }
       ]
     },
     {
       "heading": "Part 9. Agreements",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Date": "Oct 2008",
-          "Parties Involved": "Chronicle Books LLC\n\t\t\t\t\t\t\t\tSan Francisco, California",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Royalty for book, \"Smart on Crime: A Prosecutor's Solution for Making the Streets Safer\" (no royalties received in 2017)."
+          "date": "Oct 2008",
+          "parties-involved": "Chronicle Books LLC\n\t\t\t\t\t\t\t\tSan Francisco, California",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Royalty for book, \"Smart on Crime: A Prosecutor's Solution for Making the Streets Safer\" (no royalties received in 2017)."
         },
         {
-          "#": "2",
-          "Date": "Dec 2011",
-          "Parties Involved": "San Francisco Employees' Retirement System\n\t\t\t\t\t\t\t\tSan Francisco, California",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "Defined benefit plan that provides service retirement benefits."
+          "date": "Dec 2011",
+          "parties-involved": "San Francisco Employees' Retirement System\n\t\t\t\t\t\t\t\tSan Francisco, California",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "Defined benefit plan that provides service retirement benefits."
         },
         {
-          "#": "3",
-          "Date": "Dec 2011",
-          "Parties Involved": "City & County of San Francisco 457(b) Deferred Compensation Plan\n\t\t\t\t\t\t\t\tSan Francisco, California",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "457(b) deferred comp plan that provides retirement benefits."
+          "date": "Dec 2011",
+          "parties-involved": "City & County of San Francisco 457(b) Deferred Compensation Plan\n\t\t\t\t\t\t\t\tSan Francisco, California",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "457(b) deferred comp plan that provides retirement benefits."
         },
         {
-          "#": "4",
-          "Date": "Jan 2017",
-          "Parties Involved": "State of California Savings Plus 457(b) Plan\n\t\t\t\t\t\t\t\tSacramento, California",
-          "Type": "Continuing participation in an employee benefit plan",
-          "Status and Terms": "457(b) deferred comp plan that provides retirement benefits."
+          "date": "Jan 2017",
+          "parties-involved": "State of California Savings Plus 457(b) Plan\n\t\t\t\t\t\t\t\tSacramento, California",
+          "type": "Continuing participation in an employee benefit plan",
+          "status-and-terms": "457(b) deferred comp plan that provides retirement benefits."
         },
         {
-          "#": "5",
-          "Date": "Apr 2018",
-          "Parties Involved": "Penguin Press\n\t\t\t\t\t\t\t\tNew York, NY",
-          "Type": "Royalty Agreement",
-          "Status and Terms": "Agreement to receive book advance and royalty payments based on usual and customary terms for publication of a non-fiction book."
+          "date": "Apr 2018",
+          "parties-involved": "Penguin Press\n\t\t\t\t\t\t\t\tNew York, NY",
+          "type": "Royalty Agreement",
+          "status-and-terms": "Agreement to receive book advance and royalty payments based on usual and customary terms for publication of a non-fiction book."
         }
       ]
     },
     {
       "heading": "Part 10. Compensation",
+      "amended": false,
       "rows": []
     },
     {
       "heading": "Attachments & Comments",
+      "amended": false,
       "rows": []
     }
   ]

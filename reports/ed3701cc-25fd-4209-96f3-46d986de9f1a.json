@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 03/06/2018",
   "filer": "The Honorable Susan M Collins (Collins, Susan M.)",
-  "filedDate": "Filed 03/06/2018 @ 6:32 PM",
+  "filed-date": "03/06/2018",
+  "filed-time": "6:32 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "02/01/2018",
-          "Owner": "Spouse",
-          "Ticker": "--",
-          "Asset Name": "Wisconsin ST\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.550% Matures: 05/01/2024",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$50,001 - $100,000",
-          "Comment": "--"
+          "transaction-date": "02/01/2018",
+          "owner": "Spouse",
+          "ticker": "--",
+          "asset-name": "Wisconsin ST\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 2.550% Matures: 05/01/2024",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$50,001 - $100,000",
+          "comment": "--"
         }
       ]
     }

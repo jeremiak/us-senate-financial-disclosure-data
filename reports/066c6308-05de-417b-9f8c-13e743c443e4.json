@@ -1,21 +1,25 @@
 {
+  "type": "periodic transaction",
   "title": "Periodic Transaction Report for 05/16/2016",
   "filer": "The Honorable Gary C Peters (Peters, Gary)",
-  "filedDate": "Filed 05/16/2016 @ 5:45 PM",
+  "filed-date": "05/16/2016",
+  "filed-time": "5:45 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
   "data": [
     {
       "heading": "Transactions",
+      "amended": false,
       "rows": [
         {
-          "#": "1",
-          "Transaction Date": "05/03/2016",
-          "Owner": "Self",
-          "Ticker": "--",
-          "Asset Name": "CHIPPEWA OHIO LOC SCH DIST CLASSROOM FACS & SCH IMPT-SER 1 OHIO ST AID INTERCEPT PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 11/01/2042",
-          "Asset Type": "Municipal Security",
-          "Type": "Purchase",
-          "Amount": "$1,001 - $15,000",
-          "Comment": "--"
+          "transaction-date": "05/03/2016",
+          "owner": "Self",
+          "ticker": "--",
+          "asset-name": "CHIPPEWA OHIO LOC SCH DIST CLASSROOM FACS & SCH IMPT-SER 1 OHIO ST AID INTERCEPT PROG\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 3.00% Matures: 11/01/2042",
+          "asset-type": "Municipal Security",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
         }
       ]
     }
