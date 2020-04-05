@@ -1,0 +1,47 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 02/17/2017",
+  "filer": "The Honorable Thomas R Tillis (Tillis, Thom)",
+  "filed-date": "02/17/2017",
+  "filed-time": "9:31 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "02/03/2017",
+          "owner": "Joint",
+          "ticker": "AQFH",
+          "asset-name": "Aquesta Financial Holdings, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/01/2017",
+          "owner": "Joint",
+          "ticker": "AQFH",
+          "asset-name": "Aquesta Financial Holdings, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/26/2017",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "AQFH-Aquesta Financial Holdings, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}

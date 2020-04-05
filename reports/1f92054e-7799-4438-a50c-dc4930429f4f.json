@@ -1,0 +1,97 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 02/13/2018",
+  "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
+  "filed-date": "02/13/2018",
+  "filed-time": "11:42 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "01/08/2018",
+          "owner": "Spouse",
+          "ticker": "C",
+          "asset-name": "Citigroup Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/08/2018",
+          "owner": "Spouse",
+          "ticker": "WMT",
+          "asset-name": "Walmart Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/08/2018",
+          "owner": "Joint",
+          "ticker": "BIIB",
+          "asset-name": "Biogen Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/17/2018",
+          "owner": "Joint",
+          "ticker": "V",
+          "asset-name": "Visa Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/17/2018",
+          "owner": "Joint",
+          "ticker": "COST",
+          "asset-name": "Costco Wholesale Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/31/2018",
+          "owner": "Joint",
+          "ticker": "GE",
+          "asset-name": "General Electric Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/17/2018",
+          "owner": "Self",
+          "ticker": "V",
+          "asset-name": "Visa Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "01/17/2018",
+          "owner": "Self",
+          "ticker": "USB",
+          "asset-name": "U.S. Bancorp",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}

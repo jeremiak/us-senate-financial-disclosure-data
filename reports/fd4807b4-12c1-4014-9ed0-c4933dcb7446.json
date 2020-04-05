@@ -1,0 +1,47 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 06/11/2018",
+  "filer": "Ms. Tina Smith (Smith, Tina)",
+  "filed-date": "06/11/2018",
+  "filed-time": "10:46 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "06/01/2018",
+          "owner": "Spouse",
+          "ticker": "TCMD",
+          "asset-name": "Tactile Systems Technology, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset held in Charles Schwab - Rollover IRA"
+        },
+        {
+          "transaction-date": "06/01/2018",
+          "owner": "Spouse",
+          "ticker": "TCMD",
+          "asset-name": "Tactile Systems Technology, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$100,001 - $250,000",
+          "comment": "Asset held in Truchas Capital 401K Plan"
+        },
+        {
+          "transaction-date": "06/01/2018",
+          "owner": "Spouse",
+          "ticker": "PODD",
+          "asset-name": "Insulet Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$100,001 - $250,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}

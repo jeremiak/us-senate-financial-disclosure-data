@@ -1,0 +1,67 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 12/21/2018",
+  "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
+  "filed-date": "12/21/2018",
+  "filed-time": "5:10 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "11/19/2018",
+          "owner": "Joint",
+          "ticker": "F",
+          "asset-name": "Ford Motor Company",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/19/2018",
+          "owner": "Joint",
+          "ticker": "KHC",
+          "asset-name": "The Kraft Heinz Company",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/19/2018",
+          "owner": "Joint",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/19/2018",
+          "owner": "Self",
+          "ticker": "IBM",
+          "asset-name": "International Business Machines Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "11/29/2018",
+          "owner": "Self",
+          "ticker": "AET\n                                        \n                                        \n                                            \n                                            CVS",
+          "asset-name": "Aetna Inc. (Exchanged)\n                                            \n                                            CVS Health Corporation (Received)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}

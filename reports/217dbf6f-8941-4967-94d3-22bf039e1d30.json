@@ -1,0 +1,87 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 01/11/2017",
+  "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
+  "filed-date": "01/11/2017",
+  "filed-time": "12:33 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "12/13/2016",
+          "owner": "Spouse",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2016",
+          "owner": "Joint",
+          "ticker": "GS",
+          "asset-name": "The Goldman Sachs Group, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/23/2016",
+          "owner": "Joint",
+          "ticker": "GILD",
+          "asset-name": "Gilead Sciences Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/23/2016",
+          "owner": "Joint",
+          "ticker": "PSA",
+          "asset-name": "Public Storage",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/23/2016",
+          "owner": "Joint",
+          "ticker": "BIIB",
+          "asset-name": "Biogen Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/13/2016",
+          "owner": "Self",
+          "ticker": "BIIB",
+          "asset-name": "Biogen Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/23/2016",
+          "owner": "Self",
+          "ticker": "AMGN",
+          "asset-name": "Amgen Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}

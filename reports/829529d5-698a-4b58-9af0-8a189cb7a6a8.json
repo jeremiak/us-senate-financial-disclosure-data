@@ -1,0 +1,67 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 03/31/2020",
+  "filer": "Mrs. Kelly Loeffler (Loeffler, Kelly)",
+  "filed-date": "03/31/2020",
+  "filed-time": "10:58 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "03/11/2020",
+          "owner": "Spouse",
+          "ticker": "ICE",
+          "asset-name": "Intercontinental Exchange, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "Shares sold through a 10b5-1 plan, which is an SEC compliant pre-determined plan"
+        },
+        {
+          "transaction-date": "02/26/2020",
+          "owner": "Spouse",
+          "ticker": "ICE",
+          "asset-name": "Intercontinental Exchange, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "Sale of exercised options and shares received as compensation; shares sold through a 10b5-1 plan, which is an SEC compliant pre determined plan"
+        },
+        {
+          "transaction-date": "02/26/2020",
+          "owner": "Spouse",
+          "ticker": "ICE",
+          "asset-name": "Intercontinental Exchange, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,000,001 - $5,000,000",
+          "comment": "Partial exercise of stock options"
+        },
+        {
+          "transaction-date": "03/11/2020",
+          "owner": "Self",
+          "ticker": "ICE",
+          "asset-name": "Intercontinental Exchange, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "Sale of exercised options (sold to cover taxes and cost of prior exercise of options); shares sold through a 10b5-1 plan, which is an SEC compliant pre-determined plan"
+        },
+        {
+          "transaction-date": "02/18/2020",
+          "owner": "Self",
+          "ticker": "ICE",
+          "asset-name": "Intercontinental Exchange, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$5,000,001 - $25,000,000",
+          "comment": "Exercise of stock options prior to expiration date"
+        }
+      ]
+    }
+  ]
+}

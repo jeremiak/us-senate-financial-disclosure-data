@@ -1,0 +1,47 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 11/15/2018",
+  "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
+  "filed-date": "11/15/2018",
+  "filed-time": "10:05 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "10/25/2018",
+          "owner": "Spouse",
+          "ticker": "LRCX",
+          "asset-name": "Lam Research Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/23/2018",
+          "owner": "Joint",
+          "ticker": "--",
+          "asset-name": "AT&T, INC\n                                        \n                                        \n                                        \n                                            Rate/Coupon: 5.8% Matures: 02/15/2019",
+          "asset-type": "Corporate Bond",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "10/23/2018",
+          "owner": "Joint",
+          "ticker": "NVDA",
+          "asset-name": "NVIDIA Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}
