@@ -1,0 +1,37 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 03/31/2020",
+  "filer": "The Honorable Sheldon Whitehouse (Whitehouse, Sheldon)",
+  "filed-date": "03/31/2020",
+  "filed-time": "9:20 AM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "02/13/2020",
+          "owner": "Self",
+          "ticker": "WM",
+          "asset-name": "Waste Management, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Full)",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "02/13/2020",
+          "owner": "Self",
+          "ticker": "DLR",
+          "asset-name": "Digital Realty Trust, Inc.",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$15,001 - $50,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}
