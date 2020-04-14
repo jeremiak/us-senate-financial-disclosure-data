@@ -1,0 +1,4014 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+            <title>eFD: 
+	Annual Report for 2017 -
+	
+		Cardin,
+	
+	
+		Benjamin
+	
+
+	
+		L
+	
+</title>
+            <meta name="robots" content="noindex">
+            <meta charset="utf-8">
+            <meta content="IE=edge" http-equiv="X-UA-Compatible">
+            <meta content="width=device-width, initial-scale=1" name="viewport">
+
+            
+	<style type="text/css">
+		.txtLogo {
+			display: none;
+		}
+	</style>
+
+
+
+            
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/bootstrap-custom/theme-starter-site.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/fontawesome/css/font-awesome.min.css">
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" integrity="sha384-rHEtTzUO+F6AxgVJs86ZaDoE9sm0tDz/xaSt1ohRCJoeu4gkMIUvcA4cnm60Em/k" crossorigin="anonymous">
+
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/main.css">
+<link type="text/css" rel="stylesheet" media="all" href="/static/css/carousel.css">
+<link type="text/css" rel="stylesheet" media="print" href="/static/css/print.css">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/static/scripts/jquery-ui/js/jquery-ui-1.9.2.custom.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" integrity="sha384-NHtbx1Hf6ctHNdZmU28YfhGjB63gcU1YU64ttM+c0RxMKNBj67j+N/axpqTfdffo" crossorigin="anonymous"></script>
+
+<script src="/static/scripts/popper.min.js" type="text/javascript"></script>
+<script src="/static/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+<script src="/static/scripts/jquery/jquery.placeholder.js"></script>
+<script src="/static/scripts/jquery/jquery.dPassword.js"></script>
+<script src="/static/scripts/jquery/modernizr.js"></script>
+<script src="/static/scripts/jquery/jquery.cooke.js"></script>
+<script src="/static/browser-detect.js"></script>
+
+<script>
+    $(document).ready( function(){
+        if(!Modernizr.input.placeholder){
+            $('[placeholder]').focus(function() {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function() {
+                        var input = $(this);
+                        if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                            input.addClass('placeholder');
+                            input.val(input.attr('placeholder'));
+                        }
+                    }).blur();
+            $('[placeholder]').parents('form').submit(function() {
+                $(this).find('[placeholder]').each(function() {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+        }
+
+
+        //Popovers
+
+        //Initializes popovers and provides target containers
+        var i = 0;
+        $(document).find('[data-toggle="popover"]').each(function(){;
+            var popoverCount = 'popover'+i;
+            i++;
+            $(this).parent().addClass(popoverCount);
+            var popoverContainer = '.' + popoverCount;
+            $(this).popover({ container: popoverContainer});
+          });
+
+        //Hides popover if you click/touch away from it
+        $(document).on('click touchstart', function (e) {
+            $('[data-toggle="popover"],[data-original-title]').each(function () {
+                if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+                    (($(this).popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+                }
+            });
+        });
+
+        //Hides popover if press Esc
+        $(document).keydown(function (e) {
+            if (e.which === 27 && $(this).has('.popover')) {
+                $('.popover').popover('hide');
+            }
+        });
+
+        //Hides popover if you press close
+        $(document).click(function() {
+            $('button.close').click(function() {
+                $('.popover').popover('hide');
+            });
+        });
+    });
+
+
+</script>
+
+<script>
+    if (window.location.pathname != '/incompatible-browser/')
+    {
+        if (BrowserDetect.browser == "Explorer" && parseInt(BrowserDetect.version, 10) < 11 ||
+            BrowserDetect.browser == "Chrome" && parseInt(BrowserDetect.version, 10) < 36 ||
+            BrowserDetect.browser == "Safari" && parseInt(BrowserDetect.version, 10) < 7 ||
+            BrowserDetect.browser == "Firefox" && parseInt(BrowserDetect.version, 10) < 31)
+        {
+           window.location.replace("/incompatible-browser/");
+        }
+    }
+</script>
+
+
+            
+
+
+
+        </head>
+
+        <body>
+            <div class="container-wrap" id="top">
+                <header class="container-fluid d-print-block txtLogo ">
+                    <small>United States Senate</small><br>
+                    Financial Disclosures
+                </header>
+                <nav class="navbar navbar-expand-lg navbar-light fixed-top d-print-none">
+                    <a href="#content" class="sr-only sr-only-focusable" tabindex="0">Skip to main content</a>
+
+                    <div class="navbar-brand" id="x"><img src="/static/images/logo.svg" alt="U.S. Senate Financial Disclosure logo"></div>
+                    <button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarContent">
+                        
+                            <ul class="navbar-nav" role="navigation">
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/search/">
+                                        <i class="fa fa-search fa-fw fa-lg" aria-hidden="true"></i>
+                                        Find Reports
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        
+                        <ul class="navbar-nav justify-content-end accountNav" role="navigation">
+                            
+                        </ul>
+                    </div>
+                </nav>
+                <main class="container-fluid pgContent" id="content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <!--Message Block-->
+                            
+    
+    
+    <div class="alert alert-danger" id="genericErrorMessageDiv" role="alert" aria-live="assertive" aria-relevant="all" style="display:none;">
+       <i class="fa fa-warning" title="Warning" aria-label="Warning"></i> <span id="genericErrorMessage"></span>
+    </div>
+
+                            <!--End Message Block-->
+
+                            
+	<style type="text/css">
+		.navbar-nav {
+			display: none;
+		}
+	</style>
+	<strong class="d-print-none return-search">
+		Return to the search tab to select another report.
+	</strong>
+	<div class="justify-content-between">
+		<div>
+			<h1 class="mb-2">
+				
+					Annual
+				
+					Report for
+				
+				Calendar 2017 
+				
+				
+			</h1>
+			<h2 class="filedReport">
+				
+					The Honorable
+				
+
+				
+					Benjamin
+				
+
+				
+					L
+				
+
+				
+					Cardin
+				
+
+				
+
+				
+					
+						(Cardin, Benjamin L.)
+					
+				
+			</h2>
+			
+			<p class="muted font-weight-bold">
+				<i class="fa fa-folder-open"></i>
+				Filed 05/15/2018 @ 7 AM
+			</p>
+		</div>
+		<div>
+            <span class="d-print-none">
+                <a href="javascript:window.print()" class="btn btn-primary"><i class="fa fa-print mr-1" aria-hidden="true"></i> Print Report</a>
+            </span>
+		</div>
+	</div>
+
+	<hr>
+
+	<p>The following statements were checked before filing:</p>
+
+	<div class="mb-4">
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_certified" disabled="disabled" checked="checked" class="form-check-input">
+			I certify that the statements I have made on this form are true, complete and correct to the best of my knowledge and belief.
+		</label>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_cannot_be_edited" disabled="disabled" checked="checked" class="form-check-input">
+			I understand that reports cannot be edited once filed. To make corrections, I will submit an
+			<em>electronic</em> amendment to this report.
+		</label>
+		<hr>
+		<label class="form-check-label">
+			<input type="checkbox" name="filing_omitted_assets" disabled="disabled" class="form-check-input">
+			I
+			<em>omitted</em> assets because they meet the three-part test for exemption.
+		</label>
+	</div>
+
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Part 1. Honoraria Payments or Payments to Charity in Lieu of Honoraria
+				
+			</h3>
+			<p>
+				Did any individual or organization pay you or your spouse more than $200 or donate any amount to a charity on your behalf, for an article, speech, or appearance?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 2. Earned and Non-Investment Income
+				
+			</h3>
+			<p>
+				Did you or your spouse have reportable earned income or non-investment income?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of payments added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Who Was Paid</th>
+						<th scope="col">Type</th>
+						<th scope="col">Who Paid</th>
+						<th scope="col">Amount Paid</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Self
+
+							</td>
+							<td>
+								Pension
+								
+								
+							</td>
+							<td>
+								State of Maryland<br>
+								<div class="muted">Annapolis, Md</div>
+							</td>
+							
+								<td>$6,059.00</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								Spouse
+
+							</td>
+							<td>
+								Other
+								<br>
+									<div class="muted">(MRD - IRA)</div>
+								
+							</td>
+							<td>
+								IRA, Wells Fargo Advisors<br>
+								<div class="muted">Baltimore, Md</div>
+							</td>
+							
+								<td> &gt; $1,000</td>
+							
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								Self
+
+							</td>
+							<td>
+								Other
+								<br>
+									<div class="muted">(MRD - IRA)</div>
+								
+							</td>
+							<td>
+								IRA - Wells Fargo Advisors<br>
+								<div class="muted">Baltimore, Maryland</div>
+							</td>
+							
+								<td>$37,704.00</td>
+							
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 3. Assets
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child own any asset worth more than $1000, have a deposit account with a balance over $5,000, or receive income of more than $200 from an asset?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table id="grid_items" class="table dataTable">
+					<caption class="sr-only">List of assets added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">Asset</th>
+						<th scope="col">Asset Type</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Value</th>
+						<th scope="col">Income Type</th>
+						<th scope="col">Income</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=LBSAX" target="_blank">LBSAX</a> - Columbia Dividend Income A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>2</td>
+							<td class="span4"><strong class="marginit-right">CHTRX-Invesco Charter A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>3</td>
+							<td class="span4"><strong>Congressional Credit Union</strong><div class="muted noWrap">(Washington, DC)</div><div class="muted"><div class="muted"><em>Type: </em>Checking, Savings, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>4</td>
+							<td class="span4"><strong>Wells Fargo Advisors</strong><div class="muted noWrap">(Baltimore, Md)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>5</td>
+							<td class="span4"><strong class="marginit-right">SBI-Western Asset Intermediate Muni (AMEX)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>6</td>
+							<td class="span4"><strong>Wells Fargo Advisors</strong><div class="muted noWrap">(Baltimore, Md)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>7</td>
+							<td class="span4"><strong class="marginit-right">LBSAX-Columbia Dividend Income A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CVTCX" target="_blank">CVTCX</a> - Calamos Growth &amp; Income C (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$5,001 - $15,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>9</td>
+							<td class="span4"><strong class="marginit-right">CPOAX-Morgan Stanley Multi Cap Growth A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>10</td>
+							<td class="span4"><strong class="marginit-right">AEGFX-American Funds EuroPacific Gr F1 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>11</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=TWTIX" target="_blank">TWTIX</a> - American Century IntermTrm Tx-Fr Bd Inv (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>12</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=BEGBX" target="_blank">BEGBX</a> - American Century International Bd Inv (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>13</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=BGRFX" target="_blank">BGRFX</a> - Baron Growth Retail (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>14</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=WBIGX" target="_blank">WBIGX</a> - William Blair International Growth N (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>15</td>
+							<td class="span4"><strong class="marginit-right">AFIFX-American Funds Fundamental Invs F1 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>16</td>
+							<td class="span4"><strong class="marginit-right">GFAFX-American Funds Growth Fund of Amer F1 (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>17</td>
+							<td class="span4"><strong class="marginit-right">HCAIX-Harbor Capital Appreciation Inv (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>18</td>
+							<td class="span4"><strong class="marginit-right">PAVLX-T. Rowe Price Value Adv (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>19</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=RYPRX" target="_blank">RYPRX</a> - Royce Premier Invmt (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20</td>
+							<td class="span4"><strong class="marginit-right">Meyer M. Cardin Trust</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Filer comment:  </em>A trust established by filer's father for the benefit of filer and spouse during their lifetime with remainderman interest to filer's children</div></td>
+							<td>Trust<div class="muted">General Trust</div></td>
+							<td>Joint</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.1</td>
+							<td class="span4"><strong class="marginit-right">Baltimore Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 2.25% <br> <em>Matures:</em> 8/1/29</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.2</td>
+							<td class="span4"><strong class="marginit-right">Baltimore Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 2/1/31</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.3</td>
+							<td class="span4"><strong class="marginit-right">Montgomery Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 7/1/28</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.4</td>
+							<td class="span4"><strong class="marginit-right">Montgomery Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 8/1/20</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.5</td>
+							<td class="span4"><strong class="marginit-right">Carroll Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4.25% <br> <em>Matures:</em> 11/1/22</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.6</td>
+							<td class="span4"><strong class="marginit-right">Washington Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 3.5% <br> <em>Matures:</em> 1/1/23</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.7</td>
+							<td class="span4"><strong class="marginit-right">Washington Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 7/1/28</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.8</td>
+							<td class="span4"><strong class="marginit-right">Worcester Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 10/1/19</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.9</td>
+							<td class="span4"><strong class="marginit-right">Howard Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 2/15/37</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.10</td>
+							<td class="span4"><strong class="marginit-right">Anne Arundel Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 3.25% <br> <em>Matures:</em> 4/1/31</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.11</td>
+							<td class="span4"><strong class="marginit-right">Anne Arundel Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 4/1/26</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.12</td>
+							<td class="span4"><strong class="marginit-right">Charles Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 5.375% <br> <em>Matures:</em> 2/1/24</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.13</td>
+							<td class="span4"><strong class="marginit-right">Frederick Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 8/1/29</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.14</td>
+							<td class="span4"><strong class="marginit-right">Cecil Co., Md. Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 11/1/22</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Interest, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.15</td>
+							<td class="span4"><strong>Wells Fargo Advisors</strong><div class="muted noWrap">(Baltimore, Md.)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.16</td>
+							<td class="span4"><strong class="marginit-right">First Trust Select DSIP</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.17</td>
+							<td class="span4"><strong class="marginit-right">Invesco Global 45 Dividend 2016 C</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$1,001 - $2,500</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.18</td>
+							<td class="span4"><strong class="marginit-right">Invesco Global 45 Dividend 2016 4C</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.19</td>
+							<td class="span4"><strong class="marginit-right">Invesco Global 45 Dividend Fund 2016 1</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$2,501 - $5,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.20</td>
+							<td class="span4"><strong class="marginit-right">First Trust Select DSIP 2017</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.21</td>
+							<td class="span4"><strong class="marginit-right">Invesco Global 45 Dividend 2017 4C</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>20.22</td>
+							<td class="span4"><strong class="marginit-right">Invesco Global 45 Dividend Fund 17-2</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Joint</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>$201 - $1,000</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21</td>
+							<td class="span4"><strong class="marginit-right">Minnesota Life Variable Life Ins</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Filer comment:  </em>Values represent cash value. Investments directed by agent.</div></td>
+							<td>Life Insurance<div class="muted">Variable</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.1</td>
+							<td class="span4"><strong class="marginit-right">Advantus Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.2</td>
+							<td class="span4"><strong class="marginit-right">Ivy VIP Int Core</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.3</td>
+							<td class="span4"><strong class="marginit-right">Advantus Index 400 MidCap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.4</td>
+							<td class="span4"><strong class="marginit-right">Advantus Real Estate Security</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.5</td>
+							<td class="span4"><strong class="marginit-right">Templeton Develpment Market Security</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.6</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IFVEX" target="_blank">IFVEX</a> - G Fidelity VIP Equity-Income Po (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.7</td>
+							<td class="span4"><strong class="marginit-right">SFT Ivy Growth Fund</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.8</td>
+							<td class="span4"><strong class="marginit-right">SFT Ivy Small Growth Fund</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.9</td>
+							<td class="span4"><strong class="marginit-right">Ivy VIP High Income Fund</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.10</td>
+							<td class="span4"><strong class="marginit-right">Oppenheimer Int Growth</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>21.11</td>
+							<td class="span4"><strong class="marginit-right">Guaranteed Principal Account (Minnesota Life)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Stable Value Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>22</td>
+							<td class="span4"><strong class="marginit-right">USF &amp; G Life Insuance Co. - Cash Value</strong><div class="muted"><em>Provider:</em> USF &amp; G Life Insurance Co.&nbsp;</div></td>
+							<td>Life Insurance<div class="muted">Whole</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>23</td>
+							<td class="span4"><strong class="marginit-right">Venture BG, LLC</strong><div class="muted"><em>Company:</em> Venture BG, LLC (Baltimore, Md)&nbsp;<em>Description:</em>&nbsp;Real Estate&nbsp;<em>Filer comment:  </em>See "Attachments and Comments"; evaluation based on cap rate of rental income less debt; Capital Account negative;  income as reflected K1.</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$250,001 - $500,000</td>
+							<td>Rent/Royalties, Interest, Other, (Distribution)</td>
+							<td>$5,001 - $15,000<br>Other $6,000.00</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>24</td>
+							<td class="span4"><strong class="marginit-right">Maryland College Investment Plan</strong><div class="muted"><em>Institution:</em> College Savings Plans of Maryland</div><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>24.1</td>
+							<td class="span4"><strong class="marginit-right">Portfolio 2018</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>24.2</td>
+							<td class="span4"><strong class="marginit-right">Portfolio 2021</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>25</td>
+							<td class="span4"><strong class="marginit-right">Maryland College Investment Plan</strong><div class="muted"><em>Institution:</em> College Savings Plans of Maryland</div><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Education Savings Plans<div class="muted">529 College Savings Plan</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>25.1</td>
+							<td class="span4"><strong class="marginit-right">Portfolio 2018</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>25.1</td>
+							<td class="span4"><strong class="marginit-right">Portfolio 2021</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>26</td>
+							<td class="span4"><strong class="marginit-right">TIAA-Cref Retirement Plan  - TIAA Traditional (Annuity)</strong><div class="muted"><em>Provider:</em> TIAA - Cref&nbsp;<em>Filer comment:  </em> TIAA Traditional converted to Annuity on 11/7/13.  No income reported in Section 2 since less than $1000. </div></td>
+							<td>Annuity<div class="muted">Fixed</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27</td>
+							<td class="span4"><strong class="marginit-right">IRA - Wells Fargo Advisors</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"><em>Filer comment:  </em>Includes rollover from TIAA - Cref Retirement Plan and Deferred Compensation Plan</div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Spouse</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.1</td>
+							<td class="span4"><strong class="marginit-right">XLE-Energy Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.2</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLF" target="_blank">XLF</a> - Financial Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.3</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLI" target="_blank">XLI</a> - Industrial Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AGZ" target="_blank">AGZ</a> - iShares Agency Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PFF" target="_blank">PFF</a> - iShares US Preferred Stock</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.6</td>
+							<td class="span4"><strong class="marginit-right">IEF-iShares 7-10 Year Treasury Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=EMB" target="_blank">EMB</a> - iShares JPMorgan USD Emerg Markets Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.8</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=MBB" target="_blank">MBB</a> - iShares MBS</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.9</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=TIP" target="_blank">TIP</a> - iShares TIPS Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.10</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PCY" target="_blank">PCY</a> - PowerShares Emerging Mkts Sovereign Debt</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.11</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLK" target="_blank">XLK</a> - Technology Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.12</td>
+							<td class="span4"><strong class="marginit-right">XLP-Consumer Staples Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.13</td>
+							<td class="span4"><strong class="marginit-right">XLB-Materials Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.14</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLV" target="_blank">XLV</a> - Health Care Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.15</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLY" target="_blank">XLY</a> - Consumer Discret Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.16</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=JNK" target="_blank">JNK</a> - SPDR Barclays High Yield Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.17</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VEA" target="_blank">VEA</a> - Vanguard FTSE Developed Markets ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.18</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VCIT" target="_blank">VCIT</a> - Vanguard Interm-Tm Corp Bd Idx ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.19</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a> - Vanguard Emerging Markets Stock Idx ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.20</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VNQ" target="_blank">VNQ</a> - Vanguard REIT Index ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.21</td>
+							<td class="span4"><strong>Wells Fargo Advisors</strong><div class="muted noWrap">(Baltimore, Md)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.22</td>
+							<td class="span4"><strong class="marginit-right">Israel Bond</strong><div class="muted"><em>Rate/Coupon:</em> 1.83 <br> <em>Matures:</em> 2/1/17</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Spouse</td>
+							<td>None (or less than $1,001)</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.23</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IJH" target="_blank">IJH</a> - iShares Core S&amp;P Mid-Cap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.24</td>
+							<td class="span4"><strong class="marginit-right">IJR-iShares Core S&amp;P Small-Cap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.25</td>
+							<td class="span4"><strong class="marginit-right">AGG-iShares Core US Aggregate Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.26</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=XLRE" target="_blank">XLRE</a> - Real Estate Select Sector SPDR</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.27</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IWM" target="_blank">IWM</a> - iShares Russell 2000 ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.28</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IVV" target="_blank">IVV</a> - iShares Core S&amp;P 500 ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.29</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=RWO" target="_blank">RWO</a> - SPDR Dow Jones Global Real Estate ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Spouse</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>27.30</td>
+							<td class="span4"><strong class="marginit-right">Israel Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 02/01/27</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>28</td>
+							<td class="span4"><strong class="marginit-right">Israel Bond</strong><div class="muted"><em>Rate/Coupon:</em> 3.9963% <br> <em>Matures:</em> 4/1/18</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Other, (OID)</td>
+							<td><br>Other $103.00</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>29</td>
+							<td class="span4"><strong class="marginit-right">Israel Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 1/1/20</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Joint</td>
+							<td>$1,001 - $15,000</td>
+							<td>Interest, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30</td>
+							<td class="span4"><strong class="marginit-right">IRA - Wells Fargo Advisors</strong><div class="addUnderlyingAssets noWrap"></div><div class="muted"></div></td>
+							<td>Retirement Plans<div class="muted">IRA</div></td>
+							<td>Self</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.1</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PRTNX" target="_blank">PRTNX</a> - PIMCO Real Return A (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$1,001 - $15,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.2</td>
+							<td class="span4"><strong>Wells Fargo Advisors</strong><div class="muted noWrap">(Baltimore, Md)</div><div class="muted"><div class="muted"><em>Type: </em>Brokerage Sweep Account, </div></div></td>
+							<td>Bank Deposit</td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.3</td>
+							<td class="span4"><strong class="marginit-right">Israel Bond</strong><div class="muted"><em>Rate/Coupon:</em> 1.83 <br> <em>Matures:</em> 2/1/17</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.4</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IGOV" target="_blank">IGOV</a> - iShares International Treasury Bond (NASDAQ)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.5</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=IEF" target="_blank">IEF</a> - iShares 7-10 Year Treasury Bond (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.6</td>
+							<td class="span4"><strong class="marginit-right">SHY-iShares 1-3 Year Treasury Bond (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.7</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=CIU" target="_blank">CIU</a> - iShares Intermediate Credit Bond (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.8</td>
+							<td class="span4"><strong class="marginit-right">CSJ-iShares 1-3 Year Credit Bond (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.9</td>
+							<td class="span4"><strong class="marginit-right">TLT-iShares 20+ Year Treasury Bond (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.10</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=EMB" target="_blank">EMB</a> - iShares JPMorgan USD Emerg Markets Bond (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.11</td>
+							<td class="span4"><strong class="marginit-right">IJJ-iShares S&amp;P Mid-Cap 400 Value (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.12</td>
+							<td class="span4"><strong class="marginit-right">IJK-iShares S&amp;P Mid-Cap 400 Growth (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.13</td>
+							<td class="span4"><strong class="marginit-right">IVW-iShares S&amp;P 500 Growth (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.14</td>
+							<td class="span4"><strong class="marginit-right">IVE-iShares S&amp;P 500 Value (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.15</td>
+							<td class="span4"><strong class="marginit-right">DBC-PowerShares DB Commodity Tracking ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.16</td>
+							<td class="span4"><strong class="marginit-right">JNK-SPDR Barclays High Yield Bond ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.17</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VEA" target="_blank">VEA</a> - Vanguard FTSE Developed Markets ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.18</td>
+							<td class="span4"><strong class="marginit-right">VWO-Vanguard FTSE Emerging Markets ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.19</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VNQ" target="_blank">VNQ</a> - Vanguard REIT ETF (NYSEArca)</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.20</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=VNQI" target="_blank">VNQI</a> - Vanguard Global ex-US Real Estate ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.21</td>
+							<td class="span4"><strong class="marginit-right">IJH-iShares Core S&amp;P Mid-Cap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.22</td>
+							<td class="span4"><strong class="marginit-right">IJR-iShares Core S&amp;P Small-Cap</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>None (or less than $1,001)</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.23</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=AGG" target="_blank">AGG</a> - iShares Core US Aggregate Bond</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$100,001 - $250,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.24</td>
+							<td class="span4"><strong class="marginit-right">Israel Bond</strong><div class="muted"><em>Rate/Coupon:</em> 4% <br> <em>Matures:</em> 02/01/27</div><div class="muted"></div></td>
+							<td>Government Securities<div class="muted">Municipal Security</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>None, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.25</td>
+							<td class="span4"><strong class="marginit-right">IWM-iShares Russell 2000 ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$50,001 - $100,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>30.26</td>
+							<td class="span4"><strong class="marginit-right"><a href="http://finance.yahoo.com/q?s=PDBC" target="_blank">PDBC</a> - PowerShares Optm Yd DvrsCdtySrt NoK1 ETF</strong><div class="muted"></div></td>
+							<td>Mutual Funds<div class="muted">Mutual Fund</div></td>
+							<td>Self</td>
+							<td>$15,001 - $50,000</td>
+							<td>Excepted Investment Fund, </td>
+							<td>None (or less than $201)</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>31</td>
+							<td class="span4"><strong class="marginit-right">Lansdowne Station Self Storage, LLC</strong><div class="muted"><em>Company:</em> Lansdowne Station Self Storage, LLC (Baltimore, Md)&nbsp;<em>Description:</em>&nbsp;Real Estate&nbsp;<em>Filer comment:  </em>See "Attachments and Comments"; evaluation based on cap rate of rental income  less debt; Capital Account 0;  Income as reflected on K1</div></td>
+							<td>Business Entity<div class="muted">Limited Liability Company (LLC)</div></td>
+							<td>Spouse</td>
+							<td>$15,001 - $50,000</td>
+							<td>Rent/Royalties, Interest, Other, (Distribution)</td>
+							<td>$2,501 - $5,000<br>Other $3,600.00</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4a. Periodic Transaction Report Summary
+				
+			</h3>
+			<p>
+				In this section, electronically filed periodic transaction report (PTR) transactions are displayed for you.  Have you filed any paper-based PTRs in this period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Type</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>1</td>
+							<td>
+								02/01/2017
+							</td>
+							<td>Self</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Israel Bond
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 4%<br>
+										<em>Matures:</em> 02/01/27
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>2</td>
+							<td>
+								02/01/2017
+							</td>
+							<td>Spouse</td>
+							<td>
+							    
+                                    --
+                                
+                                
+                            </td>
+							<td>
+								
+                                    Israel Bond
+                                
+								
+									<div class="muted">
+										<em>Rate/Coupon:</em> 4%<br>
+										<em>Matures:</em> 02/01/27
+									</div>
+								
+							</td>
+							<td>Purchase</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 4b. Transactions
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child buy, sell, or exchange an asset that exceeded $1,000?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of transactions added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Owner</th>
+						<th scope="col">Ticker</th>
+						<th scope="col">Asset Name</th>
+						<th scope="col">Transaction Type</th>
+						<th scope="col">Transaction Date</th>
+						<th scope="col">Amount</th>
+						<th scope="col">Comment</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CVTCX" target="_blank">CVTCX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Calamos Growth &amp; Income C
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/14/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=LBSAX" target="_blank">LBSAX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Columbia Dividend Income A
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/13/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CHTRX" target="_blank">CHTRX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Invesco Charter A
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/13/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=LBSAX" target="_blank">LBSAX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Columbia Dividend Income A
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/13/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=HCAIX" target="_blank">HCAIX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Harbor Capital Appreciation Inv
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/16/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=GFAFX" target="_blank">GFAFX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds Growth Fund of Amer F1
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/21/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AEGFX" target="_blank">AEGFX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds Europacific Growth F1
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>06/15/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AEGFX" target="_blank">AEGFX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    American Funds Europacific Growth F1
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>12/22/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								distribution reinvestment</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>Self</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Maryland 529 College Fund Porfolio 2018
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/14/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>Self</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Maryland 529 College Fund Portfolio 2021
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/14/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								11</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Maryland 529 College Fund Portfolio 2018
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/14/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								12</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Maryland 529 College Fund Portfolio 2021
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>02/14/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								13</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=SBI" target="_blank">SBI</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Western Asset Intermediate Muni Fund Inc.
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>09/01/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								14</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CPOAX" target="_blank">CPOAX</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Morgan Stanley Multi Cap Growth A
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>01/20/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								15</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Meyer M. Cardin Trust - First Trust Select DSIP
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>01/13/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								16</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Meyer M. Cardin Trust - First Trust Select DSIP 2017
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>01/20/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								17</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Meyer M. Cardin Trust - Invesco Global 45 Dividend 2016 C
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>10/02/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								18</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Meyer M. Cardin Trust - Invesco Global 45 Dividend 2017 4C
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>10/05/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								19</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Meyer M. Cardin Trust - Invesco Global 45 Dividend 2016 4C
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>12/29/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								20</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Meyer M. Cardin Trust - Invesco Global 45 Dividend Fund 2016
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/03/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								21</td>
+							<td>Joint</td>
+							<td>
+                               
+                                    --
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Meyer M. Cardin Trust - Invesco Global 45 Dividend 17-2
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/07/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								--</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								22</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLE" target="_blank">XLE</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Energy Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>07/10/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA - sale was less than $1000 but included because it was a listed asset in 2016</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								23</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLF" target="_blank">XLF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Financial Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								24</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLI" target="_blank">XLI</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Industrial Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								25</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IEF" target="_blank">IEF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares 7-10 Year Treasury Bond ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>07/10/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								26</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLK" target="_blank">XLK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Technology Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								27</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLP" target="_blank">XLP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Consumer Staples Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								28</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLP" target="_blank">XLP</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Consumer Staples Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>07/10/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								29</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLB" target="_blank">XLB</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Materials Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>07/10/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								30</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLV" target="_blank">XLV</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Health Care Select Sector SPDR ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								31</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=XLY" target="_blank">XLY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Consumer Discret Sel Sect SPDR ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								32</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VCIT" target="_blank">VCIT</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Interm-Term Corp Bd ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/10/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								33</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Emerging Markets ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/10/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								34</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJR" target="_blank">IJR</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P Small-Cap ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								35</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AGG" target="_blank">AGG</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core US Aggregate Bond ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>01/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								36</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AGG" target="_blank">AGG</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core US Aggregate Bond ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>07/10/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								37</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IWM" target="_blank">IWM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Russell 2000 ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								38</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IVV" target="_blank">IVV</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P 500 ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								39</td>
+							<td>Spouse</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=RWO" target="_blank">RWO</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR Dow Jones Global Real Estate ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								40</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IEF" target="_blank">IEF</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares 7-10 Year Treasury Bond ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								41</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=SHY" target="_blank">SHY</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares 1-3 Year Treasury Bond ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								42</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CIU" target="_blank">CIU</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Intermediate Credit Bond ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								43</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CIU" target="_blank">CIU</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Intermediate Credit Bond ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								44</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=CSJ" target="_blank">CSJ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares 1-3 Year Credit Bond ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/06/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								45</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=TLT" target="_blank">TLT</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares 20+ Year Treasury Bond ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								46</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=EMB" target="_blank">EMB</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares JP Morgan USD Em Mkts Bd ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								47</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJJ" target="_blank">IJJ</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Mid-Cap 400 Value ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>11/21/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								48</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJK" target="_blank">IJK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P Mid-Cap 400 Growth ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>11/21/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								49</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IVW" target="_blank">IVW</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P 500 Growth ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								50</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IVW" target="_blank">IVW</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P 500 Growth ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/24/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								51</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IVW" target="_blank">IVW</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P 500 Growth ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								52</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IVE" target="_blank">IVE</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P 500 Value ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/24/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								53</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IVE" target="_blank">IVE</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares S&amp;P 500 Value ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								54</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=DBC" target="_blank">DBC</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PowerShares DB Commodity Tracking ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>11/21/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								55</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=JNK" target="_blank">JNK</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    SPDR Blmbg Barclays High Yield Bd ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								56</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VEA" target="_blank">VEA</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Developed Markets ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/24/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								57</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VEA" target="_blank">VEA</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Developed Markets ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								58</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Emerging Markets ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/24/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								59</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard FTSE Emerging Markets ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								60</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=VNQI" target="_blank">VNQI</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    Vanguard Global ex-US Real Est ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								61</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJH" target="_blank">IJH</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P Mid-Cap ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/21/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								62</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IJR" target="_blank">IJR</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core S&amp;P Small-Cap ETF
+                                
+                            </td>
+							<td>Sale (Full)</td>
+							<td>04/06/2017</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								63</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AGG" target="_blank">AGG</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core US Aggregate Bond ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								64</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AGG" target="_blank">AGG</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core US Aggregate Bond ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/24/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								65</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AGG" target="_blank">AGG</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core US Aggregate Bond ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								66</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=AGG" target="_blank">AGG</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Core US Aggregate Bond ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/21/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								67</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IWM" target="_blank">IWM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Russell 2000 ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>04/06/2017</td>
+							<td>$50,001 - $100,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								68</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IWM" target="_blank">IWM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Russell 2000 ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/24/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								69</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=IWM" target="_blank">IWM</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    iShares Russell 2000 ETF
+                                
+                            </td>
+							<td>Sale (Partial)</td>
+							<td>07/28/2017</td>
+							<td>$1,001 - $15,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								70</td>
+							<td>Self</td>
+							<td>
+                               
+                                    <a href="https://finance.yahoo.com/q?s=PDBC" target="_blank">PDBC</a>
+                                
+
+                                
+							</td>
+							<td>
+                                
+                                    PowerShares Optm Yd DvrsCdtySrt NoK1 ETF
+                                
+                            </td>
+							<td>Purchase</td>
+							<td>11/21/2017</td>
+							<td>$15,001 - $50,000</td>
+							<td>
+								IRA</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 5. Gifts
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child receive any reportable gift during the reporting period?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 6. Travel
+				
+			</h3>
+			<p class="popover0">
+				Did you, your spouse, or dependent child receive any <button data-toggle="popover" type="button" aria-haspopup="true" data-html="true" data-title="When is travel reportable? <button type='button' tabindex='0' id='jsPopoverClose' aria-label='close' class='close'><i class='fa fa-times' aria-hidden='true'><span class='sr-only'>Close</span></i></button>" data-template="<div class=&quot;popover popover__fixMedium&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header&quot;></h3><div class=&quot;popover-body&quot;></div></div>" class="btn btn-link popover--textButton font-weight-bold" data-placement="auto" data-content="<p>If you are reimbursed for more than one trip from the same sponsor, and the trips added together are worth more than $350, then you must report each trip individually, even if the reimbursement for each separate trip does not equal more than $350.</p>" data-original-title="" title="">reportable travel</button>?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 7. Liabilities
+				
+			</h3>
+			<p>
+				Did you, your spouse, or dependent child have a reportable liability worth more than $10,000 at any time?
+				<strong>
+					
+						No
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 8. Positions
+				
+			</h3>
+			<p>
+				Did you hold any outside positions during the reporting period?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped">
+					<caption class="sr-only">List of outside employment added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Position Dates</th>
+						<th scope="col">Position Held</th>
+						<th scope="col">Entity</th>
+						<th scope="col">Entity Type</th>
+						<th scope="col">Comments</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Jan 1998 to
+								present
+							</td>
+							<td>
+								Other
+								(Board of Visitors)
+							</td>
+							<td>
+								University of Maryland Law School
+								<div class="muted">
+									Baltimore, Md
+								</div>
+							</td>
+							<td>
+								Educational Organization
+								
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								2</td>
+							<td>
+								Jan 1993 to
+								present
+							</td>
+							<td>
+								Other
+								(President's Advisory Board)
+							</td>
+							<td>
+								University of Maryland, Balto. Co.
+								<div class="muted">
+									Baltimore, Md
+								</div>
+							</td>
+							<td>
+								Educational Organization
+								
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								3</td>
+							<td>
+								Sep 2001 to
+								present
+							</td>
+							<td>
+								Other
+								(Advisory Board)
+							</td>
+							<td>
+								The Center for Democracy and the Interpretation of Civil Society
+								<div class="muted">
+									St. Mary's City, Md
+								</div>
+							</td>
+							<td>
+								Educational Organization
+								
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								4</td>
+							<td>
+								Aug 2007 to
+								present
+							</td>
+							<td>
+								Other
+								(Board of Visitors)
+							</td>
+							<td>
+								US Naval Academy
+								<div class="muted">
+									Annapolis, Md
+								</div>
+							</td>
+							<td>
+								Educational Organization
+								
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								5</td>
+							<td>
+								Sep 2007 to
+								present
+							</td>
+							<td>
+								Other
+								(Board of Visitors)
+							</td>
+							<td>
+								University of Maryland, School of Public Policy
+								<div class="muted">
+									College Park, Md
+								</div>
+							</td>
+							<td>
+								Educational Organization
+								
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								6</td>
+							<td>
+								Nov 2010 to
+								present
+							</td>
+							<td>
+								Trustee
+								
+							</td>
+							<td>
+								James Madison Memorial Fellowship Foundation
+								<div class="muted">
+									Washington, D.C.
+								</div>
+							</td>
+							<td>
+								Educational Organization
+								
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								7</td>
+							<td>
+								Jan 1999 to
+								present
+							</td>
+							<td>
+								Trustee
+								
+							</td>
+							<td>
+								Lawrence M. Katz Irrevocable Trust
+								<div class="muted">
+									Baltimore, Md
+								</div>
+							</td>
+							<td>
+								Other
+								(Personal Trust)
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								8</td>
+							<td>
+								Jan 2002 to
+								present
+							</td>
+							<td>
+								Trustee
+								
+							</td>
+							<td>
+								Herbert Rosen Irrevocable Trust
+								<div class="muted">
+									Baltimore, Md
+								</div>
+							</td>
+							<td>
+								Other
+								(Personal Trust)
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								9</td>
+							<td>
+								Jul 1991 to
+								present
+							</td>
+							<td>
+								Trustee
+								
+							</td>
+							<td>
+								Meyer M. Cardin Irrevocable Trust (Howard L. Cardin and family)
+								<div class="muted">
+									Baltimore, Md
+								</div>
+							</td>
+							<td>
+								Other
+								(Personal Trust)
+							</td>
+							<td></td>
+						</tr>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								10</td>
+							<td>
+								Jun 2009 to
+								present
+							</td>
+							<td>
+								Other
+								(Adivsory Board)
+							</td>
+							<td>
+								Congressional Coalition on Adoption Institute National Angels in Adoption
+								<div class="muted">
+									Washington, DC
+								</div>
+							</td>
+							<td>
+								Nonprofit Organization
+								
+							</td>
+							<td></td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 9. Agreements
+				
+			</h3>
+			<p>
+				Did you have any reportable agreement or arrangement with an outside entity?
+				<strong>
+					
+						Yes
+					
+				</strong>
+			</p>
+		</div>
+		
+			<div class="table-responsive">
+				<table class="table table-striped ">
+					<caption class="sr-only">List of agreements or arrangements added to this report</caption>
+					<thead>
+					<tr class="header">
+						<th scope="col"></th>
+						<th scope="col">#</th>
+						<th scope="col">Date</th>
+						<th scope="col">Parties Involved</th>
+						<th scope="col">Type</th>
+						<th scope="col">Status and Terms</th>
+					</tr>
+					</thead>
+					<tbody>
+					
+						<tr class="nowrap">
+							<td>
+							</td>
+							<td>
+								1</td>
+							<td>
+								Jan 1987
+							</td>
+							<td>
+								State of Maryland
+								<div class="muted">Annapolis, Md</div>
+							</td>
+							<td>Other
+								
+									<div class="muted">(Retirement Benefits)</div>
+							</td>
+							<td>As a "retiree" from the State of Maryland, I receive pensions benefits (reported in Part 2) and participate in health insurance with the employer subsidizing part of the cost.</td>
+						</tr>
+					
+					</tbody>
+				</table>
+			</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">Part 10. Compensation
+				
+			</h3>
+			<p>
+				<strong>If this is your first report, or you are a candidate</strong> did you receive compensation of more than $5,000 from a single source in the <strong>two</strong> prior years? 
+				<strong>
+					
+						This is not my first report.
+					
+				</strong>
+			</p>
+		</div>
+		
+	</section>
+
+	<section class="card mb-2">
+		<div class="card-body">
+			<h3 class="h4">
+				Attachments &amp; Comments
+				
+			</h3>
+
+			
+				<em class="muted">No attachments added.</em>
+			
+
+			
+				<h4 class="h5">Comments</h4>
+				Venture BG is a LLC that holds the land formerly known as 3601 Washington Blvd., Balto., Md. (now 3500s and 3600s Washington Blvd., Balto., Md.).  The filer's spouse owns 1% interest in the LLC. A 1% value of the land and improvements would be $250,001-$500,000 but subject to mortgages and loans (none personal liability of filer or spouse). A 1% of the income of rents would be $50,001-$100,000 but the rents are used for the expenses (including loan payments) of the LLC.  Lansdowne Station Self Storage LLC was a wholly owned subsidiary of Venture BG, LLC was transferred to a separate entity with common ownership on August 1, 2015 to operate the self storage rental facility.  The filer's spouse 1% value of the improvements would be $1,001-$15,000. A 1% of the income of rents and misc. income would be $5,001-$15,000 but the rents are used for the expenses of the LLC.
+			
+		</div>
+	</section>
+
+                        </div>
+                    </div>
+                </main>
+
+               <footer id="footer" class="footer d-print-none">
+
+                </footer>
+            </div><!-- end #wrap -->
+        
+    
+</body></html>

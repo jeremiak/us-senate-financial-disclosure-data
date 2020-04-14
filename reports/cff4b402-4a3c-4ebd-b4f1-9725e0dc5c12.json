@@ -1,0 +1,37 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 08/03/2015",
+  "filer": "The Honorable John Hoeven (Hoeven, John)",
+  "filed-date": "08/03/2015",
+  "filed-time": "12:47 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "07/06/2015",
+          "owner": "Self",
+          "ticker": "KHC",
+          "asset-name": "The Kraft Heinz Company (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$250,001 - $500,000",
+          "comment": "Recived cash and shares of KHC in exchange for shares of KRFT."
+        },
+        {
+          "transaction-date": "07/06/2015",
+          "owner": "Self",
+          "ticker": "KRFT",
+          "asset-name": "Kraft Foods Group, Inc. (NASDAQ)",
+          "asset-type": "Stock",
+          "type": "Exchange",
+          "amount": "$250,001 - $500,000",
+          "comment": "Merger of KRFT and KHC, results in receiving cash and shares of KHC."
+        }
+      ]
+    }
+  ]
+}

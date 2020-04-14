@@ -1,0 +1,37 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 01/12/2020",
+  "filer": "The Honorable Shelley M Capito (Capito, Shelley Moore)",
+  "filed-date": "01/12/2020",
+  "filed-time": "4:37 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "12/16/2019",
+          "owner": "Spouse",
+          "ticker": "CMCSA",
+          "asset-name": "Comcast Corporation",
+          "asset-type": "Stock",
+          "type": "Purchase",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "12/11/2019",
+          "owner": "Spouse",
+          "ticker": "C",
+          "asset-name": "Citigroup Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$1,001 - $15,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}
