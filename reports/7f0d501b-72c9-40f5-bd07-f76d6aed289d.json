@@ -1,0 +1,39 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "John Boozman (Arkansas)",
+  "filed-date": "2019-03-06",
+  "filed-time": "11:46",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "2019-02-19",
+          "owner": "Self",
+          "ticker": "",
+          "asset-name": "iShares JP Morgan Em Bond Fd",
+          "transaction-type": "Sale",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "transaction-date": "2019-02-19",
+          "owner": "Self",
+          "ticker": "",
+          "asset-name": "Doubleline Emg Mkts Inc I",
+          "transaction-type": "Purchase",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "transaction-date": "2019-02-19",
+          "owner": "Self",
+          "ticker": "",
+          "asset-name": "Goldman Sachs Treas Acct ETF",
+          "transaction-type": "Purchase",
+          "amount": "$1,001 - $15,000"
+        }
+      ]
+    }
+  ]
+}
