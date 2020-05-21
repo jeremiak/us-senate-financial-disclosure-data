@@ -1,0 +1,39 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "Jack Reed (Rhode Island)",
+  "filed-date": "2013-04-17",
+  "filed-time": "13:22",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "2013-04-04",
+          "owner": "Self",
+          "ticker": "",
+          "asset-name": "Vertex Pharmaceuticals, Inc.",
+          "transaction-type": "Sale",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "transaction-date": "2013-04-04",
+          "owner": "Self",
+          "ticker": "",
+          "asset-name": "SPDR S&P Biotech ETF",
+          "transaction-type": "Purchase",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "transaction-date": "2013-04-04",
+          "owner": "",
+          "ticker": "",
+          "asset-name": "Vanguard MSCI ETF",
+          "transaction-type": "Purchase",
+          "amount": "$1,001 - $15,000"
+        }
+      ]
+    }
+  ]
+}
