@@ -1,0 +1,63 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "Pat Roberts (Kansas)",
+  "filed-date": "2012-08-16",
+  "filed-time": "09:32",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "AAPL",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-08-08",
+          "amount": "$15,001 - $50,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "SHAW",
+          "transaction-type": "Purchase",
+          "transaction-date": "2012-07-31",
+          "amount": "$15,001 - $50,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "AAPL",
+          "ticker": "",
+          "transaction-type": "Purchase",
+          "transaction-date": "2012-07-26",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "WFM",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-08-07",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "SIRI",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-08-07",
+          "amount": "$15,001 - $50,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "MSFT",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-08-07",
+          "amount": "$1,001 - $15,000"
+        }
+      ]
+    }
+  ]
+}
