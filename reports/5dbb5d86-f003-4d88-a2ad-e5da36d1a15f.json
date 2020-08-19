@@ -1,0 +1,39 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "Richard Burr (North Carolina)",
+  "filed-date": "2017-09-06",
+  "filed-time": "16:42",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "asset-name": "CSX Corporation (stock) NASDAQ",
+          "ticker": "",
+          "transaction-type": "Sale",
+          "transaction-date": "2017-08-18",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "CSX Corporation (stock) NASDAQ",
+          "ticker": "",
+          "transaction-type": "Sale",
+          "transaction-date": "2017-08-18",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "Dorman Products Inc. (stock) NASDAQ",
+          "ticker": "",
+          "transaction-type": "Purchase",
+          "transaction-date": "2017-08-16",
+          "amount": "$1,001 - $15,000"
+        }
+      ]
+    }
+  ]
+}
