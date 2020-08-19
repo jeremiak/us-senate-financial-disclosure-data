@@ -1,0 +1,47 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "Pat Roberts (Kansas)",
+  "filed-date": "2013-07-31",
+  "filed-time": "12:32",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "NFLX",
+          "transaction-type": "Sale",
+          "transaction-date": "2013-07-09",
+          "amount": "$15,001 - $50,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "BLDU",
+          "transaction-type": "Sale",
+          "transaction-date": "2013-07-15",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "NFLX",
+          "transaction-type": "Purchase",
+          "transaction-date": "2013-07-18",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "NFLX",
+          "transaction-type": "Purchase",
+          "transaction-date": "2013-07-25",
+          "amount": "$1,001 - $15,000"
+        }
+      ]
+    }
+  ]
+}
