@@ -1,0 +1,47 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "Pat Roberts (Kansas)",
+  "filed-date": "2013-01-30",
+  "filed-time": "11:12",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "BAC",
+          "transaction-type": "Sale",
+          "transaction-date": "2013-01-07",
+          "amount": "$15,001 - $50,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "NFLX",
+          "transaction-type": "Sale",
+          "transaction-date": "2013-01-24",
+          "amount": "$15,001 - $50,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "AAPL",
+          "transaction-type": "Purchase",
+          "transaction-date": "2013-01-16",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Self",
+          "asset-name": "",
+          "ticker": "NFLX",
+          "transaction-type": "Sale",
+          "transaction-date": "2013-01-15",
+          "amount": "$15,001 - $50,000"
+        }
+      ]
+    }
+  ]
+}
