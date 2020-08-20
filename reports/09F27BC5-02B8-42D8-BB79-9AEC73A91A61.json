@@ -1,0 +1,47 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "Pat Roberts (Kansas)",
+  "filed-date": "2012-10-31",
+  "filed-time": "13:57",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "asset-name": "",
+          "ticker": "AAPL",
+          "transaction-type": "Purchase",
+          "transaction-date": "2012-10-02",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "AAPL",
+          "ticker": "",
+          "transaction-type": "Purchase",
+          "transaction-date": "2012-10-08",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "CUX",
+          "ticker": "",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-10-09",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "SRZ",
+          "ticker": "",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-10-09",
+          "amount": "$1,001 - $15,000"
+        }
+      ]
+    }
+  ]
+}
