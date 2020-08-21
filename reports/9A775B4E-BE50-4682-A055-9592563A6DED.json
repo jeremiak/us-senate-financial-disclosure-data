@@ -1,0 +1,55 @@
+{
+  "type": "Periodic transaction report",
+  "title": "",
+  "filer": "Susan Collins (Maine)",
+  "filed-date": "2012-11-26",
+  "filed-time": "12:05",
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "owner": "Spouse",
+          "asset-name": "Target Corp.",
+          "ticker": "",
+          "transaction-type": "Purchase",
+          "transaction-date": "2012-11-08",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "Freeport McMoran Copper",
+          "ticker": "",
+          "transaction-type": "Purchase",
+          "transaction-date": "2012-11-08",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "Blackrock, Inc.",
+          "ticker": "",
+          "transaction-type": "Purchase",
+          "transaction-date": "2012-11-13",
+          "amount": "$1,001 - $15,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "Barclays Dynamic Veqtor",
+          "ticker": "",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-11-15",
+          "amount": "$15,001 - $50,000"
+        },
+        {
+          "owner": "Spouse",
+          "asset-name": "FT-Franklin Gold & Prec",
+          "ticker": "",
+          "transaction-type": "Sale",
+          "transaction-date": "2012-11-15",
+          "amount": "$1,001 - $15,000"
+        }
+      ]
+    }
+  ]
+}
