@@ -1,0 +1,37 @@
+{
+  "type": "periodic transaction",
+  "title": "Periodic Transaction Report for 04/16/2020",
+  "filer": "Ms. Tina Smith (Smith, Tina)",
+  "filed-date": "04/16/2020",
+  "filed-time": "4:30 PM",
+  "calendar-year": null,
+  "data-entry-complete": true,
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "03/17/2020",
+          "owner": "Spouse",
+          "ticker": "DXCM",
+          "asset-name": "DexCom, Inc.",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        },
+        {
+          "transaction-date": "03/17/2020",
+          "owner": "Spouse",
+          "ticker": "PODD",
+          "asset-name": "Insulet Corporation",
+          "asset-type": "Stock",
+          "type": "Sale (Partial)",
+          "amount": "$250,001 - $500,000",
+          "comment": "--"
+        }
+      ]
+    }
+  ]
+}
